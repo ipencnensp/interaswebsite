@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/publicacoes/index.html",
+    "items": [
+      "/publicacoes/posts/post-with-code/index.html",
+      "/publicacoes/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/pessoas/coord-equipe.html",
+    "items": [
+      "/pessoas/individual/denisemariazezell.html",
+      "/pessoas/individual/emilianohoraciomedei.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/publicacoes/posts/post-with-code/index.html",
+      "/publicacoes/posts/welcome/index.html"
+    ]
+  }
+]

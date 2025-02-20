@@ -1,0 +1,66 @@
+---
+title: "COORDENAÇÃO E EQUIPE"
+page-layout: full
+title-block-banner: true
+listing:
+  - id: comitegestor
+    contents: "individual/*.qmd"
+    fields: [image, title, subtitle, institute]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+    type: grid
+    include:
+      categories: "{comitegestor}"
+    sort: false
+  - id: pesquisadores
+    contents: "individual/*.qmd"
+    type: grid
+    fields: [title, institute]
+    filter-ui: false
+    sort-ui: false
+    include:
+      categories: "{pesquisadores}"
+---
+
+
+<!-- dá para customizar a maneira como os itens são listados:
+https://quarto.org/docs/websites/website-listings-custom.html 
+
+e aqui um exemplo do próprio Quarto:
+
+https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/index.qmd
+https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/gallery.yml
+https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/gallery.ejs
+
+Isso cria muitas possibilidades! Agora preciso aprender esse EJS
+-->
+
+::: {.content-container}
+::: {.listing-block}
+
+## COMITÊ GESTOR
+
+::: {#comitegestor}
+:::
+
+:::
+:::
+
+
+
+::: {.content-container}
+::: {.listing-block}
+
+## PESQUISADORES
+
+::: {#pesquisadores}
+:::
+
+:::
+:::
+
+
+

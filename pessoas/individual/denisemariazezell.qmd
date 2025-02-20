@@ -1,0 +1,24 @@
+---
+title: "Denise Maria Zezell"
+subtitle: "Coordenadora"
+institute: "IPEN-CNEN,SP"
+affiliation: 
+  - name: "IPEN-CNEN,SP"
+    city: São Paulo
+    state: SP
+    url:  http://lattes.cnpq.br/3524890504250775
+categories: 
+ - comitegestor
+ - pesquisador
+description: "Terapia Óptica, Biofotônica, Radiologia e Fotobiologia"
+image: fotos/denisemariazezell.png
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+---
+
+## Atuação no Projeto
+
+Desenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população.
+
+
