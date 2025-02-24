@@ -1,0 +1,52 @@
+---
+title: "Denise Maria Zezell2"
+sortby: "1"
+subtitle: "IPEN2"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/denisemariazezell.png
+  links:
+    - icon: link
+      text: Lattes
+      href: http://lattes.cnpq.br/3524890504250775
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?hl=en&user=T-7bPc0AAAAJ
+    - icon: bank
+      text: Instituição
+      href: https://www.ipen.br
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Pesquisadores</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares -- IPEN-CNEN,SP](https://www.ipen.br)
+
+### Áreas de Atuação
+
+Terapia Óptica, Biofotônica, Radiologia e Fotobiologia
+
+### Atuação no Projeto 
+
+Desenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população.
+
+

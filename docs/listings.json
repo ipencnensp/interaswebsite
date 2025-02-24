@@ -2,15 +2,24 @@
   {
     "listing": "/publicacoes/index.html",
     "items": [
-      "/publicacoes/posts/post-with-code/index.html",
-      "/publicacoes/posts/welcome/index.html"
+      "/publicacoes/articles/zezell2024b.html",
+      "/publicacoes/articles/zezell2024a.html"
     ]
   },
   {
     "listing": "/pessoas/coord-equipe.html",
     "items": [
-      "/pessoas/individual/denisemariazezell.html",
-      "/pessoas/individual/emilianohoraciomedei.html"
+      "/pessoas/cg/00_denisemariazezell.html",
+      "/pessoas/cg/01_emilianohoraciomedei.html",
+      "/pessoas/cg/02_divanizia.html",
+      "/pessoas/pesq/denisemariazezell2.html",
+      "/pessoas/pesq/denisemariazezell3.html",
+      "/pessoas/pesq/denisemariazezell4.html",
+      "/pessoas/pesq/denisemariazezell5.html",
+      "/pessoas/pesq/emilianohoraciomedei2.html",
+      "/pessoas/pesq/emilianohoraciomedei3.html",
+      "/pessoas/pesq/emilianohoraciomedei4.html",
+      "/pessoas/pesq/emilianohoraciomedei5.html"
     ]
   },
   {

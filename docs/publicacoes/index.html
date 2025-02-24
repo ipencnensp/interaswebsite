@@ -71,20 +71,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-articles .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-execute','listing-language','listing-title','listing-type','listing-author','listing-affiliation','listing-year','listing-publication','listing-gpesqlab','listing-doi','listing-materials','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-abstract','listing-keywords','listing-license','listing-copyright','listing-citation','listing-funding',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-articles'] = new List('listing-articles', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -134,7 +134,7 @@ window.Quarto = {
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -189,7 +189,7 @@ window.Quarto = {
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-produção">    
         <li>
     <a class="dropdown-item" href="../publicacoes/index.html">
- <span class="dropdown-text">PUBLICAÇÕES</span></a>
+ <span class="dropdown-text">ARTIGOS</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../preprints.qmd">
@@ -215,118 +215,111 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">PUBLICAÇÕES</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YW5hbHlzaXM=">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29kZQ==">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YXJ0aWNsZQ==">article <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bGFzZXI=">laser <span class="quarto-category-count">(2)</span></div><div class="category" data-category="b2RvbnRvbG9neQ==">odontology <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Publicações</li>
+  </ol>
+</nav>
+<div id="listing-articles" class="quarto-listing quarto-listing-container-custom">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-articles-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-articles'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+         <option value="listing-publication" data-direction="asc">
+          Publication
+        </option>
+         <option value="listing-year" data-direction="asc">
+          Year
+        </option>
+         <option value="listing-gpesqlab" data-direction="asc">
+          Lab/Gr Pesq
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<ul class="pub-list list">
 
+  <li data-index="0" data-categories="bGFzZXIlMkNvZG9udG9sb2d5JTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1740417683139" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
+    <span class="listing-title lead">Other very nice title for an article published by Denise</span><br>
+    <span class="listing-author">Denise M. Zezell</span><br>
+    <span class="listing-publication fst-italic ">Journal of Optic Marvels</span>
+    <span class="listing-year">(2024)</span><br>
+    <span class="listing-qpesqlab">CELAP</span><br>
+    <a href="../publicacoes/articles/zezell2024b.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1002/jom.12345" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    <a href="https://osf.io/xn4w9/" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+    
+    
+  </li>
 
+  <li data-index="1" data-categories="bGFzZXIlMkNvZG9udG9sb2d5JTJDYXJ0aWNsZQ==" data-listing-file-modified-sort="1740417260944" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
+    <span class="listing-title lead">Some very nice title for an article published by Denise</span><br>
+    <span class="listing-author">Zezell, Ribeiro &amp; Medei</span><br>
+    <span class="listing-publication fst-italic ">Journal of Optic Marvels</span>
+    <span class="listing-year">(2024)</span><br>
+    <span class="listing-qpesqlab">CELAP</span><br>
+    <a href="../publicacoes/articles/zezell2024a.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1002/jom.12345" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    
+    <a href="https://osf.io/xn4w9/" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+    
+    
+  </li>
 
+</ul>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ2NvZGUlMkNhbmFseXNpcw==" data-listing-date-sort="1739761200000" data-listing-file-modified-sort="1739814087927" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<div class="thumbnail">
-<p><a href="../publicacoes/posts/post-with-code/index.html" class="no-external"></a></p><a href="../publicacoes/posts/post-with-code/index.html" class="no-external">
-<p><img loading="lazy" src="../publicacoes/posts/post-with-code/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="../publicacoes/posts/post-with-code/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publicacoes/posts/post-with-code/index.html" class="no-external">Post With Code</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publicacoes/posts/post-with-code/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Y29kZQ=='); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('YW5hbHlzaXM='); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="../publicacoes/posts/post-with-code/index.html" class="no-external">This is a post with executable code.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../publicacoes/posts/post-with-code/index.html" class="no-external">
-<div class="listing-date">
-Feb 17, 2025
-</div>
-<div class="listing-author">
-Harlow Malloc
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1739502000000" data-listing-file-modified-sort="1739814087925" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail">
-<p><a href="../publicacoes/posts/welcome/index.html" class="no-external"></a></p><a href="../publicacoes/posts/welcome/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="../publicacoes/posts/welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../publicacoes/posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../publicacoes/posts/welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="../publicacoes/posts/welcome/index.html" class="no-external">This is the first post in a Quarto blog. Welcome!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../publicacoes/posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Feb 14, 2025
-</div>
-<div class="listing-author">
-Tristan O’Malley
-</div>
-</a>
-</div>
-</div>
-</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

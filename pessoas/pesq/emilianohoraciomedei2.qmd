@@ -1,0 +1,52 @@
+---
+title: "Emiliano Horácio Medei2"
+sortby: "1"
+subtitle: "UFRJ"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/emilianohoraciomedei.png
+  links:
+    - icon: link
+      text: Lattes
+      href: http://lattes.cnpq.br/5165041200948847 
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?hl=en&user=8mbwCEsAAAAJ
+    - icon: bank
+      text: Instituição
+      href: https://www.ufrj.br
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Pesquisadores</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do Rio de Janeiro -- UFRJ](https://www.ufrj.br)
+
+### Áreas de Atuação
+
+Medicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas
+
+
+### Atuação no Projeto
+
+Será responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas
+

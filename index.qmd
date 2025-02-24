@@ -5,7 +5,7 @@ editor: source
 sidebar: false
 search: false
 repo-actions: false
-
+bread-crumbs: false
 listing:
   - id: publicacoes
     contents: "publicacoes/posts/"

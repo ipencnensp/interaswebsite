@@ -1,0 +1,49 @@
+---
+title: "Other very nice title for an article published by Denise"
+type: "article"
+year: "2024"
+publication: "Journal of Optic Marvels"
+gpesqlab: "CELAP"
+doi: "https://doi.org/10.1002/jom.12345"
+materials: "https://osf.io/xn4w9/"
+toc: false
+categories:
+  - laser
+  - odontology
+  - article
+author:
+  - name: Denise M. Zezell
+    id: jc
+    orcid: 0000-0002-1825-0097
+    email: blahblah@blahblah.org
+    affiliation: 
+      - name: IPEN-CNEN,SP
+        city: São Paulo
+        state: SP
+        url: www.ipen.br
+abstract: > 
+  The characteristic theme of the works of Stone is 
+  the bridge between culture and society. ...
+keywords:
+  - Metaphysics
+  - String Theory
+license: "CC BY"
+copyright: 
+  holder: Denise M. Zezell
+  year: 2024
+citation: 
+  container-title: Journal of Optic Marvels
+  volume: 1
+  issue: 1
+  doi: 10.5555/12345678
+funding: "The author received no specific funding for this work."
+---
+
+## Citation (APA 7)
+
+> Zezell, D. M., Ribeiro, M. S., & Medei, E. H. (2024). Other very nice title for an article published by Denise. *Journal of Optic Marvels*.
+
+
+## Abstract
+
+Dimensional conceptualizations of psychopathology hold promise for understanding the high rates of comorbidity with posttraumatic stress disorder (PTSD). Linking PTSD symptoms to transdiagnostic dimensions of psychopathology may enable researchers and clinicians to understand the patterns and breadth of behavioral sequelae following traumatic experiences that may be shared with other psychiatric disorders. To explore this premise, we recruited a trauma-exposed online community sample $(N = 462)$ and measured dimensional transdiagnostic traits of psychopathology using parceled facets derived from the Personality Inventory for DSM-5 Faceted–Short Form. PTSD symptom factors were measured using the PTSD Checklist for DSM-5 and derived using confirmatory factor analysis according to the seven-factor hybrid model (i.e., Intrusions, Avoidance, Negative Affect, Anhedonia, Externalizing Behaviors, Anxious Arousal, And Dysphoric Arousal). We observed hypothesized associations between PTSD factors and transdiagnostic traits indicating that some transdiagnostic dimensions were associated with nearly all PTSD symptom factors (e.g., emotional lability: rmean = .35), whereas others showed more unique relationships (e.g., hostility–Externalizing Behavior: $r = .60$; hostility with other PTSD factors: $r = .12–.31$). All PTSD factors were correlated with traits beyond those that would appear to be construct-relevant, suggesting the possibility of indirect associations that should be explicated in future research. The results indicate the breadth of trait-like consequences associated with PTSD symptom exacerbation, with implications for case conceptualization and treatment planning. Although PTSD is not a personality disorder, the findings indicate that increased PTSD factor severity is moderately associated with different patterns of trait-like disruptions in many areas of functioning.

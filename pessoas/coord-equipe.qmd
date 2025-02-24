@@ -4,25 +4,24 @@ page-layout: full
 title-block-banner: true
 listing:
   - id: comitegestor
-    contents: "individual/*.qmd"
-    fields: [image, title, subtitle, institute]
+    contents: "cg/*.qmd"
+    fields: [image, title, subtitle]
     field-display-names:
       institute: "Instituição"
       affiliation: "Instituição"
     filter-ui: false
     sort-ui: false
     type: grid
-    include:
-      categories: "{comitegestor}"
     sort: false
   - id: pesquisadores
-    contents: "individual/*.qmd"
+    contents: "pesq/*.qmd"
     type: grid
-    fields: [title, institute]
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
     filter-ui: false
     sort-ui: false
-    include:
-      categories: "{pesquisadores}"
 ---
 
 
@@ -37,6 +36,7 @@ https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/gallery.ejs
 
 Isso cria muitas possibilidades! Agora preciso aprender esse EJS
 -->
+
 
 ::: {.content-container}
 ::: {.listing-block}

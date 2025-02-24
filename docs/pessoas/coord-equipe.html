@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-institute',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
@@ -106,9 +106,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-institute',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-image"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -217,7 +217,7 @@ window.Quarto = {
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-produção">    
         <li>
     <a class="dropdown-item" href="../publicacoes/index.html">
- <span class="dropdown-text">PUBLICAÇÕES</span></a>
+ <span class="dropdown-text">ARTIGOS</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../preprints.qmd">
@@ -295,12 +295,10 @@ Isso cria muitas possibilidades! Agora preciso aprender esse EJS
 <h2 class="anchored" data-anchor-id="comitê-gestor">COMITÊ GESTOR</h2>
 <div id="listing-comitegestor" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Y29taXRlZ2VzdG9yJTJDcGVzcXVpc2Fkb3I=" data-listing-file-modified-sort="1740067551221" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<a href="../pessoas/individual/denisemariazezell.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1740406165199" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<a href="../pessoas/cg/00_denisemariazezell.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../pessoas/individual/fotos/denisemariazezell.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="cg/fotos/denisemariazezell.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Denise Maria Zezell
@@ -308,26 +306,14 @@ Denise Maria Zezell
 <div class="card-subtitle listing-subtitle">
 Coordenadora
 </div>
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Instituição
-</td>
-<td class="institute">
-IPEN-CNEN,SP
-</td>
-</tr>
-</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Y29taXRlZ2VzdG9yJTJDcGVzcXVpc2Fkb3I=" data-listing-file-modified-sort="1740060534782" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
-<a href="../pessoas/individual/emilianohoraciomedei.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1740407807060" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<a href="../pessoas/cg/01_emilianohoraciomedei.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../pessoas/individual/fotos/emilianohoraciomedei.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="cg/fotos/emilianohoraciomedei_corte.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Emiliano Horácio Medei
@@ -335,16 +321,18 @@ Emiliano Horácio Medei
 <div class="card-subtitle listing-subtitle">
 Vice-Coordenador
 </div>
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Instituição
-</td>
-<td class="institute">
-UFRJ
-</td>
-</tr>
-</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1740408051533" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+<a href="../pessoas/cg/02_divanizia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="cg/fotos/divanizia.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Divanizia do Nascimento Souza
+</h5>
 </div>
 </div>
 </a>
@@ -361,7 +349,118 @@ No matching items
 <h2 class="anchored" data-anchor-id="pesquisadores">PESQUISADORES</h2>
 <div id="listing-pesquisadores" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1740406095513" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="../pessoas/pesq/denisemariazezell2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Denise Maria Zezell2
+</h5>
+<div class="card-subtitle listing-subtitle">
+IPEN2
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1740406136293" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="../pessoas/pesq/denisemariazezell3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Denise Maria Zezell3
+</h5>
+<div class="card-subtitle listing-subtitle">
+IPEN3
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1740406142053" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="../pessoas/pesq/denisemariazezell4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Denise Maria Zezell4
+</h5>
+<div class="card-subtitle listing-subtitle">
+IPEN4
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1740406146495" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="../pessoas/pesq/denisemariazezell5.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Denise Maria Zezell5
+</h5>
+<div class="card-subtitle listing-subtitle">
+IPEN5
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1740406105315" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
+<a href="../pessoas/pesq/emilianohoraciomedei2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Emiliano Horácio Medei2
+</h5>
+<div class="card-subtitle listing-subtitle">
+UFRJ
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1740406112532" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
+<a href="../pessoas/pesq/emilianohoraciomedei3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Emiliano Horácio Medei3
+</h5>
+<div class="card-subtitle listing-subtitle">
+OutraUF3
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1740406123648" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
+<a href="../pessoas/pesq/emilianohoraciomedei4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Emiliano Horácio Medei4
+</h5>
+<div class="card-subtitle listing-subtitle">
+OutraUF4
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1740406131246" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
+<a href="../pessoas/pesq/emilianohoraciomedei5.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Emiliano Horácio Medei5
+</h5>
+<div class="card-subtitle listing-subtitle">
+OutraUF5
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

@@ -20,9 +20,9 @@ website:
         menu: 
         - text: "O INCT INTERAS"
           href: sobre-o-interas.qmd
-        - pessoas/coord-equipe.qmd
+#        - pessoas/index.qmd
 #        - text: "COORDENAÇÃO E EQUIPE"
-#          href: coord-equipe.qmd
+        - pessoas/coord-equipe.qmd
         - text: "ÁREAS DE PESQUISA"
           href: areas-de-pesquisa.qmd
         - text: "GRUPOS E LABORATÓRIOS"
@@ -33,7 +33,8 @@ website:
           href: contato.qmd
       - text: "PRODUÇÃO"
         menu:
-        - publicacoes/index.qmd
+        - text: "ARTIGOS"
+          href: publicacoes/index.qmd
         - text: "PREPRINTS"
           href: preprints.qmd
       - divulgacao/index.qmd
