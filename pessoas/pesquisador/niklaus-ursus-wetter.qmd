@@ -1,0 +1,48 @@
+---
+title:  "Niklaus Ursus Wetter"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/niklaus-ursus-wetter.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8623798867256227"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=HTLKBPUAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Ótica, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Lasers, Processamento de Sinais Biológicos, Instrumentação Odontológica e Médico-Hospitalar
+
+### Atuação no Projeto
+
+1) Responsável pelo equipamento multiusuário n-SNOM (Scanning Near Field Optical Microscopy): (https://www.sites.google.com/site/ipencla/multiusuario/sistemas-fapesp/snom) 2) Dar apoio aos experimentos que envolvem medidas de microRaman, nanoRaman, TERS (Tip Enhanced Raman Spectroscopy). 3) Desenvolvimento de substratos SERS (Surface Enhanced Raman Spectroscopy) para medidas em amostras biológicas.

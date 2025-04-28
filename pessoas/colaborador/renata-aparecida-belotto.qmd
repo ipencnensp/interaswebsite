@@ -1,0 +1,48 @@
+---
+title:  "Renata Aparecida Belotto"
+sortby: "1"
+subtitle: "Colaborador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/renata-aparecida-belotto.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2852522195279294"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: ""
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Colaborador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Centro de Estudo e Pesquisa do Hospital Pérola Byington- HOSPITAL PEROLA -SP-Brasil-]()
+
+### Áreas de Atuação
+
+Biofotônica, Colposcopia, Ginecologia, Laserterapia, patologia do trato genital inferior
+
+### Atuação no Projeto
+
+Será responsável por coordenar as atividades de pesquisa junto a pacientes no Hospital Pérola Byington.

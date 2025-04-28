@@ -1,0 +1,48 @@
+---
+title:  "Fernanda Keli do Carmo Santos Miranda"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/fernanda-keli-do-carmo-santos-miranda.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4650064634081436"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Estudo dos efeitos sinérgicos de laser em alta intensidade Q-switched e fotoabsorvedor modificado na adesão de biofilme cariogênico e na paralisação da cárie de radiação radicular

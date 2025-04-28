@@ -1,0 +1,48 @@
+---
+title:  "Ana Cecília Corrêa Aranha"
+sortby: "1"
+subtitle: "Líder de Laboratório Associado"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/ana-cecília-corrêa-aranha.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2532263149202256"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=UkTVB5IAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.usp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Líder de Laboratório Associado</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de São Paulo / Departamento de Dentística- USP-SP-Brasil-](www.usp.br)
+
+### Áreas de Atuação
+
+Odontologia, Dentistica Restauradora, Clínica Odontológica, Materiais Odontológicos, Laser
+
+### Atuação no Projeto
+
+Estudar os efeitos da radiação ionizante nas proteases endógenas em dentina hígida e restaurada. Desenvolvimento de metodologia com uso de lasers combinada ou não a outras tecnicas para prevençao e tratamento de lesões cervicais não cariosas, hipersensibilidade dentinária. Estudo clinico duplo cego, longitudinal randomizado com Laser de Er, Cr:YSGG e pasta de fosfosilicato de sódio cálcio como tratamentos de consultório da hipersensibilidade dentinária. Promover treinamento de profissionais e atuar na difusão científica.

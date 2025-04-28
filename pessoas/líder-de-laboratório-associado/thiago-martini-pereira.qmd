@@ -1,0 +1,48 @@
+---
+title:  "Thiago Martini Pereira"
+sortby: "1"
+subtitle: "Líder de Laboratório Associado"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/thiago-martini-pereira.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/3291751276972553"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=Kw76LG4AAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.unifesp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Líder de Laboratório Associado</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal de São Paulo / Departamento de Ciência e Tecnologia-UNIFESP- SP-Brasil-](www.unifesp.br)
+
+### Áreas de Atuação
+
+ESPECTROSCOPIA NO INFRAVERMELHO, ESPECTROSCOPIA RAMAN, PROCESSAMENTO DE SINAIS BIOESPECTROSCOPICOS, COMPUTER AIDED DIAGNOSIS
+
+### Atuação no Projeto
+
+Otimização de métodos de processamento de imagens hiperespectrais na região do infravermelho para o diagnóstico de neoplasias e outras doenças de interesse do projeto. Adicionalmente será o responsável pelo desenvolvimento da plataforma Web para a unificação dos dados espectroscópicos com o objetivo de divulgar as técnicas ópticas dentro da comunidade médica. Serás o responsável pelo desenvolvimento de uma aplicação para tablet na qual ira auxiliar o patologista na análise dos dados do projeto.

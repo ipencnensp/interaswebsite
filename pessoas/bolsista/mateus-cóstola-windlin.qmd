@@ -1,0 +1,48 @@
+---
+title:  "Mateus Cóstola Windlin"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/mateus-cóstola-windlin.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/9992218184186389"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=9j9A5zQAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Odontologia, Estética, Laserterapia, Oncologia
+
+### Atuação no Projeto
+
+Desenvolver protocolo de descolamento de laminados cerâmicos com laser de Er:YAG, de esmalte dental. Ensaios de temperatura de segurando-vos; ca durante a irradiação.

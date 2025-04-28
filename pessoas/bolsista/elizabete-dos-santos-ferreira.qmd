@@ -1,0 +1,48 @@
+---
+title:  "Elizabete dos Santos Ferreira"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/elizabete-dos-santos-ferreira.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2479557109097917"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Clínica Odontológica, Ortodontia, Engenharia Biomédica
+
+### Atuação no Projeto
+
+Durabilidade do tratamento efetuado com laser de pulsos curtos na prevenção de lesões cariosas e não cariosas.

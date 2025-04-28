@@ -1,0 +1,48 @@
+---
+title:  "Marcos Humberto dos Santos"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/marcos-humberto-dos-santos.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8550487004402812"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Radiologia Odontológica
+
+### Atuação no Projeto
+
+AVALIAÇÃO IN VITRO DE DIFERENTES GRAUS DE CÁRIES PROXIMAIS UTILIZANDO TOMOGRAFIA DE COERÊNCIA ÓPTICA.

@@ -1,0 +1,48 @@
+---
+title:  "Emerson Soares Bernardes"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/emerson-soares-bernardes.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2599156909197631"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Imagem Molecular, Glicobiologia tumoral, Glicoimunologia, Inflamação e Câncer
+
+### Atuação no Projeto
+
+Desenvolver radiofármacos baseados em anticorpos como estratégia diagnóstica e terapêutica no combate ao câncer. O desenvolvimento de radio-imunoconjugados tem como potencial não só prever o nível de progressão da doença oncológica, como também auxiliar no planejamento do tratamento e na monitorização da resposta ao tratamento em pacientes com câncer. Entre os principais desafios encontram-se: (1) radiomarcação de anticorpos com radioisótopos emissores de pósitron para imagem diagnóstica por Tomografia por Emissão de Pósitron (PET) e radioisótopos emissores gama para a imagem diagnóstica por Tomografia por Emissão de Fóton Único (SPECT) e respectivo controle de qualidade; (2) Desenvolvimento de ensaios pré-clínicos in vitro para investigar a imunoreatividade dos radio-imunoconjugados; (3) Desenvolvimento de modelos tumorais in vivo relevantes para a realização de ensaios pré-clinicos de imagem PET/SPECT, biodistribuição e farmacocinética.

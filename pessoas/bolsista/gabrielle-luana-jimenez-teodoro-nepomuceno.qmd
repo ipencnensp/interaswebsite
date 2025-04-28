@@ -1,0 +1,48 @@
+---
+title:  "Gabrielle Luana Jimenez Teodoro Nepomuceno"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/gabrielle-luana-jimenez-teodoro-nepomuceno.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/1994086930535185"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=RxueLEMAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Ciências Ambientais, Biologia Molecular, Biofísica, Análise Multivariada
+
+### Atuação no Projeto
+
+Irá desenvolver metodologia para avaliação espectral de micro gotas de biofluidos de pacientes envolvidos neste projeto.

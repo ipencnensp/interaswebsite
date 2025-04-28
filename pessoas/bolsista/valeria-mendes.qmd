@@ -1,0 +1,48 @@
+---
+title:  "Valeria Mendes"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/valeria-mendes.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/1201956407413902"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Odontologia, ODONTOLOGIA PARA PACIENTES COM NECESSIDADES ESPECIAIS, GESTÃO DE SAÚDE COM ENFASE EM CLINICAS E HOSPITAIS, Clínica Odontológica, Reabilitação oral
+
+### Atuação no Projeto
+
+Desenvolver e testar clinicamente a associação de lasers de érbio e neodímio, bao ablativos, para o tratamento de apneia do sono

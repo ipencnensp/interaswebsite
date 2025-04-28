@@ -1,0 +1,48 @@
+---
+title:  "Ariel Escobar"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/ariel-escobar.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?user=le_XeKEAAAAJ&hl=en&oi=ao"
+    - icon: bank
+      text: Instituição
+      href: "https://www.ucmerced.edu/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[University of California, Merced - UCMERCED--Estados Unidos-](https://www.ucmerced.edu/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Em seu grupo na University of California ¿Merced¿ USA irá conduzir estudos eletrofisiológicos e medidas de transiente de cálcio em coração inteiro.

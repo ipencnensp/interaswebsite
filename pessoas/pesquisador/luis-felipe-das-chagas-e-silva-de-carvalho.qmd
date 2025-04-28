@@ -1,0 +1,48 @@
+---
+title:  "Luis Felipe das Chagas e Silva de Carvalho"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/luis-felipe-das-chagas-e-silva-de-carvalho.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/5669726117269568"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=xDsvfUEAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.unitau.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de Taubaté / Departamento de Odontologia- UNITAU-SP-Brasil-](www.unitau.br)
+
+### Áreas de Atuação
+
+Nanobiotecnologia, Estomatologia, Câncer Bucal
+
+### Atuação no Projeto
+
+Será responsável por investigar amostras de salivas de pacientes com câncer bucal e normasis visando 1) padronizar a caracterização do biofluído em indivíduos saudáveis como grupo comparador; 2) investigar fatores confundidores do paciente (por exemplo, fumantes versus não fumantes); 3) investigar condições potencialmente malignas. Sua abordagem terá viés diretamente clínico, em conjunto com a CK Estomatologia e outros parceiros neste projeto.

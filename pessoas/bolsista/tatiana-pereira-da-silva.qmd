@@ -1,0 +1,48 @@
+---
+title:  "Tatiana Pereira da Silva"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/tatiana-pereira-da-silva.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2871356997376739"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://biof.ufrj.br/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Biofísica Carlos Chagas Filho-IBCCF- RJ-Brasil-](https://biof.ufrj.br/)
+
+### Áreas de Atuação
+
+Imunologia Celular, Biologia Molecular
+
+### Atuação no Projeto
+
+Irá realizar experimentos de eletrofisiologia no contexto do presente projeto.

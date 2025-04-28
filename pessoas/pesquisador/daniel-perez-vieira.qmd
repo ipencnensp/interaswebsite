@@ -1,0 +1,48 @@
+---
+title:  "Daniel Perez Vieira"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/daniel-perez-vieira.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/7801475936103703"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=hpvS8GkAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Radiologia e Fotobiologia, Biologia Molecular, Hematologia, Protozoologia Parasitária Humana, Protozoologia Parasitária Animal, Imunologia Celular
+
+### Atuação no Projeto
+
+Planejamento, execução e apoio para ensaios de citotoxicidade, genotoxicidade e microscopia óptica de fluorescência para avaliação dos efeitos de radiofármacos ou de novos compostos em modelos in vitro estruturados em duas ou três dimensões. Poderão ser utilizados modelos tumorais ou não-tumorais, majoritariamente na forma de esferoides de linhagem celular única.

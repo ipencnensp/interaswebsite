@@ -35,10 +35,10 @@ website:
         menu:
         - text: "ARTIGOS"
           href: publicacoes/index.qmd
-        - text: "PREPRINTS"
-          href: preprints.qmd
+#        - text: "PREPRINTS"
+#          href: preprints.qmd
       - divulgacao/index.qmd
-      - mulheresinteras/index.qmd
+#      - mulheresinteras/index.qmd
 
          
 

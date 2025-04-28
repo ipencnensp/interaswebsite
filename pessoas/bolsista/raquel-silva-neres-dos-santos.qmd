@@ -1,0 +1,48 @@
+---
+title:  "Raquel Silva Neres dos Santos"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/raquel-silva-neres-dos-santos.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8793403711452455"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=7hu60AgAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas- UFABC- SP-Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Ciências Biológicas, Biologia Molecular, Fisiologia Cardiovascular, Histologia
+
+### Atuação no Projeto
+
+The student will collaborate with the interpretation of FTIR spectra for the analysis of biomarkers Will perform in vitro tests to validate the biomarkers

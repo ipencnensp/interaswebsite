@@ -1,0 +1,48 @@
+---
+title:  "Ilija Uzelac"
+sortby: "1"
+subtitle: "Colaborador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/ilija-uzelac.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=ex6TUS0AAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "https://www.gatech.edu/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Colaborador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Georgia Institute of Technology / Georgia Tech Research Institute-GEORGIA TECH--Estados Unidos-](https://www.gatech.edu/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Irá colaborar no desenvolvimento do setup experimental e análise crítica dos resultados, em especial no modelo animal e mapeamento óptico panorâmico da atividade arrítmica.

@@ -1,0 +1,48 @@
+---
+title:  "Carlos Alberto Zeituni"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/carlos-alberto-zeituni.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4079771121219968"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=Yuzo9igAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Exames Pós Irradiação, Aplicações Industriais de Radioisótopos, Administração de Recursos Humanos, Garantia de Controle de Qualidade
+
+### Atuação no Projeto
+
+Responsável pela produçao de novas fontes radioativas para o desenvolvimento de novas tecnologias para tratamento de câncer. Irradiar as nanoparticulas no reator nuclear IEA-R1 desenvolvendo previamente a tecnologia para que não ocorra a aglutinação das mesmas durante o tempo da irradiação. Além disso será responsável pela manipulação das nanopartículas radioativas na hot-cell do CETER (Centro de Tecnologia das Radiações do IPENCNEN) de forma que durante a funcionalização das nanos com o material carreador químico, todo o processo ocorra de maneira segura e que garanta a minimização de dose dos operadores/pesquisadores nesta etapa do projeto.

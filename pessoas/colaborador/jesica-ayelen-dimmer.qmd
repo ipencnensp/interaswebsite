@@ -1,0 +1,48 @@
+---
+title:  "Jesica Ayelen Dimmer"
+sortby: "1"
+subtitle: "Colaborador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/jesica-ayelen-dimmer.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.unc.edu.ar/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Colaborador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidad Nacional de Córdoba Argentina- UNC - -Argentina-](https://www.unc.edu.ar/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Estudo conjuntos com o IPEN no uso de tecnologias assistidas por luz para caracterização e terapia de doença de Chagas e Leishmania.

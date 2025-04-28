@@ -1,0 +1,48 @@
+---
+title:  "Peter Bode"
+sortby: "1"
+subtitle: "Membro Executora Estrangeira"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/peter-bode.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.tudelft.nl/en/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Membro Executora Estrangeira</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Delft University of Technology-TU DELFT--Holanda-](https://www.tudelft.nl/en/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Colaborará com o CRCN-NE na detecção de lesões benignas e malignas em osso e nos estudos de diagnóstico de pacientes com Alzheimer.

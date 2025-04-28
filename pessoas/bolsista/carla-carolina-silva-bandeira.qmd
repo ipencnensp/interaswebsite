@@ -1,0 +1,48 @@
+---
+title:  "Carla Carolina Silva Bandeira"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/carla-carolina-silva-bandeira.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8747638151964577"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.
+
+### Atuação no Projeto
+
+Irá desenvolver substratos SERS para caracterização de biofluidos no contexto deste projeto.

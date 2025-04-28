@@ -1,0 +1,48 @@
+---
+title:  "Anselmo Feher"
+sortby: "1"
+subtitle: "Apoio Técnico"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/anselmo-feher.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/3913884143750437"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Apoio Técnico</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Engenharia Mecânica
+
+### Atuação no Projeto
+
+Fornecer suporte tecnico especializado e na instrumentação, nos projetos de radioterapia e nanobraquiterapia.

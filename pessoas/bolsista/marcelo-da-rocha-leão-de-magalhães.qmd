@@ -1,0 +1,48 @@
+---
+title:  "Marcelo da Rocha Leão de Magalhães"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/marcelo-da-rocha-leão-de-magalhães.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8935154311909224"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.gov.br/crcnne/pt-br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Centro Regional de Ciências Nucleares do Nordeste- CRCN/CNEN-PE-Brasil-](https://www.gov.br/crcnne/pt-br)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Implementação do biotério de experimentação; definição dos protocolos de imageamento molecular por Micro-PET/CT

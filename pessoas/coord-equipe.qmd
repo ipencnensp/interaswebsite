@@ -3,9 +3,18 @@ title: "COORDENAÇÃO E EQUIPE"
 page-layout: full
 title-block-banner: true
 listing:
-  - id: comitegestor
-    contents: "cg/*.qmd"
+  - id: coordenacao
+    contents: "coordenacao/*.qmd"
     fields: [image, title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+    type: grid
+  - id: comitegestor
+    contents: "membro-do-comitê-gestor/*.qmd"
+    fields: [title, subtitle]
     field-display-names:
       institute: "Instituição"
       affiliation: "Instituição"
@@ -14,7 +23,52 @@ listing:
     type: grid
     sort: false
   - id: pesquisadores
-    contents: "pesq/*.qmd"
+    contents: "pesquisador/*.qmd"
+    type: grid
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+  - id: equipeestrangeira
+    contents: "equipeestrangeira/*.qmd"
+    type: grid
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+  - id: bolsistas
+    contents: "bolsista/*.qmd"
+    type: grid
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+  - id: apoiotecnico
+    contents: "apoio-técnico/*.qmd"
+    type: grid
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+  - id: colaboradores
+    contents: "colaborador/*.qmd"
+    type: grid
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+  - id: liderlabassociado
+    contents: "líder-de-laboratório-associado/*.qmd"
     type: grid
     fields: [title, subtitle]
     field-display-names:
@@ -41,6 +95,17 @@ Isso cria muitas possibilidades! Agora preciso aprender esse EJS
 ::: {.content-container}
 ::: {.listing-block}
 
+## COORDENAÇÃO
+
+::: {#coordenacao}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+
 ## COMITÊ GESTOR
 
 ::: {#comitegestor}
@@ -62,5 +127,67 @@ Isso cria muitas possibilidades! Agora preciso aprender esse EJS
 :::
 :::
 
+
+::: {.content-container}
+::: {.listing-block}
+
+## COLABORADORES
+
+::: {#colaboradores}
+:::
+
+:::
+:::
+
+
+::: {.content-container}
+::: {.listing-block}
+
+## EQUIPE ESTRANGEIRA
+
+::: {#equipeestrangeira}
+:::
+
+:::
+:::
+
+
+::: {.content-container}
+::: {.listing-block}
+
+## LÍDERES DE LABORATÓRIOS ASSOCIADOS
+
+::: {#liderlabassociado}
+:::
+
+:::
+:::
+
+
+
+
+
+::: {.content-container}
+::: {.listing-block}
+
+## APOIO TÉCNICO
+
+::: {#apoiotecnico}
+:::
+
+:::
+:::
+
+
+::: {.content-container}
+::: {.listing-block}
+
+## BOLSISTAS
+
+::: {#bolsistas}
+:::
+
+:::
+:::
 
 

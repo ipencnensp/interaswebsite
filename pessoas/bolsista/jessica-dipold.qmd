@@ -1,0 +1,48 @@
+---
+title:  "Jessica Dipold"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/jessica-dipold.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/7833682768924300"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=VzMWeqAAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Teorias Específicas e Modelos de Interação; Sistemática de Partículas; Raios Cósmicos, Processos de Colisão e Interações de Átomos e Moléculas
+
+### Atuação no Projeto
+
+Responsável pelas medidas de espectros raman e microscopia de força atômica para para caracterização de Zica virus, em função de doses de radiação gama.

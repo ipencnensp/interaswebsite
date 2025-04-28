@@ -1,0 +1,48 @@
+---
+title:  "Marcia Cristina Dias de Moraes"
+sortby: "1"
+subtitle: "Colaborador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/marcia-cristina-dias-de-moraes.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/6125991234101338"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.ceso.edu.br/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Colaborador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Centro Educacional Serra dos Órgãos-CESO-RJ-Brasil-](https://www.ceso.edu.br/)
+
+### Áreas de Atuação
+
+Laserterapia, Clínica Odontológica, Analgesia Gasosa
+
+### Atuação no Projeto
+
+Empregar em ambiente ambulatorial e/ou hospitalar, lasers em alta e baixa intensidade e a terapia fotodinâmica antimicrobiana (aPDT) em processos infecciosos na cavidade oral; manejo de osteonecrose dos maxilares e descontaminação pré-cirúrgica nas estruturas ósseas orais; infecções oportunistas em pacientes oncológicos e pacientes com necessidades especiais. Empregar a tomografia por coerência óptica (OCT) para avaliar as alterações em tecidos orais provenientes de tratamento oncológico e em diferentes patologias, em tecidos moles e duros na cavidade oral.

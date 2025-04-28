@@ -1,0 +1,48 @@
+---
+title:  "Luciane Hiramatsu Azevedo"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/luciane-hiramatsu-azevedo.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8692701863699394"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=BKOvvrMAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.usp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de São Paulo / Departamento de Dentística-USP- SP-Brasil-](www.usp.br)
+
+### Áreas de Atuação
+
+Odontologia, Odontopediatria, LASER
+
+### Atuação no Projeto
+
+Utilizar os lasers de alta potência no tratamento cirúrgico de lesões dos tecidos moles orais em pacientes que apresentem tumores benignos, lesões vasculares e lesões potencialmente cancerizáveis. As lesões removidas serão encaminhadas para exames histopatológicos (Departamento de Patologia da FOUSP). A eficácia da aplicação de lasers de alta potência no tratamento de lesões da mucosa oral será avaliada dentro dos seguintes critérios: ausência de recidiva após 1 (no mínimo) de seguimento clínico, conforto do paciente no pós- operatório, sintomatologia e uso de medicamentos analgésicos e antiinflamatórios. Promover treinamento de profissionais e atuar na difusào cientifica.

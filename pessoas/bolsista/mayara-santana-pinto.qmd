@@ -1,0 +1,48 @@
+---
+title:  "Mayara Santana Pinto"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/mayara-santana-pinto.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/8308274929767367"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.cnen.gov.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Comissão Nacional de Energia Nuclear / Instituto de Pesquisas Energéticas e Nucleares-CNEN-RJ-Brasil-](www.cnen.gov.br)
+
+### Áreas de Atuação
+
+Química Analítica, Química Orgânica, Biofotônica
+
+### Atuação no Projeto
+
+Irá avaliar a eficácia de fotobioestimulação nos temas envolvidos no presente projeto.

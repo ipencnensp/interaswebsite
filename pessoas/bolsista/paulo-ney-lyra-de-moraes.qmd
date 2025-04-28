@@ -1,0 +1,48 @@
+---
+title:  "Paulo Ney Lyra de Moraes"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/paulo-ney-lyra-de-moraes.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4316802948459669"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Clínica Odontológica, Implantodontia, Cirurgia Oral Menor, Laserterapia
+
+### Atuação no Projeto
+
+Desenvolvimento de protocolo clinico da colocação de implantes em pacientes em associação a terapia fotodinamica antimicrobiana.

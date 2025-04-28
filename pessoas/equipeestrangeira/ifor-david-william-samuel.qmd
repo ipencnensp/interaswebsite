@@ -1,0 +1,48 @@
+---
+title:  "Ifor David William Samuel"
+sortby: "1"
+subtitle: "Membro Executora Estrangeira"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/ifor-david-william-samuel.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.st-andrews.ac.uk/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Membro Executora Estrangeira</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[University of St Andrews - ST- ANDREWS --Escócia-](https://www.st-andrews.ac.uk/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Estudar a fotofísica e o desenvolvimento de novos materiais como diodos emissores de luz e lasers. Colaboração com Martha S. Ribeiro do IPEN nos Diodos Emissores de Luz Orgânicos (OLEDs), para desenvolvimento de fontes de luz vestíveis para terapia fotodinâmica ambulatorial de câncer de pele e outras doenças.

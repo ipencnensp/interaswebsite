@@ -1,0 +1,48 @@
+---
+title:  "Matheus De Freitas Oliveira Baffa"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/matheus-de-freitas-oliveira-baffa.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/1593854719397003"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.usp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de São Paulo / Departamento de Computação e Matemática-USP-SP-Brasil-](www.usp.br)
+
+### Áreas de Atuação
+
+Visão Computacional, Aprendizagem de Máquina, Processamento e Análise de Imagens Médicas, Computação Gráfica, Informática Biomédica
+
+### Atuação no Projeto
+
+Desenvolvimento de técnicas de analise de imagem de cortes patológicos em HE, por técnicas de aprendizado de maquina profundo.

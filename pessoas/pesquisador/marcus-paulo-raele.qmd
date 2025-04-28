@@ -1,0 +1,48 @@
+---
+title:  "Marcus Paulo Raele"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/marcus-paulo-raele.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/5900133044656035"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=kfOAsHIAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Ótica, Interferometria, Física Nuclear, Estrutura Nuclear
+
+### Atuação no Projeto
+
+Propor, executar e auxiliar na análise de características ópticas de tecidos biológicos via espectroscopia de absorção visando um melhor entendimento da aplicação de radiação não ionizante transcraniana em camundongos neonatos (em parceria com Profa Dra Ilka Tiemy Kato Prates, UFABC). Produzir, via ablação de laser de femtosegundos nanopartículas de ouro para aplicação em nano braquiterapia (em parceria com a Profa Dra Elisa Rostelato e Prof Dr. Wagner de Rossi IPEN).

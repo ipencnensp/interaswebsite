@@ -8,7 +8,7 @@ repo-actions: false
 bread-crumbs: false
 listing:
   - id: publicacoes
-    contents: "publicacoes/posts/"
+    contents: "publicacoes/articles/"
     type: grid
     grid-columns: 3
 toc: false
@@ -32,6 +32,8 @@ Estamos fortemente convencidos que o estabelecimento de um diagnóstico e terapi
 
 ---
 
+<!--
+
 ::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
@@ -53,6 +55,9 @@ Welcome to **Real World Data Science**, a new project from the [Royal Statistica
 :::
 :::
 :::
+
+
+-->
 
 ::: {.content-container}
 ::: {.listing-block}

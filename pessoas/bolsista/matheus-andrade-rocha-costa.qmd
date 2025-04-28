@@ -1,0 +1,48 @@
+---
+title:  "Matheus Andrade Rocha Costa"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/matheus-andrade-rocha-costa.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/0269073658419341"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=I9i_mPgAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "https://www.gov.br/crcnne/pt-br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Centro Regional de Ciências Nucleares do Nordeste- CRCN/CNEN-PE-Brasil-](https://www.gov.br/crcnne/pt-br)
+
+### Áreas de Atuação
+
+Química de Produtos Naturais., Engenharia Ambiental, Engenharia de Segurança do Trabalho, Microbiologia Industrial e de Fermentação, Radioecologia e Análises Ambientais, Química Analítica/Especialidade: Análise de Traços e Química Ambiental.
+
+### Atuação no Projeto
+
+Desenvolvimento de radiomarcacao de moléculas; imageamento molecular por Micro-PET/CT

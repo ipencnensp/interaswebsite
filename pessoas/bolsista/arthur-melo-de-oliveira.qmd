@@ -1,0 +1,48 @@
+---
+title:  "Arthur Melo de Oliveira"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/arthur-melo-de-oliveira.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4952049943458877"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "www.usp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de São Paulo / Departamento de Física - USP- SP-Brasil-](www.usp.br)
+
+### Áreas de Atuação
+
+Física Médica
+
+### Atuação no Projeto
+
+Simulações de Monte Carlo para propagação de radiação óptica na pele

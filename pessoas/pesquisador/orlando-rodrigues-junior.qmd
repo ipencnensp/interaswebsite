@@ -1,0 +1,48 @@
+---
+title:  "Orlando Rodrigues Junior"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/orlando-rodrigues-junior.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4497027431723360"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=4Z2giNQAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Instrumentação para Medida e Controle de Radiação, Proteção Radiológica, Métodos Matemáticos da Física, Modelos Analíticos e de Simulação, Sistemas de Informação
+
+### Atuação no Projeto
+
+Pesquisa e desenvolvimento de materiais de interesse em dosimetria para radiações ionizantes e não ionizantes em aplicações nas áreas da indústria e saúde. Dosimetria experimental; irradiação de amostras, estudos por ressonância paramagnética eletrônica; impressão 3D; simulações computacionais e processamento de imagens.

@@ -1,0 +1,48 @@
+---
+title:  "Luciano Bachmann"
+sortby: "1"
+subtitle: "Líder de Laboratório Associado"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/luciano-bachmann.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/0295048765353951"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=uRJ3F38AAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.usp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Líder de Laboratório Associado</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de São Paulo / Departamento de Física - USP- SP-Brasil-](www.usp.br)
+
+### Áreas de Atuação
+
+Física da Matéria Condensada, Aplicações de Lasers Em Ciências da Vida, fisica médica, Métodos Óticos de Análise, MEDICINA II
+
+### Atuação no Projeto
+
+Os sinais hiperespectrais, obtidos por meio de equipamentos de infravermelho, caracterizam-se por apresentar para cada pixel da imagem um espectro de valores de absorbância para as diferentes frequências, que se mostra sensível às características do tecido subjacente. Iremos contribuir neste Instituto investigando sinais hiperespectrais infravermelhos obtidos a partir de lâminas contendo amostras de tecido sadio e de tecido anormal oriundas de diferentes órgãos, tais como tireoide, pele e mama, sadios e com características anormais, em especial a ocorrência de neoplasias, com uso de técnicas computacionais de Aprendizagem Profunda, para a implementação de classificadores, com os quais será possível caracterizar as regiões da lâmina de acordo com as possíveis anomalias presentes. A validação será feita com imagens obtidas a partir de lâminas de biópsias coradas com Hematoxilina e Eosina.

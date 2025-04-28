@@ -1,0 +1,48 @@
+---
+title:  "Jéssica Verônica da Silva"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/jéssica-verônica-da-silva.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/9221923923983783"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=U0qyNgsAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Ciências Biológicas, Biologia Molecular, Bioinformática
+
+### Atuação no Projeto
+
+A aluna irá realizar a técnica de FTIR para análise de biomarcadores na doença renal

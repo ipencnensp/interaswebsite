@@ -1,0 +1,48 @@
+---
+title:  "Mario Olimpio de Menezes"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/mario-olimpio-de-menezes.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4882949829423994"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=aFFVmxkAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+Inteligência Artificial e Aprendizado de Máquina, Física Nuclear, Modelos Analíticos e de Simulação, Computação Paralela e Distribuída, Ciência da Computação, Física
+
+### Atuação no Projeto
+
+Estudo e aplicação de aprendizado de máquina, redes neurais diversas e outras técnicas de inteligência artificial para análises de dados e imagens, geração de insights e melhoria de processos. Analisar imagens hiperespectrais de amostras de tecidos irradiados por luz em diversos processos biológicos no tratamentos de cânceres. Os principais desafios científicos e tecnológicos que deverá superar incluem, mas não se limitam a: i) apropriação dos conceitos básicos relacionados à técnica de FTIR; ii) apropriação dos conceitos básicos da aquisição das imagens e dos respectivos espectrômetros; iii) identificação das técnicas de aprendizado de máquina apropriadas para análises deste tipo de imagens; iv) expor as explicações das técnicas de aprendizado de máquina empregadas nas análises de modo a aumentar a confiabilidade dos resultados; v) buscar o engajamento com outros pesquisadores de aprendizado de máquina e inteligência artificial do projeto visando fomentar a formação de alunos.

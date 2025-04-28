@@ -1,0 +1,48 @@
+---
+title:  "Elvis Joacir De França"
+sortby: "1"
+subtitle: "Líder de Laboratório Associado"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/elvis-joacir-de-frança.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/1716496767364751"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.gov.br/crcnne/pt-br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Líder de Laboratório Associado</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Centro Regional de Ciências Nucleares do Nordeste- CRCN/CNEN-PE-Brasil-](https://www.gov.br/crcnne/pt-br)
+
+### Áreas de Atuação
+
+Ciclagem de Elementos Químicos, Análise de Traços e Química Ambiental, Controle de Qualidade, Manejo Ambiental, Manejo e Conservação do Solo, Radioecologia
+
+### Atuação no Projeto
+
+A proximidade de um cíclotron ao hospital público favorece a aplicação das Radiações Ionizantes na Saúde, ampliando-se a gama de fármacos a serem utilizados para o imageamento molecular em pacientes com respeito ao diagnóstico/enfrentamento de neoplasias, doenças coronárias e desordens cerebrais. Neste INCT, propõe-se disponibilizar infraestrutura para ensaios pré-clínicos para antígeno de membrana prostático específico (PSMA), receptor de estrogênio positivo de câncer de mama (FES) е fluoreto de sódio (NaF), denominado de farmacêutico sem carreador para a detecção de lesões benignas e malignas em osso, além de flutemetamol para o diagnóstico de pacientes com Alzheimer. Os esforços para a implementação do laboratório integrado de pesquisas na Região Nordeste, no contexto desse INCT, são motivados a partir da necessidade de expandir os serviços prestados à sociedade em Medicina Nuclear na Região Norte/Nordeste, além de fomentar pesquisas científicas de alto nível.

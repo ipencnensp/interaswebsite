@@ -1,0 +1,48 @@
+---
+title:  "Herculano da Silva Martinho"
+sortby: "1"
+subtitle: "Membro do Comitê Gestor"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/herculano-da-silva-martinho.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/6880602655569729"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=YHF4glsAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Membro do Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC-SP-Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Física da Matéria Condensada, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Propriedades Térmicas da Matéria Condensada, Modelos Analíticos e de Simulação, Engenharia Biomédica
+
+### Atuação no Projeto
+
+Liderará experimentos envolvendo espectroscopia vibracional (espectroscopias Raman, Absorção no Infravermelho) em escalas macro (milímetros), micro (microns), e nano (200 nanômetros) de amostras de biofluidos (saliva, plasma, sangue) de pacientes acometidos por doenças ou situações clínicas onde inflamação ou hiperinflamação são fatores importantes ((por exemplo COVID-19, ¿Monkeypox¿). Os principais desafios científicos e tecnológicos que deverá superar envolvem, mas não limitam-se a, i) desenvolver metodologia adequada para a obtenção dos sinais espectrais; ii) liderar o desenvolvimento de métodos de análise dos dados espectrais, usando ferramentas de mineração de dados; iii) liderar a busca por possíveis correlações entre os achados espectrais e outras técnicas; iv) liderar o desenvolvimento de simulações computacionais de macromoléculas e tecidos a fim de subsidiar a interpretação dos dados.

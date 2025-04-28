@@ -1,0 +1,48 @@
+---
+title:  "Monique Rodrigues"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/monique-rodrigues.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4770351553041096"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=ph2SUQMAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+Odontologia
+
+### Atuação no Projeto
+
+Efeitos de laser emissor no ultravioleta para paralisação da cárie de radiação

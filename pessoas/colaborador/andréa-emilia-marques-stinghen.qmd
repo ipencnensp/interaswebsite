@@ -1,0 +1,48 @@
+---
+title:  "Andréa Emilia Marques Stinghen"
+sortby: "1"
+subtitle: "Colaborador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/andréa-emilia-marques-stinghen.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/7589566414393448"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?user=3stJvL0AAAAJ&hl=en&oi=ao"
+    - icon: bank
+      text: Instituição
+      href: "www.ufpr.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Colaborador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do Paraná / Departamento de Patologia Médica-UFPR-PR-Brasil-](www.ufpr.br)
+
+### Áreas de Atuação
+
+Nefrologia, Fisiologia Renal, Biologia Celular, Citologia e Biologia Celular
+
+### Atuação no Projeto
+
+Empregará técnicas de espectroscopia vibracional, em amostras de soro e dialisato peritoneal, de pacientes em diferentes fases da doença renal crônica. O objetivo é mapear novos biomarcadores nas diferentes fases da doença.

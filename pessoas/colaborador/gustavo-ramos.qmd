@@ -1,0 +1,48 @@
+---
+title:  "Gustavo Ramos"
+sortby: "1"
+subtitle: "Colaborador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/gustavo-ramos.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=ynBsk4kAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "https://www.uni-wuerzburg.de/en/university/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Colaborador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[University of Würzburg-UW-- Alemanha -](https://www.uni-wuerzburg.de/en/university/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Em seu grupo na Universität Würzburg (Alemanha) irá avaliar o papel do sistema imune no coração.

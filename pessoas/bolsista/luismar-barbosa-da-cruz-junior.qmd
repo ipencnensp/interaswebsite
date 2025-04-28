@@ -1,0 +1,48 @@
+---
+title:  "Luismar Barbosa da Cruz Junior"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/luismar-barbosa-da-cruz-junior.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2130109944029550"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=GsgEJlcAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.usp.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade de São Paulo / Departamento de Física - USP- SP-Brasil-](www.usp.br)
+
+### Áreas de Atuação
+
+Física Aplicada, Física da Matéria Condensada, Divulgação Científica
+
+### Atuação no Projeto
+
+Caracterização óptica de amostras altamente espalhadoras na região espectral do visível e infravermelho próximo

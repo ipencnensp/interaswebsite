@@ -1,0 +1,48 @@
+---
+title:  "Fábio Eduardo da Costa"
+sortby: "1"
+subtitle: "Apoio Técnico"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/fábio-eduardo-da-costa.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/1026477777115490"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=r2TTGBcAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Apoio Técnico</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Fornecer apoio tecnico, especialmente em eletrônica especializada, para os experimentos em radioterapia e nanobraquiterapia.

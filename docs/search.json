@@ -7,88 +7,403 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "publicacoes/articles/zezell2024a.html",
-    "href": "publicacoes/articles/zezell2024a.html",
-    "title": "Some very nice title for an article published by Denise",
-    "section": "",
-    "text": "Zezell, D. M., Ribeiro, M. S., & Medei, E. H. (2024). Some very nice title for an article published by Denise. Journal of Optic Marvels."
-  },
-  {
-    "objectID": "publicacoes/articles/zezell2024a.html#citation-apa-7",
-    "href": "publicacoes/articles/zezell2024a.html#citation-apa-7",
-    "title": "Some very nice title for an article published by Denise",
-    "section": "",
-    "text": "Zezell, D. M., Ribeiro, M. S., & Medei, E. H. (2024). Some very nice title for an article published by Denise. Journal of Optic Marvels."
-  },
-  {
-    "objectID": "publicacoes/articles/zezell2024a.html#abstract",
-    "href": "publicacoes/articles/zezell2024a.html#abstract",
-    "title": "Some very nice title for an article published by Denise",
-    "section": "Abstract",
-    "text": "Abstract\nDimensional conceptualizations of psychopathology hold promise for understanding the high rates of comorbidity with posttraumatic stress disorder (PTSD). Linking PTSD symptoms to transdiagnostic dimensions of psychopathology may enable researchers and clinicians to understand the patterns and breadth of behavioral sequelae following traumatic experiences that may be shared with other psychiatric disorders. To explore this premise, we recruited a trauma-exposed online community sample \\((N = 462)\\) and measured dimensional transdiagnostic traits of psychopathology using parceled facets derived from the Personality Inventory for DSM-5 Faceted–Short Form. PTSD symptom factors were measured using the PTSD Checklist for DSM-5 and derived using confirmatory factor analysis according to the seven-factor hybrid model (i.e., Intrusions, Avoidance, Negative Affect, Anhedonia, Externalizing Behaviors, Anxious Arousal, And Dysphoric Arousal). We observed hypothesized associations between PTSD factors and transdiagnostic traits indicating that some transdiagnostic dimensions were associated with nearly all PTSD symptom factors (e.g., emotional lability: rmean = .35), whereas others showed more unique relationships (e.g., hostility–Externalizing Behavior: \\(r = .60\\); hostility with other PTSD factors: \\(r = .12–.31\\)). All PTSD factors were correlated with traits beyond those that would appear to be construct-relevant, suggesting the possibility of indirect associations that should be explicated in future research. The results indicate the breadth of trait-like consequences associated with PTSD symptom exacerbation, with implications for case conceptualization and treatment planning. Although PTSD is not a personality disorder, the findings indicate that increased PTSD factor severity is moderately associated with different patterns of trait-like disruptions in many areas of functioning."
-  },
-  {
     "objectID": "publicacoes/index.html",
     "href": "publicacoes/index.html",
     "title": "INTERAS",
     "section": "",
-    "text": "Home\n    Publicações\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n         \n          Lab/Gr Pesq\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Other very nice title for an article published by Denise\n    Denise M. Zezell\n    Journal of Optic Marvels\n    (2024)\n    CELAP\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n    \n  \n\n  \n    Some very nice title for an article published by Denise\n    Zezell, Ribeiro & Medei\n    Journal of Optic Marvels\n    (2024)\n    CELAP\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n    \n       Materials\n    \n    \n    \n  \n\n\n\n\nNo matching items"
+    "text": "Home\n    Publicações\n  \n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pessoas/coord-equipe.html",
     "href": "pessoas/coord-equipe.html",
     "title": "COORDENAÇÃO E EQUIPE",
     "section": "",
-    "text": "Coordenadora\n\n\n\n\n\n\n\n\n\n\n\n\nVice-Coordenador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Coordenadora\n\n\n\n\n\n\n\n\n\n\n\nVice-Coordenador\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pessoas/coord-equipe.html#coordenação",
+    "href": "pessoas/coord-equipe.html#coordenação",
+    "title": "COORDENAÇÃO E EQUIPE",
+    "section": "",
+    "text": "Coordenadora\n\n\n\n\n\n\n\n\n\n\n\nVice-Coordenador\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pessoas/coord-equipe.html#comitê-gestor",
     "href": "pessoas/coord-equipe.html#comitê-gestor",
     "title": "COORDENAÇÃO E EQUIPE",
-    "section": "",
-    "text": "Coordenadora\n\n\n\n\n\n\n\n\n\n\n\n\nVice-Coordenador\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "COMITÊ GESTOR",
+    "text": "COMITÊ GESTOR\n\n\n\n\n\n\n\nDivanizia do Nascimento Souza\n\n\nMembro do Comitê Gestor\n\n\n\n\n\n\n\n\n\nHerculano da Silva Martinho\n\n\nMembro do Comitê Gestor\n\n\n\n\n\n\n\n\n\nMaria Elisa Chuery Martins Rostelato\n\n\nMembro do Comitê Gestor\n\n\n\n\n\n\n\n\n\nWagner de Rossi\n\n\nMembro do Comitê Gestor\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pessoas/coord-equipe.html#pesquisadores",
     "href": "pessoas/coord-equipe.html#pesquisadores",
     "title": "COORDENAÇÃO E EQUIPE",
     "section": "PESQUISADORES",
-    "text": "PESQUISADORES\n\n\n\n\n\n\n\nDenise Maria Zezell2\n\n\nIPEN2\n\n\n\n\n\n\n\n\n\n\nDenise Maria Zezell3\n\n\nIPEN3\n\n\n\n\n\n\n\n\n\n\nDenise Maria Zezell4\n\n\nIPEN4\n\n\n\n\n\n\n\n\n\n\nDenise Maria Zezell5\n\n\nIPEN5\n\n\n\n\n\n\n\n\n\n\nEmiliano Horácio Medei2\n\n\nUFRJ\n\n\n\n\n\n\n\n\n\n\nEmiliano Horácio Medei3\n\n\nOutraUF3\n\n\n\n\n\n\n\n\n\n\nEmiliano Horácio Medei4\n\n\nOutraUF4\n\n\n\n\n\n\n\n\n\n\nEmiliano Horácio Medei5\n\n\nOutraUF5\n\n\n\n\n\n\n\nNo matching items"
+    "text": "PESQUISADORES\n\n\n\n\n\n\n\nAnderson Zanardi de Freitas\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nAriel Escobar\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nCarlos Alberto Zeituni\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nDaniel Perez Vieira\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nEduardo Landulfo\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nEmerson Soares Bernardes\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nIlka Tiemy Kato\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nJoão Loures Salinet Júnior\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nLorena Pozzo\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nLuciane Hiramatsu Azevedo\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nLuis Felipe das Chagas e Silva de Carvalho\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nMarcus Paulo Raele\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nMario Olimpio de Menezes\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nMartha Simões Ribeiro\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nMaría de la Salud Guillhem Sánchez\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nMoisés Oliveira dos Santos\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nNiklaus Ursus Wetter\n\n\nPesquisador\n\n\n\n\n\n\n\n\n\nOrlando Rodrigues Junior\n\n\nPesquisador\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pessoas/cg/02_divanizia.html",
-    "href": "pessoas/cg/02_divanizia.html",
+    "objectID": "pessoas/coord-equipe.html#colaboradores",
+    "href": "pessoas/coord-equipe.html#colaboradores",
+    "title": "COORDENAÇÃO E EQUIPE",
+    "section": "COLABORADORES",
+    "text": "COLABORADORES\n\n\n\n\n\n\n\nAndréa Emilia Marques Stinghen\n\n\nColaborador\n\n\n\n\n\n\n\n\n\nGustavo Ramos\n\n\nColaborador\n\n\n\n\n\n\n\n\n\nIlija Uzelac\n\n\nColaborador\n\n\n\n\n\n\n\n\n\nJesica Ayelen Dimmer\n\n\nColaborador\n\n\n\n\n\n\n\n\n\nMarcia Cristina Dias de Moraes\n\n\nColaborador\n\n\n\n\n\n\n\n\n\nRenata Aparecida Belotto\n\n\nColaborador\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pessoas/coord-equipe.html#equipe-estrangeira",
+    "href": "pessoas/coord-equipe.html#equipe-estrangeira",
+    "title": "COORDENAÇÃO E EQUIPE",
+    "section": "EQUIPE ESTRANGEIRA",
+    "text": "EQUIPE ESTRANGEIRA\n\n\n\n\n\n\n\nBenedicte Manoury\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nIfor David William Samuel\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nJohn Michael Girkin\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nJuan Jose Nogueira\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nLarry Dewerd\n\n\nPesquisador da equipe estrangeira\n\n\n\n\n\n\n\n\n\nNicholas Stone\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nPeter Bode\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nTerence Kenneth Smith\n\n\nMembro Executora Estrangeira\n\n\n\n\n\n\n\n\n\nTiago Buckup\n\n\nMembro Executora Estrangeira\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pessoas/coord-equipe.html#líderes-de-laboratórios-associados",
+    "href": "pessoas/coord-equipe.html#líderes-de-laboratórios-associados",
+    "title": "COORDENAÇÃO E EQUIPE",
+    "section": "LÍDERES DE LABORATÓRIOS ASSOCIADOS",
+    "text": "LÍDERES DE LABORATÓRIOS ASSOCIADOS\n\n\n\n\n\n\n\nAdamo Ferreira Gomes do Monte\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nAna Cecília Corrêa Aranha\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nElvis Joacir De França\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nJoaquim Cezar Felipe\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nLeandro Luongo de Matos\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nLuciano Bachmann\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nMarcela Sorelli Carneiro Ramos\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nPatricia Aparecida da Ana\n\n\nLíder de Laboratório Associado\n\n\n\n\n\n\n\n\n\nThiago Martini Pereira\n\n\nLíder de Laboratório Associado\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pessoas/coord-equipe.html#apoio-técnico",
+    "href": "pessoas/coord-equipe.html#apoio-técnico",
+    "title": "COORDENAÇÃO E EQUIPE",
+    "section": "APOIO TÉCNICO",
+    "text": "APOIO TÉCNICO\n\n\n\n\n\n\n\nAnselmo Feher\n\n\nApoio Técnico\n\n\n\n\n\n\n\n\n\nFábio Eduardo da Costa\n\n\nApoio Técnico\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pessoas/coord-equipe.html#bolsistas",
+    "href": "pessoas/coord-equipe.html#bolsistas",
+    "title": "COORDENAÇÃO E EQUIPE",
+    "section": "BOLSISTAS",
+    "text": "BOLSISTAS\n\n\n\n\n\n\n\nAllan Bereczki\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nAmanda Caramel Juvino\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nAndré Mourão Batista\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nAngélica Bueno Barbezan\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nAntonio Arleques Gomes\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nArian Pérez Nario\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nArthur Melo de Oliveira\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nBruna Martins dos Santos\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nCamila Ramos Silva\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nCamila de Almeida Salvego\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nCarla Carolina Silva Bandeira\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nDaniela Maria Cerqueira Leite\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nDiego Roberto da Cunha Pascoal\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nElizabete dos Santos Ferreira\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nFabrizio Manoel Rodrigues\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nFernanda Keli do Carmo Santos Miranda\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nGabrielle Luana Jimenez Teodoro Nepomuceno\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nGleice Conceição Mendonça Germano\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nHermann Windisch Neto\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nJessica Dipold\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nJéssica Verônica da Silva\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nJúlio Gallinaro Maranho\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nLuismar Barbosa da Cruz Junior\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMarcelo da Rocha Leão de Magalhães\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMarcos Humberto dos Santos\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMaria Eduarda Zaganin Rigo\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMateus Cóstola Windlin\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMatheus Andrade Rocha Costa\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMatheus De Freitas Oliveira Baffa\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMayara Santana Pinto\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nMonique Rodrigues\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nNeila Cristina Fonseca Machado\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nOscar Jesus Moreno Loaiza\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nPaulo Ney Lyra de Moraes\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nPriscila Santos Rodrigues\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nRaquel Silva Neres dos Santos\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nRaíssa Mendonça Quaranta Lobão\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nRegiane Stafim da Cunha\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nSajid Farooq\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nTatiana Pereira da Silva\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nValeria Mendes\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nVanessa Moredo Alonso\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nWilmmer Alexander Arcos Rosero\n\n\nBolsista\n\n\n\n\n\n\n\n\n\nYasmin Reis Fontes de Oliveira\n\n\nBolsista\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pessoas/coordenacao/00_denisemariazezell.html",
+    "href": "pessoas/coordenacao/00_denisemariazezell.html",
+    "title": "Denise Maria Zezell",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Coordenação\n    Denise Maria Zezell\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares – IPEN-CNEN,SP\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nAlém de Coordenadora geral do INCT, também atua no desenvolvimento de estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população."
+  },
+  {
+    "objectID": "pessoas/bolsista/camila-de-almeida-salvego.html",
+    "href": "pessoas/bolsista/camila-de-almeida-salvego.html",
+    "title": "Camila de Almeida Salvego",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Camila de Almeida Salvego\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nComissão Nacional de Energia Nuclear / Instituto de Pesquisas Energéticas e Nucleares-CNEN-RJ-Brasil-\n\n\nÁreas de Atuação\nRadiologia\n\n\nAtuação no Projeto\nIrá avaliar a eficácia de fotobioestimulação nos temas envolvidos no presente projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/bruna-martins-dos-santos.html",
+    "href": "pessoas/bolsista/bruna-martins-dos-santos.html",
+    "title": "Bruna Martins dos Santos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Bruna Martins dos Santos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nOdontologia\n\n\nAtuação no Projeto\nDeterminar a resistência de remoção de laminados cerâmicos com laser Er:YAG em diferentes potências, de esmalte dental."
+  },
+  {
+    "objectID": "pessoas/bolsista/matheus-de-freitas-oliveira-baffa.html",
+    "href": "pessoas/bolsista/matheus-de-freitas-oliveira-baffa.html",
+    "title": "Matheus De Freitas Oliveira Baffa",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Matheus De Freitas Oliveira Baffa\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Computação e Matemática-USP-SP-Brasil-\n\n\nÁreas de Atuação\nVisão Computacional, Aprendizagem de Máquina, Processamento e Análise de Imagens Médicas, Computação Gráfica, Informática Biomédica\n\n\nAtuação no Projeto\nDesenvolvimento de técnicas de analise de imagem de cortes patológicos em HE, por técnicas de aprendizado de maquina profundo."
+  },
+  {
+    "objectID": "pessoas/bolsista/antonio-arleques-gomes.html",
+    "href": "pessoas/bolsista/antonio-arleques-gomes.html",
+    "title": "Antonio Arleques Gomes",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Antonio Arleques Gomes\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nQuímica, Dinâmica dos Fluídos, Processos de Fabricação\n\n\nAtuação no Projeto\nDesenvolver sistemas microfluídicos para síntese de radiofármacos que usam flúor radioativo."
+  },
+  {
+    "objectID": "pessoas/bolsista/camila-ramos-silva.html",
+    "href": "pessoas/bolsista/camila-ramos-silva.html",
+    "title": "Camila Ramos Silva",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Camila Ramos Silva\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiobiologia e Fotobiologia, Engenharia Biomédica, biofísica\n\n\nAtuação no Projeto\nRealizará estudos de avaliação pré-clinica de fotobiomodulação combinada à radioterapia no tratamento de câncer de mama."
+  },
+  {
+    "objectID": "pessoas/bolsista/daniela-maria-cerqueira-leite.html",
+    "href": "pessoas/bolsista/daniela-maria-cerqueira-leite.html",
+    "title": "Daniela Maria Cerqueira Leite",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Daniela Maria Cerqueira Leite\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nLaserterapia\n\n\nAtuação no Projeto\nDesenvolver protocolo seguro de descolamento de facetas cerâmicas com lasers, em dentes irradiados por radiação gama."
+  },
+  {
+    "objectID": "pessoas/bolsista/raquel-silva-neres-dos-santos.html",
+    "href": "pessoas/bolsista/raquel-silva-neres-dos-santos.html",
+    "title": "Raquel Silva Neres dos Santos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Raquel Silva Neres dos Santos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas- UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nCiências Biológicas, Biologia Molecular, Fisiologia Cardiovascular, Histologia\n\n\nAtuação no Projeto\nThe student will collaborate with the interpretation of FTIR spectra for the analysis of biomarkers Will perform in vitro tests to validate the biomarkers"
+  },
+  {
+    "objectID": "pessoas/bolsista/gleice-conceição-mendonça-germano.html",
+    "href": "pessoas/bolsista/gleice-conceição-mendonça-germano.html",
+    "title": "Gleice Conceição Mendonça Germano",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Gleice Conceição Mendonça Germano\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nMateriais Magnéticos e Propriedades Magnéticas, Biologia Molecular, LASER Aleatórios, Estudo de não linearidade otica em materiais 2D\n\n\nAtuação no Projeto\nResponsável pela aquisição das imagens hiperespectrais de tumores orais e pele e cálculos de remoção de vapor de agua e parafina"
+  },
+  {
+    "objectID": "pessoas/bolsista/raíssa-mendonça-quaranta-lobão.html",
+    "href": "pessoas/bolsista/raíssa-mendonça-quaranta-lobão.html",
+    "title": "Raíssa Mendonça Quaranta Lobão",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Raíssa Mendonça Quaranta Lobão\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Física - USP- SP-Brasil-\n\n\nÁreas de Atuação\nFísica Médica\n\n\nAtuação no Projeto\nSimulações de Monte Carlo para propagação de radiação óptica na pele"
+  },
+  {
+    "objectID": "pessoas/bolsista/andré-mourão-batista.html",
+    "href": "pessoas/bolsista/andré-mourão-batista.html",
+    "title": "André Mourão Batista",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    André Mourão Batista\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nQuímica\n\n\nAtuação no Projeto\nIrá desenvolver experimentos de microfluidica sondados por espectroscopia Raman para analisar amostras no contexto deste projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/jéssica-verônica-da-silva.html",
+    "href": "pessoas/bolsista/jéssica-verônica-da-silva.html",
+    "title": "Jéssica Verônica da Silva",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Jéssica Verônica da Silva\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nCiências Biológicas, Biologia Molecular, Bioinformática\n\n\nAtuação no Projeto\nA aluna irá realizar a técnica de FTIR para análise de biomarcadores na doença renal"
+  },
+  {
+    "objectID": "pessoas/bolsista/priscila-santos-rodrigues.html",
+    "href": "pessoas/bolsista/priscila-santos-rodrigues.html",
+    "title": "Priscila Santos Rodrigues",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Priscila Santos Rodrigues\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nFÍSICA MÉDICA\n\n\nAtuação no Projeto\nEnsaios dosimétricos com Filmes radiocrômicos, Fricke gel e Monte Carlo"
+  },
+  {
+    "objectID": "pessoas/bolsista/mateus-cóstola-windlin.html",
+    "href": "pessoas/bolsista/mateus-cóstola-windlin.html",
+    "title": "Mateus Cóstola Windlin",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Mateus Cóstola Windlin\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nOdontologia, Estética, Laserterapia, Oncologia\n\n\nAtuação no Projeto\nDesenvolver protocolo de descolamento de laminados cerâmicos com laser de Er:YAG, de esmalte dental. Ensaios de temperatura de segurando-vos; ca durante a irradiação."
+  },
+  {
+    "objectID": "pessoas/bolsista/carla-carolina-silva-bandeira.html",
+    "href": "pessoas/bolsista/carla-carolina-silva-bandeira.html",
+    "title": "Carla Carolina Silva Bandeira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Carla Carolina Silva Bandeira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nProp. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.\n\n\nAtuação no Projeto\nIrá desenvolver substratos SERS para caracterização de biofluidos no contexto deste projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/angélica-bueno-barbezan.html",
+    "href": "pessoas/bolsista/angélica-bueno-barbezan.html",
+    "title": "Angélica Bueno Barbezan",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Angélica Bueno Barbezan\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nNanobraquiterapia, Radiofármacos, Irradiação de Alimentos, Análises Clínicas, Imagem\n\n\nAtuação no Projeto\nEnsaios de citotoxicidade in vitro; ensaios em modelo animal de tumor de próstata; associação da Terapia com Laser de Baixa Potência (TLBP) à nanobraquiterapia in vivo; desenvolvimento de ensaios pré-clínicos de câncer de próstata para investigar o efeito biológico da associação das radiações ionizante e não ionizante."
+  },
+  {
+    "objectID": "pessoas/bolsista/júlio-gallinaro-maranho.html",
+    "href": "pessoas/bolsista/júlio-gallinaro-maranho.html",
+    "title": "Júlio Gallinaro Maranho",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Júlio Gallinaro Maranho\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nData Science, Probabilidade e Estatística Aplicadas, Modelos Analíticos e de Simulação, Infraestrutura aeroportuária\n\n\nAtuação no Projeto\nPROPOSTA DE DISPOSITIVO PORTÁTIL PARA DIAGNÓSTICO PRECOCE DE CÂNCER DE MAMA POR ESPECTROSCOPIA DE FLUORESCÊNCIA EM SALIVA"
+  },
+  {
+    "objectID": "pessoas/bolsista/marcelo-da-rocha-leão-de-magalhães.html",
+    "href": "pessoas/bolsista/marcelo-da-rocha-leão-de-magalhães.html",
+    "title": "Marcelo da Rocha Leão de Magalhães",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Marcelo da Rocha Leão de Magalhães\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nCentro Regional de Ciências Nucleares do Nordeste- CRCN/CNEN-PE-Brasil-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nImplementação do biotério de experimentação; definição dos protocolos de imageamento molecular por Micro-PET/CT"
+  },
+  {
+    "objectID": "pessoas/bolsista/hermann-windisch-neto.html",
+    "href": "pessoas/bolsista/hermann-windisch-neto.html",
+    "title": "Hermann Windisch Neto",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Hermann Windisch Neto\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nEngenharia Mecânica, Engenharia Biomédica\n\n\nAtuação no Projeto\nDesenvolvimento de Biorreator com fototerapia para cultura de tecidos"
+  },
+  {
+    "objectID": "pessoas/bolsista/oscar-jesus-moreno-loaiza.html",
+    "href": "pessoas/bolsista/oscar-jesus-moreno-loaiza.html",
+    "title": "Oscar Jesus Moreno Loaiza",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Oscar Jesus Moreno Loaiza\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Biofísica Carlos Chagas Filho-IBCCF- RJ-Brasil-\n\n\nÁreas de Atuação\neletrofisiologia, Fisiologia Cardiovascular\n\n\nAtuação no Projeto\nIrá realizar experimentos de eletrofisiologia no contexto do presente projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/paulo-ney-lyra-de-moraes.html",
+    "href": "pessoas/bolsista/paulo-ney-lyra-de-moraes.html",
+    "title": "Paulo Ney Lyra de Moraes",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Paulo Ney Lyra de Moraes\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nClínica Odontológica, Implantodontia, Cirurgia Oral Menor, Laserterapia\n\n\nAtuação no Projeto\nDesenvolvimento de protocolo clinico da colocação de implantes em pacientes em associação a terapia fotodinamica antimicrobiana."
+  },
+  {
+    "objectID": "pessoas/bolsista/valeria-mendes.html",
+    "href": "pessoas/bolsista/valeria-mendes.html",
+    "title": "Valeria Mendes",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Valeria Mendes\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nOdontologia, ODONTOLOGIA PARA PACIENTES COM NECESSIDADES ESPECIAIS, GESTÃO DE SAÚDE COM ENFASE EM CLINICAS E HOSPITAIS, Clínica Odontológica, Reabilitação oral\n\n\nAtuação no Projeto\nDesenvolver e testar clinicamente a associação de lasers de érbio e neodímio, bao ablativos, para o tratamento de apneia do sono"
+  },
+  {
+    "objectID": "pessoas/bolsista/sajid-farooq.html",
+    "href": "pessoas/bolsista/sajid-farooq.html",
+    "title": "Sajid Farooq",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Sajid Farooq\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nEngenharia Biomédica\n\n\nAtuação no Projeto\nDesenvolver metodologia de caracterização de tecidos biológicos e de diagnóstico de doenças for imagem hiperespectral por FTIR e analise de aprendizado de maquina profundo."
+  },
+  {
+    "objectID": "pessoas/colaborador/gustavo-ramos.html",
+    "href": "pessoas/colaborador/gustavo-ramos.html",
+    "title": "Gustavo Ramos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Colaborador\n    Gustavo Ramos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversity of Würzburg-UW– Alemanha -\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEm seu grupo na Universität Würzburg (Alemanha) irá avaliar o papel do sistema imune no coração."
+  },
+  {
+    "objectID": "pessoas/colaborador/renata-aparecida-belotto.html",
+    "href": "pessoas/colaborador/renata-aparecida-belotto.html",
+    "title": "Renata Aparecida Belotto",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Colaborador\n    Renata Aparecida Belotto\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nCentro de Estudo e Pesquisa do Hospital Pérola Byington- HOSPITAL PEROLA -SP-Brasil-\n\n\nÁreas de Atuação\nBiofotônica, Colposcopia, Ginecologia, Laserterapia, patologia do trato genital inferior\n\n\nAtuação no Projeto\nSerá responsável por coordenar as atividades de pesquisa junto a pacientes no Hospital Pérola Byington."
+  },
+  {
+    "objectID": "pessoas/colaborador/marcia-cristina-dias-de-moraes.html",
+    "href": "pessoas/colaborador/marcia-cristina-dias-de-moraes.html",
+    "title": "Marcia Cristina Dias de Moraes",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Colaborador\n    Marcia Cristina Dias de Moraes\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nCentro Educacional Serra dos Órgãos-CESO-RJ-Brasil-\n\n\nÁreas de Atuação\nLaserterapia, Clínica Odontológica, Analgesia Gasosa\n\n\nAtuação no Projeto\nEmpregar em ambiente ambulatorial e/ou hospitalar, lasers em alta e baixa intensidade e a terapia fotodinâmica antimicrobiana (aPDT) em processos infecciosos na cavidade oral; manejo de osteonecrose dos maxilares e descontaminação pré-cirúrgica nas estruturas ósseas orais; infecções oportunistas em pacientes oncológicos e pacientes com necessidades especiais. Empregar a tomografia por coerência óptica (OCT) para avaliar as alterações em tecidos orais provenientes de tratamento oncológico e em diferentes patologias, em tecidos moles e duros na cavidade oral."
+  },
+  {
+    "objectID": "pessoas/pesquisador/eduardo-landulfo.html",
+    "href": "pessoas/pesquisador/eduardo-landulfo.html",
+    "title": "Eduardo Landulfo",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Eduardo Landulfo\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares - IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nSensoriamento Remoto, Métodos Experimentais e Instrumentação para Partículas Elementares e Física Nuclear, Estrutura Nuclear, Desenvolvimento de Instrumentação Geofísica\n\n\nAtuação no Projeto\nDesenvolver uma metodologia de detecção de bioaerossóis na atmosfera e ambientes fechados e concomitantemente levantar um banco de dados de fluorescência e espectroscopia Raman + FTIR de aerossóis de origem biológica."
+  },
+  {
+    "objectID": "pessoas/pesquisador/maría-de-la-salud-guillhem-sánchez.html",
+    "href": "pessoas/pesquisador/maría-de-la-salud-guillhem-sánchez.html",
+    "title": "María de la Salud Guillhem Sánchez",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    María de la Salud Guillhem Sánchez\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversitat Politècnica de València / Escuela Tecnica Superior de Ingenieros Industriales Valencia 15-UPV– Espanha -\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nA Profa Guillhem é especialista em estudos em fibrilação atrial, e sua contribuição no projeto envolve o modelo animal, setup experimental e análise crítica dos resultados."
+  },
+  {
+    "objectID": "pessoas/pesquisador/ariel-escobar.html",
+    "href": "pessoas/pesquisador/ariel-escobar.html",
+    "title": "Ariel Escobar",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Ariel Escobar\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversity of California, Merced - UCMERCED–Estados Unidos-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEm seu grupo na University of California ¿Merced¿ USA irá conduzir estudos eletrofisiológicos e medidas de transiente de cálcio em coração inteiro."
+  },
+  {
+    "objectID": "pessoas/pesquisador/joão-loures-salinet-júnior.html",
+    "href": "pessoas/pesquisador/joão-loures-salinet-júnior.html",
+    "title": "João Loures Salinet Júnior",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    João Loures Salinet Júnior\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas -UFABC - SP-Brasil-\n\n\nÁreas de Atuação\nEngenharia Biomédica, Bioengenharia, Instrumentação Odontológica e Médico-Hospitalar, Processamento de Sinais Biológicos\n\n\nAtuação no Projeto\nA fibrilação atrial (FA) é a arritmia cardíaca sustentada mais frequente na prática clínica, considerada uma epidemia cardiovascular não infecciosa crônica, com sérias ameaças à saúde humana, e grande consumo de recursos. Devido à complexidade dessa arritmia e grande sensibilidade a erros pelos atuais sistemas comerciais, a localização das áreas responsáveis pelo disparo e manutenção da FA, para cauterização e eliminação da arritmia, é o atual desafio clínico. Este projeto visa caracterizar o miocárdio através da biofotônica e a óptica biomédica, relacionando-o com os padrões e mecanismos a serem observados durante um modelo experimental in situ de FA induzida em coelhos, através do mapeamento óptico panorâmico e elétrico simultaneamente, de forma a possibilitar a geração de mapas eletrofisiológicos e eletrocardiográficos mais realísticos com a fisiopatologia da FA, que podem ser posteriormente trasladados para a prática clínica, através do aprimoramento dos equipamentos comerciais."
+  },
+  {
+    "objectID": "pessoas/pesquisador/emerson-soares-bernardes.html",
+    "href": "pessoas/pesquisador/emerson-soares-bernardes.html",
+    "title": "Emerson Soares Bernardes",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Emerson Soares Bernardes\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nImagem Molecular, Glicobiologia tumoral, Glicoimunologia, Inflamação e Câncer\n\n\nAtuação no Projeto\nDesenvolver radiofármacos baseados em anticorpos como estratégia diagnóstica e terapêutica no combate ao câncer. O desenvolvimento de radio-imunoconjugados tem como potencial não só prever o nível de progressão da doença oncológica, como também auxiliar no planejamento do tratamento e na monitorização da resposta ao tratamento em pacientes com câncer. Entre os principais desafios encontram-se: (1) radiomarcação de anticorpos com radioisótopos emissores de pósitron para imagem diagnóstica por Tomografia por Emissão de Pósitron (PET) e radioisótopos emissores gama para a imagem diagnóstica por Tomografia por Emissão de Fóton Único (SPECT) e respectivo controle de qualidade; (2) Desenvolvimento de ensaios pré-clínicos in vitro para investigar a imunoreatividade dos radio-imunoconjugados; (3) Desenvolvimento de modelos tumorais in vivo relevantes para a realização de ensaios pré-clinicos de imagem PET/SPECT, biodistribuição e farmacocinética."
+  },
+  {
+    "objectID": "pessoas/pesquisador/anderson-zanardi-de-freitas.html",
+    "href": "pessoas/pesquisador/anderson-zanardi-de-freitas.html",
+    "title": "Anderson Zanardi de Freitas",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Anderson Zanardi de Freitas\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nMédotos de Diagnóstico Ópticos, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Laser, Sensoriamento Remoto, Linguagens de Programação\n\n\nAtuação no Projeto\nGerenciar os experimentos envolvendo a técnica de tomografia por coerência óptica para realização de caracterizações morfológicas e funcionais (microfluxo) de tecidos biológicos (biópsia óptica), envolvendo as técnicas de fluxometria doppler e laser speckle. Coordenar os experimentos no IPEN, envolvendo caracterização espectral de tecidos biológicos por meio de espalhamento Raman em escala micrométrica e nanométrica com a utilização das técnicas TERS (Tip Enhanced Raman Spectroscopy) e SNOM."
+  },
+  {
+    "objectID": "pessoas/pesquisador/martha-simões-ribeiro.html",
+    "href": "pessoas/pesquisador/martha-simões-ribeiro.html",
+    "title": "Martha Simões Ribeiro",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Martha Simões Ribeiro\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nDesenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população. Os principais desafios incluem: desenvolvimento de ensaios pré-clínicos de câncer de mama para investigar o efeito biológico da associação das radiações ionizante e não ionizante; desenvolvimento de modelos pré-clínicos de doenças infecciosas (bacterianas, fúngicas e parasitárias) para explorar o uso de compostos fotoativos e nanoestruturados; Desenvolver irradiadores dedicados baseados em LEDs, em parceria com uma startup, para tratamento de infecções resistentes a antimicrobianos convencionais bem como verificar a viabilidade do uso de OLEDs como curativo em infecções de pele; realização de ensaios clínicos para aumentar o nível de evidências na literatura científica do uso de tecnologias baseadas em luz, para tomada de decisões."
+  },
+  {
+    "objectID": "pessoas/pesquisador/orlando-rodrigues-junior.html",
+    "href": "pessoas/pesquisador/orlando-rodrigues-junior.html",
+    "title": "Orlando Rodrigues Junior",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Orlando Rodrigues Junior\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nInstrumentação para Medida e Controle de Radiação, Proteção Radiológica, Métodos Matemáticos da Física, Modelos Analíticos e de Simulação, Sistemas de Informação\n\n\nAtuação no Projeto\nPesquisa e desenvolvimento de materiais de interesse em dosimetria para radiações ionizantes e não ionizantes em aplicações nas áreas da indústria e saúde. Dosimetria experimental; irradiação de amostras, estudos por ressonância paramagnética eletrônica; impressão 3D; simulações computacionais e processamento de imagens."
+  },
+  {
+    "objectID": "pessoas/pesquisador/carlos-alberto-zeituni.html",
+    "href": "pessoas/pesquisador/carlos-alberto-zeituni.html",
+    "title": "Carlos Alberto Zeituni",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Carlos Alberto Zeituni\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nExames Pós Irradiação, Aplicações Industriais de Radioisótopos, Administração de Recursos Humanos, Garantia de Controle de Qualidade\n\n\nAtuação no Projeto\nResponsável pela produçao de novas fontes radioativas para o desenvolvimento de novas tecnologias para tratamento de câncer. Irradiar as nanoparticulas no reator nuclear IEA-R1 desenvolvendo previamente a tecnologia para que não ocorra a aglutinação das mesmas durante o tempo da irradiação. Além disso será responsável pela manipulação das nanopartículas radioativas na hot-cell do CETER (Centro de Tecnologia das Radiações do IPENCNEN) de forma que durante a funcionalização das nanos com o material carreador químico, todo o processo ocorra de maneira segura e que garanta a minimização de dose dos operadores/pesquisadores nesta etapa do projeto."
+  },
+  {
+    "objectID": "pessoas/apoio-técnico/fábio-eduardo-da-costa.html",
+    "href": "pessoas/apoio-técnico/fábio-eduardo-da-costa.html",
+    "title": "Fábio Eduardo da Costa",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Apoio Técnico\n    Fábio Eduardo da Costa\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nFornecer apoio tecnico, especialmente em eletrônica especializada, para os experimentos em radioterapia e nanobraquiterapia."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/leandro-luongo-de-matos.html",
+    "href": "pessoas/líder-de-laboratório-associado/leandro-luongo-de-matos.html",
+    "title": "Leandro Luongo de Matos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Leandro Luongo de Matos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto do Câncer do Estado de São Paulo Octávio Frias de Oliveira-ICESP-SP-Brasil-\n\n\nÁreas de Atuação\nCirurgia de Cabeça e Pescoço, Cirurgia, Medicina, Biologia Molecular, Bioestatística, Epidemologia\n\n\nAtuação no Projeto\nÉ crescente a busca por microRNAs associados à carcinogênese, progressão tumoral e também no prognóstico de pacientes com carcinoma espinocelular de cavidade oral. Para essa neoplasia, a espessura tumoral é bem documentada como um fator isolado de pior prognóstico, porém pouco se sabe sobre as causas moleculares envolvidas nesse processo. Dessa forma, neste Instituto iremos contribuir na avaliação do papel dos proteoglicanos e identificação dos microRNAs envolvidos no processo de invasão tumoral, além de relacioná-los com variáveis demográficas, histopatológicas e imuno-histoquímicas e o prognóstico de pacientes acometidos por carcinoma espinocelular de cavidade oral, assim como tireóide. Selecionar e preparar tissue micro-arrays (TMAs) destes tecidos em lâminas cristalina de CaF2 para análise vibracional por imagem por FTIR."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/luciano-bachmann.html",
+    "href": "pessoas/líder-de-laboratório-associado/luciano-bachmann.html",
+    "title": "Luciano Bachmann",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Luciano Bachmann\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Física - USP- SP-Brasil-\n\n\nÁreas de Atuação\nFísica da Matéria Condensada, Aplicações de Lasers Em Ciências da Vida, fisica médica, Métodos Óticos de Análise, MEDICINA II\n\n\nAtuação no Projeto\nOs sinais hiperespectrais, obtidos por meio de equipamentos de infravermelho, caracterizam-se por apresentar para cada pixel da imagem um espectro de valores de absorbância para as diferentes frequências, que se mostra sensível às características do tecido subjacente. Iremos contribuir neste Instituto investigando sinais hiperespectrais infravermelhos obtidos a partir de lâminas contendo amostras de tecido sadio e de tecido anormal oriundas de diferentes órgãos, tais como tireoide, pele e mama, sadios e com características anormais, em especial a ocorrência de neoplasias, com uso de técnicas computacionais de Aprendizagem Profunda, para a implementação de classificadores, com os quais será possível caracterizar as regiões da lâmina de acordo com as possíveis anomalias presentes. A validação será feita com imagens obtidas a partir de lâminas de biópsias coradas com Hematoxilina e Eosina."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/patricia-aparecida-da-ana.html",
+    "href": "pessoas/líder-de-laboratório-associado/patricia-aparecida-da-ana.html",
+    "title": "Patricia Aparecida da Ana",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Patricia Aparecida da Ana\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nBiofotonica e Óptica Biomédica, Engenharia Biomédica, Lasers Em Odontologia\n\n\nAtuação no Projeto\nEmpregar a Biofotônica e a óptica biomédica para desenvolver estratégias diagnósticas e terapêuticas para combate ao câncer e doenças crônicas que acometem a cavidade oral, tais como cárie, erosão dentária e osteoporose, para fornecer tecnologias de ponta e de baixo custo para melhora da qualidade de vida. Os principais desafios científicos e tecnológicos que deverá superar envolvem, mas não limitam-se a, i) desenvolver dispositivo baseado em fluorescência e inteligência artificial para diagnóstico precoce e preditivo de câncer de mama por análise de saliva; ii) desenvolver e aprimorar estratégias que empreguem lasers de alta potência Q-switched para paralisar lesões de tecidos duros dentais; iii) desenvolver e aplicar biomaterial à base de colágeno com potencial de drug delivery, a fim de possibilitar o reparo de lesões de tecidos ósseos; iv) aprimorar metodologia analítica, envolvendo tomografia por coerência óptica, para diagnóstico precoce e monitoramento de osteoporose."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/ana-cecília-corrêa-aranha.html",
+    "href": "pessoas/líder-de-laboratório-associado/ana-cecília-corrêa-aranha.html",
+    "title": "Ana Cecília Corrêa Aranha",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Ana Cecília Corrêa Aranha\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Dentística- USP-SP-Brasil-\n\n\nÁreas de Atuação\nOdontologia, Dentistica Restauradora, Clínica Odontológica, Materiais Odontológicos, Laser\n\n\nAtuação no Projeto\nEstudar os efeitos da radiação ionizante nas proteases endógenas em dentina hígida e restaurada. Desenvolvimento de metodologia com uso de lasers combinada ou não a outras tecnicas para prevençao e tratamento de lesões cervicais não cariosas, hipersensibilidade dentinária. Estudo clinico duplo cego, longitudinal randomizado com Laser de Er, Cr:YSGG e pasta de fosfosilicato de sódio cálcio como tratamentos de consultório da hipersensibilidade dentinária. Promover treinamento de profissionais e atuar na difusão científica."
+  },
+  {
+    "objectID": "pessoas/equipeestrangeira/tiago-buckup.html",
+    "href": "pessoas/equipeestrangeira/tiago-buckup.html",
+    "title": "Tiago Buckup",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Tiago Buckup\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nRuprecht-Karls-Universität Heidelberg-HEIDELBERG - -Alemanha -\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEmpregará técnicas de espectroscopia ultra-rápida (femtosegundos) para elucidação de mecanismos de reação e processos dinâmicos ocorrendo em biofluidos."
+  },
+  {
+    "objectID": "pessoas/equipeestrangeira/peter-bode.html",
+    "href": "pessoas/equipeestrangeira/peter-bode.html",
+    "title": "Peter Bode",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Peter Bode\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nDelft University of Technology-TU DELFT–Holanda-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nColaborará com o CRCN-NE na detecção de lesões benignas e malignas em osso e nos estudos de diagnóstico de pacientes com Alzheimer."
+  },
+  {
+    "objectID": "pessoas/equipeestrangeira/john-michael-girkin.html",
+    "href": "pessoas/equipeestrangeira/john-michael-girkin.html",
+    "title": "John Michael Girkin",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    John Michael Girkin\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nDurham University / Grey College-DURHAM– Inglaterra-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nColaborar com o grupo de aplicações de laser e também no diagnóstico com luz. Usar a imagem no domínio da frequência espacial (SFDI) como um candidato promissor para melhorar o diagnóstico da ferida cirúrgica, detectando a heterogeneidade vertical e medindo o valor de espalhamento reduzido ¿¿¿¿¿¿ Para melhorar melhorar a imagem in vivo no pulmão. Novos Detectores de Avalanche de Fóton Único (SPADS) que foram projetados com eletrônica de contagem de fóton único integrado para realizar imagens de vida de fluorescência com alta resolução espectral, espacial e temporal. Esta tecnologia é combinada com uma gama de novos marcadores fluorescentes medicamente seguros e um único feixe de fibra coerente de modo único para obter imagens gravadas dentro do pulmão humano vivo."
+  },
+  {
+    "objectID": "pessoas/equipeestrangeira/juan-jose-nogueira.html",
+    "href": "pessoas/equipeestrangeira/juan-jose-nogueira.html",
+    "title": "Juan Jose Nogueira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Juan Jose Nogueira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidad Autónoma de Madrid-UAM - - Espanha -\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nLidera o grupo de dinâmica molecular, que irá contribuir desenvolvendo métodos de simulação computacional visando desvendar mecanismos e processos relacionados ao desenvolvimento de novos fármacos."
+  },
+  {
+    "objectID": "pessoas/equipeestrangeira/larry-dewerd.html",
+    "href": "pessoas/equipeestrangeira/larry-dewerd.html",
+    "title": "Larry Dewerd",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Pesquisador da equipe estrangeira\n    Larry Dewerd\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversity of Wisconsin - Madison-WISCONSIN–Estados Unidos-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nFara a intercomparação da metodologia de dosimetria das nanoparticulas radioativas com a dosimetria utilizada para radioisótopos e radiofarmacos além de ser um consultor para auxiliar o desenvolvimento desta metodologia. Por ser o responsavel pelo Laboratório de Dosimetria da Universidade de Wisconsin, ele nos possibilitará intercomparar os nossos sistemas dosimétricos com os sistemas padrões utilizados neste laboratório."
+  },
+  {
+    "objectID": "pessoas/membro-do-comitê-gestor/maria-elisa-chuery-martins-rostelato.html",
+    "href": "pessoas/membro-do-comitê-gestor/maria-elisa-chuery-martins-rostelato.html",
+    "title": "Maria Elisa Chuery Martins Rostelato",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Membro do Comitê Gestor\n    Maria Elisa Chuery Martins Rostelato\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nProdução de Radioisótopos, Aplicações Industriais de Radioisótopos, Produção de Fontes Radioativas\n\n\nAtuação no Projeto\nResponsável pelo desenvolvimento de novas tecnologias para tratamento de câncer com radiações ionizantes, em especial a nanobraquiterapia, e pelo Laboratório de Produção de Fontes Radioativas para Radioterapia do IPEN, que produz e distribui fontes radioativas para os hospitais, desde 1997. Os principais desafios incluem: síntese e caracterização de nanopartículas de ouro (AuNPs) radioativa e não-radioativa; funcionalização das nanopartículas para direcionamento ao tumor; ensaios de citotoxicidade in vitro; ensaios em modelo animal de tumor de próstata; associação da Terapia com Laser de Baixa Potência à nanobraquiterapia in vivo; desenvolvimento de ensaios pré-clínicos de câncer de próstata para investigar o efeito biológico da associação das radiações ionizante e não ionizante; realização de ensaios clínicos para aumentar o nível de evidências na literatura científica, ao uso de fontes radioativas em câncer, auxiliando nas tomadas de decisões na Saúde; dosimetria em radioterapia."
+  },
+  {
+    "objectID": "pessoas/membro-do-comitê-gestor/divanizia-do-nascimento-souza.html",
+    "href": "pessoas/membro-do-comitê-gestor/divanizia-do-nascimento-souza.html",
     "title": "Divanizia do Nascimento Souza",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Divanizia do Nascimento Souza\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal de Sergipe – UFS\n\n\nÁreas de Atuação\nInstrumentação para Medida e Controle de Radiação, Propriedades Óticas e Espectroscopia da Matéria Condensada; Outras Interações da Matéria com Radiação e Partículas, Métodos e Técnicas de Ensino, Física, Física da Matéria Condensada\n\n\nAtuação no Projeto\nO uso de fontes radioativas em medicina demanda estudos dosimétricos com técnicas que se adequem tanto a procedimentos de irradiação simulados quanto in vivo. Nas simulações, que podem ser físicas ou computacionais, pacientes ou amostras são representados por objetos simuladores (phantoms). Os phantoms podem ser físicos ou virtuais, tais como sólidos com uma geometria simples ou os antropomórficos. Neste projeto, a minha colaboração e do grupo e laboratório de Física Médica que coordeno na Universidade Federal de Sergipe será realizar procedimentos dosimétricos empregado técnicas luminescentes e computacionais. Será enfatizado o desenvolvimento de protocolos dosimétricos para radioterapia empregando fontes radioativas sintetizadas e caracterizadas neste projeto e de demais feixes de radiação de interesse. A termoluminescência e a luminescência opticamente estimulada serão as técnicas físicas empregadas; para as simulações computacionais será empregado o código computacional Monte Carlo."
-  },
-  {
-    "objectID": "pessoas/pesq/emilianohoraciomedei4.html",
-    "href": "pessoas/pesq/emilianohoraciomedei4.html",
-    "title": "Emiliano Horácio Medei4",
-    "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Emiliano Horácio Medei4\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Rio de Janeiro – UFRJ\n\n\nÁreas de Atuação\nMedicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas\n\n\nAtuação no Projeto\nSerá responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas"
-  },
-  {
-    "objectID": "pessoas/pesq/emilianohoraciomedei5.html",
-    "href": "pessoas/pesq/emilianohoraciomedei5.html",
-    "title": "Emiliano Horácio Medei5",
-    "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Emiliano Horácio Medei5\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Rio de Janeiro – UFRJ\n\n\nÁreas de Atuação\nMedicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas\n\n\nAtuação no Projeto\nSerá responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas"
-  },
-  {
-    "objectID": "pessoas/pesq/emilianohoraciomedei2.html",
-    "href": "pessoas/pesq/emilianohoraciomedei2.html",
-    "title": "Emiliano Horácio Medei2",
-    "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Emiliano Horácio Medei2\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Rio de Janeiro – UFRJ\n\n\nÁreas de Atuação\nMedicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas\n\n\nAtuação no Projeto\nSerá responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas"
-  },
-  {
-    "objectID": "pessoas/pesq/denisemariazezell2.html",
-    "href": "pessoas/pesq/denisemariazezell2.html",
-    "title": "Denise Maria Zezell2",
-    "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Denise Maria Zezell2\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares – IPEN-CNEN,SP\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nDesenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população."
+    "text": "Home\n    Coord. e Equipe\n    Membro do Comitê Gestor\n    Divanizia do Nascimento Souza\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal de Sergipe / Departamento de Fisica-UFS-SE- Brasil-\n\n\nÁreas de Atuação\nInstrumentação para Medida e Controle de Radiação, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Métodos e Técnicas de Ensino, Física, Física da Matéria Condensada\n\n\nAtuação no Projeto\nO uso de fontes radioativas em medicina demanda estudos dosimétricos com técnicas que se adequem tanto a procedimentos de irradiação simulados quanto in vivo. Nas simulações, que podem ser físicas ou computacionais, pacientes ou amostras são representados por objetos simuladores (phantoms). Os phantoms podem ser físicos ou virtuais, tais como sólidos com uma geometria simples ou os antropomórficos. Neste projeto, a minha colaboração e do grupo e laboratório de Física Médica que coordeno na Universidade Federal de Sergipe será realizar procedimentos dosimétricos empregado técnicas luminescentes e computacionais. Será enfatizado o desenvolvimento de protocolos dosimétricos para radioterapia empregando fontes radioativas sintetizadas e caracterizadas neste projeto e de demais feixes de radiação de interesse. A termoluminescência e a luminescência opticamente estimulada serão as técnicas físicas empregadas; para as simulações computacionais será empregado o código computacional Monte Carlo"
   },
   {
     "objectID": "sobre-o-interas.html",
@@ -98,46 +413,333 @@
     "text": "Novas tecnologias para caracterização rápida, não-invasiva e de baixo custo para doenças, são decisivas na diminuição da mortalidade, o que ficou evidenciado durante a pandemia. Aos desafios na detecção precoce e no tratamento do câncer, somaram-se questões relacionadas ao surgimento de novos vírus com alta taxa de letalidade, como o SARS-CoV-2. Tratamentos clínicos avançaram exponencialmente nas últimas décadas, mas podem ser caros e ineficazes. O INTERA se propõe desenvolver e aplicar métodos diagnósticos e terapêuticos numa ampla diversidade de doenças (cânceres, doenças cardíacas e cardiorenais, infecções virais, doenças negligenciadas) assistidos por radiações em ampla faixa do espectro eletromagnético. O IPEN é o caso mais bem sucedido de inovação translacional, levando a hospitais e clínicas os produtos e processos desenvolvidos desde a pesquisa básica, na área de radiofármacos, desde sua criaçao em 1956. Os objetivos específicos compreendem o desenvolvimento de novos radiofármacos baseados em anticorpos para diagnóstico por imagem PET/SPECT, radioterapia alvo-dirigida de tumores, nanobraquiterapia, processos terapêuticos com lasers, diagnóstico de diferentes doenças por imagem hiperespectral no infravermelho e raman, avaliados por inteligência artificial. Pretende-se executar a translação não apenas para clínica, mas principalmente para o setor produtivo. Estamos fortemente convencidos que o estabelecimento de um diagnóstico e terapia médica de precisão e personalizada é um dos grandes desafios da medicina moderna que o INTERAS também poderá resolver criando um mosaico científico-industrial. Para isto, apresentamos proposta transdisciplinar com mais de 30 pesquisadores de 8 Instituições (AM, PE, SP, RJ e SE) e colaboradores internacionais e nacionais. Vale ressaltar, que os pesquisadores do INTERAS possuem uma alta inserção acadêmica e industrial. Propomos ainda implementar um diálogo contínuo com a sociedade por meio de ações de divulgação científica.\nInstituições participantes Nacionais:\n\nInstituto de Pesquisas Energéticas e Nucleares - Executora/Sede\nUniversidade Federal do ABC - Laboratório Associado\nUniversidade Federal do Rio de Janeiro - Laboratório Associado\nUniversidade Federal de Sergipe - Laboratório Associado\nUniversidade Federal de Uberlândia - Laboratório Associado\nUniversidade de São Paulo (FOUSP e FFCLRP, Ribeirão Preto) - Laboratório Associado\nUniversidade Federal de São Paulo - Laboratório Associado\nInstituto do Câncer do Estado de São Paulo - Octávio Frias de Oliveira - Laboratório Associado\nCentro Regional de Ciências Nucleares do Nordeste - Laboratório Associado\n\nInstituições participantes estrangeiras:\n\nUniversity of Wisconsin - Madison - WISCONSIN, United States\nHôpital Universitaire Necker-Enfants Malades - NECKER, France\nDurham University - DURHAM, England\nRuprecht-Karls-Universität Heidelberg - HEIDELBERG, Germany\nUniversity of Exeter - EXETER, England\nUniversidad Autónoma de Madrid - UAM, Spain\nUniversity of St Andrews - ST-ANDREWS, Scotland\n\nEmpresas:\n\nRevolugenix Biotecnologia, Pesquisa e Desenvolvimento Ltda - SP, Brazil\nBRVANT e IBRV - Instituto de Pesquisa e Desenvolvimento - IBRV, SP, Brazil\nANACOM Científica\nAXCEM Dermatologia\nBiolambda, Científica e Comercial Ltda\nClean Clinica Especializada em Anatomia Oral S/C\nCK Estomatologia S/C Ltda\nCuritiba Biotecnologia - Curitiba Biotech, PR, Brazil\nLM Insight Ltda"
   },
   {
-    "objectID": "pessoas/pesq/denisemariazezell3.html",
-    "href": "pessoas/pesq/denisemariazezell3.html",
-    "title": "Denise Maria Zezell3",
+    "objectID": "pessoas/membro-do-comitê-gestor/wagner-de-rossi.html",
+    "href": "pessoas/membro-do-comitê-gestor/wagner-de-rossi.html",
+    "title": "Wagner de Rossi",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Denise Maria Zezell3\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares – IPEN-CNEN,SP\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nDesenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população."
+    "text": "Home\n    Coord. e Equipe\n    Membro do Comitê Gestor\n    Wagner de Rossi\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nProcessos de Usinagem a Laser, microusinagem com laser de femtosegundo, Soldagem a Laser, Lasers\n\n\nAtuação no Projeto\n1-Responsável pela Estação de microusinagem com laser de femtosegundos."
   },
   {
-    "objectID": "pessoas/pesq/emilianohoraciomedei3.html",
-    "href": "pessoas/pesq/emilianohoraciomedei3.html",
-    "title": "Emiliano Horácio Medei3",
+    "objectID": "pessoas/membro-do-comitê-gestor/herculano-da-silva-martinho.html",
+    "href": "pessoas/membro-do-comitê-gestor/herculano-da-silva-martinho.html",
+    "title": "Herculano da Silva Martinho",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Emiliano Horácio Medei3\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Rio de Janeiro – UFRJ\n\n\nÁreas de Atuação\nMedicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas\n\n\nAtuação no Projeto\nSerá responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas"
+    "text": "Home\n    Coord. e Equipe\n    Membro do Comitê Gestor\n    Herculano da Silva Martinho\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC-SP-Brasil-\n\n\nÁreas de Atuação\nFísica da Matéria Condensada, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Propriedades Térmicas da Matéria Condensada, Modelos Analíticos e de Simulação, Engenharia Biomédica\n\n\nAtuação no Projeto\nLiderará experimentos envolvendo espectroscopia vibracional (espectroscopias Raman, Absorção no Infravermelho) em escalas macro (milímetros), micro (microns), e nano (200 nanômetros) de amostras de biofluidos (saliva, plasma, sangue) de pacientes acometidos por doenças ou situações clínicas onde inflamação ou hiperinflamação são fatores importantes ((por exemplo COVID-19, ¿Monkeypox¿). Os principais desafios científicos e tecnológicos que deverá superar envolvem, mas não limitam-se a, i) desenvolver metodologia adequada para a obtenção dos sinais espectrais; ii) liderar o desenvolvimento de métodos de análise dos dados espectrais, usando ferramentas de mineração de dados; iii) liderar a busca por possíveis correlações entre os achados espectrais e outras técnicas; iv) liderar o desenvolvimento de simulações computacionais de macromoléculas e tecidos a fim de subsidiar a interpretação dos dados."
   },
   {
-    "objectID": "pessoas/pesq/denisemariazezell5.html",
-    "href": "pessoas/pesq/denisemariazezell5.html",
-    "title": "Denise Maria Zezell5",
+    "objectID": "pessoas/equipeestrangeira/benedicte-manoury.html",
+    "href": "pessoas/equipeestrangeira/benedicte-manoury.html",
+    "title": "Benedicte Manoury",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Denise Maria Zezell5\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares – IPEN-CNEN,SP\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nDesenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população."
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Benedicte Manoury\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nHôpital Universitaire Necker-Enfants Malades-NECKER - -França-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEm seu grupo no Hôpital Necker-Enfants Malades (Paris França) irá realizar experimentos de cardioimunologia principalmente FACS, citometria de fluxo, e outras técnicas de imunologia."
   },
   {
-    "objectID": "pessoas/pesq/denisemariazezell4.html",
-    "href": "pessoas/pesq/denisemariazezell4.html",
-    "title": "Denise Maria Zezell4",
+    "objectID": "pessoas/equipeestrangeira/terence-kenneth-smith.html",
+    "href": "pessoas/equipeestrangeira/terence-kenneth-smith.html",
+    "title": "Terence Kenneth Smith",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Pesquisadores\n    Denise Maria Zezell4\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares – IPEN-CNEN,SP\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nDesenvolver estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população."
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Terence Kenneth Smith\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversity of St Andrews - ST- ANDREWS –Escócia-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nTo find, validate and exploit differences between protozoan and mammalian metabolism, in particular the molecular and biochemical parasitology, including T. brucei, T.cruzi, Leishmania, Toxoplasma and Plasmodium, treated by antimicrobial photodynamic therapy (aPDT) in collaboration with Martha S. Ribeiro from IPEN."
   },
   {
-    "objectID": "pessoas/cg/00_denisemariazezell.html",
-    "href": "pessoas/cg/00_denisemariazezell.html",
-    "title": "Denise Maria Zezell",
+    "objectID": "pessoas/equipeestrangeira/ifor-david-william-samuel.html",
+    "href": "pessoas/equipeestrangeira/ifor-david-william-samuel.html",
+    "title": "Ifor David William Samuel",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Denise Maria Zezell\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares – IPEN-CNEN,SP\n\n\nÁreas de Atuação\nTerapia Óptica, Biofotônica, Radiologia e Fotobiologia\n\n\nAtuação no Projeto\nAlém de Coordenadora geral do INCT, também atua no desenvolvimento de estratégias terapêuticas de vanguarda baseadas em radiações e sistemas nanoestruturados para combate ao câncer e doenças infecciosas resistentes, de modo a fornecer tecnologias de ponta para a melhora da qualidade de vida da população."
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Ifor David William Samuel\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversity of St Andrews - ST- ANDREWS –Escócia-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEstudar a fotofísica e o desenvolvimento de novos materiais como diodos emissores de luz e lasers. Colaboração com Martha S. Ribeiro do IPEN nos Diodos Emissores de Luz Orgânicos (OLEDs), para desenvolvimento de fontes de luz vestíveis para terapia fotodinâmica ambulatorial de câncer de pele e outras doenças."
   },
   {
-    "objectID": "pessoas/cg/01_emilianohoraciomedei.html",
-    "href": "pessoas/cg/01_emilianohoraciomedei.html",
+    "objectID": "pessoas/equipeestrangeira/nicholas-stone.html",
+    "href": "pessoas/equipeestrangeira/nicholas-stone.html",
+    "title": "Nicholas Stone",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Membro Executora Estrangeira\n    Nicholas Stone\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversity of Exeter- EXETER - -Inglaterra-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nIrá colaborar no desenvolvimento de plataformas SERS e métodos baseados em espectroscopia vibracional para tecnologias de diagnóstico não invasivo."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/adamo-ferreira-gomes-do-monte.html",
+    "href": "pessoas/líder-de-laboratório-associado/adamo-ferreira-gomes-do-monte.html",
+    "title": "Adamo Ferreira Gomes do Monte",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Adamo Ferreira Gomes do Monte\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal de Uberlândia / Instituto de Física-UFU-MG-Brasil-\n\n\nÁreas de Atuação\nProp. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Instrumentação Odontológica e Médico-Hospitalar, Prop. Óticas e Elétricas de Nanoestruturas Semicondutoras\n\n\nAtuação no Projeto\nObter protocolos clínicos com resultado terapêutico in-vivo baseado no conhecimento da localização e concentração de cromóforos no tecido cutâneo (oxi-hemoglobina, deoxi-hemoglobina, água, melanina e lipídios). Desenvolvemos método inovador no Brasil in-vivo não-invasivo para determinar a concentração desses cromóforos e sua distribuição espacial, por meio da reconstituição da imagem óptica difusa utilizando redes neurais artificiais para o mapeamento e diagnóstico de tumores e lesões de tecidos. Detectar quantitativa e não-invasiva da absorção óptica e do espalhamento em tecidos. A técnica de imagem no domínio da frequência espacial (SFDI) irá funcionar como um dispositivo aplicado à Medicina, promovendo grande impacto com o desenvolvimento de estudos ligados ao diagnóstico óptico precoce de tecidos e também mapeamento de tumores cutâneos in-vivo. Na área tecnológica, a também será utilizada para realizar tomografía óptica de tecidos."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/elvis-joacir-de-frança.html",
+    "href": "pessoas/líder-de-laboratório-associado/elvis-joacir-de-frança.html",
+    "title": "Elvis Joacir De França",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Elvis Joacir De França\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nCentro Regional de Ciências Nucleares do Nordeste- CRCN/CNEN-PE-Brasil-\n\n\nÁreas de Atuação\nCiclagem de Elementos Químicos, Análise de Traços e Química Ambiental, Controle de Qualidade, Manejo Ambiental, Manejo e Conservação do Solo, Radioecologia\n\n\nAtuação no Projeto\nA proximidade de um cíclotron ao hospital público favorece a aplicação das Radiações Ionizantes na Saúde, ampliando-se a gama de fármacos a serem utilizados para o imageamento molecular em pacientes com respeito ao diagnóstico/enfrentamento de neoplasias, doenças coronárias e desordens cerebrais. Neste INCT, propõe-se disponibilizar infraestrutura para ensaios pré-clínicos para antígeno de membrana prostático específico (PSMA), receptor de estrogênio positivo de câncer de mama (FES) е fluoreto de sódio (NaF), denominado de farmacêutico sem carreador para a detecção de lesões benignas e malignas em osso, além de flutemetamol para o diagnóstico de pacientes com Alzheimer. Os esforços para a implementação do laboratório integrado de pesquisas na Região Nordeste, no contexto desse INCT, são motivados a partir da necessidade de expandir os serviços prestados à sociedade em Medicina Nuclear na Região Norte/Nordeste, além de fomentar pesquisas científicas de alto nível."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/joaquim-cezar-felipe.html",
+    "href": "pessoas/líder-de-laboratório-associado/joaquim-cezar-felipe.html",
+    "title": "Joaquim Cezar Felipe",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Joaquim Cezar Felipe\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Faculdade de Filosofia Ciências e Letras de Ribeirão Preto-USP-SP-Brasil-\n\n\nÁreas de Atuação\nINFORMÁTICA BIOMÉDICA, Indexação e Recuperação de Imagens, Sistemas de Diagnóstico Auxiliado por Computador, Bioinformática, Sistemas de Informação em Saúde, Banco de Dados\n\n\nAtuação no Projeto\nInvestigação e avaliação de técnicas de Aprendizado de Máquina, convencionais e também aquelas baseadas em aprendizado profundo, aplicadas ao auxílio ao diagnóstico médico, por meio da análise de imagens de amostras histológicas, assim como dos sinais hiperespectrais obtidos por absorção no infravermelho. Extrair características radiômicas da imagem de HE e analisar sinais hiperespectrais explorando a informação contida nos espectros de infravermelho de cada pixel da amostra de diferentes tecidos humanos (saudáveis e lesionados) previamente avaliados por especialistas. As técnicas de aprendizado profundo a serem exploradas são as redes neurais convolucionais, as redes neurais completamente conectadas e as redes neurais recorrentes, em abordagem supervisionada para a modelagem de classificadores. Este grupo também fornecerá suporte em aplicações de Aprendizado de Máquina para outros grupos pertencentes ao INTERAS, nas demandas em que for pertinente a utilização de tais técnicas."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/thiago-martini-pereira.html",
+    "href": "pessoas/líder-de-laboratório-associado/thiago-martini-pereira.html",
+    "title": "Thiago Martini Pereira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Thiago Martini Pereira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal de São Paulo / Departamento de Ciência e Tecnologia-UNIFESP- SP-Brasil-\n\n\nÁreas de Atuação\nESPECTROSCOPIA NO INFRAVERMELHO, ESPECTROSCOPIA RAMAN, PROCESSAMENTO DE SINAIS BIOESPECTROSCOPICOS, COMPUTER AIDED DIAGNOSIS\n\n\nAtuação no Projeto\nOtimização de métodos de processamento de imagens hiperespectrais na região do infravermelho para o diagnóstico de neoplasias e outras doenças de interesse do projeto. Adicionalmente será o responsável pelo desenvolvimento da plataforma Web para a unificação dos dados espectroscópicos com o objetivo de divulgar as técnicas ópticas dentro da comunidade médica. Serás o responsável pelo desenvolvimento de uma aplicação para tablet na qual ira auxiliar o patologista na análise dos dados do projeto."
+  },
+  {
+    "objectID": "pessoas/líder-de-laboratório-associado/marcela-sorelli-carneiro-ramos.html",
+    "href": "pessoas/líder-de-laboratório-associado/marcela-sorelli-carneiro-ramos.html",
+    "title": "Marcela Sorelli Carneiro Ramos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Líder de Laboratório Associado\n    Marcela Sorelli Carneiro Ramos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas-UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nFisiologia Cardiovascular, Citologia e Biologia Celular, Histologia, Imunologia Celular, Fisiologia Endócrina\n\n\nAtuação no Projeto\nCoordenar as investigação dos processos inflamatórios derivados de doenças cardiovasculares. É bem estabelecido que as funções cardíacas e renais estão intimamente conectadas e, portanto, alteração em um dos órgãos, é capaz de levar à alterações no outro órgão. Nesse sentido, é bastante relevante o entendimento dos conectores do eixo rim-coração. Assim, dentre as diversas doenças cardiovasculares, iremos focar no quadro de síndrome cardiorrenal tipo 3, onde é possível observar os efeitos cardíacos oriundos de um quadro de lesão renal aguda (LRA). A LRA apresenta elevada incidência na população mundial e, quando não diagnosticada corretamente ou tardiamente, pode levar ao quadro de doença renal crônica, onde ocorre a perda progressiva e irreversível da função renal e, consequentemente, cardíaca. O presente projeto conta com as colaborações nacionais e internacionais (UFPR, Canada e Espanha)"
+  },
+  {
+    "objectID": "pessoas/apoio-técnico/anselmo-feher.html",
+    "href": "pessoas/apoio-técnico/anselmo-feher.html",
+    "title": "Anselmo Feher",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Apoio Técnico\n    Anselmo Feher\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nEngenharia Mecânica\n\n\nAtuação no Projeto\nFornecer suporte tecnico especializado e na instrumentação, nos projetos de radioterapia e nanobraquiterapia."
+  },
+  {
+    "objectID": "pessoas/pesquisador/lorena-pozzo.html",
+    "href": "pessoas/pesquisador/lorena-pozzo.html",
+    "title": "Lorena Pozzo",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Lorena Pozzo\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nAvaliação de Tecnologias em Saúde, FÍSICA MÉDICA, DIAGNOSTICO POR IMAGEM, Medicina Nuclear, Dosimetria em Medicina Nuclear, Radiologia Médica\n\n\nAtuação no Projeto\nCoordenação e desenvolvimento de Avaliações das tecnologias em saúde desenvolvidas no INTERAS que possam demandar a discussão e decisão de sua incorporação ao sistema de saúde brasileiro. Para cada uma dessas tecnologias, sejam elas produtos ou procedimentos, devem ser desenvolvidos Pareceres Técnico Científicos (PTCs). Trata-se da primeira avaliação para responder questões sobre a população alvo, síntese sistematizada (reprodutível) e graduação da evidência de eficácia, efetividade e segurança clínicas. Avaliações econômicas como de custo-efetividade e impacto orçamentário podem compor o documento se houver dados nacionais ou regionais. Os PTCs devem ser elaborados em conjunto com os pesquisadores do INTERAS e médicos assistenciais envolvidos na prática clínica."
+  },
+  {
+    "objectID": "pessoas/pesquisador/luciane-hiramatsu-azevedo.html",
+    "href": "pessoas/pesquisador/luciane-hiramatsu-azevedo.html",
+    "title": "Luciane Hiramatsu Azevedo",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Luciane Hiramatsu Azevedo\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Dentística-USP- SP-Brasil-\n\n\nÁreas de Atuação\nOdontologia, Odontopediatria, LASER\n\n\nAtuação no Projeto\nUtilizar os lasers de alta potência no tratamento cirúrgico de lesões dos tecidos moles orais em pacientes que apresentem tumores benignos, lesões vasculares e lesões potencialmente cancerizáveis. As lesões removidas serão encaminhadas para exames histopatológicos (Departamento de Patologia da FOUSP). A eficácia da aplicação de lasers de alta potência no tratamento de lesões da mucosa oral será avaliada dentro dos seguintes critérios: ausência de recidiva após 1 (no mínimo) de seguimento clínico, conforto do paciente no pós- operatório, sintomatologia e uso de medicamentos analgésicos e antiinflamatórios. Promover treinamento de profissionais e atuar na difusào cientifica."
+  },
+  {
+    "objectID": "pessoas/pesquisador/ilka-tiemy-kato.html",
+    "href": "pessoas/pesquisador/ilka-tiemy-kato.html",
+    "title": "Ilka Tiemy Kato",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Ilka Tiemy Kato\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas - UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nESTOMATOLOGIA, Terapia Fotodinâmica, Modelagem de Sistemas Biológicos, Laser em Odontologia\n\n\nAtuação no Projeto\nEmpregar a biofotônica para estudar a interação da radiação não ionizante com os tecidos do sistema nervoso central e desenvolver estratégias terapêuticas que empregam tecnologias baseadas em luz no tratamento das sequelas causadas pela asfixia perinatal. Os principais desafios a serem superados: desenvolver metodologias de análise para avaliar a penetração da radiação nas estruturas do encéfalo de animais neonatos; desenvolver e aprimorar estratégias terapêuticas para evitar ou minimizar as sequelas causadas pela privação de oxigênio nos tecidos cerebrais."
+  },
+  {
+    "objectID": "pessoas/pesquisador/marcus-paulo-raele.html",
+    "href": "pessoas/pesquisador/marcus-paulo-raele.html",
+    "title": "Marcus Paulo Raele",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Marcus Paulo Raele\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nÓtica, Interferometria, Física Nuclear, Estrutura Nuclear\n\n\nAtuação no Projeto\nPropor, executar e auxiliar na análise de características ópticas de tecidos biológicos via espectroscopia de absorção visando um melhor entendimento da aplicação de radiação não ionizante transcraniana em camundongos neonatos (em parceria com Profa Dra Ilka Tiemy Kato Prates, UFABC). Produzir, via ablação de laser de femtosegundos nanopartículas de ouro para aplicação em nano braquiterapia (em parceria com a Profa Dra Elisa Rostelato e Prof Dr. Wagner de Rossi IPEN)."
+  },
+  {
+    "objectID": "pessoas/pesquisador/moisés-oliveira-dos-santos.html",
+    "href": "pessoas/pesquisador/moisés-oliveira-dos-santos.html",
+    "title": "Moisés Oliveira dos Santos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Moisés Oliveira dos Santos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade do Estado do Amazonas-UEA-AM-Brasil-\n\n\nÁreas de Atuação\nFísica Geral, Física da Matéria Condensada, Ótica, Robótica, Mecatrônica e Automação, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.\n\n\nAtuação no Projeto\nEstudar e desenvolver (i) métodos e dispositivos de análise de imagem multiespectral que são capazes de recuperar dados de imagens hiperespectrais; (ii) desenvolver métodos de análise de imagens (classificação e diferenciação) hiperespectrais na faixa do infravermelho médio (espectroscopia vibracional) e na região do visível (microscopia óptica) de amostras de câncer de mama e outros tecidos biológicos. As análises serão baseadas em aprendizado de máquina, incluindo aprendizado profundo."
+  },
+  {
+    "objectID": "pessoas/pesquisador/mario-olimpio-de-menezes.html",
+    "href": "pessoas/pesquisador/mario-olimpio-de-menezes.html",
+    "title": "Mario Olimpio de Menezes",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Mario Olimpio de Menezes\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nInteligência Artificial e Aprendizado de Máquina, Física Nuclear, Modelos Analíticos e de Simulação, Computação Paralela e Distribuída, Ciência da Computação, Física\n\n\nAtuação no Projeto\nEstudo e aplicação de aprendizado de máquina, redes neurais diversas e outras técnicas de inteligência artificial para análises de dados e imagens, geração de insights e melhoria de processos. Analisar imagens hiperespectrais de amostras de tecidos irradiados por luz em diversos processos biológicos no tratamentos de cânceres. Os principais desafios científicos e tecnológicos que deverá superar incluem, mas não se limitam a: i) apropriação dos conceitos básicos relacionados à técnica de FTIR; ii) apropriação dos conceitos básicos da aquisição das imagens e dos respectivos espectrômetros; iii) identificação das técnicas de aprendizado de máquina apropriadas para análises deste tipo de imagens; iv) expor as explicações das técnicas de aprendizado de máquina empregadas nas análises de modo a aumentar a confiabilidade dos resultados; v) buscar o engajamento com outros pesquisadores de aprendizado de máquina e inteligência artificial do projeto visando fomentar a formação de alunos."
+  },
+  {
+    "objectID": "pessoas/pesquisador/luis-felipe-das-chagas-e-silva-de-carvalho.html",
+    "href": "pessoas/pesquisador/luis-felipe-das-chagas-e-silva-de-carvalho.html",
+    "title": "Luis Felipe das Chagas e Silva de Carvalho",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Luis Felipe das Chagas e Silva de Carvalho\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de Taubaté / Departamento de Odontologia- UNITAU-SP-Brasil-\n\n\nÁreas de Atuação\nNanobiotecnologia, Estomatologia, Câncer Bucal\n\n\nAtuação no Projeto\nSerá responsável por investigar amostras de salivas de pacientes com câncer bucal e normasis visando 1) padronizar a caracterização do biofluído em indivíduos saudáveis como grupo comparador; 2) investigar fatores confundidores do paciente (por exemplo, fumantes versus não fumantes); 3) investigar condições potencialmente malignas. Sua abordagem terá viés diretamente clínico, em conjunto com a CK Estomatologia e outros parceiros neste projeto."
+  },
+  {
+    "objectID": "pessoas/pesquisador/niklaus-ursus-wetter.html",
+    "href": "pessoas/pesquisador/niklaus-ursus-wetter.html",
+    "title": "Niklaus Ursus Wetter",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Niklaus Ursus Wetter\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nÓtica, Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Lasers, Processamento de Sinais Biológicos, Instrumentação Odontológica e Médico-Hospitalar\n\n\nAtuação no Projeto\n\nResponsável pelo equipamento multiusuário n-SNOM (Scanning Near Field Optical Microscopy): (https://www.sites.google.com/site/ipencla/multiusuario/sistemas-fapesp/snom) 2) Dar apoio aos experimentos que envolvem medidas de microRaman, nanoRaman, TERS (Tip Enhanced Raman Spectroscopy). 3) Desenvolvimento de substratos SERS (Surface Enhanced Raman Spectroscopy) para medidas em amostras biológicas."
+  },
+  {
+    "objectID": "pessoas/pesquisador/daniel-perez-vieira.html",
+    "href": "pessoas/pesquisador/daniel-perez-vieira.html",
+    "title": "Daniel Perez Vieira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Daniel Perez Vieira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nRadiologia e Fotobiologia, Biologia Molecular, Hematologia, Protozoologia Parasitária Humana, Protozoologia Parasitária Animal, Imunologia Celular\n\n\nAtuação no Projeto\nPlanejamento, execução e apoio para ensaios de citotoxicidade, genotoxicidade e microscopia óptica de fluorescência para avaliação dos efeitos de radiofármacos ou de novos compostos em modelos in vitro estruturados em duas ou três dimensões. Poderão ser utilizados modelos tumorais ou não-tumorais, majoritariamente na forma de esferoides de linhagem celular única."
+  },
+  {
+    "objectID": "pessoas/colaborador/ilija-uzelac.html",
+    "href": "pessoas/colaborador/ilija-uzelac.html",
+    "title": "Ilija Uzelac",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Colaborador\n    Ilija Uzelac\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nGeorgia Institute of Technology / Georgia Tech Research Institute-GEORGIA TECH–Estados Unidos-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nIrá colaborar no desenvolvimento do setup experimental e análise crítica dos resultados, em especial no modelo animal e mapeamento óptico panorâmico da atividade arrítmica."
+  },
+  {
+    "objectID": "pessoas/colaborador/jesica-ayelen-dimmer.html",
+    "href": "pessoas/colaborador/jesica-ayelen-dimmer.html",
+    "title": "Jesica Ayelen Dimmer",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Colaborador\n    Jesica Ayelen Dimmer\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidad Nacional de Córdoba Argentina- UNC - -Argentina-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEstudo conjuntos com o IPEN no uso de tecnologias assistidas por luz para caracterização e terapia de doença de Chagas e Leishmania."
+  },
+  {
+    "objectID": "pessoas/colaborador/andréa-emilia-marques-stinghen.html",
+    "href": "pessoas/colaborador/andréa-emilia-marques-stinghen.html",
+    "title": "Andréa Emilia Marques Stinghen",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Colaborador\n    Andréa Emilia Marques Stinghen\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Paraná / Departamento de Patologia Médica-UFPR-PR-Brasil-\n\n\nÁreas de Atuação\nNefrologia, Fisiologia Renal, Biologia Celular, Citologia e Biologia Celular\n\n\nAtuação no Projeto\nEmpregará técnicas de espectroscopia vibracional, em amostras de soro e dialisato peritoneal, de pacientes em diferentes fases da doença renal crônica. O objetivo é mapear novos biomarcadores nas diferentes fases da doença."
+  },
+  {
+    "objectID": "pessoas/bolsista/jessica-dipold.html",
+    "href": "pessoas/bolsista/jessica-dipold.html",
+    "title": "Jessica Dipold",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Jessica Dipold\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nProp. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part., Teorias Específicas e Modelos de Interação; Sistemática de Partículas; Raios Cósmicos, Processos de Colisão e Interações de Átomos e Moléculas\n\n\nAtuação no Projeto\nResponsável pelas medidas de espectros raman e microscopia de força atômica para para caracterização de Zica virus, em função de doses de radiação gama."
+  },
+  {
+    "objectID": "pessoas/bolsista/mayara-santana-pinto.html",
+    "href": "pessoas/bolsista/mayara-santana-pinto.html",
+    "title": "Mayara Santana Pinto",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Mayara Santana Pinto\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nComissão Nacional de Energia Nuclear / Instituto de Pesquisas Energéticas e Nucleares-CNEN-RJ-Brasil-\n\n\nÁreas de Atuação\nQuímica Analítica, Química Orgânica, Biofotônica\n\n\nAtuação no Projeto\nIrá avaliar a eficácia de fotobioestimulação nos temas envolvidos no presente projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/arian-pérez-nario.html",
+    "href": "pessoas/bolsista/arian-pérez-nario.html",
+    "title": "Arian Pérez Nario",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Arian Pérez Nario\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nQuímica Orgânica, Radioquímica, Síntese Orgânica\n\n\nAtuação no Projeto\nDesenvolver sistemas microfluídicos para síntese de radiofármacos que usam flúor radioativo."
+  },
+  {
+    "objectID": "pessoas/bolsista/gabrielle-luana-jimenez-teodoro-nepomuceno.html",
+    "href": "pessoas/bolsista/gabrielle-luana-jimenez-teodoro-nepomuceno.html",
+    "title": "Gabrielle Luana Jimenez Teodoro Nepomuceno",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Gabrielle Luana Jimenez Teodoro Nepomuceno\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas - UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nCiências Ambientais, Biologia Molecular, Biofísica, Análise Multivariada\n\n\nAtuação no Projeto\nIrá desenvolver metodologia para avaliação espectral de micro gotas de biofluidos de pacientes envolvidos neste projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/arthur-melo-de-oliveira.html",
+    "href": "pessoas/bolsista/arthur-melo-de-oliveira.html",
+    "title": "Arthur Melo de Oliveira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Arthur Melo de Oliveira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Física - USP- SP-Brasil-\n\n\nÁreas de Atuação\nFísica Médica\n\n\nAtuação no Projeto\nSimulações de Monte Carlo para propagação de radiação óptica na pele"
+  },
+  {
+    "objectID": "pessoas/bolsista/monique-rodrigues.html",
+    "href": "pessoas/bolsista/monique-rodrigues.html",
+    "title": "Monique Rodrigues",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Monique Rodrigues\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nOdontologia\n\n\nAtuação no Projeto\nEfeitos de laser emissor no ultravioleta para paralisação da cárie de radiação"
+  },
+  {
+    "objectID": "pessoas/bolsista/diego-roberto-da-cunha-pascoal.html",
+    "href": "pessoas/bolsista/diego-roberto-da-cunha-pascoal.html",
+    "title": "Diego Roberto da Cunha Pascoal",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Diego Roberto da Cunha Pascoal\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nResponsável pelas medidas de espectros raman e análise de dados utilizando softwares de IA para caracterização de estruturas biológicas."
+  },
+  {
+    "objectID": "pessoas/bolsista/tatiana-pereira-da-silva.html",
+    "href": "pessoas/bolsista/tatiana-pereira-da-silva.html",
+    "title": "Tatiana Pereira da Silva",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Tatiana Pereira da Silva\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Biofísica Carlos Chagas Filho-IBCCF- RJ-Brasil-\n\n\nÁreas de Atuação\nImunologia Celular, Biologia Molecular\n\n\nAtuação no Projeto\nIrá realizar experimentos de eletrofisiologia no contexto do presente projeto."
+  },
+  {
+    "objectID": "pessoas/bolsista/allan-bereczki.html",
+    "href": "pessoas/bolsista/allan-bereczki.html",
+    "title": "Allan Bereczki",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Allan Bereczki\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nResponsável pelas medidas de espectros raman e análise de dados para caracterização de processos de desmineralização em esmalte dental e dentina"
+  },
+  {
+    "objectID": "pessoas/bolsista/regiane-stafim-da-cunha.html",
+    "href": "pessoas/bolsista/regiane-stafim-da-cunha.html",
+    "title": "Regiane Stafim da Cunha",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Regiane Stafim da Cunha\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas- UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nPatologia, Educação, Bioquímica, Biologia Geral\n\n\nAtuação no Projeto\nA aluna irá realizar ensaios de de FTIR a partir do dialisato peritoneal de pacientes com doença renal crônica"
+  },
+  {
+    "objectID": "pessoas/bolsista/marcos-humberto-dos-santos.html",
+    "href": "pessoas/bolsista/marcos-humberto-dos-santos.html",
+    "title": "Marcos Humberto dos Santos",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Marcos Humberto dos Santos\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nRadiologia Odontológica\n\n\nAtuação no Projeto\nAVALIAÇÃO IN VITRO DE DIFERENTES GRAUS DE CÁRIES PROXIMAIS UTILIZANDO TOMOGRAFIA DE COERÊNCIA ÓPTICA."
+  },
+  {
+    "objectID": "pessoas/bolsista/matheus-andrade-rocha-costa.html",
+    "href": "pessoas/bolsista/matheus-andrade-rocha-costa.html",
+    "title": "Matheus Andrade Rocha Costa",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Matheus Andrade Rocha Costa\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nCentro Regional de Ciências Nucleares do Nordeste- CRCN/CNEN-PE-Brasil-\n\n\nÁreas de Atuação\nQuímica de Produtos Naturais., Engenharia Ambiental, Engenharia de Segurança do Trabalho, Microbiologia Industrial e de Fermentação, Radioecologia e Análises Ambientais, Química Analítica/Especialidade: Análise de Traços e Química Ambiental.\n\n\nAtuação no Projeto\nDesenvolvimento de radiomarcacao de moléculas; imageamento molecular por Micro-PET/CT"
+  },
+  {
+    "objectID": "pessoas/bolsista/yasmin-reis-fontes-de-oliveira.html",
+    "href": "pessoas/bolsista/yasmin-reis-fontes-de-oliveira.html",
+    "title": "Yasmin Reis Fontes de Oliveira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Yasmin Reis Fontes de Oliveira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nOdonotologia, Laserterapia, Biofotonica\n\n\nAtuação no Projeto"
+  },
+  {
+    "objectID": "pessoas/bolsista/wilmmer-alexander-arcos-rosero.html",
+    "href": "pessoas/bolsista/wilmmer-alexander-arcos-rosero.html",
+    "title": "Wilmmer Alexander Arcos Rosero",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Wilmmer Alexander Arcos Rosero\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nFísico-Química Orgânica\n\n\nAtuação no Projeto\nSíntese e caracterização de nanopartículas de ouro (AuNPs) radioativa e não-radioativa; funcionalização das nanopartículas para direcionamento ao tumor."
+  },
+  {
+    "objectID": "pessoas/bolsista/maria-eduarda-zaganin-rigo.html",
+    "href": "pessoas/bolsista/maria-eduarda-zaganin-rigo.html",
+    "title": "Maria Eduarda Zaganin Rigo",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Maria Eduarda Zaganin Rigo\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nFísica Médica\n\n\nAtuação no Projeto\nSíntese e caracterização de nanopartículas de ouro (AuNPs) radioativa e não-radioativa; funcionalização das nanopartículas para direcionamento ao tumor; ensaios de citotoxicidade in vitro."
+  },
+  {
+    "objectID": "pessoas/bolsista/elizabete-dos-santos-ferreira.html",
+    "href": "pessoas/bolsista/elizabete-dos-santos-ferreira.html",
+    "title": "Elizabete dos Santos Ferreira",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Elizabete dos Santos Ferreira\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nClínica Odontológica, Ortodontia, Engenharia Biomédica\n\n\nAtuação no Projeto\nDurabilidade do tratamento efetuado com laser de pulsos curtos na prevenção de lesões cariosas e não cariosas."
+  },
+  {
+    "objectID": "pessoas/bolsista/luismar-barbosa-da-cruz-junior.html",
+    "href": "pessoas/bolsista/luismar-barbosa-da-cruz-junior.html",
+    "title": "Luismar Barbosa da Cruz Junior",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Luismar Barbosa da Cruz Junior\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade de São Paulo / Departamento de Física - USP- SP-Brasil-\n\n\nÁreas de Atuação\nFísica Aplicada, Física da Matéria Condensada, Divulgação Científica\n\n\nAtuação no Projeto\nCaracterização óptica de amostras altamente espalhadoras na região espectral do visível e infravermelho próximo"
+  },
+  {
+    "objectID": "pessoas/bolsista/fernanda-keli-do-carmo-santos-miranda.html",
+    "href": "pessoas/bolsista/fernanda-keli-do-carmo-santos-miranda.html",
+    "title": "Fernanda Keli do Carmo Santos Miranda",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Fernanda Keli do Carmo Santos Miranda\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\n\n\n\n\n\nAtuação no Projeto\nEstudo dos efeitos sinérgicos de laser em alta intensidade Q-switched e fotoabsorvedor modificado na adesão de biofilme cariogênico e na paralisação da cárie de radiação radicular"
+  },
+  {
+    "objectID": "pessoas/bolsista/fabrizio-manoel-rodrigues.html",
+    "href": "pessoas/bolsista/fabrizio-manoel-rodrigues.html",
+    "title": "Fabrizio Manoel Rodrigues",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Fabrizio Manoel Rodrigues\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-\n\n\nÁreas de Atuação\nOdontologia\n\n\nAtuação no Projeto\nDesenvolvimento de um hidrogel combinado com biocerâmica e terapia fotodinâmica para reparo ósseoar"
+  },
+  {
+    "objectID": "pessoas/bolsista/vanessa-moredo-alonso.html",
+    "href": "pessoas/bolsista/vanessa-moredo-alonso.html",
+    "title": "Vanessa Moredo Alonso",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Vanessa Moredo Alonso\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nEndodontia, Clínica Odontológica\n\n\nAtuação no Projeto\nDesenvolver métodos espectrometros em escala micro/nano para caracterização de materiais biologicos"
+  },
+  {
+    "objectID": "pessoas/bolsista/amanda-caramel-juvino.html",
+    "href": "pessoas/bolsista/amanda-caramel-juvino.html",
+    "title": "Amanda Caramel Juvino",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Amanda Caramel Juvino\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nInstituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-\n\n\nÁreas de Atuação\nOdontologia, Laserterapia, Biotofonica\n\n\nAtuação no Projeto\nRealizar os ensaios laboratoriais de caracterização de esmalte dental irradiado a laser para prevenção da cárie dental."
+  },
+  {
+    "objectID": "pessoas/bolsista/neila-cristina-fonseca-machado.html",
+    "href": "pessoas/bolsista/neila-cristina-fonseca-machado.html",
+    "title": "Neila Cristina Fonseca Machado",
+    "section": "",
+    "text": "Home\n    Coord. e Equipe\n    Bolsista\n    Neila Cristina Fonseca Machado\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do ABC / Centro de Ciências Naturais e Humanas- UFABC- SP-Brasil-\n\n\nÁreas de Atuação\nEngenharia Biomédica, Biologia Geral, Biofísica, Bioquímica, Bioinformática, Biotecnologia\n\n\nAtuação no Projeto\nIrá implementar algoritmos e simulações de dinâmica molecular “course- grained” e “fine-grained” para avaliação de ação de fármacos e principios ativos sobre a pele."
+  },
+  {
+    "objectID": "pessoas/coordenacao/01_emilianohoraciomedei.html",
+    "href": "pessoas/coordenacao/01_emilianohoraciomedei.html",
     "title": "Emiliano Horácio Medei",
     "section": "",
-    "text": "Home\n    Coord. e Equipe\n    Comitê Gestor\n    Emiliano Horácio Medei\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Rio de Janeiro – UFRJ\n\n\nÁreas de Atuação\nMedicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas\n\n\nAtuação no Projeto\nSerá responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas"
+    "text": "Home\n    Coord. e Equipe\n    Coordenação\n    Emiliano Horácio Medei\n  \n\n\n  \n \n \n  \n   \n  \n    \n     Lattes\n  \n  \n    \n     scholar\n  \n  \n    \n     Instituição\n  \n\n\n\n\nInstituição\nUniversidade Federal do Rio de Janeiro – UFRJ\n\n\nÁreas de Atuação\nMedicina, Fisiologia, Células tronco, Chagas, Eletrofisiologia Cardiaca, Arritmias Cardiacas\n\n\nAtuação no Projeto\nSerá responsável pela caracterização e análise dos resultados relativos à fisiopatologia da fibrilação atrial (FA) induzida em modelo animal. A FA é a arritmia cardíaca mais frequente, sendo importante fator de morbidade e mortalidade. Na última década vários trabalhos têm mostrado que as patologias cardiovasculares, de alta relevância para a saúde pública, apresentam como pontos em comum o estabelecimento de uma inflamação sistêmica/local. As análises funcionais serão realizadas através de registros de eletrocardiograma e registro de potencial de ação e transiente de cálcio ventricular em coração inteiro, exvivo. Ainda, a geometria e função atrial serão analisadas utilizando RMN-7T e Ultrassonografia de alta resolução. A Microscopia de Fluorescência no Campo Local (ulsed Local Field Fluorescence Microscopy, PLFM nos auxiliará a estudar de maneira holística os fenômenos elétricos e o manejo do cálcio no coração inteiro simultaneamente, sem necessidade de isolamento de células cardíacas"
   },
   {
     "objectID": "publicacoes/about.html",
@@ -145,27 +747,6 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "publicacoes/articles/zezell2024b.html",
-    "href": "publicacoes/articles/zezell2024b.html",
-    "title": "Other very nice title for an article published by Denise",
-    "section": "",
-    "text": "Zezell, D. M., Ribeiro, M. S., & Medei, E. H. (2024). Other very nice title for an article published by Denise. Journal of Optic Marvels."
-  },
-  {
-    "objectID": "publicacoes/articles/zezell2024b.html#citation-apa-7",
-    "href": "publicacoes/articles/zezell2024b.html#citation-apa-7",
-    "title": "Other very nice title for an article published by Denise",
-    "section": "",
-    "text": "Zezell, D. M., Ribeiro, M. S., & Medei, E. H. (2024). Other very nice title for an article published by Denise. Journal of Optic Marvels."
-  },
-  {
-    "objectID": "publicacoes/articles/zezell2024b.html#abstract",
-    "href": "publicacoes/articles/zezell2024b.html#abstract",
-    "title": "Other very nice title for an article published by Denise",
-    "section": "Abstract",
-    "text": "Abstract\nDimensional conceptualizations of psychopathology hold promise for understanding the high rates of comorbidity with posttraumatic stress disorder (PTSD). Linking PTSD symptoms to transdiagnostic dimensions of psychopathology may enable researchers and clinicians to understand the patterns and breadth of behavioral sequelae following traumatic experiences that may be shared with other psychiatric disorders. To explore this premise, we recruited a trauma-exposed online community sample \\((N = 462)\\) and measured dimensional transdiagnostic traits of psychopathology using parceled facets derived from the Personality Inventory for DSM-5 Faceted–Short Form. PTSD symptom factors were measured using the PTSD Checklist for DSM-5 and derived using confirmatory factor analysis according to the seven-factor hybrid model (i.e., Intrusions, Avoidance, Negative Affect, Anhedonia, Externalizing Behaviors, Anxious Arousal, And Dysphoric Arousal). We observed hypothesized associations between PTSD factors and transdiagnostic traits indicating that some transdiagnostic dimensions were associated with nearly all PTSD symptom factors (e.g., emotional lability: rmean = .35), whereas others showed more unique relationships (e.g., hostility–Externalizing Behavior: \\(r = .60\\); hostility with other PTSD factors: \\(r = .12–.31\\)). All PTSD factors were correlated with traits beyond those that would appear to be construct-relevant, suggesting the possibility of indirect associations that should be explicated in future research. The results indicate the breadth of trait-like consequences associated with PTSD symptom exacerbation, with implications for case conceptualization and treatment planning. Although PTSD is not a personality disorder, the findings indicate that increased PTSD factor severity is moderately associated with different patterns of trait-like disruptions in many areas of functioning."
   },
   {
     "objectID": "publicacoes/posts/welcome/index.html",

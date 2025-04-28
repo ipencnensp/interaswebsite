@@ -1,0 +1,48 @@
+---
+title:  "Ilka Tiemy Kato"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/ilka-tiemy-kato.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2483797682443241"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=fms0uJIAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas - UFABC- SP-Brasil-](www.ufabc.br)
+
+### Áreas de Atuação
+
+ESTOMATOLOGIA, Terapia Fotodinâmica, Modelagem de Sistemas Biológicos, Laser em Odontologia
+
+### Atuação no Projeto
+
+Empregar a biofotônica para estudar a interação da radiação não ionizante com os tecidos do sistema nervoso central e desenvolver estratégias terapêuticas que empregam tecnologias baseadas em luz no tratamento das sequelas causadas pela asfixia perinatal. Os principais desafios a serem superados: desenvolver metodologias de análise para avaliar a penetração da radiação nas estruturas do encéfalo de animais neonatos; desenvolver e aprimorar estratégias terapêuticas para evitar ou minimizar as sequelas causadas pela privação de oxigênio nos tecidos cerebrais.
