@@ -1,0 +1,27 @@
+---
+title: "Proteção Radiológica em Ambientes de Medicina Veterinária de Aracaju: Observações de Inspeção Sanitária"
+date: 2024-09-23
+author:
+  - name: Diniz De Oliveira Guedes, Beatriz
+  - name: Almeida De Novais, Adailton
+  - name: Pereira Attie, Márcia Regina
+  - name: Campos, Laélia
+  - name: Do Nascimento Souza, Divanizia
+abstract: > 
+  A medicina veterinária está sujeita às práticas radiológicas. Nos últimos anos, o uso da radiografia e tomografia computadorizada cresceu no ramo veterinário. Para esse uso são necessários cuidados com a proteção radiológica, como pede a Resolução RDC nº 611. Neste trabalho são discutidas as principais não conformidades de radioproteção observadas em estabelecimentos de radiologia veterinária de Aracaju, SE, a partir de dados obtidos em inspeção da Vigilância Sanitária Municipal ocorrida em 2023. Nesta cidade, os tais serviços não eram inspecionados há 10 anos. Dentre as não conformidades, foi identificado o não uso de vestimentas de proteção radiológica (VPR) e de dosímetros pessoais pelos profissionais. Em revisão bibliográfica, observou-se que alguns desses problemas são recorrentes em outras cidades e países. Buscando-se entender sobre a formação desses profissionais, foram analisadas as ementas das disciplinas de um dos cursos de Medicina Veterinária ofertado em Aracaju, constatando-se a ausência do tema proteção radiológica no seu teor. Dessa forma, a falta de conhecimentos sobre proteção radiológica identificada a partir das práticas desses profissionais formados pode ser justificada. Portanto, ações promotoras de formação sobre práticas de proteção radiológica e inspeções sanitárias mais frequentes se fazem necessárias para conscientizar médicos veterinários acerca da segurança radiológica, e para manter os estabelecimentos veterinários em conformidade com as diretrizes de organização e adequado funcionamento de serviços de radiologia diagnóstica.
+categories: [article]
+citation: 
+  container-title: "Revista Brasileira de Física Médica"
+  volume: 18
+  doi: "10.29384/rbfm.2024.v18.19849001804"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Proteção Radiológica em Ambientes de Medicina Veterinária de Aracaju: Observações de Inspeção Sanitária</li>
+  </ol>
+</nav>
+```

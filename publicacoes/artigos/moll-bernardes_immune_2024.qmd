@@ -1,0 +1,43 @@
+---
+title: "Immune Profile and MRI-Detected Cardiac Fibrosis and Edema in Hypertensive and Non-Hypertensive Patients with COVID-19"
+date: 2024-12-02
+author:
+  - name: Moll-Bernardes, Renata
+  - name: Camargo, Gabriel C.
+  - name: Silvestre-Sousa, Andréa
+  - name: Barroso, Julia Machado
+  - name: Ferreira, Juliana R.
+  - name: Tortelly, Mariana B.
+  - name: Pimentel, Adriana L.
+  - name: Figueiredo, Ana Cristina B. S.
+  - name: Schaustz, Eduardo B.
+  - name: Secco, José Carlos P.
+  - name: Fortier, Sergio C.
+  - name: Vera, Narendra
+  - name: Conde, Luciana
+  - name: Cabral-Castro, Mauro Jorge
+  - name: Albuquerque, Denilson C.
+  - name: Rosado-de-Castro, Paulo H.
+  - name: Pinheiro, Martha V. T.
+  - name: Souza, Olga F.
+  - name: Luiz, Ronir R.
+  - name: Medei, Emiliano
+abstract: > 
+  Cardiac involvement in 2019 coronavirus disease (COVID-19) survivors has been reported frequently. An exacerbated immune response may be the main mechanism of myocardial injury and late cardiac sequelae in this population. Background/Objectives: We investigated the immune profile in hypertensive and non-hypertensive patients with COVID-19 who developed late cardiac fibrosis and edema, as detected by magnetic resonance imaging (MRI). Methods: We evaluated associations of cytokine and immune-cell subset levels during hospitalization for COVID-19 with the presence of myocardial interstitial fibrosis [represented by the extracellular volume (ECV)] or edema (represented by the T2), detected by cardiac MRI examination after discharge, in hypertensive and non-hypertensive patients. Results: Patients with hypertension had reduced B-cell percentages, increased natural killer cell percentages, and higher interleukin (IL)-4, IL-5, IL-13, IL-17A, and tumor necrosis factor-β levels compared to patients without hypertension. Larger percentages of human leukocyte antigen DR isotope+ blood cells, reflecting CD8+ T-cell activation, correlated with increased T2 and ECV in hypertensive patients. The HLA-DR mean fluorescence intensity was associated with ECV in non-hypertensive patients. Conclusions: Our findings reveal cytokine and immune-cell dysregulation in both hypertensive and non-hypertensive patients with COVID-19, along with moderate correlations between CD8+ T-cell activation and increased cardiac MRI markers of myocardial interstitial fibrosis and edema. These results contribute to a deeper understanding of immune dysfunction mechanisms involved in myocardial remodeling.
+categories: [article]
+citation: 
+  container-title: "Journal of Clinical Medicine"
+  volume: 13
+  issue: 23
+  doi: "10.3390/jcm13237317"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Immune Profile and MRI-Detected Cardiac Fibrosis and Edema in Hypertensive and Non-Hypertensive Patients with COVID-19</li>
+  </ol>
+</nav>
+```

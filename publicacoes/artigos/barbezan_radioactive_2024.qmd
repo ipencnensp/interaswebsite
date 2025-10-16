@@ -1,0 +1,36 @@
+---
+title: "Radioactive gold nanoparticles coated with BSA: A promising approach for prostate cancer treatment"
+date: 2024-01-01
+author:
+  - name: Barbezan, Angélica Bueno
+  - name: Rosero, Wilmmer Alexander Arcos
+  - name: Perez, Daniel Vieira
+  - name: Rigo, Maria Eduarda Zaganin
+  - name: Da Silva, Giovana Dias
+  - name: Rodrigues, Alex Alves
+  - name: De Almeida, Luís Fernando
+  - name: Da Silva, Fábio Fernando Alves
+  - name: Rivera, Andy González
+  - name: Da Silva, Natanael Gomes
+  - name: Bernardes, Emerson S.
+  - name: Zeituni, Carlos Alberto
+  - name: Rostelato, Maria Elisa C. M.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Nanotheranostics"
+  volume: 8
+  issue: 1
+  doi: "10.7150/ntno.91507"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Radioactive gold nanoparticles coated with BSA: A promising approach for prostate cancer treatment</li>
+  </ol>
+</nav>
+```

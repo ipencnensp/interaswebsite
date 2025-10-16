@@ -19,7 +19,7 @@ about:
       href: "https://scholar.google.com/citations?hl=en&user=xDsvfUEAAAAJ"
     - icon: bank
       text: Instituição
-      href: "www.unitau.br"
+      href: "http://www.unitau.br"
 ---
 
 ```{=html}
@@ -27,7 +27,7 @@ about:
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
     <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
-    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active">Pesquisador</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
 </nav>
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Universidade de Taubaté / Departamento de Odontologia- UNITAU-SP-Brasil-](www.unitau.br)
+[Universidade de Taubaté / Departamento de Odontologia- UNITAU-SP-Brasil](http://www.unitau.br)
 
 ### Áreas de Atuação
 

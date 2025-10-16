@@ -1,0 +1,25 @@
+---
+title: "Dynamic stable ring resonator for high-power continuous single-frequency lasers: conditions for a compact resonator"
+date: 2023-03-10
+author:
+  - name: Bereczki, Allan
+  - name: Wetter, Niklaus Ursus
+abstract: > 
+  When considering dynamically stable resonators, ring lasers are good choices because they have a stability interval that is twice as large as that of linear resonators and sensitivity to misalignment decreasing with pump power; however, the literature does not provide easy design guidelines. A ring resonator utilizing Nd:YAG side pumped by diodes allowed single-frequency operation. The output single-frequency laser had good output characteristics; however, the overall length of the resonator did not allow for building a compact device with low misalignment sensitivity and larger spacing between longitudinal modes which could improve single-frequency performance. Based on previously developed equations, which allow for ease of design of a ring dynamically stable resonator, we discuss how to build an equivalent ring resonator, aiming to building a shorter resonator with the same stability zone parameters. The study of the symmetric resonator containing a pair of lenses allowed us to find the conditions to build the shortest possible resonator.
+categories: [article]
+citation: 
+  container-title: "Applied Optics"
+  volume: 62
+  issue: 8
+  doi: "10.1364/AO.477415"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Dynamic stable ring resonator for high-power continuous single-frequency lasers: conditions for a compact resonator</li>
+  </ol>
+</nav>
+```

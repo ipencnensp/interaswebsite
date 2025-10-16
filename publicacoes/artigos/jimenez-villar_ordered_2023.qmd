@@ -1,0 +1,26 @@
+---
+title: "Ordered photonic colloidal suspensions"
+date: 2023-04-10
+author:
+  - name: Jiménez-Villar, Ernesto
+  - name: Martins, Weliton S.
+  - name: Wetter, Niklaus U.
+abstract: > 
+  Ordered photonic structures (photonic crystals) have seen increasing interest in recent years due to their potential applications, which depend on fabrication technologies suitable for mass production. In this paper, we studied by light diffraction the order in photonic colloidal suspensions composed by core-shell (TiO 2 @Silica) nanoparticles suspended in ethanol and water solutions. Light diffraction measurements show order in these photonic colloidal suspensions, being stronger in ethanol compared with suspensions in water. Strong and long-range Coulomb interaction explains the order and correlation in the scatterers’ (TiO 2 @Silica) position, which favors significantly the interferential processes as localization of light.
+categories: [article]
+citation: 
+  container-title: "Applied Optics"
+  volume: 62
+  issue: 11
+  doi: "10.1364/AO.477410"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Ordered photonic colloidal suspensions</li>
+  </ol>
+</nav>
+```

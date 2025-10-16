@@ -1,0 +1,29 @@
+---
+title: "Rapid identification of breast cancer subtypes using micro-FTIR and machine learning methods"
+date: 2023-03-10
+author:
+  - name: Farooq, Sajid
+  - name: Del-Valle, Matheus
+  - name: Dos Santos, Moises Oliveira
+  - name: Dos Santos, Sofia Nascimento
+  - name: Bernardes, Emerson Soares
+  - name: Zezell, Denise Maria
+abstract: > 
+  Breast cancer (BC) molecular subtypes diagnosis involves improving clinical uptake by Fourier transform infrared (FTIR) spectroscopic imaging, which is a non-destructive and powerful technique, enabling label free extraction of biochemical information towards prognostic stratification and evaluation of cell functionality. However, methods of measurements of samples demand a long time to achieve high quality images, making its clinical use impractical because of the data acquisition speed, poor signal to noise ratio, and deficiency of optimized computational framework procedures. To address those challenges, machine learning (ML) tools can facilitate obtaining an accurate classification of BC subtypes with high actionability and accuracy. Here, we propose a ML-algorithm-based method to distinguish computationally BC cell lines. The method is developed by coupling the K-neighbors classifier (KNN) with neighborhood components analysis (NCA), and hence, the NCA-KNN method enables to identify BC subtypes without increasing model size as well as adding additional computational parameters. By incorporating FTIR imaging data, we show that classification accuracy, specificity, and sensitivity improve, respectively, 97.5%, 96.3%, and 98.2%, even at very low co-added scans and short acquisition times. Moreover, a clear distinctive accuracy (up to 9 %) difference of our proposed method (NCA-KNN) was obtained in comparison with the second best supervised support vector machine model. Our results suggest a key diagnostic NCA-KNN method for BC subtypes classification that may translate to advancement of its consolidation in subtype-associated therapeutics.
+categories: [article]
+citation: 
+  container-title: "Applied Optics"
+  volume: 62
+  issue: 8
+  doi: "10.1364/AO.477409"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Rapid identification of breast cancer subtypes using micro-FTIR and machine learning methods</li>
+  </ol>
+</nav>
+```

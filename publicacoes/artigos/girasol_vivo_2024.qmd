@@ -1,0 +1,30 @@
+---
+title: "In vivo attenuation profile of 660 nm and 830 nm wavelengths on human elbow skin and calcaneus tendon of different phototypes"
+date: 2024-01-09
+author:
+  - name: Girasol, Carlos Eduardo
+  - name: Moraes, José Miguel Andrade Ferraz
+  - name: Bachmann, Luciano
+  - name: Alfredo, Damião Miranda Ngonga
+  - name: Barbosa, Rafael Inácio
+  - name: De Oliveira Guirro, Elaine Caldeira
+  - name: De Jesus Guirro, Rinaldo Roberto
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Lasers in Medical Science"
+  volume: 39
+  issue: 1
+  doi: "10.1007/s10103-023-03955-3"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">In vivo attenuation profile of 660 nm and 830 nm wavelengths on human elbow skin and calcaneus tendon of different phototypes</li>
+  </ol>
+</nav>
+```

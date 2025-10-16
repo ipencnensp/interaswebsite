@@ -1,0 +1,27 @@
+---
+title: "Review of Advances in Coating and Functionalization of Gold Nanoparticles: From Theory to Biomedical Application"
+date: 2024-02-09
+author:
+  - name: Arcos Rosero, Wilmmer Alexander
+  - name: Bueno Barbezan, Angelica
+  - name: Daruich De Souza, Carla
+  - name: Chuery Martins Rostelato, Maria Elisa
+abstract: > 
+  Nanoparticles, especially gold nanoparticles (Au NPs) have gained increasing interest in biomedical applications. Used for disease prevention, diagnosis and therapies, its significant advantages in therapeutic efficacy and safety have been the main target of interest. Its application in immune system prevention, stability in physiological environments and cell membranes, low toxicity and optimal bioperformances are critical to the success of engineered nanomaterials. Its unique optical properties are great attractors. Recently, several physical and chemical methods for coating these NPs have been widely used. Biomolecules such as DNA, RNA, peptides, antibodies, proteins, carbohydrates and biopolymers, among others, have been widely used in coatings of Au NPs for various biomedical applications, thus increasing their biocompatibility while maintaining their biological functions. This review mainly presents a general and representative view of the different types of coatings and Au NP functionalization using various biomolecules, strategies and functionalization mechanisms.
+categories: [article]
+citation: 
+  container-title: "Pharmaceutics"
+  volume: 16
+  issue: 2
+  doi: "10.3390/pharmaceutics16020255"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Review of Advances in Coating and Functionalization of Gold Nanoparticles: From Theory to Biomedical Application</li>
+  </ol>
+</nav>
+```

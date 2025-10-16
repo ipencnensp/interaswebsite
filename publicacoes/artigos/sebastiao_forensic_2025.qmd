@@ -1,0 +1,29 @@
+---
+title: "Forensic determination of adhesive vinyl microplastics in urban soils"
+date: 2025-01-01
+author:
+  - name: Sebastião, Glaucia I.A.
+  - name: Rani-Borges, Bárbara
+  - name: Dipold, Jessica
+  - name: Freitas, Anderson Z.
+  - name: Wetter, Niklaus U.
+  - name: Ando, Romulo A.
+  - name: Waldman, Walter R.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Environmental Management"
+  volume: 373
+  doi: "10.1016/j.jenvman.2024.123498"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Forensic determination of adhesive vinyl microplastics in urban soils</li>
+  </ol>
+</nav>
+```

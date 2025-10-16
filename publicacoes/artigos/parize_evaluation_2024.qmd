@@ -1,0 +1,28 @@
+---
+title: "Evaluation of Peri-Implantitis through Fourier-Transform Infrared Spectroscopy on Saliva"
+date: 2024-12-21
+author:
+  - name: Parize, Graziele
+  - name: Nepomuceno, Gabriele
+  - name: Shibli, Jamil
+  - name: Willian Caetano, Matheus
+  - name: Jung Kim, Yeon
+  - name: Braz-Silva, Paulo Henrique
+  - name: Martinho, Herculano
+  - name: Pallos, Debora
+abstract: > 
+  Background: Peri-implantitis is characterized as a pathological change in the tissues around dental implants. Fourier-transform infrared spectroscopy (FTIR) provides molecular information from optical phenomena observed by the vibration of molecules, being used in biological studies to characterize changes and serving as a form of diagnosis. Aims: this case-control study evaluated the peri-implant disease by using FTIR spectroscopy with attenuated total reflectance (ATR) in the fingerprint region. Methods: forty saliva samples were evaluated, 18 from the control group and 22 from the peri-implantitis group. Clinical data such as plaque index (PI), gingival index (GI), probing depth (PS) and attachment level (AL) were assessed. Results: The results of clinical parameters showed statistical difference between the two groups regarding an excess of the plaque index (PI). In the FTIR-ATR analysis, the main components revealed vibrational modes of fatty acids, histidine, lipid esters, nucleic acids and tryptophan, with the main molecules contributing to spectral discrimination. The five-component PLS-DA classification model had an accuracy of 81%, showing differences between healthy and diseased implants. Conclusion: the FTIR spectroscopy provides important molecular characteristics of the samples and that the results in association with clinical data show the effectiveness of using this tool for diagnosing the disease.
+categories: [misc]
+citation: 
+  doi: "10.5281/ZENODO.14540221"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of Peri-Implantitis through Fourier-Transform Infrared Spectroscopy on Saliva</li>
+  </ol>
+</nav>
+```

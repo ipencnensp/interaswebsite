@@ -1,0 +1,25 @@
+---
+title: "Advances in Metallic-Based Localized Surface Plasmon Sensors for Enhanced Tropical Disease Detection: A Comprehensive Review"
+date: 2024-08-01
+author:
+  - name: Farooq, Sajid
+  - name: Zezell, Denise Maria
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Plasmonics"
+  volume: 19
+  issue: 4
+  doi: "10.1007/s11468-023-02109-z"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Advances in Metallic-Based Localized Surface Plasmon Sensors for Enhanced Tropical Disease Detection: A Comprehensive Review</li>
+  </ol>
+</nav>
+```

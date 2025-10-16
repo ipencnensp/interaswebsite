@@ -1,0 +1,25 @@
+---
+title: "Calculation of the Budget of Uncertainty on Measurements Size Nanoparticles Using Dynamic Light Scattering"
+date: 2024-01-01
+author:
+  - name: Geraldes, Adriana
+  - name: Rosero, Wilmmer
+  - name: Rostelato, Maria Elisa
+  - name: Sarkis, Jorge
+abstract: > 
+  Accurate nanoparticle characterization is essential since it can significantly affect its physicochemical and biological properties. Among physicochemical properties used to characterize nanomaterials, size and size distribution are essential and should be assessed before surveying poisonousness or biocompatibility. Several methods are suitable to evaluate these characteristics including the dynamic light scattering. The aims of the present paper were to propose a methodology to measure nanoparticle size and present the estimation of the particle size uncertainty using the dynamic light scattering technique. The reliability of measurements was ensured by a series of handling precautions and quality criteria for good measurements to be applied for methodology validation using reference material polyvinylpyrrolidone coated silver nanoparticles. The identification and quantification of input quantities to the measurement uncertainties were estimated. The uncertainty concerning the equipment was 1.2% while the repeatability obtained was 1.4%, within the range of values stipulated in the reference standard (less than 5%). The relative standard uncertainties of trueness and repeatability were below the thresholds defined by the International Organization for Standardization. The result of the expanded uncertainty was 3.9% with 95% coverage probability for the reference material.
+categories: [article]
+citation: 
+  container-title: "Journal of the Brazilian Chemical Society"
+  doi: "10.21577/0103-5053.20240039"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Calculation of the Budget of Uncertainty on Measurements Size Nanoparticles Using Dynamic Light Scattering</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "External Root Temperature and Its Relationship With Dentin Thickness During Gutta-Percha Removal Procedures With Ultrasound. An Ex Vivo Study"
+date: 2025-03-01
+author:
+  - name: Salazar-Silva, Juan Ramon
+  - name: Paschoal, Carlos Emilio
+  - name: De Fatima Teixeira Da Silva, Daniela
+  - name: Zezell, Denise Maria
+  - name: Cunha D'Assuncao, Fábio Luiz
+  - name: Caldeira, Celso Luiz
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Endodontics"
+  volume: 51
+  issue: 3
+  doi: "10.1016/j.joen.2024.12.007"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">External Root Temperature and Its Relationship With Dentin Thickness During Gutta-Percha Removal Procedures With Ultrasound. An Ex Vivo Study</li>
+  </ol>
+</nav>
+```

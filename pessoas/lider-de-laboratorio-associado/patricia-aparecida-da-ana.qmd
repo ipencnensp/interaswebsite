@@ -1,0 +1,48 @@
+---
+title:  "Patricia Aparecida da Ana"
+sortby: "1"
+subtitle: "Líder de Laboratório Associado"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/patricia-aparecida-da-ana.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2372516182094204"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "http://www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Líder de Laboratório Associado</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil](http://www.ufabc.br)
+
+### Áreas de Atuação
+
+Biofotonica e Óptica Biomédica, Engenharia Biomédica, Lasers Em Odontologia
+
+### Atuação no Projeto
+
+Empregar a Biofotônica e a óptica biomédica para desenvolver estratégias diagnósticas e terapêuticas para combate ao câncer e doenças crônicas que acometem a cavidade oral, tais como cárie, erosão dentária e osteoporose, para fornecer tecnologias de ponta e de baixo custo para melhora da qualidade de vida. Os principais desafios científicos e tecnológicos que deverá superar envolvem, mas não limitam-se a, i) desenvolver dispositivo baseado em fluorescência e inteligência artificial para diagnóstico precoce e preditivo de câncer de mama por análise de saliva; ii) desenvolver e aprimorar estratégias que empreguem lasers de alta potência Q-switched para paralisar lesões de tecidos duros dentais; iii) desenvolver e aplicar biomaterial à base de colágeno com potencial de drug delivery, a fim de possibilitar o reparo de lesões de tecidos ósseos; iv) aprimorar metodologia analítica, envolvendo tomografia por coerência óptica, para diagnóstico precoce e monitoramento de osteoporose.

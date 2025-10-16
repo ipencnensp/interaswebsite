@@ -1,0 +1,33 @@
+---
+title: "Impact of the COVID-19 Pandemic on Brazilian Head and Neck Surgery Centers"
+date: 2023-05-01
+author:
+  - name: Alvarenga, Gustavo Fernandes De
+  - name: Nogueira Leite, Ana Kober
+  - name: Lehn, Carlos Neutzling
+  - name: Dedivitis, Rogério Aparecido
+  - name: Yumi Nakai, Marianne
+  - name: Cavalheiro, Beatriz Godoi
+  - name: Vaz Teixeira, Gilberto
+  - name: De Cicco, Rafael
+  - name: Kowalski, Luiz Paulo
+  - name: Matos, Leandro Luongo De
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 89
+  issue: 3
+  doi: "10.1016/j.bjorl.2023.01.002"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Impact of the COVID-19 Pandemic on Brazilian Head and Neck Surgery Centers</li>
+  </ol>
+</nav>
+```

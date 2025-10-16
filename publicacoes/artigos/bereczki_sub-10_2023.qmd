@@ -1,0 +1,27 @@
+---
+title: "Sub-10 nm Nanoparticle Detection Using Multi-Technique-Based Micro-Raman Spectroscopy"
+date: 2023-12-08
+author:
+  - name: Bereczki, Allan
+  - name: Dipold, Jessica
+  - name: Freitas, Anderson Z.
+  - name: Wetter, Niklaus U.
+abstract: > 
+  Microplastic pollution is a growing public concern as these particles are ubiquitous in various environments and can fragment into smaller nanoplastics. Another environmental concern arises from widely used engineered nanoparticles. Despite the increasing abundance of these nano-sized pollutants and the possibility of interactions with organisms at the sub cellular level, with many risks still being unknown, there are only a few publications on this topic due to the lack of reliable techniques for nanoparticle characterization. We propose a multi-technique approach for the characterization of nanoparticles down to the 10 nm level using standard micro-Raman spectroscopy combined with standard atomic force microscopy. We successfully obtained single-particle spectra from 25 nm sized polystyrene and 9 nm sized TiO2 nanoparticles with corresponding mass limits of detection of 8.6 ag (attogram) and 1.6 ag, respectively, thus demonstrating the possibility of achieving an unambiguous Raman signal from a single, small nanoparticle with a resolution comparable to more complex and time-consuming technologies such as Tip-Enhanced Raman Spectroscopy and Photo-Induced Force Microscopy.
+categories: [article]
+citation: 
+  container-title: "Polymers"
+  volume: 15
+  issue: 24
+  doi: "10.3390/polym15244644"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Sub-10 nm Nanoparticle Detection Using Multi-Technique-Based Micro-Raman Spectroscopy</li>
+  </ol>
+</nav>
+```

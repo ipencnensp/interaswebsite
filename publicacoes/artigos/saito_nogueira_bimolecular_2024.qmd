@@ -1,0 +1,33 @@
+---
+title: "Bimolecular Profile of Tobacco Users by Infrared Spectroscopy and Machine Learning Approaches"
+date: 2024-01-01
+author:
+  - name: Saito Nogueira, Marcelo
+  - name: Caroline Queiroz Costa, Natalia
+  - name: Baroudi, Kusai
+  - name: Clara De Moura Santos Coelho Ferreira, Maria
+  - name: Maria Santos Dias Da Silva, Sara
+  - name: Barbosa Leal, Leonardo
+  - name: Arthur Augusto Castro, Pedro
+  - name: Peralta, Felipe
+  - name: Maria Zezell, Denise
+  - name: Felipe Das Chagas E Silva De Carvalho, Luis
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Pharmacy and Pharmacology Research"
+  volume: 8
+  issue: 4
+  doi: "10.26502/fjppr.0101"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Bimolecular Profile of Tobacco Users by Infrared Spectroscopy and Machine Learning Approaches</li>
+  </ol>
+</nav>
+```

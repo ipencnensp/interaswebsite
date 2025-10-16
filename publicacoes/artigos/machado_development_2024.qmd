@@ -1,0 +1,26 @@
+---
+title: "Development of a pulsed laser deposition system suitable for radioactive thin films growth"
+date: 2024-02-07
+author:
+  - name: Machado, Noé Gabriel Pinheiro
+  - name: Genezini, Frederico Antonio
+  - name: Raele, Marcus Paulo
+abstract: > 
+  Radioactive thin films have a direct application in the development of beta-voltaic batteries. The main advantage of that kind of nuclear battery is its durability, which can range from a hundred years, depending on the half-life of the radioisotope used. In this context, Pulsed Laser Deposition (PLD) is an important tool. A relevant aspect of a system using this technique is that the main equipment is outside the chamber where the material is processed. Consequently, this feature allows the growth of radioactive thin films, as it enables the development of an arrangement where the contaminated area is controlled. In this way, the present work proposed the development of a PLD system for the growth of radioactive thin films. The PLD system was then implemented and radioactive copper targets were processed for 60 min and 120 min, resulting in radioactive thin films with an average thickness of (167.8 ± 3.7) nm and (313.5 ± 9.2) nm, respectively. Then, a study was performed about the radioactive contamination spread in the PLD system in order to prove if the filtering implemented was effective in retaining the contamination inside the vacuum chamber. Thus, it is demonstrated for the first time the feasibility of using the PLD technique in the growth of radioactive thin films, making its use possible in future studies on the development of beta-voltaic nuclear batteries.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Radiation Sciences"
+  volume: 12
+  issue: 1
+  doi: "10.15392/2319-0612.2024.2331"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Development of a pulsed laser deposition system suitable for radioactive thin films growth</li>
+  </ol>
+</nav>
+```

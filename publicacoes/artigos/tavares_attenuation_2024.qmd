@@ -1,0 +1,26 @@
+---
+title: "Attenuation images of optical CT using Fricke xylenol orange gel for dose mapping in radiotherapy"
+date: 2024-11-01
+author:
+  - name: Tavares, P.V.S.
+  - name: Diniz, R.E.
+  - name: Rodrigues, O.
+  - name: Campos, L.L.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 224
+  doi: "10.1016/j.radphyschem.2024.112016"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Attenuation images of optical CT using Fricke xylenol orange gel for dose mapping in radiotherapy</li>
+  </ol>
+</nav>
+```

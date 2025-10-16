@@ -1,0 +1,31 @@
+---
+title: "High-Wavenumber Infrared Spectroscopy of Blood Plasma for Pre-Eclampsia Detection with Machine Learning"
+date: 2024-10-05
+author:
+  - name: Reganin Monteiro, Gabriela
+  - name: Silva, Sara Maria Santos Dias Da
+  - name: Rizzato, Jaqueline Maria Brandão
+  - name: Silva, Simone De Lima
+  - name: Cortelli, Sheila Cavalca
+  - name: Silva, Rodrigo Augusto
+  - name: Nogueira, Marcelo Saito
+  - name: Silva De Carvalho, Luis Felipe Das Chagas E
+abstract: > 
+  Early detection of pre-eclampsia is challenging due to the low sensitivity and specificity of current clinical methods and biomarkers. This study investigates the potential of high-wavenumber FTIR spectroscopy (region between 2800 and 3600 cm−1) as an innovative diagnostic approach capable of providing comprehensive biochemical insights with minimal sample preparation. Blood samples were collected from 33 pregnant women and their corresponding 33 newborns during induction or spontaneous labor. By analyzing the dried blood plasma samples, we identified biomarkers associated with FTIR vibrational modes, including 2853.6 cm−1 (CH2 stretching in lipids), 2873.0 cm−1 (CH3 stretching in lipids and proteins), and 3279.7 cm−1 (O–H stretching related to water and proteins). Machine learning classification revealed 76.3% ± 3.5% sensitivity and 56.1% ± 4.4% specificity in distinguishing between pre-eclamptic and non-pre-eclamptic pregnant women, along with 79.0% ± 3.5% sensitivity and 76.9% ± 6.2% specificity for newborns. The overall accuracy for classifying all pregnant women and newborns was 71.8% ± 2.5%. The results indicate that high-wavenumber FTIR spectroscopy can enhance classification performance when combined with other analytical methods. Our findings suggest that investigating hydrophilic sites may complement plasma analysis in clinical settings.
+categories: [article]
+citation: 
+  container-title: "Photonics"
+  volume: 11
+  issue: 10
+  doi: "10.3390/photonics11100937"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">High-Wavenumber Infrared Spectroscopy of Blood Plasma for Pre-Eclampsia Detection with Machine Learning</li>
+  </ol>
+</nav>
+```

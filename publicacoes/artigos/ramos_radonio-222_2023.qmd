@@ -1,0 +1,28 @@
+---
+title: "Radônio-222 indoor e associação com risco de câncer de pulmão na Região Metropolitana de Recife, Brasil"
+date: 2023-09-16
+author:
+  - name: Ramos, Mariana Luiza De Oliveira Santos Ramos
+  - name: Da Rocha Leão Magalhães, Marcelo
+  - name: Esthefany Melo Da Silva, Karolayne
+  - name: Emiliano Gualberto Farias, Emerson
+  - name: Joacir De França, Elvis
+abstract: > 
+  Radônio-222 é um gás nobre considerado carcinogênico humano de Classe 1 conhecido como segunda causa de câncer de pulmão após o tabagismo. Formado a partir do urânio-238 presente no fosforito uranífero que quando exalado para atmosfera pode se acumular em ambientes fechados, representando risco à saúde humana. Este estudo possui o objetivo de analisar o risco de câncer de pulmão associado ao radônio-222 em áreas de ocorrência uranífera localizadas na Região Metropolitana do Recife, PE, Brasil. A monitoração do gás na atmosfera das residências foi realizada por meio da exposição de detectores CR-39 em câmaras de difusão. As concentrações de radônio indoor encontradas nas residências estudadas variaram de 2 a 1174 Bq m-3, sendo em maior parte superiores aos valores recomendados pela Organização Mundial de Saúde e União Europeia. Pode-se inferir que este estudo em nível local contribui com as estimativas nacionais de incidência de câncer de pulmão, priorizando a proteção da saúde em áreas habitadas de ocorrência uranífera.
+categories: [article]
+citation: 
+  container-title: "Revista Brasileira Multidisciplinar"
+  volume: 26
+  issue: 3
+  doi: "10.25061/2527-2675/ReBraM/2023.v26i3.1945"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Radônio-222 indoor e associação com risco de câncer de pulmão na Região Metropolitana de Recife, Brasil</li>
+  </ol>
+</nav>
+```

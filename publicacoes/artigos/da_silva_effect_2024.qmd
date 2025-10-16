@@ -1,0 +1,26 @@
+---
+title: "Effect of gamma radiation on the crack pattern of a styrene-acrylic emulsion dry droplet"
+date: 2024-11-01
+author:
+  - name: Da Silva, Fabrício R.
+  - name: Benevides, Clayton A.
+  - name: De França, Elvis J.
+  - name: Tenório, Rômulo P.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 224
+  doi: "10.1016/j.radphyschem.2024.112083"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of gamma radiation on the crack pattern of a styrene-acrylic emulsion dry droplet</li>
+  </ol>
+</nav>
+```

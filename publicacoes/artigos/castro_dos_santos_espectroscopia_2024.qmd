@@ -1,0 +1,30 @@
+---
+title: "Espectroscopia FT-IR para avaliação de pacientes com pré-diabetes Nidia"
+date: 2024-05-15
+author:
+  - name: Castro Dos Santos, Nidia C.
+  - name: Silva, Rafael Nascimento De Brito
+  - name: Bergo, Beatriz Rezende
+  - name: Silva, Sara Maria Santos Dias Da
+  - name: Ferreira, Camila Lopes
+  - name: Notarstefano, Valentina
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+abstract: > 
+  OBJETIVO: O presente estudo teve como objetivo analisar as características bioquímicas da saliva de pacientes saudáveis e pré-diabéticos, usando espectroscopia ATR FT-IR. MATERIAL E MÉTODOS: Amostras de saliva foram coletadas de pacientes na Universidade de Taubaté (Taubaté/SP) e no Centro de Ensaios Clínicos da Universidade de Guarulhos (Guarulhos/SP) e, então, os espectros foram obtidos no espectrômetro Bruker Alpha II e analisados utilizando o programa MATLAB. RESULTADOS: Uma clara diferença foi observada na região de alta frequência relacionada às cadeias alifáticas, enquanto na região de impressão digital, houve uma diferença em ésteres, proteínas, carboidratos e ácidos nucleicos. CONCLUSÕES: A técnica discriminante seguida de validação cruzada obteve uma acurácia de 84% para região de highwavenumber e 99% para região de fingerprint, classificando com sucesso pacientes saudáveis e com pré-diabetes. Esse método oferece vantagens como análise rápida, preparação mínima da amostra e potencial para testes no ponto de atendimento, tornando-o uma ferramenta promissora para o diagnóstico e manejo do diabetes. PALAVRAS-CHAVE: Pré-diabetes. Diabetes. Saliva. FT-IR. Diagnóstico. Espectroscopia.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Periodontology"
+  volume: 34
+  issue: 2
+  doi: "10.14436/0103-9393.34.2.067-080.oar"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Espectroscopia FT-IR para avaliação de pacientes com pré-diabetes Nidia</li>
+  </ol>
+</nav>
+```

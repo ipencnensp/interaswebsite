@@ -1,0 +1,25 @@
+---
+title: "Providing potential solutions by using FT-IR spectroscopy for biofluid analysis: Clinical impact of optical screening and diagnostic tests"
+date: 2023-12-01
+author:
+  - name: Das Chagas E Silva De Carvalho, Luis Felipe
+  - name: De Lima Morais, Thayná Melo
+  - name: Nogueira, Marcelo Saito
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photodiagnosis and Photodynamic Therapy"
+  volume: 44
+  doi: "10.1016/j.pdpdt.2023.103753"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Providing potential solutions by using FT-IR spectroscopy for biofluid analysis: Clinical impact of optical screening and diagnostic tests</li>
+  </ol>
+</nav>
+```

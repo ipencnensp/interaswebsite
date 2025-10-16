@@ -1,0 +1,39 @@
+---
+title: "Cardiac remodeling and inflammation detected by magnetic resonance imaging in COVID-19 survivors"
+date: 2024-10-01
+author:
+  - name: Schaustz, Eduardo B.
+  - name: Secco, José Carlos P.
+  - name: Barroso, Julia M.
+  - name: Ferreira, Juliana R.
+  - name: Tortelly, Mariana B.
+  - name: Pimentel, Adriana L.
+  - name: Figueiredo, Ana Cristina B.S.
+  - name: Albuquerque, Denilson C.
+  - name: Sales, Allan R. Kluser
+  - name: Rosado de-Castro, Paulo H.
+  - name: Pinheiro, Martha V.T.
+  - name: Souza, Olga F.
+  - name: Medei, Emiliano
+  - name: Luiz, Ronir R.
+  - name: Silvestre-Sousa, Andréa
+  - name: Camargo, Gabriel C.
+  - name: Moll-Bernardes, Renata
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "IJC Heart & Vasculature"
+  volume: 54
+  doi: "10.1016/j.ijcha.2024.101499"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cardiac remodeling and inflammation detected by magnetic resonance imaging in COVID-19 survivors</li>
+  </ol>
+</nav>
+```

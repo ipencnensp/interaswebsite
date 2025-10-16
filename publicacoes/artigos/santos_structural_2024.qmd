@@ -1,0 +1,27 @@
+---
+title: "Structural, vibrational, and luminescent properties of pure and Ce-doped magnesium lithium aluminoborate glass"
+date: 2024-12-01
+author:
+  - name: Santos, Allan W.S.
+  - name: Silveira, Iury S.
+  - name: Meira-Belo, Luiz C.
+  - name: Novais, Andrea L.F.
+  - name: Souza, Divanizia N.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Applied Radiation and Isotopes"
+  volume: 214
+  doi: "10.1016/j.apradiso.2024.111548"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Structural, vibrational, and luminescent properties of pure and Ce-doped magnesium lithium aluminoborate glass</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,40 @@
+---
+title: "Falta de Uso de Anticoagulantes em Pacientes com Fibrilação Atrial e Risco Aumentado de Eventos Tromboembólicos de Acordo com o Sexo: Insights de um Estudo Multicêntrico Brasileiro"
+date: 2024-01-01
+author:
+  - name: Medei, Emiliano
+  - name: Moll-Bernardes, Renata
+  - name: Pinheiro, Martha V. T.
+  - name: Sousa, Andréa S.
+  - name: Abufaiad, Barbara
+  - name: Feldman, Andre
+  - name: Arruda, Guilherme D’andrea Saba
+  - name: Monteiro, Thiago Libano Csernik
+  - name: Luca, Fabio Augusto De
+  - name: Henz, Benhur Davi
+  - name: Albuquerque, Denilson C.
+  - name: Fagundes Junior, Antonio Aurelio P.
+  - name: Noya-Rabelo, Marcia M.
+  - name: Camiletti, Angelina Silva
+  - name: Frajtag, Rose Mary
+  - name: Luiz, Ronir R.
+  - name: Souza, Olga F.
+abstract: > 
+  Resumo Fundamento A fibrilação atrial (FA) é a arritmia cardíaca mais prevalente e sua apresentação difere de acordo com a idade e o sexo. Estudos recentes revelaram diferenças na FA entre vários grupos demográficos, incluindo a população latino-americana. Objetivos Melhor compreender as possíveis disparidades na prevalência da FA e nas estratégias de tratamento na população brasileira por meio de dados de um registro prospectivo multicêntrico de grande escala. Métodos O registro de FA da Rede D’Or é um estudo observacional prospectivo multicêntrico que incluiu pacientes com idade ≥ 18 anos com FA atendidos no pronto-socorro de 32 hospitais terciários no Brasil. Os pacientes foram caracterizados de acordo com o sexo e outras características basais e classificados de acordo com o uso prévio de anticoagulantes. Foi analisada a falta de uso de anticoagulantes em pacientes com indicações prévias. A significância estatística foi estabelecida em 5%. Resultados Os dados do estudo foram provenientes de um total de 1.955 pacientes inscritos. O sexo masculino foi mais prevalente e os homens eram mais jovens que as mulheres. Devido ao aumento da prevalência de episódios anteriores de FA e a um escore CHA2DS2-VASc mais elevado, mais mulheres tiveram indicação de terapia anticoagulante; no entanto, uma proporção significativa não estava recebendo esse tratamento. Dos 29 óbitos intra-hospitalares, 15 pacientes tinham indicação prévia para anticoagulação, mas apenas 3 estavam em uso de anticoagulantes. Conclusão O presente estudo revelou diferenças relacionadas ao sexo na população brasileira de pacientes com FA que são consistentes com tendências em países de alta renda. A promoção de uma melhor implementação de terapias anticoagulantes e antitrombóticas para reduzir o risco de óbito e eventos tromboembólicos entre mulheres com FA no Brasil é crucial. , Abstract Background Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia, and its presentation differs according to age and sex. Recent studies have revealed differences in AF among various demographic groups, including the Latin American population. Objectives To better understand potential disparities in AF prevalence and treatment strategies in the Brazilian population through data from a large multicentric prospective registry. Methods The Rede D’Or AF registry is a multicenter prospective observational study including patients aged ≥ 18 years with AF who were seen in the emergency department of 32 tertiary hospitals in Brazil. Patients were characterized according to sex and other baseline characteristics and were classified according to previous anticoagulant use. The lack of anticoagulant use in patients with previous indications was analyzed. Statistical significance was set at 5%. Results The study data were from a total of 1955 patients enrolled. Male sex was more prevalent, and men were younger than the women. Due to an increased prevalence of previous AF episode and a higher CHA2DS2-VASc score, more women had indications for anticoagulant therapy; however, a significant proportion was not receiving this treatment. From 29 in-hospital deaths, 15 patients had previous indication for anticoagulation, but only 3 were using anticoagulants. Conclusion This study revealed sex-related differences in the Brazilian population of patients with AF that are consistent with trends in high-income countries. The promotion of better implementation of anticoagulant and antithrombotic therapies to reduce the risk of death and thromboembolic events among women with AF in Brazil is crucial.
+categories: [article]
+citation: 
+  container-title: "Arquivos Brasileiros de Cardiologia"
+  volume: 121
+  issue: 9
+  doi: "10.36660/abc.20240310"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Falta de Uso de Anticoagulantes em Pacientes com Fibrilação Atrial e Risco Aumentado de Eventos Tromboembólicos de Acordo com o Sexo: Insights de um Estudo Multicêntrico Brasileiro</li>
+  </ol>
+</nav>
+```

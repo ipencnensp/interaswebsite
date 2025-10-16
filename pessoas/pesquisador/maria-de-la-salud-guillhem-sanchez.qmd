@@ -1,0 +1,48 @@
+---
+title:  "María de la Salud Guillhem Sánchez"
+sortby: "1"
+subtitle: "Pesquisador"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/maria-de-la-salud-guillhem-sanchez.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "https://www.upv.es/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Pesquisador</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universitat Politècnica de València / Escuela Tecnica Superior de Ingenieros Industriales Valencia 15-UPV-- Espanha](https://www.upv.es/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+A Profa Guillhem é especialista em estudos em fibrilação atrial, e sua contribuição no projeto envolve o modelo animal, setup experimental e análise crítica dos resultados.

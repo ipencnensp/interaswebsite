@@ -1,0 +1,32 @@
+---
+title: "Oral Mucosa and Saliva Alterations Related to Vape"
+date: 2024-08-01
+author:
+  - name: Carvalho, Bruna Fernandes Do Carmo
+  - name: Faria, Natália De Carvalho
+  - name: Foiani, Letícia
+  - name: Nepomuceno, Gabrielle Luana Jimenez Teodoro
+  - name: Cavalcanti, Desirée Rosa
+  - name: Alves, Mônica Ghislaine Oliveira
+  - name: Martinho, Herculano Da Silva
+  - name: Pérez‐Sayáns, Mário
+  - name: Almeida, Janete Dias
+abstract: > 
+  Abstract Objectives Electronic nicotine delivery systems (e‐cigarette, pod, and vape) are currently among the tobacco consumption of adolescents and young adults. The aim is to show oral mucosa and saliva alterations related to vape. Material and Methods A vape‐user patient, presenting a white plaque in the posterior region of the hard palate, underwent clinical examination, sialometry, pH evaluation, and excisional biopsy of the white lesion. Molecular changes in saliva and vape liquid were analyzed by vibrational spectroscopy. Results The histopathological analyses showed hyperparakeratosis without dysplasia. Formaldehyde, ketones, and aromatic hydrocarbon species were identified in e‐cig liquid by the FTIR. Conclusions The use of vape may be related to the development of hyperkeratotic lesions in the oral mucosa as well as significantly modify the patient's salivary patterns as the vape liquid presents carcinogenic and cytotoxic components in its composition.
+categories: [article]
+citation: 
+  container-title: "Clinical and Experimental Dental Research"
+  volume: 10
+  issue: 4
+  doi: "10.1002/cre2.926"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Oral Mucosa and Saliva Alterations Related to Vape</li>
+  </ol>
+</nav>
+```

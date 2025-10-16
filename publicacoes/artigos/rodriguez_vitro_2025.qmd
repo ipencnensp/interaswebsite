@@ -1,0 +1,28 @@
+---
+title: "In vitro study of the effects of diode laser on dentin hypersensitivity and evaluation of intra-pulpal temperature variation"
+date: 2025-02-05
+author:
+  - name: Rodriguez, Christian Giancarlo Bernal
+  - name: Manna, Maria Paula Novaes Camargo
+  - name: Tarrilo, Fiorella Elizabeth Arévalo
+  - name: Zezell, Denise Maria
+  - name: Eduardo, Carlos De Paula
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Lasers in Medical Science"
+  volume: 40
+  issue: 1
+  doi: "10.1007/s10103-025-04291-4"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">In vitro study of the effects of diode laser on dentin hypersensitivity and evaluation of intra-pulpal temperature variation</li>
+  </ol>
+</nav>
+```

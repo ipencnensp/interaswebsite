@@ -1,0 +1,24 @@
+---
+title: "Kavanah Project: beyond health promotion"
+date: 2024-09-20
+author:
+  - name: Matos, Leandro Luongo
+  - name: Klajner, Sidney
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "einstein (São Paulo)"
+  volume: 22
+  doi: "10.31744/einstein_journal/2024CE1147"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Kavanah Project: beyond health promotion</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,26 @@
+---
+title: "Innovative methodology for noninvasive spatial mapping of gold nanoparticle distribution in tissues: potential applications in biomedical imaging and therapy"
+date: 2024-07-01
+author:
+  - name: Mendes, A. C. M.
+  - name: Monte, A. F. G.
+  - name: Saager, R. B.
+abstract: > 
+  Gold nanoparticles (AuNPs) have emerged as versatile agents in biomedical applications, particularly for enhancing contrast in tagged biological tissues for tumor imaging and diagnostics due to their strong absorption cross-section. In this study, we present a methodology for quantifying the spatial distribution of AuNPs within superficial tissue volumes. Utilizing silicone tissue phantoms as a background medium and spatial frequency domain imaging (SFDI) to measure the tissues’ optical properties, we constructed a lookup table (LUT) to infer the optical properties of embedded AuNPs with varying spatial concentrations and depths across multiple spatial frequencies. An analytical solution derived from the LUT facilitated the determination of embedded NP concentration in-depth as a function of measured spatial frequency-dependent optical absorption. Notably, SFDI enabled the spatial localization of NPs in three dimensions. These findings lay the foundation for future in vivo studies on mapping NPs and hold significant promise for advancing biomedical imaging techniques.
+categories: [article]
+citation: 
+  container-title: "Journal of the Optical Society of America A"
+  volume: 41
+  issue: 7
+  doi: "10.1364/JOSAA.523717"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Innovative methodology for noninvasive spatial mapping of gold nanoparticle distribution in tissues: potential applications in biomedical imaging and therapy</li>
+  </ol>
+</nav>
+```

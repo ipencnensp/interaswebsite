@@ -19,7 +19,7 @@ about:
       href: "https://scholar.google.com/citations?hl=en&user=ivFZZgMAAAAJ"
     - icon: bank
       text: Instituição
-      href: "www.ipen.br"
+      href: "http://www.ipen.br"
 ---
 
 ```{=html}
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil](http://www.ipen.br)
 
 ### Áreas de Atuação
 

@@ -1,0 +1,48 @@
+---
+title:  "Denise Maria Zezell"
+sortby: "1"
+subtitle: "Coordenadora"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/denise-maria-zezell.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/0751040282401769"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=T-7bPc0AAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "http://www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Coordenadora</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares - IPEN](http://www.ipen.br)
+
+### Áreas de Atuação
+
+Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.
+
+### Atuação no Projeto
+
+Gerenciar o INCT, coordenação geral e dos subprojetos; liderar a equipe, coordenar os ensaios pré-clínicos (in vitro e in vivo); coordenar as ações de difusão científica; coordenar as ações de transferência de tecnologia para empresas e hospitais; coordenar a busca de parcerias nacionais e internacionais; coordenar as atividades de formação de recursos humanos.

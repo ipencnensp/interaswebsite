@@ -1,0 +1,30 @@
+---
+title: "Método de dosimetria de aceleradores lineares com medidas ponto a ponto e sistema automatizado 3D"
+date: 2023-12-18
+author:
+  - name: Telles, Luiz Flávio
+  - name: Delbem, Lucas
+  - name: Souza, Divanizia
+  - name: Souza, Leo
+  - name: Lucena, Fernanda
+  - name: Gouveia, Nallyanne
+  - name: Galvão, Iago
+  - name: Araújo, Marcio
+abstract: > 
+  Uma Radioterapia de qualidade requer a habilidade de determinar a dose absorvida com acurácia mínima de 95% em qualquer ponto de interesse no volume alvo no paciente. Para tanto, dados dosimétricos do feixe de tratamento são necessários para alimentar o sistema de planejamento que libera a dose de radiação. Para obtenção de tais dados deve ser empregado sistema automatizado de varredura de campo de radiação 3D, composto por fantoma e software. Tal sistema requer o uso de método de integração de sinal detector sincronizado com o seu tempo de varredura. O objetivo deste trabalho foi desenvolver um sistema de automatizado de varredura ponto a ponto para obtenção de parâmetros dosimétricos de feixes do acelerador linear utilizados em radioterapia. Para isso, sistema composto por um fantoma de água com sistema automatizado de posicionamento de detector e um modelo matemático (software) foi desenvolvido, sendo denominado de Phantom Telles. O modelo matemático, chamado de FOCAL usa aproximações da equação de transporte para interpolar os dados medidos e simular medidas realizadas com sistemas de varredura comerciais. O Phantom-Telles foi validado no Real Hospital Português em Recife, por meio de comparação com dados de percentagem de dose profunda (PDD) e perfil de campo de radiação de 6 MV do acelerador linear VARIAN-Truebeam obtidas com um 3D Blue Phantom (IBA). Os resultados das medições de PDD e perfil de campo mostraram que os dados obtidos com o Phantom-Telles estavam em conformidade com os obtidos com o Blue Phantom, com variações de até 1% em regiões de alto gradiente de dose, sendo menores que 1% nas outras regiões. Os resultados indicam que o Phantom-Telles tem potencial para uso em controle de qualidade e comissionamento de aceleradores lineares.
+categories: [article]
+citation: 
+  container-title: "Revista Brasileira de Física Médica"
+  volume: 17
+  doi: "10.29384/rbfm.2023.v17.19849001750"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Método de dosimetria de aceleradores lineares com medidas ponto a ponto e sistema automatizado 3D</li>
+  </ol>
+</nav>
+```

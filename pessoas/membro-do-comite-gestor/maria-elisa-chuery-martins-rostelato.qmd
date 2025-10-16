@@ -1,0 +1,48 @@
+---
+title:  "Maria Elisa Chuery Martins Rostelato"
+sortby: "1"
+subtitle: "Membro do Comitê Gestor"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/maria-elisa-chuery-martins-rostelato.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/4947891787244417"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=OCpvPr0AAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "http://www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Membro do Comitê Gestor</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil](http://www.ipen.br)
+
+### Áreas de Atuação
+
+Produção de Radioisótopos, Aplicações Industriais de Radioisótopos, Produção de Fontes Radioativas
+
+### Atuação no Projeto
+
+Responsável pelo desenvolvimento de novas tecnologias para tratamento de câncer com radiações ionizantes, em especial a nanobraquiterapia, e pelo Laboratório de Produção de Fontes Radioativas para Radioterapia do IPEN, que produz e distribui fontes radioativas para os hospitais, desde 1997. Os principais desafios incluem: síntese e caracterização de nanopartículas de ouro (AuNPs) radioativa e não-radioativa; funcionalização das nanopartículas para direcionamento ao tumor; ensaios de citotoxicidade in vitro; ensaios em modelo animal de tumor de próstata; associação da Terapia com Laser de Baixa Potência à nanobraquiterapia in vivo; desenvolvimento de ensaios pré-clínicos de câncer de próstata para investigar o efeito biológico da associação das radiações ionizante e não ionizante; realização de ensaios clínicos para aumentar o nível de evidências na literatura científica, ao uso de fontes radioativas em câncer, auxiliando nas tomadas de decisões na Saúde; dosimetria em radioterapia.

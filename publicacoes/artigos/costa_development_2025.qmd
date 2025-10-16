@@ -1,0 +1,33 @@
+---
+title: "Development and performance of a low-cost, solid-state, thermal neutron sensor with a 10B converter"
+date: 2025-02-01
+author:
+  - name: Costa, P.
+  - name: Weaver, J. L.
+  - name: Raele, M. P.
+  - name: Pritchard, K.
+  - name: Leão, J. B.
+  - name: Domienikan, C.
+  - name: Maliszewskyj, N. C.
+  - name: Da Silva, F. S.
+  - name: Pereira, W. W.
+  - name: Genezini, F. A.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Radioanalytical and Nuclear Chemistry"
+  volume: 334
+  issue: 2
+  doi: "10.1007/s10967-024-09878-9"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Development and performance of a low-cost, solid-state, thermal neutron sensor with a 10B converter</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,33 @@
+---
+title: "A Novel Strategy Based on Zn(II) Porphyrins and Silver Nanoparticles to Photoinactivate Candida albicans"
+date: 2023-06-01
+author:
+  - name: Raposo, Bruno L
+  - name: Souza, Sueden O
+  - name: Santana, Gleyciane S
+  - name: Lima, Max Ta
+  - name: Sarmento-Neto, José F
+  - name: Reboucas, Júlio S
+  - name: Pereira, Goreti
+  - name: Santos, Beate S
+  - name: Cabral Filho, Paulo E
+  - name: Ribeiro, Martha S
+  - name: Fontes, Adriana
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Nanomedicine"
+  volume: Volume 18
+  doi: "10.2147/IJN.S404422"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A Novel Strategy Based on Zn(II) Porphyrins and Silver Nanoparticles to Photoinactivate Candida albicans</li>
+  </ol>
+</nav>
+```

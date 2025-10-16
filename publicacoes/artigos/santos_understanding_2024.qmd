@@ -1,0 +1,30 @@
+---
+title: "Understanding the optoelectronic and vibrational properties of MB<sub>4</sub>O<sub>7</sub> , using density functional theory, where M = Yb or Ce"
+date: 2024-11-01
+author:
+  - name: Santos, Willian O.
+  - name: Dos Santos, Allan W.S.
+  - name: Ferreira, Fernanda Carla Lima
+  - name: De Novais, Erico Raimundo Pereira
+  - name: Rodrigues, Aldimar Machado
+  - name: Frazão, Nilton Ferreira
+  - name: De Lima Ferreira Novais, Andrea
+  - name: Do Nascimento Souza, Divanizia
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Optical Materials"
+  volume: 157
+  doi: "10.1016/j.optmat.2024.116210"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Understanding the optoelectronic and vibrational properties of MB<sub>4</sub>O<sub>7</sub> , using density functional theory, where M = Yb or Ce</li>
+  </ol>
+</nav>
+```

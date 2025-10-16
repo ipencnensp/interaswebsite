@@ -1,0 +1,31 @@
+---
+title: "The Role of Ceramics in Xingó History: An Archaeometric Approach"
+date: 2024-08-01
+author:
+  - name: De Abreu, Carolina Melo
+  - name: Silveira, Iury Santos
+  - name: De Almeida, Fernando Ozorio
+  - name: Barrera, Gerardo Rivera
+  - name: De Carvalho, Oívia Alexandre
+  - name: De Queiroz, Albérico Nogueira
+  - name: Machado, Rogério
+  - name: Do Nascimento Souza, Divanizia
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Physics"
+  volume: 54
+  issue: 4
+  doi: "10.1007/s13538-024-01512-z"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The Role of Ceramics in Xingó History: An Archaeometric Approach</li>
+  </ol>
+</nav>
+```

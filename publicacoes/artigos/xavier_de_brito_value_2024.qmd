@@ -1,0 +1,39 @@
+---
+title: "Value of 123I-MIBG SPECT for the assessment of dysautonomia in patients with long COVID"
+date: 2024-06-01
+author:
+  - name: Xavier De Brito, Adriana S.
+  - name: Bronchtein, Ana Inês
+  - name: Schaustz, Eduardo B.
+  - name: Glavam, Adriana P.
+  - name: Pinheiro, Martha Valéria T.
+  - name: Secco, José Carlos P.
+  - name: Camargo, Gabriel C.
+  - name: Almeida, Sergio A.
+  - name: Quintella, Tayene A.
+  - name: Albuquerque, Denilson C.
+  - name: Luiz, Ronir R.
+  - name: Medei, Emiliano
+  - name: Souza, Olga F.
+  - name: Sales, Allan Robson K.
+  - name: Sousa, Andrea S.
+  - name: Rosado-de-Castro, Paulo Henrique
+  - name: Moll-Bernardes, Renata J.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "IJC Heart & Vasculature"
+  volume: 52
+  doi: "10.1016/j.ijcha.2024.101413"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Value of 123I-MIBG SPECT for the assessment of dysautonomia in patients with long COVID</li>
+  </ol>
+</nav>
+```

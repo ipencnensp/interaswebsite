@@ -1,0 +1,26 @@
+---
+title: "Nd:YVO4 Random Laser with Preferential Emission at 1340 nm over 1064 nm"
+date: 2024-09-25
+author:
+  - name: Dipold, Jessica
+  - name: Kassab, Luciana R. P.
+  - name: Wetter, Niklaus U.
+abstract: > 
+  Neodymium-doped yttrium vanadate random lasers have presented exceptional efficiency and output power at the 1064 nm emission wavelength. However, emission at 1340 nm has not yet been observed for these random lasers, even though regular bulk lasers have presented many impressive properties in this infrared region. Here, we present a dual-emission Nd3+:YVO4 pellet random laser, which emits at both 1064 nm and 1340 nm using a 585 nm pump wavelength, showing a new property corresponding to a much lower laser threshold at 1340 nm than with 1064 nm.
+categories: [article]
+citation: 
+  container-title: "Photonics"
+  volume: 11
+  issue: 10
+  doi: "10.3390/photonics11100898"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Nd:YVO4 Random Laser with Preferential Emission at 1340 nm over 1064 nm</li>
+  </ol>
+</nav>
+```

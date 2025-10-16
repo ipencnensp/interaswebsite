@@ -1,0 +1,29 @@
+---
+title: "X- ray experimental set-up for in-vitro nail test"
+date: 2023-07-10
+author:
+  - name: Bugno Zamboni, Cibele
+  - name: Nogueira Da Silva Giovanni, Dalton
+  - name: Ramos De Almeida, Mateus
+  - name: Sabino Todo, Alberto
+  - name: Sabará Dias, Fabio
+  - name: Rodrigues Junior, Orlando
+abstract: > 
+  In this investigation, the elements Ca and S were evaluated in a single nail clipping using compact and portable X-ray spectrometer model X-123 SDD with Ag target. Experimental conditions for current, voltage and excitation time were investigated. These analyses can be useful for a variety of applications, including nutritional and medical diagnosis, such as, the evaluation of bone dysfunctions by measurement of Ca (bone decalcification) and S for nutrition evaluations (collagen production). This analysis offers some benefits comparatively to blood and serum analyses, such as, non-invasive collection, fast analyses (minutes) and low cost. In addition, nail clippings are simple to obtain, easy to store, and easy to transport. This pilot study show a positive expectation for clinical application using in-vitro nail test.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Radiation Sciences"
+  volume: 11
+  issue: 1
+  doi: "10.15392/2319-0612.2023.2207"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">X- ray experimental set-up for in-vitro nail test</li>
+  </ol>
+</nav>
+```

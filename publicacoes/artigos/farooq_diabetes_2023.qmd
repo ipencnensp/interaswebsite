@@ -1,0 +1,25 @@
+---
+title: "Diabetes Monitoring through Urine Analysis Using ATR-FTIR Spectroscopy and Machine Learning"
+date: 2023-11-15
+author:
+  - name: Farooq, Sajid
+  - name: Zezell, Denise Maria
+abstract: > 
+  Diabetes mellitus (DM) is a widespread and rapidly growing disease, and it is estimated that it will impact up to 693 million adults by 2045. To cope this challenge, the innovative advances in non-destructive progressive urine glucose-monitoring platforms are important for improving diabetes surveillance technologies. In this study, we aim to better evaluate DM by analyzing 149 urine spectral samples (86 diabetes and 63 healthy control male Wistar rats) utilizing attenuated total reflection–Fourier transform infrared (ATR-FTIR) spectroscopy combined with machine learning (ML) methods, including a 3D discriminant analysis approach—3D–Principal Component Analysis–Linear Discriminant Analysis (3D-PCA-LDA)—in the ‘bio-fingerprint’ region of 1800–900 cm−1. The 3D discriminant analysis technique demonstrated superior performance compared to the conventional PCA-LDA approach with the 3D-PCA-LDA method achieving 100% accuracy, sensitivity, and specificity. Our results show that this study contributes to the existing methodologies on non-destructive diagnostic methods for DM and also highlights the promising potential of ATR-FTIR spectroscopy with an ML-driven 3D-discriminant analysis approach in disease classification and monitoring.
+categories: [article]
+citation: 
+  container-title: "Chemosensors"
+  volume: 11
+  issue: 11
+  doi: "10.3390/chemosensors11110565"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Diabetes Monitoring through Urine Analysis Using ATR-FTIR Spectroscopy and Machine Learning</li>
+  </ol>
+</nav>
+```

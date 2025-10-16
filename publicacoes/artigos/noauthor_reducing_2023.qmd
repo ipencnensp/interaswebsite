@@ -1,0 +1,23 @@
+---
+title: "Reducing the environmental impact of surgery on a global scale: systematic review and co-prioritization with healthcare workers in 132 countries"
+date: 2023-01-01
+author:
+  - name: NA
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "British Journal of Surgery"
+  volume: 110
+  issue: 7
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Reducing the environmental impact of surgery on a global scale: systematic review and co-prioritization with healthcare workers in 132 countries</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,30 @@
+---
+title: "A Clinical Appearance of Traumatic Fibroma with a Distinct and Rare Histological Diagnosis –insights of Pseudo Perineurioma – Case Report"
+date: 2024-05-07
+author:
+  - name: Ribeiro, Carnevalli Ana Clara
+  - name: Santos, Dias da Silva Sara Maria
+  - name: Sandy, da Silva Leite Larissa
+  - name: Tavares, de Moura Vitória
+  - name: Dárcio, Kitakawa
+  - name: Felipe, da Silva Peralta
+  - name: Melo, de Lima Morais Thayná
+  - name: and, de Carvalho Luis Felipe das Chagas e Silva
+abstract: > 
+  Oral pseudo perineurioma is a reactive lesion of the peripheral nerve sheath rarely described in the literature, occurring more frequently in the tongue and lower lips.The objective of this case report is to describe pseudoperineurioma with a literary basis, to encourage learning and assist in decision-making in certain situations.We present here a rare case of oral pseudoperineurioma in tongue that occurred in a 19-year-old man and a brief review of the literature. A 19-year-old man presented with a nodular lesion on the dorsum of the tongue without painful symptoms. Excisional biopsy was performed. The pathological examination revealed a proliferation of structures like onion bulbs. Immunohistochemical analysis was positive for GLUT-1.The histological diagnosis was oral pseudoperineurioma. Oral pseudoperineurioma is a rare clinical lesion and can be confused with other reactive and neoplastic conditions of the oral cavity.
+categories: [article]
+citation: 
+  container-title: "The Open Dentistry Journal"
+  volume: 18
+  doi: "10.2174/0118742106284558240424080759"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A Clinical Appearance of Traumatic Fibroma with a Distinct and Rare Histological Diagnosis –insights of Pseudo Perineurioma – Case Report</li>
+  </ol>
+</nav>
+```

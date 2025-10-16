@@ -1,0 +1,26 @@
+---
+title: "Characterization of Ceria Powders as a Continuous Search for New Rare-earth Based Materials for Radiation Dosimetry"
+date: 2024-12-01
+author:
+  - name: Dos Santos, Silas Cardoso
+  - name: Júnior, Orlando Rodrigues
+  - name: Campos, Letícia Lucente
+abstract: > 
+  Background: Ceria (CeO2) belongs to rare-earth series and due to its profitable properties, presents a wide commercial use such as catalysis, energy, biological, biomedical, and pharmaceutical. The features of the starting materials in the form of free powders influence notably the processing, formation, as well as characteristics of the final structurestextbackslashbodies obtained by colloidal processing. This study aims to characterize CeO2 powders. The results obtained are worthwhile data to advance toward new rare-earth based materials for radiation dosimetry. Methods: CeO2 powders were evaluated by the following techniques: PCS, SEM, XRD, FT-IR, EPR, IPC, and pycnometric density (ρ). The stability of particles in aqueous solvent was evaluated by zeta potential (ζ) determination. Results: CeO2 powders exhibited cubic C-type form, Fm-3m space group, a mean particle size (d50) of 19.3nm, and a pycnometric density (ρ) of 7.01g.cm-3. Based on the results of zeta potential determination, CeO2 powders exhibited high stability at pH 6.4 with ζ- value of textbar34.0textbarmV. Conclusion: The evaluation of CeO2 powders was reported. The results presented and discussed in this study contribute to advance in the search of new rare-earth based materials for radiation dosimetry.
+categories: [article]
+citation: 
+  container-title: "Current Materials Science"
+  volume: 17
+  issue: 5
+  doi: "10.2174/2666145417666230823091126"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Characterization of Ceria Powders as a Continuous Search for New Rare-earth Based Materials for Radiation Dosimetry</li>
+  </ol>
+</nav>
+```

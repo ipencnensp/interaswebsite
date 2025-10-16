@@ -1,0 +1,29 @@
+---
+title: "In silico dosimetry for a prostate cancer treatment using <sup>198</sup> Au nanoparticles"
+date: 2025-01-31
+author:
+  - name: Angelocci, Lucas Verdi
+  - name: Sgrignoli, Sabrina Spigaroli
+  - name: De Souza, Carla Daruich
+  - name: Antunes, Paula Cristina Guimarães
+  - name: Rostelato, Maria Elisa Chuery Martins
+  - name: Zeituni, Carlos Alberto
+abstract: > 
+  Abstract Objective . To estimate dose rates delivered by using radioactive 198 Au nanoparticles for prostate cancer nanobrachytherapy, identifying contribution by photons and electrons emmited from the source. Approach . Utilizing in silico models, two different anatomical representations were compared: a mathematical model and a unstructured mesh model based on the International Commission on Radiological Protection (ICRP) Publication 145 phantom. Dose rates by activity were calculated to the tumor and nearby healthy tissues, including healthy prostate tissue, urinary bladder wall and rectum, using Monte Carlo code MCNP6.2. Main results . Results indicate that both models provide dose rate estimates within the same order of magnitude, with the mathematical model overestimating doses to the prostate and bladder by approximately 20% compared to the unstructured mesh model. The discrepancies for the tumor and rectum were below 4%. Photons emmited from the source were defined as the primary contributors to dose to other organs, while 97.9% of the dose to the tumor was due to electrons emmited from the source. Significance . Our findings emphasize the importance of model selection in dosimetry, particularly the advantages of using realistic anatomical phantoms for accurate dose calculations. The study demonstrates the feasibility and effectiveness of 198 Au nanoparticles in achieving high dose concentrations in tumor regions while minimizing exposure to surrounding healthy tissues. Beta emissions were found to be predominantly responsible for tumor dose delivery, reinforcing the potential of 198 Au nanoparticles in localized radiation therapy. We advocate for using realistic body phantoms in further research to enhance reliability in dosimetry for nanobrachytherapy, as the field still lacks dedicated protocols.
+categories: [article]
+citation: 
+  container-title: "Biomedical Physics & Engineering Express"
+  volume: 11
+  issue: 1
+  doi: "10.1088/2057-1976/ad8acc"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">In silico dosimetry for a prostate cancer treatment using <sup>198</sup> Au nanoparticles</li>
+  </ol>
+</nav>
+```

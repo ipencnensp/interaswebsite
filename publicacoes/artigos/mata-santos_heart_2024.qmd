@@ -1,0 +1,36 @@
+---
+title: "Heart function enhancement by an Nrf2-activating antioxidant in acute Y-strain Chagas disease, but not in chronic Colombian or Y-strain"
+date: 2024-11-07
+author:
+  - name: Mata-Santos, Hilton Antônio
+  - name: Sousa Oliveira, Camila Victória
+  - name: Feijo, Daniel F.
+  - name: Vanzan, Daniel Figueiredo
+  - name: Vilar-Pereira, Glaucia
+  - name: Ramos, Isalira P.
+  - name: Carneiro, Vitor Coutinho
+  - name: Moreno-Loaiza, Oscar
+  - name: Silverio, Jaline Coutinho
+  - name: Lannes-Vieira, Joseli
+  - name: Medei, Emiliano
+  - name: Bozza, Marcelo T.
+  - name: Paiva, Claudia N.
+abstract: > 
+  Oxidative stress promotes T . cruzi growth and development of chronic Chagas heart dysfunction. However, the literature contains gaps that must be fulfilled, largely due to variations in parasite DTU sources, cell types, mouse strains, and tools to manipulate redox status. We assessed the impact of oxidative environment on parasite burden in cardiomyoblasts and the effects of the Nrf2-inducer COPP on heart function in BALB/c mice infected with either DTU-II Y or DTU-I Colombian T . cruzi strains. Treatment with antioxidants CoPP, apocynin, resveratrol, and tempol reduced parasite burden in cardiomyoblasts H9C2 for both DTUI- and II-strains, while H 2 O 2 increased it. CoPP treatment improved electrical heart function when administered during acute stage of Y-strain infection, coinciding with an overall trend towards increased survival and reduced heart parasite burden. These beneficial effects surpassed those of trypanocidal benznidazole, implying that CoPP directly affects heart physiology. CoPP treatment had beneficial impact on heart systolic function when performed during acute and evaluated during chronic stage. No impact of CoPP on heart parasite burden, electrical, or mechanical function was observed during the chronic stage of Colombian-strain infection, despite previous demonstrations of improvement with other antioxidants. Treatment with CoPP also did not improve heart function of mice chronically infected with Y-strain. Our findings indicate that amastigote growth is responsive to changes in oxidative environment within heart cells regardless of the DTU source, but CoPP influence on heart parasite burden in vivo and heart function is mostly confined to the acute phase. The nature of the antioxidant employed, T . cruzi DTU, and the stage of disease, emerge as crucial factors to consider in heart function studies.
+categories: [article]
+citation: 
+  container-title: "PLOS Neglected Tropical Diseases"
+  volume: 18
+  issue: 11
+  doi: "10.1371/journal.pntd.0012612"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Heart function enhancement by an Nrf2-activating antioxidant in acute Y-strain Chagas disease, but not in chronic Colombian or Y-strain</li>
+  </ol>
+</nav>
+```

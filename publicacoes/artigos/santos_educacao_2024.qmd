@@ -1,0 +1,27 @@
+---
+title: "Educação ambiental: um relato de experiência do programa residência pedagógica"
+date: 2024-12-31
+author:
+  - name: Santos, Daiane Maria Dos
+  - name: Idalino, Rosane Karine Tavares
+  - name: Souza, Divanizia Nascimento
+  - name: Santos, Josiene Maria Falcão Fraga Dos
+abstract: > 
+  A preocupação ambiental vem ganhando destaque devido às altas taxas de degradação ambiental. O rápido crescimento e os altos níveis de consumo de uma sociedade capitalista podem fazer com que as pessoas se distanciem da natureza, levando-as a esquecer o devido cuidado com ela. Ao reconhecer que somos parte da natureza e dependemos dela para nossa sobrevivência e bem-estar, a educação ambiental nos leva a refletir e adotar práticas mais sustentáveis e respeitosas com o meio ambiente, promovendo, assim, um equilíbrio entre desenvolvimento humano e conservação da natureza. Pensando nisso, este trabalho explora o conceito, a aplicação e a utilização de um jardim sensorial desenvolvido a partir de garrafas PET em ações no Programa de Residência Pedagógica (PRP). O projeto teve como objetivo promover uma sensibilização ambiental de estudantes da educação básica por meio de um jardim sensorial. A estruturação do jardim representou um ambiente que motivou os alunos a se envolverem ativamente na exploração de plantas e no reaproveitamento de materiais, e a compreender que a regeneração do meio ambiente nos leva ao caminho da sustentabilidade. A construção desse espaço, que carrega premissas de sustentabilidade, se configurou como ferramenta didática eficaz para educação ambiental, além de ter apresentado uma relevante etapa na formação docente no PRP.
+categories: [article]
+citation: 
+  container-title: "Revista Ensin@ UFMS"
+  volume: 5
+  issue: 9
+  doi: "10.55028/revens.v5i9.21701"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Educação ambiental: um relato de experiência do programa residência pedagógica</li>
+  </ol>
+</nav>
+```

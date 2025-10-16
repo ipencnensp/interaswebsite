@@ -1,0 +1,27 @@
+---
+title: "Management of Stage III Oral Cavity Squamous Cell Carcinoma in Light of the New Staging System: a Critical Review"
+date: 2023-02-01
+author:
+  - name: Matos, Leandro Luongo
+  - name: Guimarães, Yasmin Laryssa Moura
+  - name: Leite, Ana Kober
+  - name: Cernea, Claudio Roberto
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Current Oncology Reports"
+  volume: 25
+  issue: 2
+  doi: "10.1007/s11912-022-01353-6"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Management of Stage III Oral Cavity Squamous Cell Carcinoma in Light of the New Staging System: a Critical Review</li>
+  </ol>
+</nav>
+```

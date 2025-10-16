@@ -1,0 +1,32 @@
+---
+title: "Natural radioisotopes and chemical elements causing carcinogenic risks in soils of urban green spaces in the Metropolitan Region of Recife, Pernambuco, Brazil?"
+date: 2023-10-01
+author:
+  - name: De França, Elvis Joacir
+  - name: De Lira, Marcelo Belmiro Gomes
+  - name: Ferreira, Fabiano Silva
+  - name: Silva, Ítalo Brás
+  - name: Santos, Mechele Silva
+  - name: Filho, Crescêncio Andrade Silva
+  - name: Nascimento, Alesxandro Francisco
+  - name: Costa, Matheus Andrade Rocha
+  - name: Santos, Thiago Oliveira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Radioanalytical and Nuclear Chemistry"
+  volume: 332
+  issue: 10
+  doi: "10.1007/s10967-023-09098-7"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Natural radioisotopes and chemical elements causing carcinogenic risks in soils of urban green spaces in the Metropolitan Region of Recife, Pernambuco, Brazil?</li>
+  </ol>
+</nav>
+```

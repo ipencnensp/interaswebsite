@@ -1,0 +1,27 @@
+---
+title: "Histopathological diagnosis of colon cancer using micro-FTIR hyperspectral imaging and deep learning"
+date: 2023-04-01
+author:
+  - name: Muniz, Frederico Barbosa
+  - name: Baffa, Matheus De Freitas Oliveira
+  - name: Garcia, Sergio Britto
+  - name: Bachmann, Luciano
+  - name: Felipe, Joaquim Cezar
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Computer Methods and Programs in Biomedicine"
+  volume: 231
+  doi: "10.1016/j.cmpb.2023.107388"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Histopathological diagnosis of colon cancer using micro-FTIR hyperspectral imaging and deep learning</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,25 @@
+---
+title: "Sub-nanosecond, 41 mJ pulse energy, passively Q-switched Nd:YLF laser"
+date: 2023-07-01
+author:
+  - name: Maia Prado, Felipe
+  - name: Junqueira Franco, Tomás
+  - name: Ursus Wetter, Niklaus
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Optics & Laser Technology"
+  volume: 162
+  doi: "10.1016/j.optlastec.2023.109257"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Sub-nanosecond, 41 mJ pulse energy, passively Q-switched Nd:YLF laser</li>
+  </ol>
+</nav>
+```

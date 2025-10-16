@@ -1,0 +1,25 @@
+---
+title: "ASPECTOS A SEREM CONSIDERADOS EM AUDIODESCRIÇÃO DE IMAGENS EM FÍSICA COM VISTAS AO SEU ENTENDIMENTO POR PESSOAS COM DEFICIÊNCIA VISUAL"
+date: 2024-09-10
+author:
+  - name: Chaves Da Silva, Alexandre
+  - name: Souza, Divanizia Do Nascimento
+abstract: > 
+  Este trabalho discute sobre aspectos textuais da audiodescrição como uma ferramenta do letramento visual para promoção da acessibilidade de pessoas com deficiência visual (PcDV) no ensino e avaliação de Física. Essa ferramenta pode assegurar às PcDV o direito a informações contidas em imagens de livros didáticos, avaliações escritas e desenhadas na lousa, antes dispostas apenas visualmente. Na discussão, são elencados aspectos inerentes às informações essenciais para a resolução de um item do ENEM relativo à Física. A imagem apresentada no item foi audiodescrita por cinco professores de Física, atuantes em um ou mais níveis de ensino. Nas descrições foi identificado excesso de informações e de pessoalidade, sendo esses fatores apontados como negativos em uma descrição. Os padrões adotados para a avaliação dos aspectos considerados são os descritos na plataforma MECDAISY e em outros trabalhos. A partir do que foi identificado nas transcrições, um conjunto de aspectos textuais foi compilado em um questionário, com a finalidade de facilitar o trabalho do professor ao avaliar itens de Física e outras Ciências da Natureza, de modo a produzir audiodescrições e/ou descrições literais no ensino de Física que contribuam para a interpretação de imagens em contextos variados por parte das PcDV e videntes.
+categories: [article]
+citation: 
+  container-title: "Investigações em Ensino de Ciências"
+  volume: 29
+  issue: 2
+  doi: "10.22600/1518-8795.ienci2024v29n2p84"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">ASPECTOS A SEREM CONSIDERADOS EM AUDIODESCRIÇÃO DE IMAGENS EM FÍSICA COM VISTAS AO SEU ENTENDIMENTO POR PESSOAS COM DEFICIÊNCIA VISUAL</li>
+  </ol>
+</nav>
+```

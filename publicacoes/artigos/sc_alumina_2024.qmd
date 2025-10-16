@@ -1,0 +1,28 @@
+---
+title: "Alumina Crucibles from Free Dispersant Suspensions: A Useful Labwareto form Advanced Powders for Radiation Dosimetry"
+date: 2024-12-01
+author:
+  - name: S.C., Santos
+  - name: A.S., Martins
+  - name: T.L., Araújo
+  - name: O., Rodrigues Jr
+  - name: L.L., Campos
+abstract: > 
+  Background: Powder technology provides conditions to control particle-particle interactions that drive the formation of final-component/material, which also includes the crystalline structure, microstructure and features. Alumina (Al2O3) is the most studied ceramic based material due to its useful properties, disposal, competitive price, and wide technological applicability. This work aims to produce alumina crucibles with controlled size and shape from free dispensant suspensions. These crucibles will be used as containers for the synthesis of new materials for radiation dosimetry. Methods: The Al2O3 powders were characterized by XRD, SEM, PCS, and EPR. The stability of alumina particles in aqueous solvent was evaluated by zeta potential determination as a function of pH. Alumina suspensions with 30 vol% were shaped by slip casting in plaster molds, followed by sintering at 1600oC for 2 h in an air atmosphere. Alumina based crucibles were characterized by SEM and XRD. Results: ɑ-Al2O3 powders exhibited a mean particle diameter size (d50) of 983nm. Besides, the stability of particles in aqueous solvent was achieved at a range of pH from 2.0-6.0, and from 8.5-11.0. EPR spectra revealed two resonance peaks P1 and P2, with g-values of 2.0004 and 2.0022, respectively. The as-sintered ɑ-alumina based crucibles presented uniform shape and controlled size with no apparent defects. In addition, the final microstructure driven by solid-state sintering revealed a dense surface and uniform distribution of grains. Conclusion: The ɑ-Al2O3 crucibles obtained by slip casting of free dispensant alumina suspensions, followed by sintering, exhibited mechanical strength, and controlled shape and size. These crucibles will be useful labwares for the synthesis of new materials for radiation dosimetry.
+categories: [article]
+citation: 
+  container-title: "Current Materials Science"
+  volume: 17
+  issue: 4
+  doi: "10.2174/2666145417666230726153437"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Alumina Crucibles from Free Dispersant Suspensions: A Useful Labwareto form Advanced Powders for Radiation Dosimetry</li>
+  </ol>
+</nav>
+```

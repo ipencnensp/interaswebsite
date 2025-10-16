@@ -1,0 +1,32 @@
+---
+title: "Recognizing microplastic deposits on sandy beaches by altimetric positioning, μ-Raman spectroscopy and multivariate statistical models"
+date: 2024-12-01
+author:
+  - name: Ferreira, Anderson Targino Da Silva
+  - name: Wetter, Niklaus Ursus
+  - name: Ribeiro, Maria Carolina Hernandez
+  - name: Esteves, Luciana Slomp
+  - name: Dias, António José Guerner
+  - name: Grohmann, Carlos Henrique
+  - name: Kuznetsova, Maria
+  - name: Freitas, Anderson Zanardi De
+  - name: Oliveira, Regina Célia De
+  - name: Siegle, Eduardo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Marine Pollution Bulletin"
+  volume: 209
+  doi: "10.1016/j.marpolbul.2024.117025"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recognizing microplastic deposits on sandy beaches by altimetric positioning, μ-Raman spectroscopy and multivariate statistical models</li>
+  </ol>
+</nav>
+```

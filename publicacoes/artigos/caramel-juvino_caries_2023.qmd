@@ -1,0 +1,30 @@
+---
+title: "Caries Preventive Action of Nd:YAG and Fluoride in Three Different pH Conditions: FTIR Spectroscopy and SEM Evaluation"
+date: 2023-08-29
+author:
+  - name: Caramel-Juvino, Amanda
+  - name: Zanini, Nathalia A.
+  - name: Avelino, Sabrina Gardiano
+  - name: Fontes-Oliveira, Yasmin Reis
+  - name: Germano, Gleice Conceição Mendonça
+  - name: Eduardo, Carlos De Paula
+  - name: Zezell, Denise Maria
+abstract: > 
+  This in vitro study aimed to evaluate the preventive action of topical fluoride application combined with laser irradiation under different pH conditions using Fourier Transform Infrared Spectroscopy (FTIR) and Scanning Electron Microscopy (SEM). A total of 180 samples of human dental enamel were prepared and divided into groups: Negative Control, Fluoride (FFA 12.300 µF−/g), Laser (Nd:YAG 84.9 J/cm2), and Laser + Fluoride (Nd:YAG 84.9 J/cm2 + FFA 12.300 µF−/g). The pH cycling was performed at three different pH conditions: pH 5 (below the critical pH for hydroxyapatite), pH 4.5 (below the critical pH in the presence of fluorapatite), and pH 4 (investigating acid resistance of hydroxyapatite and fluorapatite forms with laser irradiation). In the FTIR analysis, the Laser + Fluoride group demonstrated statistically significant differences compared to the Negative Control group and Fluoride group at pH 4.5 and pH 4 when evaluating the phosphate bands. Similar results were observed in the SEM analysis, where the Laser + Fluoride group exhibited lower demineralization compared to the other treatments at pH 4.5 and pH 4. In conclusion, the Laser + Fluoride group demonstrated a significant reduction in demineralization even at pH levels below the critical threshold for fluorapatite, highlighting its superior acid resistance compared to fluoride alone.
+categories: [article]
+citation: 
+  container-title: "Photonics"
+  volume: 10
+  issue: 9
+  doi: "10.3390/photonics10090985"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Caries Preventive Action of Nd:YAG and Fluoride in Three Different pH Conditions: FTIR Spectroscopy and SEM Evaluation</li>
+  </ol>
+</nav>
+```

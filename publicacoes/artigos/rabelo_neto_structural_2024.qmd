@@ -1,0 +1,28 @@
+---
+title: "Structural changes in the crystal lattice in enamel under Er,Cr:YSGG laser irradiation and oven heated by Rietveld analysis"
+date: 2024-01-01
+author:
+  - name: Rabelo Neto, J S
+  - name: Da Ana, P A
+  - name: Mazzocchi, V L
+  - name: Valério, M E G
+  - name: Zezell, D M
+abstract: > 
+  Abstract Changes in the crystal lattices and compositions of the dental enamel powders were evaluated after oven or Er,Cr:YSGG laser irradiation. A decrease in the Ca/P ratio to levels close to the ideal theoretical value of laser irradiation caused a considerable decrease in the hydroxyapatite crystallite size but without changes in the crystallographic phase. These changes alter the material, can affect the demineralization process, and are useful for the prevention of caries and dental erosion.
+categories: [article]
+citation: 
+  container-title: "Laser Physics"
+  volume: 34
+  issue: 1
+  doi: "10.1088/1555-6611/ad0cb2"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Structural changes in the crystal lattice in enamel under Er,Cr:YSGG laser irradiation and oven heated by Rietveld analysis</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,48 @@
+---
+title:  "Leandro Luongo de Matos"
+sortby: "1"
+subtitle: "Líder de Laboratório Associado"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/leandro-luongo-de-matos.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/6671537492263094"
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=EL0RwRkAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "https://icesp.org.br/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Líder de Laboratório Associado</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto do Câncer do Estado de São Paulo Octávio Frias de Oliveira-ICESP-SP-Brasil](https://icesp.org.br/)
+
+### Áreas de Atuação
+
+Cirurgia de Cabeça e Pescoço, Cirurgia, Medicina, Biologia Molecular, Bioestatística, Epidemologia
+
+### Atuação no Projeto
+
+É crescente a busca por microRNAs associados à carcinogênese, progressão tumoral e também no prognóstico de pacientes com carcinoma espinocelular de cavidade oral. Para essa neoplasia, a espessura tumoral é bem documentada como um fator isolado de pior prognóstico, porém pouco se sabe sobre as causas moleculares envolvidas nesse processo. Dessa forma, neste Instituto iremos contribuir na avaliação do papel dos proteoglicanos e identificação dos microRNAs envolvidos no processo de invasão tumoral, além de relacioná-los com variáveis demográficas, histopatológicas e imuno-histoquímicas e o prognóstico de pacientes acometidos por carcinoma espinocelular de cavidade oral, assim como tireóide. Selecionar e preparar tissue micro-arrays (TMAs) destes tecidos em lâminas cristalina de CaF2 para análise vibracional por imagem por FTIR.

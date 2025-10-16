@@ -19,7 +19,7 @@ about:
       href: "https://scholar.google.com/citations?hl=en&user=ph2SUQMAAAAJ"
     - icon: bank
       text: Instituição
-      href: "www.ufabc.br"
+      href: "http://www.ufabc.br"
 ---
 
 ```{=html}
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil-](www.ufabc.br)
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil](http://www.ufabc.br)
 
 ### Áreas de Atuação
 

@@ -1,0 +1,29 @@
+---
+title: "Comparison of biofilm models for producing artificial active white spot lesions"
+date: 2024-01-01
+author:
+  - name: Araujo, Erika Michele Dos Santos
+  - name: Vidal, Cristina De Mattos Pimenta
+  - name: Zhu, Min
+  - name: Banas, Jeffrey A.
+  - name: Freitas, Anderson Zanardi De
+  - name: Wetter, Niklaus Ursus
+  - name: Matos, Adriana Bona
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Applied Oral Science"
+  volume: 32
+  doi: "10.1590/1678-7757-2023-0458"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comparison of biofilm models for producing artificial active white spot lesions</li>
+  </ol>
+</nav>
+```

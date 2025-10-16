@@ -27,7 +27,7 @@ about:
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
     <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
-    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active">Pesquisador</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
 </nav>
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[University of California, Merced - UCMERCED--Estados Unidos-](https://www.ucmerced.edu/)
+[University of California, Merced - UCMERCED--Estados Unidos](https://www.ucmerced.edu/)
 
 ### Áreas de Atuação
 

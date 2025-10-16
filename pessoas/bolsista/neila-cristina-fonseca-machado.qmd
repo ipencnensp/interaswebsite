@@ -19,7 +19,7 @@ about:
       href: ""
     - icon: bank
       text: Instituição
-      href: "www.ufabc.br"
+      href: "http://www.ufabc.br"
 ---
 
 ```{=html}
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas- UFABC- SP-Brasil-](www.ufabc.br)
+[Universidade Federal do ABC / Centro de Ciências Naturais e Humanas- UFABC- SP-Brasil](http://www.ufabc.br)
 
 ### Áreas de Atuação
 

@@ -1,0 +1,48 @@
+---
+title:  "Tiago Buckup"
+sortby: "1"
+subtitle: "Equipe Estrangeira"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/tiago-buckup.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=wB58FDEAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "https://www.uni-heidelberg.de/en"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Equipe Estrangeira</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Ruprecht-Karls-Universität Heidelberg-HEIDELBERG - -Alemanha](https://www.uni-heidelberg.de/en)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+Empregará técnicas de espectroscopia ultra-rápida (femtosegundos) para elucidação de mecanismos de reação e processos dinâmicos ocorrendo em biofluidos.

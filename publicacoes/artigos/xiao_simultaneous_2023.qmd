@@ -1,0 +1,45 @@
+---
+title: "Simultaneous profiling of dust aerosol mass concentration and optical properties with polarized high-spectral-resolution lidar"
+date: 2023-05-01
+author:
+  - name: Xiao, Da
+  - name: Wang, Nanchao
+  - name: Chen, Sijie
+  - name: Wu, Lingyun
+  - name: Müller, Detlef
+  - name: Veselovskii, Igor
+  - name: Li, Chengcai
+  - name: Landulfo, Eduardo
+  - name: Sivakumar, Venkataraman
+  - name: Li, Jing
+  - name: Che, Huizheng
+  - name: Fang, Jing
+  - name: Zhang, Kai
+  - name: Wang, Binyu
+  - name: Chen, Feitong
+  - name: Hu, Xianzhe
+  - name: Li, Xiaotao
+  - name: Li, Weize
+  - name: Tong, Yicheng
+  - name: Ke, Ju
+  - name: Wu, Lan
+  - name: Liu, Chong
+  - name: Liu, Dong
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Science of The Total Environment"
+  volume: 872
+  doi: "10.1016/j.scitotenv.2023.162091"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Simultaneous profiling of dust aerosol mass concentration and optical properties with polarized high-spectral-resolution lidar</li>
+  </ol>
+</nav>
+```

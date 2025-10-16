@@ -1,0 +1,26 @@
+---
+title: "Linfoma Plasmablástico de Cavidade Oral em Paciente sem Infecção pelo Vírus da Imunodeficiência Humana: Relato de Caso"
+date: 2024-06-14
+author:
+  - name: Salas, Martin Sebastian Rondon
+  - name: Caraciolo, Victória Bulcão
+  - name: Matos, Leandro Lungo De
+abstract: > 
+  Introdução: O linfoma plasmablástico compreende um tumor raro que corresponde a cerca de 2% dos linfomas não Hodgkin, com maior prevalência em homens, com idade média de diagnóstico de 50 anos e de evolução agressiva, sendo comum seu diagnóstico em pacientesportadores do vírus da imunodeficiência humana (HIV), bem como com infecção por Epstein-Barr vírus (EBV). Relato do caso: Em vista da escassez de dados na literatura e da necessidade de maior entendimento sobre o seu diagnóstico, manejo e prognóstico desses pacientes, relata-se o caso de um paciente do sexo masculino, sem infecção pelo HIV, com sorologia positiva para EBV, diagnosticado com linfoma plasmablástico de mucosa da cavidade oral. O paciente em questão foi tratado de um abscesso periapical há cerca de 30 dias da primeira consulta com pouca melhora, evoluindo com ulceração da mucosa. Por suspeita de carcinoma de mucosa, foi realizada biópsia com diagnóstico de linfoma plasmablástico e iniciado tratamento com esquema quimioterápico CHOP (ciclofosfamida, doxorrubicina, vincristina e prednisona). Aproximadamente um mês após início do primeiro ciclo, o paciente foi admitido em sala de emergência com quadro de queda do estado geral, confusão mental, febre e choque séptico por neutropenia febril refratários às medidas de suporte, evoluindo a óbito. Conclusão: A descrição detalhada sobre o linfoma plasmablástico e seu curso clínico faz-se importante ao fornecer informações ao meio científico, considerando a escassez de dados sobre essa doença tão agressiva.
+categories: [article]
+citation: 
+  container-title: "Revista Brasileira de Cancerologia"
+  volume: 70
+  issue: 2
+  doi: "10.32635/2176-9745.RBC.2024v70n2.4660"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Linfoma Plasmablástico de Cavidade Oral em Paciente sem Infecção pelo Vírus da Imunodeficiência Humana: Relato de Caso</li>
+  </ol>
+</nav>
+```

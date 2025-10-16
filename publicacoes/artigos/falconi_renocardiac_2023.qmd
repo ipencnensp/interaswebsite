@@ -1,0 +1,32 @@
+---
+title: "Renocardiac Effects of p-Cresyl Sulfate Administration in Acute Kidney Injury Induced by Unilateral Ischemia and Reperfusion Injury In Vivo"
+date: 2023-11-10
+author:
+  - name: Falconi, Carlos Alexandre
+  - name: Fogaça-Ruiz, Fernanda
+  - name: Da Silva, Jéssica Verônica
+  - name: Neres-Santos, Raquel Silva
+  - name: Sanz, Carmen Lucía
+  - name: Nakao, Lia Sumie
+  - name: Stinghen, Andréa Emília Marques
+  - name: Junho, Carolina Victoria Cruz
+  - name: Carneiro-Ramos, Marcela Sorelli
+abstract: > 
+  The precise mechanisms underlying the cardiovascular complications due to acute kidney injury (AKI) and the retention of uremic toxins like p-cresyl sulfate (PCS) remain incompletely understood. The objective of this study was to evaluate the renocardiac effects of PCS administration in animals subjected to AKI induced by ischemia and reperfusion (IR) injury. C57BL6 mice were subjected to distinct protocols: (i) administration with PCS (20, 40, or 60 mg/L/day) for 15 days and (ii) AKI due to unilateral IR injury associated with PCS administration for 15 days. The 20 mg/L dose of PCS led to a decrease in renal mass, an increase in the gene expression of Cystatin C and kidney injury molecule 1 (KIM-1), and a decrease in the α-actin in the heart. During AKI, PCS increased the renal injury biomarkers compared to control; however, it did not exacerbate these markers. Furthermore, PCS did not enhance the cardiac hypertrophy observed after 15 days of IR. An increase, but not potentialized, in the cardiac levels of interleukin (IL)-1β and IL-6 in the IR group treated with PCS, as well as in the injured kidney, was also noticed. In short, PCS administration did not intensify kidney injury, inflammation, and cardiac outcomes after AKI.
+categories: [article]
+citation: 
+  container-title: "Toxins"
+  volume: 15
+  issue: 11
+  doi: "10.3390/toxins15110649"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Renocardiac Effects of p-Cresyl Sulfate Administration in Acute Kidney Injury Induced by Unilateral Ischemia and Reperfusion Injury In Vivo</li>
+  </ol>
+</nav>
+```

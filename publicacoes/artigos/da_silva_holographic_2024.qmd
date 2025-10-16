@@ -1,0 +1,30 @@
+---
+title: "Holographic method for stress distribution analysis in photoelastic materials"
+date: 2024-01-01
+author:
+  - name: Da Silva, Sidney L.
+  - name: Prado, Felipe M.
+  - name: Brito, Isis V.
+  - name: Soga, Diogo
+  - name: Gomes, Lígia F.
+  - name: Wetter, Niklaus U.
+  - name: Muramatsu, Mikiya
+abstract: > 
+  textlessptextgreaterAn alternative method to obtain the internal stress distribution in photoelastic materials using digital holography (DH) is presented. Two orthogonally polarized holograms were used to obtain the phase maps and analyzed using the proposed approach. This method directly determines the stress distributions from the phase differences obtained in the reconstructed phase maps, unlike methods obtained by photoelasticity. Optical information, such as index of refraction, phase differences, etc., are not measured directly in traditional photoelasticity. However, this approach was validated with both the finite element method and the RGB (red, green, and blue) photoelasticity method that is traditionally used.textless/ptextgreater
+categories: [article]
+citation: 
+  container-title: "AIMS Materials Science"
+  volume: 11
+  issue: 4
+  doi: "10.3934/matersci.2024032"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Holographic method for stress distribution analysis in photoelastic materials</li>
+  </ol>
+</nav>
+```

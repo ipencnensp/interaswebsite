@@ -1,0 +1,25 @@
+---
+title: "A IMPORTÂNCIA DO TRATAMENTO ODONTOLÓGICOS EM PACIENTES SOB CUIDADOS PALIATIVOS"
+date: 2024-01-01
+author:
+  - name: Alves, Gláucia Dos Santos
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  O presente trabalho teve como objetivo apresentar um resumo sobre os cuidados paliativos, com ênfase na importância do cuidado oral. O objetivo dos cuidados paliativos é proporcionar alívio da dor e outros sintomas, abordando aspectos psicológicos e espirituais, sempre com uma abordagem holística e multiprofissional. A inclusão do cirurgião-dentista na equipe multiprofissional pode melhorar a qualidade de vida de pacientes em cuidados paliativos, especialmente aqueles que enfrentam doenças graves próximas ao final da vida, sendo fundamental para melhorar a qualidade de vida do paciente, auxiliando em aspectos como fala, nutrição, estética e autoestima. Além disso, a manutenção da saúde bucal é importante para prevenir infecções oportunistas e melhorar o conforto do paciente em estado avançado da doença. Em relação às manifestações orais mais comuns em pacientes em cuidados paliativos, menciona-se a presença de infecções fúngicas e bacterianas. Algumas dessas manifestações podem incluir herpes simples e herpes zoster, disfagia, lesões orais, xerostomia, cáries múltiplas, mucosite, candidíase oral, entre outras. , This work aimed to present a summary about palliative care, with emphasis on the importance of oral care. The inclusion of the dentist in the multidisciplinary team is essential to improve the quality of life for patients in palliative care, especially those facing severe illnesses nearing the end of life. The goal of palliative care is to provide relief from pain and other symptoms, addressing psychological and spiritual aspects, always with a holistic and multidisciplinary approach, being fundamental to improve the patient's quality of life, assisting in aspects such as speech, nutrition, aesthetics, and self-esteem. Additionally, maintaining oral health is crucial to prevent opportunistic infections and enhance the patient's comfort in the advanced stages of the disease. Regarding the most common oral manifestations in patients receiving palliative care, there are mentions of fungal and bacterial infections. Some of these manifestations may include herpes simplex and herpes zoster, dysphagia, oral lesions, xerostomia, multiple cavities, mucositis, oral candidiasis, among others.
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 1
+  doi: "10.29327/2442440.6.1-18"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A IMPORTÂNCIA DO TRATAMENTO ODONTOLÓGICOS EM PACIENTES SOB CUIDADOS PALIATIVOS</li>
+  </ol>
+</nav>
+```

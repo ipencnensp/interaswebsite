@@ -1,0 +1,28 @@
+---
+title: "Strengthening collaborations at the Biology-Physics interface: trends in antimicrobial photodynamic therapy"
+date: 2023-08-01
+author:
+  - name: Cabral, Fernanda Viana
+  - name: Dos Santos Souza, Tiago Henrique
+  - name: Sellera, Fábio Parra
+  - name: Fontes, Adriana
+  - name: Ribeiro, Martha Simões
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Biophysical Reviews"
+  volume: 15
+  issue: 4
+  doi: "10.1007/s12551-023-01066-5"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Strengthening collaborations at the Biology-Physics interface: trends in antimicrobial photodynamic therapy</li>
+  </ol>
+</nav>
+```

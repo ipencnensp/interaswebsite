@@ -1,0 +1,32 @@
+---
+title: "Evaluation of the Microbiota and Integrity of Respirators Reused by Health Professionals in a Hospital Environment"
+date: 2023-01-01
+author:
+  - name: Paiva, José D.
+  - name: Neves, Giselda
+  - name: Neto, Paulo C.
+  - name: Portugal, Wanuska
+  - name: Ferreira, Douglas
+  - name: Lundgren, Fernando
+  - name: Cambuim, Idalina
+  - name: Paiva, Ana C.
+  - name: França, Elvis
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Aerosol and Air Quality Research"
+  volume: 23
+  issue: 4
+  doi: "10.4209/aaqr.220057"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of the Microbiota and Integrity of Respirators Reused by Health Professionals in a Hospital Environment</li>
+  </ol>
+</nav>
+```

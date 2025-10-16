@@ -1,0 +1,27 @@
+---
+title: "Autocorrelation Optical Coherence Tomography (Au-OCT) of Complex Morphologies and Moving Samples"
+date: 2024-10-01
+author:
+  - name: Raele, Marcus Paulo
+  - name: Amaral, Marcello Magri
+  - name: Machado, Noé Gabriel Pinheiro
+  - name: De Freitas, Anderson Zanardi
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Physics"
+  volume: 54
+  issue: 5
+  doi: "10.1007/s13538-024-01513-y"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Autocorrelation Optical Coherence Tomography (Au-OCT) of Complex Morphologies and Moving Samples</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "Photodynamic therapy offers a novel approach to managing miltefosine-resistant cutaneous leishmaniasis"
+date: 2024-08-01
+author:
+  - name: Cabral, Fernanda V.
+  - name: Riahi, Mina
+  - name: Persheyev, Saydulla
+  - name: Lian, Cheng
+  - name: Cortez, Mauro
+  - name: Samuel, Ifor D.W.
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Biomedicine & Pharmacotherapy"
+  volume: 177
+  doi: "10.1016/j.biopha.2024.116881"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Photodynamic therapy offers a novel approach to managing miltefosine-resistant cutaneous leishmaniasis</li>
+  </ol>
+</nav>
+```

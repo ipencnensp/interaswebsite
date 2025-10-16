@@ -1,0 +1,30 @@
+---
+title: "Plastic nests or blue nests? The need for taxonomic rigor in studies on interactions between birds and plastics"
+date: 2025-01-01
+author:
+  - name: Lopes, Adrielle Caroline
+  - name: Martinelli Filho, José Eduardo
+  - name: Gonçalves, Gabriela Ribeiro
+  - name: Morais, Leonardo Mario Siqueira
+  - name: Guimarães, Gabriel Dos Anjos
+  - name: Wetter, Niklaus Ursus
+  - name: Aleixo, Alexandre
+  - name: Giarrizzo, Tommaso
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Marine Pollution Bulletin"
+  volume: 210
+  doi: "10.1016/j.marpolbul.2024.117335"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Plastic nests or blue nests? The need for taxonomic rigor in studies on interactions between birds and plastics</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,28 @@
+---
+title: "Analyzing the influence of the planetary boundary layer height, ventilation coefficient, thermal inversions, and aerosol optical Depth on the concentration of PM2.5 in the city of São Paulo: A long-term study"
+date: 2024-08-01
+author:
+  - name: Moreira, Gregori De Arruda
+  - name: Marques, Marcia Talita Amorim
+  - name: Lopes, Fabio Juliano Da Silva
+  - name: Andrade, Maria De Fátima
+  - name: Landulfo, Eduardo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Atmospheric Pollution Research"
+  volume: 15
+  issue: 8
+  doi: "10.1016/j.apr.2024.102179"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Analyzing the influence of the planetary boundary layer height, ventilation coefficient, thermal inversions, and aerosol optical Depth on the concentration of PM2.5 in the city of São Paulo: A long-term study</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,25 @@
+---
+title: "A ABORDAGEM CIRÚRGICA NO TRATAMENTO DA OSTEORRADIONECROSE"
+date: 2024-01-01
+author:
+  - name: Caldas, João Gabriel Garbelini
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  A osteorradionecrose é caracterizada como uma complicação debilitante que pode ocorrer em pacientes submetidos à radioterapia para o tratamento de câncer de cabeça e pescoço. Nesta condição, o osso maxilar ou mandibular fica enfraquecido em razão de uma alta dose de radiação, fazendo com que haja perda de integridade da pele e mucosa, expondo o osso e persistindo sem cicatrização por no mínimo três meses. Alguns dos fatores que podem desencadear a osteorradionecrose são extrações dentárias, doença periodontal, cáries, abscessos e a alta dose de radiação empregada. Os sintomas normalmente apresentados incluem dor, odor, trismo, disestesia e fístula. Com relação ao tratamento, a abordagem conservadora é indicada nos casos iniciais e de pequenas lesões. Já as lesões extensas e de longa data necessitam de um manejo cirúrgico como, por exemplo, o debridamento, a ressecção e a hemimandibulectomia. Tratando-se de reconstrução mandibular, os retalhos preconizados para a cirurgia são o de fíbula, crista ilíaca, escápula e radial do antebraço. Estes retalhos apresentam características eficazes para a devolução de função e estética ao paciente. Este consiste em uma revisão dos artigos sobre o tema, buscados na base Pubmed e Google Acadêmico com o objetivo de detalhar acerca da osteorradionecrose e enfatizar o seu tratamento cirúrgico. , Osteoradionecrosis is characterized as a debilitating complication that can occur in patients undergoing radiotherapy for the treatment of head and neck cancer. In this condition, the maxillary or mandibular bone is weakened on account of a high dose of radiation, causing loss of integrity of the skin and mucosa, exposing the bone and persisting without healing for at least three months. Some of the factors that may trigger osteoradionecrosis are tooth extractions, periodontal disease, dental caries, abscesses and the high dose of radiation used. Usual symptoms include pain, odor, trismus, dysesthesia and fistula. Regarding the treatment, the conservative approach is indicated in initial cases and in cases of small lesions. Extensive and long-standing lesions require surgical management, such as, for example, debridement, resection and hemimandibulectomy. In the matter of mandibular reconstruction, the recommended flaps for surgery are the fibula, iliac crest, scapula and forearm radial. These flaps have effective characteristics for restoring function and aesthetics to the patient. This consists on a review of articles on the subject, searched in Pubmed and Google Scholar databases, with the purpose of detailing osteoradionecrosis and emphasizing its surgical treatment.
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 1
+  doi: "10.29327/2442440.6.1-23"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A ABORDAGEM CIRÚRGICA NO TRATAMENTO DA OSTEORRADIONECROSE</li>
+  </ol>
+</nav>
+```

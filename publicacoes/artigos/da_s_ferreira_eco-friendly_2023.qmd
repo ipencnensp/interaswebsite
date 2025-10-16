@@ -1,0 +1,31 @@
+---
+title: "Eco-friendly and effective antimicrobial Melaleuca alternifolia essential oil Pickering emulsions stabilized with cellulose nanofibrils against bacteria and SARS-CoV-2"
+date: 2023-07-01
+author:
+  - name: Da S. Ferreira, Greiciele
+  - name: Da Silva, Daniel J.
+  - name: Souza, Alana G.
+  - name: Yudice, Eliana D.C.
+  - name: De Campos, Ivana B.
+  - name: Col, Rute Dal
+  - name: Mourão, Andre
+  - name: Martinho, Herculano S.
+  - name: Rosa, Derval S.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Biological Macromolecules"
+  volume: 243
+  doi: "10.1016/j.ijbiomac.2023.125228"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Eco-friendly and effective antimicrobial Melaleuca alternifolia essential oil Pickering emulsions stabilized with cellulose nanofibrils against bacteria and SARS-CoV-2</li>
+  </ol>
+</nav>
+```

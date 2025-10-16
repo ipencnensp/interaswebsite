@@ -1,0 +1,29 @@
+---
+title: "Analyzing the Influence of Vehicular Traffic on the Concentration of Pollutants in the City of São Paulo: An Approach Based on Pandemic SARS-CoV-2 Data and Deep Learning"
+date: 2023-10-19
+author:
+  - name: Moreira, Gregori De Arruda
+  - name: Cacheffo, Alexandre
+  - name: Andrade, Izabel Da Silva
+  - name: Lopes, Fábio Juliano Da Silva
+  - name: Gomes, Antonio Arleques
+  - name: Landulfo, Eduardo
+abstract: > 
+  This study employs surface and remote sensing data jointly with deep learning techniques to examine the influence of vehicular traffic in the seasonal patterns of CO, NO2, PM2.5, and PM10 concentrations in the São Paulo municipality, as the period of physical distancing (March 2020 to December 2021), due to SARS-CoV-2 pandemic and the resumption of activities, made it possible to observe significant variations in the flow of vehicles in the city of São Paulo. Firstly, an analysis of the planetary boundary layer height and ventilation coefficient was performed to identify the seasons’ patterns of pollution dispersion. Then, the variations (from 2018 to 2021) of the seasonal average values of air temperature, relative humidity, precipitation, and thermal inversion occurrence/position were compared to identify possible variations in the patterns of such variables that would justify (or deny) the occurrence of more favorable conditions for pollutants dispersion. However, no significant variations were found. Finally, the seasonal average concentrations of the previously mentioned pollutants were compared from 2018 to 2021, and the daily concentrations observed during the pandemic period were compared with a model based on an artificial neural network. Regarding the concentration of pollutants, the primarily sourced from vehicular traffic (CO and NO2) exhibited substantial variations, demonstrating an inverse relationship with the rate of social distancing. In addition, the measured concentrations deviated from the predictive model during periods of significant social isolation. Conversely, pollutants that were not primarily linked to vehicular sources (PM2.5 and PM10) exhibited minimal variation from 2018 to 2021; thus, their measured concentration remained consistent with the prediction model.
+categories: [article]
+citation: 
+  container-title: "Atmosphere"
+  volume: 14
+  issue: 10
+  doi: "10.3390/atmos14101578"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Analyzing the Influence of Vehicular Traffic on the Concentration of Pollutants in the City of São Paulo: An Approach Based on Pandemic SARS-CoV-2 Data and Deep Learning</li>
+  </ol>
+</nav>
+```

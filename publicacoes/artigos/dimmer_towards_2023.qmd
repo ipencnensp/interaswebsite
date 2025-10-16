@@ -1,0 +1,26 @@
+---
+title: "Towards effective natural anthraquinones to mediate antimicrobial photodynamic therapy of cutaneous leishmaniasis"
+date: 2023-06-01
+author:
+  - name: Dimmer, Jesica A.
+  - name: Cabral, Fernanda V.
+  - name: Núñez Montoya, Susana C.
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photodiagnosis and Photodynamic Therapy"
+  volume: 42
+  doi: "10.1016/j.pdpdt.2023.103525"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Towards effective natural anthraquinones to mediate antimicrobial photodynamic therapy of cutaneous leishmaniasis</li>
+  </ol>
+</nav>
+```

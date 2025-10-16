@@ -1,0 +1,26 @@
+---
+title: "Uma Sequência de Ensino Investigativa para o Estudo de Queda Livre dos Corpos"
+date: 2024-12-19
+author:
+  - name: Reis, Thaís Alves
+  - name: Argôlo, Cintia Teles De
+  - name: Souza, Divanizia Do Nascimento
+abstract: > 
+  Para um ensino de física que vise a aprendizagem ampla dos alunos é necessário o uso de abordagens didáticas que busquem estimular o seu desenvolvimento crítico. Neste trabalho foram analisadas as aprendizagens desenvolvidas por alunos da primeira série do ensino médio durante a vivência de uma Sequência de Ensino Investigativa - SEI sobre Queda Livre. Neste estudo, de abordagem qualitativa e natureza interventiva do tipo aplicação, os dados registrados das atividades da vivência da SEI foram analisados por meio da técnica de Análise do conteúdo de Bardin (2011). Os resultados indicam que a vivência da SEI promoveu nos alunos aprendizagem conceitual, procedimental e atitudinal.
+categories: [article]
+citation: 
+  container-title: "Revista Insignare Scientia - RIS"
+  volume: 7
+  issue: 4
+  doi: "10.36661/2595-4520.2024v7n4.14428"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Uma Sequência de Ensino Investigativa para o Estudo de Queda Livre dos Corpos</li>
+  </ol>
+</nav>
+```

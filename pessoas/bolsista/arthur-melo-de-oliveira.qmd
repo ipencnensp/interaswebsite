@@ -19,7 +19,7 @@ about:
       href: ""
     - icon: bank
       text: Instituição
-      href: "www.usp.br"
+      href: "http://www.usp.br"
 ---
 
 ```{=html}
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Universidade de São Paulo / Departamento de Física - USP- SP-Brasil-](www.usp.br)
+[Universidade de São Paulo / Departamento de Física - USP- SP-Brasil](http://www.usp.br)
 
 ### Áreas de Atuação
 

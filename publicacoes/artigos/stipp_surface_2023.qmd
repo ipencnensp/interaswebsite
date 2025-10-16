@@ -1,0 +1,30 @@
+---
+title: "Surface contaminants’ incorporation after nanosecond laser ablation"
+date: 2023-11-01
+author:
+  - name: Stipp, Wagner
+  - name: Morais, Nathanael Wagner Sales
+  - name: Martins, José Vinicius
+  - name: Matos, Priscila
+  - name: Rossi, Jesualdo Luiz
+  - name: De Rossi, Wagner
+  - name: Raele, Marcus Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Radioanalytical and Nuclear Chemistry"
+  volume: 332
+  issue: 11
+  doi: "10.1007/s10967-023-09153-3"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Surface contaminants’ incorporation after nanosecond laser ablation</li>
+  </ol>
+</nav>
+```

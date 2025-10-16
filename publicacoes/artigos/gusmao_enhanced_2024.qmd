@@ -1,0 +1,29 @@
+---
+title: "Enhanced visible light photocatalytic VOC oxidation via Ag-loaded TiO2/SiO2 materials"
+date: 2024-01-01
+author:
+  - name: Gusmão, Carolina De Araújo
+  - name: Palharim, Priscila Hasse
+  - name: Ramos, Bruno
+  - name: Gouvea, Douglas
+  - name: Rodrigues, Orlando
+  - name: Teixeira, Antonio Carlos Silva Costa
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Materials Science"
+  volume: 59
+  issue: 4
+  doi: "10.1007/s10853-023-09285-7"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Enhanced visible light photocatalytic VOC oxidation via Ag-loaded TiO2/SiO2 materials</li>
+  </ol>
+</nav>
+```

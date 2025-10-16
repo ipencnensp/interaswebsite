@@ -1,0 +1,28 @@
+---
+title: "Radioactive Seed Localization for Nonpalpable Breast Lesions: Systematic Review and Meta-Analysis"
+date: 2024-02-17
+author:
+  - name: Ferreira, Hortência H. J.
+  - name: De Souza, Carla Daruich
+  - name: Pozzo, Lorena
+  - name: Ribeiro, Martha S.
+  - name: Rostelato, Maria Elisa C. M.
+abstract: > 
+  Background: This study is a systematic review with meta-analysis comparing radioactive seed localization (RSL) versus radio-guided occult lesion localization (ROLL) and wire-guided localization (WGL) for patients with impalpable breast cancer undergoing breast-conserving surgery and evaluating efficacy, safety, and logistical outcomes. The protocol is registered in PROSPERO with the number CRD42022299726. Methods: A search was conducted in the Embase, Lilacs, Pubmed, Scielo, Web of Science, and clinicaltrials.gov databases, in addition to a manual search in the reference list of relevant articles, for randomized clinical trials and cohort studies. Studies selected were submitted to their own data extraction forms and risk of bias analysis according to the ROB 2 and ROBINS 1 tools. A meta-analysis was performed, considering the random effect model, calculating the relative risk or the mean difference for dichotomous or continuous data, respectively. The quality of the evidence generated was analyzed by outcome according to the GRADE tool. Overall, 46 articles met the inclusion criteria and were included in this systematic review; of these, 4 studies compared RSL and ROLL with a population of 1550 women, and 43 compared RSL and WGL with a population of 19,820 women. Results: The results showed that RSL is a superior method to WGL in terms of surgical efficiency in the impalpable breast lesions’ intraoperative localization, and it is at least equivalent to ROLL. Regarding security, RSL obtained results equivalent to the already established technique, the WGL. In addition to presenting promising results, RSL has been proven to be superior to WGL and ROLL technologies.
+categories: [article]
+citation: 
+  container-title: "Diagnostics"
+  volume: 14
+  issue: 4
+  doi: "10.3390/diagnostics14040441"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Radioactive Seed Localization for Nonpalpable Breast Lesions: Systematic Review and Meta-Analysis</li>
+  </ol>
+</nav>
+```

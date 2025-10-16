@@ -19,7 +19,7 @@ about:
       href: "https://scholar.google.com/citations?hl=en&user=BKOvvrMAAAAJ"
     - icon: bank
       text: Instituição
-      href: "www.usp.br"
+      href: "http://www.usp.br"
 ---
 
 ```{=html}
@@ -27,7 +27,7 @@ about:
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
     <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
-    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active">Pesquisador</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
 </nav>
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Universidade de São Paulo / Departamento de Dentística-USP- SP-Brasil-](www.usp.br)
+[Universidade de São Paulo / Departamento de Dentística-USP- SP-Brasil](http://www.usp.br)
 
 ### Áreas de Atuação
 

@@ -1,0 +1,34 @@
+---
+title: "(U)SAXS characterization of porous microstructure of chert: insights into organic matter preservation"
+date: 2023-12-01
+author:
+  - name: Munoz, Patricio
+  - name: Ilavsky, Jan
+  - name: Newville, Matthew
+  - name: Wetter, Niklaus U.
+  - name: Lourenço, Rafael André
+  - name: Barbosa De Andrade, Marcelo
+  - name: Martins, Tereza S.
+  - name: Dipold, Jessica
+  - name: Freitas, Anderson Z.
+  - name: Cides Da Silva, Luis Carlos
+  - name: Oliveira, Cristiano Luis Pinto
+abstract: > 
+  This study characterizes the microstructure and mineralogy of 132 (ODP sample), 1000 and 1880 million-year-old chert samples. By using ultra-small-angle X-ray scattering (USAXS), wide-angle X-ray scattering and other techniques, the preservation of organic matter (OM) in these samples is studied. The scarce microstructural data reported on chert contrast with many studies addressing porosity evolution in other sedimentary rocks. The aim of this work is to solve the distribution of OM and silica in chert by characterizing samples before and after combustion to pinpoint the OM distribution inside the porous silica matrix. The samples are predominantly composed of alpha quartz and show increasing crystallite sizes up to 33 ± 5 nm (1σ standard deviation or SD). In older samples, low water abundances (∼0.03%) suggest progressive dehydration. (U)SAXS data reveal a porous matrix that evolves over geological time, including, from younger to older samples, (1) a decreasing pore volume down to 1%, (2) greater pore sizes hosting OM, (3) decreasing specific surface area values from younger (9.3 ± 0.1 m 2 g −1 ) to older samples (0.63 ± 0.07 m 2 g −1 , 1σ SD) and (4) a lower background intensity correlated to decreasing hydrogen abundances. The pore-volume distributions (PVDs) show that pores ranging from 4 to 100 nm accumulate the greater volume fraction of OM. Raman data show aromatic organic clusters up to 20 nm in older samples. Raman and PVD data suggest that OM is located mostly in mesopores. Observed structural changes, silica–OM interactions and the hydrophobicity of the OM could explain the OM preservation in chert.
+categories: [article]
+citation: 
+  container-title: "Journal of Applied Crystallography"
+  volume: 56
+  issue: 6
+  doi: "10.1107/S1600576723008889"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">(U)SAXS characterization of porous microstructure of chert: insights into organic matter preservation</li>
+  </ol>
+</nav>
+```

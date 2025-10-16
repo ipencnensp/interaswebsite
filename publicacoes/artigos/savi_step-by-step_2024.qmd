@@ -1,0 +1,29 @@
+---
+title: "Step-by-step of 3D printing a head-and-neck phantom: Proposal of a methodology using fused filament fabrication (FFF) technology"
+date: 2024-10-01
+author:
+  - name: Savi, M.
+  - name: Villani, D.
+  - name: Andrade, B.
+  - name: Soares, F.A.P.
+  - name: Rodrigues Jr., O.
+  - name: Campos, L.L.
+  - name: Potiens, M.P.A.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 223
+  doi: "10.1016/j.radphyschem.2024.111965"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Step-by-step of 3D printing a head-and-neck phantom: Proposal of a methodology using fused filament fabrication (FFF) technology</li>
+  </ol>
+</nav>
+```

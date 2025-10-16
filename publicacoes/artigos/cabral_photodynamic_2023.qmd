@@ -1,0 +1,28 @@
+---
+title: "Photodynamic therapy mediated by a red LED and methylene blue inactivates resistant Leishmania amazonensis"
+date: 2023-05-01
+author:
+  - name: Cabral, Fernanda V.
+  - name: Yoshimura, Tania M.
+  - name: Teixeira Da Silva, Daniela De Fátima
+  - name: Cortez, Mauro
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Cutaneous leishmaniasis is a neglected parasitic disease that leads to destructive lesions. The emergence of drug resistance has been a global concern over the past years. Photodynamic therapy (PDT) mediated by a red LED and methylene blue (MB) involves the overproduction of oxidative stress, which oxidizes several cellular biomolecules and prevents the selection of resistant strains. Herein, we investigated the potential of PDT mediated by MB against wild-type and miltefosine-resistant strains of Leishmania amazonensis . As a result, both strains were susceptible to PDT, thus encouraging us to seek the best conditions to overcome the drug resistance problem in cutaneous leishmaniasis.
+categories: [article]
+citation: 
+  container-title: "Journal of the Optical Society of America A"
+  volume: 40
+  issue: 5
+  doi: "10.1364/JOSAA.482314"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Photodynamic therapy mediated by a red LED and methylene blue inactivates resistant Leishmania amazonensis</li>
+  </ol>
+</nav>
+```

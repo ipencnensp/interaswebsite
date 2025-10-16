@@ -1,0 +1,25 @@
+---
+title: "RESPONSABILIDADE DO CIRURGIÃO-DENTISTA FRENTE AO DIAGNÓSTICO DO ABUSO SEXUAL INFANTOJUVENIL"
+date: 2024-01-01
+author:
+  - name: Fernandes, Laura B.
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  A violência contra crianças e adolescentes é um problema reconhecido como um desafio de saúde pública. O número de denúncias de abuso sexual contra crianças é considerado inferior à realidade dos casos, o que faz com que as estatísticas de crimes sexuais contra esta população sejam subdimensionadas, mesmo considerando fontes oficiais. O cirurgião-dentista desempenha um papel importante na prevenção, detecção, notificação e atendimento de incidentes de abuso, graças à sua posição estratégica, pois a maioria das lesões concentra-se na região da cabeça, pescoço, face e boca. Por esse motivo, este estudo buscou avaliar e explorar, por meio de uma revisão narrativa da literatura, a compreensão dos profissionais da odontologia em relação às circunstâncias da violência que atingem crianças e adolescentes, especificando as manifestações mais comuns em uma vítima, as abordagens para sua detecção e sua notificação legal. Concluiu-se que é importante que os profissionais da odontologia se conscientizem, desde a graduação, sobre sua responsabilidade em relação à identificação, conduta adequada e notificação de abuso sexual contra crianças e adolescentes. , Violence against children and teenagers is a problem recognized as a public health challenge. The number of reports of sexual abuse against children is considered lower than the reality of cases, which makes the statistics of sexual crimes against this population undersized, even considering official sources. Dental surgeons play an important role in prevent, detect, report and care of incidents of abuse, thanks to their strategic position, as most injuries are concentrated in the head, neck, face and mouth region. For this reason, this study sought to evaluate and explore, through a narrative literature review, the understanding of dental professionals in relation to the circumstances of violence that affect children and adolescents, specifying the most common manifestations in a victim, the approaches to their detection, and their legal notification. It was concluded that it is important that dental professionals become conscious, since graduation, about their responsibility in relation to the identification, appropriate conduct, and notification of sexual abuse against children and adolescents.
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 2
+  doi: "10.29327/2442440.6.2-4"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">RESPONSABILIDADE DO CIRURGIÃO-DENTISTA FRENTE AO DIAGNÓSTICO DO ABUSO SEXUAL INFANTOJUVENIL</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "Empatia e espiritualidade em estudantes e residentes de Medicina"
+date: 2024-01-01
+author:
+  - name: Dedivitis, Rogério Aparecido
+  - name: Matos, Leandro Luongo De
+  - name: Castro, Mario Augusto Ferrari De
+  - name: Castro, Andrea Anacleto Ferrari De
+  - name: Giaxa, Renata Rocha
+  - name: Tempski, Patricia Zen
+abstract: > 
+  RESUMO Introdução: A empatia tende a diminuir ao longo da formação médica. A relação entre espiritualidade e empatia não tem sido amplamente explorada. Objetivo: Este estudo teve como objetivo correlacionar empatia e religiosidade/espiritualismo por meio de questionário voluntário, entre estudantes e residentes de Medicina. Método: Trata-se de um estudo transversal exploratório por meio de um questionário online para preenchimento voluntário entre estudantes de medicina e residentes, composto por: dados sociodemográficos, questionário de empatia e questões sobre religiosidade/espiritualismo. Resultado: De 1.550 convites, 273 participantes voluntários responderam (17,6%). A maioria era católica (103 - 37,7%), seguida de agnósticos (84 - 30,8%), protestantes e kardecistas (27 - 9,9% cada). A Escala de Empatia de Jefferson apresentou pontuação média de 120,4 (de 90 a 140). Não se constatou correlação entre a crença religiosa e o grau de empatia. Ambos os conceitos não indicaram diferença significativa ao longo do período da educação médica. Conclusão: Empatia e religiosidade/espiritualismo não apresentaram correlação entre estudantes e residentes de Medicina. , ABSTRACT Introduction: Empathy tends to decline throughout the course of medical training. The relationship between spirituality and empathy has not been widely explored. Objective: To correlate empathy and religiosity/spiritualism by means of a voluntary questionnaire applied to medical students and residents. Methods: This is an exploratory cross-sectional study using an online questionnaire completed on a voluntary basis by medical students and residents, consisting of: socio-demographic data, an empathy questionnaire and questions about religiosity/spiritualism. Results: From 1,550 invitations, 273 volunteer participants responded (17.6%). Most were Catholic (103 - 37.7%), followed by agnostics (84 - 30.8%), and Protestants and Kardecists (27 - 9.9% each). The Jefferson Empathy Scale had a mean score of 120.4 (from 90 to 140). Religious belief and degree of empathy did not present any correlation. Neither concept presented significant difference over the course of medical training. Conclusion: Empathy and religiosity/spiritualism did not present any correlation among medical students and residents.
+categories: [article]
+citation: 
+  container-title: "Revista Brasileira de Educação Médica"
+  volume: 48
+  issue: 4
+  doi: "10.1590/1981-5271v48.4-2023-0042"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Empatia e espiritualidade em estudantes e residentes de Medicina</li>
+  </ol>
+</nav>
+```

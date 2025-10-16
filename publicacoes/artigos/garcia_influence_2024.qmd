@@ -1,0 +1,24 @@
+---
+title: "Influence of the Method of Calculating the Effective Atomic Number on the Estimate of Fluorescence Yield for Metal Alloys of Biomedical Interest"
+date: 2024-01-24
+author:
+  - name: Garcia, Caroline V.
+  - name: Souza, Divanizia N.
+  - name: Andrade, Edson R.
+abstract: > 
+  Abstract This study evaluates the influence of the method used to calculate the effective atomic number (Z eff ) on the estimate of secondary radiation yielded under kilovoltage x-ray beams by metal alloys with a wide range of biomedical applications. Two methods for calculating Z eff (referred to here as M 1 and M 2 ) are considered, and six metallic alloys are investigated: Ti-6Al-4 V, Co-Cr-Mo, Ni-Cr-Ti, Ni-Cr, Co-Cr-Mo-W, and Ag 3 Sn-Hg (amalgam). The results indicate significant differences in the estimates of fluorescence yield depending on the method used to estimate Z eff for each metallic alloy. Both the choice of the calculation method for Z eff and the energy ranges of the incident radiation are essential factors affecting the behavior of alloys in terms of fluorescence production. Our results may guide the selection of the best material for a biomedical application. The metallic alloys simulated here show equivalences and discrepancies that depend on the method used to estimate Z eff and the energy range of the incident photons. This finding allows for the creation of combinations of alloys and methods for calculating Z eff and the photon energy to maximize safety and minimize cost.
+categories: [article]
+citation: 
+  container-title: "Health Physics"
+  doi: "10.1097/HP.0000000000001789"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Influence of the Method of Calculating the Effective Atomic Number on the Estimate of Fluorescence Yield for Metal Alloys of Biomedical Interest</li>
+  </ol>
+</nav>
+```

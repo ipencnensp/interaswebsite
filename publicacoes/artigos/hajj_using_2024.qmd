@@ -1,0 +1,35 @@
+---
+title: "Using a Monte Carlo simulation to analyze the ideal activity for a phosphorus-32 polymeric brachytherapy source for paraspinal tumors"
+date: 2024-11-01
+author:
+  - name: Hajj, Lara El
+  - name: Burin, Ana Laura
+  - name: Talacimon, Cristhian Ferreira
+  - name: Medeiros, Ilca Marli Moitinho Amaral
+  - name: Rigo, Maria Eduarda Zaganin
+  - name: Tavares, Paulo Victor Dos Santos
+  - name: Rodrigues, Priscila Santos
+  - name: Nogueira, Thuany Correa
+  - name: Rosero, Wilmmer Alexander Arcos
+  - name: Rodrigues, Orlando
+  - name: Vieira, José Mauro
+  - name: Zeituni, Carlos Alberto
+  - name: Rostelato, Maria Elisa Chuery Martins
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 224
+  doi: "10.1016/j.radphyschem.2024.112012"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Using a Monte Carlo simulation to analyze the ideal activity for a phosphorus-32 polymeric brachytherapy source for paraspinal tumors</li>
+  </ol>
+</nav>
+```

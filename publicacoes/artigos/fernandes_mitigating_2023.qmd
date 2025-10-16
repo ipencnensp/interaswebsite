@@ -1,0 +1,28 @@
+---
+title: "Mitigating skin tone bias in linear array in vivo photoacoustic imaging with short-lag spatial coherence beamforming"
+date: 2023-10-01
+author:
+  - name: Fernandes, Guilherme S.P.
+  - name: Uliana, João H.
+  - name: Bachmann, Luciano
+  - name: Carneiro, Antonio A.O.
+  - name: Lediju Bell, Muyinatu A.
+  - name: Pavan, Theo Z.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photoacoustics"
+  volume: 33
+  doi: "10.1016/j.pacs.2023.100555"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Mitigating skin tone bias in linear array in vivo photoacoustic imaging with short-lag spatial coherence beamforming</li>
+  </ol>
+</nav>
+```

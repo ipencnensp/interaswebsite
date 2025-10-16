@@ -1,0 +1,27 @@
+---
+title: "Arterial pulsation modulates the optical attenuation coefficient of skin"
+date: 2023-04-01
+author:
+  - name: Dominguez, C. Tolentino
+  - name: Martinelli, M. Bigatão
+  - name: Bachmann, Luciano
+  - name: Cardoso, George C.
+abstract: > 
+  Photoplethysmographic (PPG) signals arise from the modulation of light reflectivity on the skin due to changes of physiological origin. Imaging plethysmography (iPPG) is a video-based PPG method that can remotely monitor vital signs in a non-invasive manner. iPPG signals result from skin reflectivity modulation. The origin of such reflectivity modulation is still a subject of debate. Here, we have used optical coherence tomography (OCT) imaging to find whether iPPG signals may result from skin optical properties being directly or indirectly modulated by arterial transmural pressure propagation. The light intensity across the tissue was modeled through a simple exponential decay (Beer–Lambert law) to analyze in vivo the modulation of the optical attenuation coefficient of the skin by arterial pulsation. The OCT transversal images were acquired from a forearm of three subjects in a pilot study. The results show that the optical attenuation coefficient of skin changes at the same frequency as the arterial pulsation due to transmural pressure propagation (local ballistographic effect), but we cannot discard the contribution of global ballistographic effects.
+categories: [article]
+citation: 
+  container-title: "Journal of the Optical Society of America A"
+  volume: 40
+  issue: 4
+  doi: "10.1364/JOSAA.482939"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Arterial pulsation modulates the optical attenuation coefficient of skin</li>
+  </ol>
+</nav>
+```

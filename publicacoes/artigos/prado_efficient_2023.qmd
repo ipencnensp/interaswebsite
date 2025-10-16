@@ -1,0 +1,26 @@
+---
+title: "Efficient Trichromatic Nd:YLF Laser Emitting at 1047 nm, 1053 nm and 1314 nm"
+date: 2023-10-12
+author:
+  - name: Prado, Felipe Maia
+  - name: Franco, Tomás Junqueira
+  - name: Wetter, Niklaus Ursus
+abstract: > 
+  We report a Nd:YLF laser, side-pumped by a diode-stack at 797 nm with 1545 W peak power, resulting in triple-wavelength emission at 1314 nm, 1053 nm, and 1047 nm. The resonator is capable of emitting each wavelength separately as well as any combination of them simply by cavity alignment. When operating at 1314 nm, the laser reached record optical-to-optical efficiency of 49%, with a slope efficiency of 53%.
+categories: [article]
+citation: 
+  container-title: "Photonics"
+  volume: 10
+  issue: 10
+  doi: "10.3390/photonics10101146"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Efficient Trichromatic Nd:YLF Laser Emitting at 1047 nm, 1053 nm and 1314 nm</li>
+  </ol>
+</nav>
+```

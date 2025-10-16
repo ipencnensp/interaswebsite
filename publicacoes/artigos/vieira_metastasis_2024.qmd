@@ -1,0 +1,25 @@
+---
+title: "Metastasis to the ciliary body and iris from a parotid carcinoma"
+date: 2024-12-01
+author:
+  - name: Vieira, Suellen Hornos
+  - name: Vidoris, André Alexis Corazza
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Oncology"
+  volume: 159
+  doi: "10.1016/j.oraloncology.2024.107098"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Metastasis to the ciliary body and iris from a parotid carcinoma</li>
+  </ol>
+</nav>
+```

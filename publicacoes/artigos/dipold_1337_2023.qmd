@@ -1,0 +1,29 @@
+---
+title: "1337 nm Emission of a Nd3+-Doped TZA Glass Random Laser"
+date: 2023-06-29
+author:
+  - name: Dipold, Jessica
+  - name: Bordon, Camila D. S.
+  - name: Magalhães, Evellyn S.
+  - name: Kassab, Luciana R. P.
+  - name: Jimenez-Villar, Ernesto
+  - name: Wetter, Niklaus U.
+abstract: > 
+  Random lasers have been studied using many materials, but only a couple have used glass matrices. Here, we present a study of zinc tellurite and aluminum oxide doped with different percentages of neodymium oxide (4 wt.%, 8 wt.%, and 16 wt.%) and demonstrate for the first time random laser action at 1337 nm. Laser emission was verified and the laser pulse’s rise time and input–output power slope were obtained. A cavity composed of the sample’s pump surface and an effective mirror formed by a second, parallel layer at the gain-loss boundary was probably the main lasing mechanism of this random laser system. The reason for the absence of emission at 1064 nm is thought to be a measured temperature rise in the samples’ active volume.
+categories: [article]
+citation: 
+  container-title: "Nanomaterials"
+  volume: 13
+  issue: 13
+  doi: "10.3390/nano13131972"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">1337 nm Emission of a Nd3+-Doped TZA Glass Random Laser</li>
+  </ol>
+</nav>
+```

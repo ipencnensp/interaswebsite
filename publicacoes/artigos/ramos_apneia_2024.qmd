@@ -1,0 +1,25 @@
+---
+title: "APNEIA COMO FATOR DE RISCO PARA O BRUXISMO DO SONO"
+date: 2024-01-01
+author:
+  - name: Ramos, Bruna Leite Pedras
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  Este estudo abordou a Síndrome da Apneia Obstrutiva do Sono (SAOS) e o bruxismo do sono, dois distúrbios do sono com implicações na saúde. A SAOS é caracterizada por obstruções nas vias aéreas durante o sono, levando a despertares frequentes e sonolência diurna excessiva. Fatores como idade, gênero e hábitos como o consumo de álcool afetam sua prevalência. O bruxismo do sono envolve ranger ou apertar os dentes durante o sono, sendo influenciado por predisposição genética e hábitos como o consumo de substâncias. Foi investigada a relação entre SAOS e BS, sugerindo que as interrupções no sono causadas pela SAOS podem aumentar a atividade do bruxismo. Ambos os distúrbios têm raízes nos ciclos naturais do sono. Compreender essa relação é crucial para melhorar o diagnóstico e tratamento de pacientes com esses distúrbios do sono. , This study addressed obstructive sleep apnea (OSA) syndrome and sleep bruxism, two sleep disorders with health implications. OSA is characterized by recurrent airway obstructions during sleep, leading to frequent awakenings and excessive daytime sleepiness. Factors such as age, gender, and habits like alcohol consumption affect its prevalence. Sleep bruxism involves grinding or clenching the teeth during sleep and is influenced by genetic predisposition and habits such as substance consumption. The study investigated the relationship between OSA and bruxism, suggesting that sleep disruptions caused by OSA may increase bruxism activity. Both disorders have roots in the natural sleep cycles. Understanding this relationship is crucial for improving the diagnosis and treatment of patients with these sleep disorders.
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 1
+  doi: "10.29327/2442440.6.1-8"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">APNEIA COMO FATOR DE RISCO PARA O BRUXISMO DO SONO</li>
+  </ol>
+</nav>
+```

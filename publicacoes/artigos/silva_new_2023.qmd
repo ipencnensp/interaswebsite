@@ -1,0 +1,30 @@
+---
+title: "New Insights in Phenothiazinium-Mediated Photodynamic Inactivation of Candida Auris"
+date: 2023-06-30
+author:
+  - name: Silva, Abdênego R.
+  - name: Cabral, Fernanda V.
+  - name: Silva, Camila R.
+  - name: Silva, Daniela F. T.
+  - name: Freitas, Anderson Z.
+  - name: Fontes, Adriana
+  - name: Ribeiro, Martha S.
+abstract: > 
+  In recent years, Candida auris has emerged as a hazardous hospital-acquired pathogen. Its resistance to antifungal treatments makes it challenging, requiring new approaches to manage it effectively. Herein, we aimed to assess the impact of photodynamic inactivation mediated by methylene blue (MB-PDI) or 1,9-dimethyl MB (DMMB-PDI) combined with a red LED against C. auris. To evaluate the photoinactivation of yeasts, we quantified colony-forming units and monitored ROS production. To gain some insights into the differences between MB and DMMB, we assessed lipid peroxidation (LPO) and mitochondrial membrane potential (ΔΨm). After, we verified the effectiveness of DMMB against biofilms by measuring metabolic activity and biomass, and the structures were analyzed through scanning electron microscopy and optical coherence tomography. We also evaluated the cytotoxicity in mammalian cells. DMMB-PDI successfully eradicated C. auris yeasts at 3 μM regardless of the light dose. In contrast, MB (100 μM) killed cells only when exposed to the highest dose of light. DMMB-PDI promoted higher ROS, LPO and ΔΨm levels than those of MB. Furthermore, DMMB-PDI was able to inhibit biofilm formation and destroy mature biofilms, with no observed toxicity in fibroblasts. We conclude that DMMB-PDI holds great potential to combat the global threat posed by C. auris.
+categories: [article]
+citation: 
+  container-title: "Journal of Fungi"
+  volume: 9
+  issue: 7
+  doi: "10.3390/jof9070717"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">New Insights in Phenothiazinium-Mediated Photodynamic Inactivation of Candida Auris</li>
+  </ol>
+</nav>
+```

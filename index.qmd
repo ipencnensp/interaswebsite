@@ -8,9 +8,15 @@ repo-actions: false
 bread-crumbs: false
 listing:
   - id: publicacoes
-    contents: "publicacoes/articles/"
-    type: grid
-    grid-columns: 3
+    contents: "publicacoes/artigos/"
+    type: table
+    fields: 
+      - title
+      - date
+    sort: date desc
+    sort-ui: false
+    filter-ui: false
+    max-items: 6
 toc: false
 ---
 

@@ -1,0 +1,28 @@
+---
+title: "Endoscopic and videofluoroscopic evaluations of swallowing for dysphagia: a systematic review"
+date: 2023-01-01
+author:
+  - name: de Castro, Mario Augusto Ferrari
+  - name: Dedivitis, Rogério Aparecido
+  - name: de Matos, Leandro Luongo
+  - name: Baraúna, José Carlos
+  - name: Kowalski, Luiz Paulo
+  - name: de Carvalho Moura, Kauê
+  - name: Partezani, Daniel Herman
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Archives of Head and Neck Surgery"
+  volume: 52
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Endoscopic and videofluoroscopic evaluations of swallowing for dysphagia: a systematic review</li>
+  </ol>
+</nav>
+```

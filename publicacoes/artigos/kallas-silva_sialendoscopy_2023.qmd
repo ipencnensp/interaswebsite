@@ -1,0 +1,30 @@
+---
+title: "Sialendoscopy for treatment of major salivary glands diseases: a comprehensive analysis of published systematic reviews and meta-analyses"
+date: 2023-09-01
+author:
+  - name: Kallas-Silva, Lucas
+  - name: Azevedo, Maria Fernanda Dias
+  - name: De Matos, Fátima Cristina Mendes
+  - name: Petrarrolha, Silvia Picado
+  - name: Dedivitis, Rogério Aparecido
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 89
+  issue: 5
+  doi: "10.1016/j.bjorl.2023.101293"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Sialendoscopy for treatment of major salivary glands diseases: a comprehensive analysis of published systematic reviews and meta-analyses</li>
+  </ol>
+</nav>
+```

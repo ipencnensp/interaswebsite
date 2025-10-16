@@ -1,0 +1,27 @@
+---
+title: "Plant-derived polyphenolic compounds: nanodelivery through polysaccharide-based systems to improve the biological properties"
+date: 2024-12-20
+author:
+  - name: Rosales, Thiécla Katiane Osvaldt
+  - name: Da Silva, Fábio Fernando Alves
+  - name: Bernardes, Emerson Soares
+  - name: Paulo Fabi, João
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Critical Reviews in Food Science and Nutrition"
+  volume: 64
+  issue: 32
+  doi: "10.1080/10408398.2023.2245038"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Plant-derived polyphenolic compounds: nanodelivery through polysaccharide-based systems to improve the biological properties</li>
+  </ol>
+</nav>
+```

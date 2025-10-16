@@ -1,0 +1,29 @@
+---
+title: "Revealing the intrinsic nature of Eu-doped lead phosphate: A study using density functional theory"
+date: 2023-10-01
+author:
+  - name: Rodrigues, Aldimar Machado
+  - name: Santos, Willian Oliveira
+  - name: Rodrigues, Jocelia Silva Machado
+  - name: De Novais, Erico Raimundo Pereira
+  - name: De Oliveira, Glaura Caroena Azevedo
+  - name: Novais, Andrea De Lima Ferreira
+  - name: Souza, Divanizia Do Nascimento
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Physica B: Condensed Matter"
+  volume: 666
+  doi: "10.1016/j.physb.2023.415104"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Revealing the intrinsic nature of Eu-doped lead phosphate: A study using density functional theory</li>
+  </ol>
+</nav>
+```

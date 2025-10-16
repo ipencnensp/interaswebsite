@@ -1,0 +1,27 @@
+---
+title: "Characterization of the photoelastic dispersion coefficient using polarized digital holography"
+date: 2023-04-01
+author:
+  - name: Leal Da Silva, Sidney
+  - name: Prado, Felipe Maia
+  - name: Toffoli, Daniel José
+  - name: Wetter, Niklaus Ursus
+abstract: > 
+  The photoelastic dispersion coefficient represents the relationship between stress and the differences in refractive indices in a birefringent material. However, determining the coefficient using photoelasticity is challenging, as it is difficult to determine the refractive indices within photoelastic samples that are under tension. Here we present, for the first time, to our knowledge, the use of polarized digital holography to investigate the wavelength dependence of the dispersion coefficient in a photoelastic material. A digital method is proposed to analyze and correlate the differences in mean external stress with differences in mean phase. The results confirm the wavelength dependence of the dispersion coefficient, with an accuracy improvement of 25% compared to other photoelasticity methods.
+categories: [article]
+citation: 
+  container-title: "Journal of the Optical Society of America A"
+  volume: 40
+  issue: 4
+  doi: "10.1364/JOSAA.482543"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Characterization of the photoelastic dispersion coefficient using polarized digital holography</li>
+  </ol>
+</nav>
+```

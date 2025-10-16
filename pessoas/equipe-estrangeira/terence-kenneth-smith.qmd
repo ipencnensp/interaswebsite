@@ -1,0 +1,48 @@
+---
+title:  "Terence Kenneth Smith"
+sortby: "1"
+subtitle: "Equipe Estrangeira"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/terence-kenneth-smith.png
+  links:
+    - icon: link
+      text: Lattes
+      href: ""
+    - icon: mortarboard
+      text: scholar
+      href: "https://scholar.google.com/citations?hl=en&user=f-uNHgkAAAAJ"
+    - icon: bank
+      text: Instituição
+      href: "https://www.st-andrews.ac.uk/"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Equipe Estrangeira</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[University of St Andrews - ST- ANDREWS --Escócia](https://www.st-andrews.ac.uk/)
+
+### Áreas de Atuação
+
+-
+
+### Atuação no Projeto
+
+To find, validate and exploit differences between protozoan and mammalian metabolism, in particular the molecular and biochemical parasitology, including T. brucei, T.cruzi, Leishmania, Toxoplasma and Plasmodium, treated by antimicrobial photodynamic therapy (aPDT) in collaboration with Martha S. Ribeiro from IPEN.

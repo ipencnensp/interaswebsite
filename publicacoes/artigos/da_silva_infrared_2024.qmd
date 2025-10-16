@@ -1,0 +1,30 @@
+---
+title: "Infrared spectroscopy for fast screening of diabetes and periodontitis"
+date: 2024-04-01
+author:
+  - name: Da Silva, Sara Maria Santos Dias
+  - name: Ferreira, Camila Lopes
+  - name: Rizzato, Jaqueline Maria Brandão
+  - name: Toledo, Giovana Dos Santos
+  - name: Furukawa, Monique
+  - name: Rovai, Emanuel Silva
+  - name: Nogueira, Marcelo Saito
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photodiagnosis and Photodynamic Therapy"
+  volume: 46
+  doi: "10.1016/j.pdpdt.2024.104106"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Infrared spectroscopy for fast screening of diabetes and periodontitis</li>
+  </ol>
+</nav>
+```

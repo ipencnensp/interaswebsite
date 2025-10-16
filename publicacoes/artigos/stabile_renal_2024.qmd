@@ -1,0 +1,30 @@
+---
+title: "Renal ischemia and reperfusion impact the purinergic signaling in a vascular bed distant from the injured site"
+date: 2024-07-01
+author:
+  - name: Stabile, Jeferson
+  - name: Neres-Santos, Raquel Silva
+  - name: Molina Hernandes, Isabela Dorta
+  - name: Cruz Junho, Carolina Victória
+  - name: Alves, Geovane Felippe
+  - name: Silva, Isabella Cardoso
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Fürstenau, Cristina Ribas
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Biochimie"
+  volume: 222
+  doi: "10.1016/j.biochi.2024.02.003"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Renal ischemia and reperfusion impact the purinergic signaling in a vascular bed distant from the injured site</li>
+  </ol>
+</nav>
+```

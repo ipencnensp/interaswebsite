@@ -1,0 +1,29 @@
+---
+title: "Chronic exposure to nitric oxide sensitizes prostate cancer cells and improved ZnO/CisPt NPs cytotoxicity and selectivity"
+date: 2023-06-01
+author:
+  - name: Pieretti, Joana Claudio
+  - name: Freire, Bruna Moreira
+  - name: Armentano, Giovana Marchini
+  - name: Santana, Bianca De Melo
+  - name: Batista, Bruno Lemos
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Seabra, Amedea Barozzi
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Pharmaceutics"
+  volume: 640
+  doi: "10.1016/j.ijpharm.2023.122998"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Chronic exposure to nitric oxide sensitizes prostate cancer cells and improved ZnO/CisPt NPs cytotoxicity and selectivity</li>
+  </ol>
+</nav>
+```

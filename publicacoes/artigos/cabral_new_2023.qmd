@@ -1,0 +1,30 @@
+---
+title: "New insights in photodynamic inactivation of Leishmania amazonensis: A focus on lipidomics and resistance"
+date: 2023-09-15
+author:
+  - name: Cabral, Fernanda V.
+  - name: Cerone, Michela
+  - name: Persheyev, Saydulla
+  - name: Lian, Cheng
+  - name: Samuel, Ifor D. W.
+  - name: Ribeiro, Martha S.
+  - name: Smith, Terry K.
+abstract: > 
+  The emergence of drug resistance in cutaneous leishmaniasis (CL) has become a major problem over the past decades. The spread of resistant phenotypes has been attributed to the wide misuse of current antileishmanial chemotherapy, which is a serious threat to global health. Photodynamic therapy (PDT) has been shown to be effective against a wide spectrum of drug-resistant pathogens. Due to its multi-target approach and immediate effects, it may be an attractive strategy for treatment of drug-resistant Leishmania species. In this study, we sought to evaluate the activity of PDT in vitro using the photosensitizer 1,9-dimethyl methylene blue (DMMB), against promastigotes of two Leishmania amazonensis strains: the wild-type (WT) and a lab induced miltefosine-resistant (MFR) strain. The underlying mechanisms of DMMB-PDT action upon the parasites was focused on the changes in the lipid metabolism of both strains, which was conducted by a quantitative lipidomics analysis. We also assessed the production of ROS, mitochondrial labeling and lipid droplets accumulation after DMMB-PDT. Our results show that DMMB-PDT produced high levels of ROS, promoting mitochondrial membrane depolarization due to the loss of membrane potential. In addition, both untreated strains revealed some differences in the lipid content, in which MFR parasites showed increased levels of phosphatidylcholine, hence suggesting this could also be related to their mechanism of resistance to miltefosine. Moreover, the oxidative stress and consequent lipid peroxidation led to significant phospholipid alterations, thereby resulting in cellular dysfunction and parasite death. Thus, our results demonstrated that DMMB-mediated PDT is effective to kill L . amazonensis MFR strain and should be further studied as a potential strategy to overcome antileishmanial drug resistance.
+categories: [article]
+citation: 
+  container-title: "PLOS ONE"
+  volume: 18
+  issue: 9
+  doi: "10.1371/journal.pone.0289492"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">New insights in photodynamic inactivation of Leishmania amazonensis: A focus on lipidomics and resistance</li>
+  </ol>
+</nav>
+```

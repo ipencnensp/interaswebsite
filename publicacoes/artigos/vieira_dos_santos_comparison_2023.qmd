@@ -1,0 +1,36 @@
+---
+title: "Comparison of PBL Heights from Ceilometer Measurements and Greenhouse Gases Concentrations in São Paulo"
+date: 2023-12-16
+author:
+  - name: Vieira Dos Santos, Amanda
+  - name: Cristina Araújo, Elaine
+  - name: Da Silva Andrade, Izabel
+  - name: Corrêa, Thais
+  - name: Talita Amorim Marques, Márcia
+  - name: Eduardo Souto-Oliveira, Carlos
+  - name: Franchi Leonardo, Noele
+  - name: De Mendonça Macedo, Fernanda
+  - name: Souza, Giovanni
+  - name: Pereira De Queiroz Lopes, Pérola
+  - name: De Arruda Moreira, Gregori
+  - name: De Fátima Andrade, Maria
+  - name: Landulfo, Eduardo
+abstract: > 
+  This paper presents a study conducted in São Paulo, Brazil, where the planetary boundary layer height (PBLH) was determined using ceilometer data and the wavelet covariance transform method. The retrieved PBLH values were subsequently compared with the concentrations of CO2 and CH4 measured at three distinct experimental sites in the city. The period of study was July 2021. This study also included a comparison between ceilometer data and lidar data, which demonstrated the favorable applicability of the ceilometer data for PBLH estimation. An examination of the correlation between changes in average CO2 concentrations and PBLH values revealed stronger correlations for the IAG and UNICID stations, with correlation coefficients (ρ) of approximately −0.86 and −0.85, respectively, in contrast to the Pico do Jaraguá station, which exhibited a lower correlation coefficient of −0.42. When assessing changes in CH4 concentrations against variations in PBL height, the retrieved correlation coefficients were approximately −0.78 for IAG, −0.66 for UNICID, and −0.38 for Pico do Jaraguá. The results indicated that CO2/CH4 concentrations are negatively correlated with PBL heights, with CO2 concentrations showing more significant correlation than CH4. Additionally, among the three measurement stations, IAG measurements displayed the most substantial correlation. The results from this study contribute to the understanding of the relationship between PBLH and greenhouse gas concentrations, emphasizing the potential of remote sensing systems like ceilometers in monitoring and studying atmospheric processes.
+categories: [article]
+citation: 
+  container-title: "Atmosphere"
+  volume: 14
+  issue: 12
+  doi: "10.3390/atmos14121830"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comparison of PBL Heights from Ceilometer Measurements and Greenhouse Gases Concentrations in São Paulo</li>
+  </ol>
+</nav>
+```

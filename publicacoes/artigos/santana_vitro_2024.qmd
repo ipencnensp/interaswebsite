@@ -1,0 +1,30 @@
+---
+title: "In Vitro Bactericidal Activity of Biogenic Copper Oxide Nanoparticles for textitNeisseria gonorrhoeae with Enhanced Compatibility for Human Cells"
+date: 2024-05-01
+author:
+  - name: Santana, Bianca De Melo
+  - name: Armentano, Giovana Marchini
+  - name: Ferreira, Dayana Agnes Santos
+  - name: De Freitas, Camila Simões
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Seabra, Amedea Barozzi
+  - name: Christodoulides, Myron
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Applied Materials & Interfaces"
+  volume: 16
+  issue: 17
+  doi: "10.1021/acsami.4c02357"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">In Vitro Bactericidal Activity of Biogenic Copper Oxide Nanoparticles for textitNeisseria gonorrhoeae with Enhanced Compatibility for Human Cells</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,35 @@
+---
+title: "Profile of MicroRNAs Associated with Death Due to Disease Progression in Metastatic Papillary Thyroid Carcinoma Patients"
+date: 2023-01-31
+author:
+  - name: Leite, Ana Kober
+  - name: Saito, Kelly Cristina
+  - name: Theodoro, Thérèse Rachell
+  - name: Pasini, Fátima Solange
+  - name: Camilo, Luana Perrone
+  - name: Rossetti, Carlos Augusto
+  - name: Cavalheiro, Beatriz Godoi
+  - name: Alves, Venâncio Avancini Ferreira
+  - name: Kowalski, Luiz Paulo
+  - name: Pinhal, Maria Aparecida Silva
+  - name: Kimura, Edna Teruko
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Papillary thyroid carcinoma (PTC) is the most common neoplasm of the endocrine system and has an excellent long-term prognosis, with low rates of distant metastatic disease. Although infrequent, there are cases of deaths directly related to PTC, especially in patients with metastatic disease, and the factors that could be associated with this unfavorable outcome remain a major challenge in clinical practice. Recently, research into genetic factors associated with PTC has gained ground, especially mutations in the TERT promoter and BRAF gene. However, the role of microRNAs remains poorly studied, especially in those patients who have an unfavorable outcome at follow-up. This paper aims to evaluate molecular markers related to the different pathological processes of PTC, as well as the histological characteristics of the neoplasm, and to compare this profile with prognosis and death from the disease using an analysis of patients treated for metastatic disease in a single tertiary cancer center. Evaluation of microRNA expression in paraffin-embedded tumor specimens was carried out by quantitative PCR using the TaqMan® Low Density Array (TLDA) system. Metastatic patients who died from progression of PTC had higher expressions of miR-101-3p, miR-17-5p, and miR-191-5p when compared to patients with stable metastatic disease. These findings are of great importance but should be considered as preliminary because of the small sample.
+categories: [article]
+citation: 
+  container-title: "Cancers"
+  volume: 15
+  issue: 3
+  doi: "10.3390/cancers15030869"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Profile of MicroRNAs Associated with Death Due to Disease Progression in Metastatic Papillary Thyroid Carcinoma Patients</li>
+  </ol>
+</nav>
+```

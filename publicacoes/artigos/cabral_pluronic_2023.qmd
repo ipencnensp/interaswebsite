@@ -1,0 +1,29 @@
+---
+title: "Pluronic F-127 Hydrogels Containing Copper Oxide Nanoparticles and a Nitric Oxide Donor to Treat Skin Cancer"
+date: 2023-07-18
+author:
+  - name: Cabral, Fernanda V.
+  - name: Santana, Bianca De Melo
+  - name: Lange, Camila N.
+  - name: Batista, Bruno L.
+  - name: Seabra, Amedea B.
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Melanoma is a serious and aggressive type of skin cancer with growing incidence, and it is the leading cause of death among those affected by this disease. Although surgical resection has been employed as a first-line treatment for the early stages of the tumor, noninvasive topical treatments might represent an alternative option. However, they can be irritating to the skin and result in undesirable side effects. In this context, the potential of topical polymeric hydrogels has been investigated for biomedical applications to overcome current limitations. Due to their biocompatible properties, hydrogels have been considered ideal candidates to improve local therapy and promote wound repair. Moreover, drug combinations incorporated into the polymeric-based matrix have emerged as a promising approach to improve the efficacy of cancer therapy, making them suitable vehicles for drug delivery. In this work, we demonstrate the synthesis and characterization of Pluronic F-127 hydrogels (PL) containing the nitric oxide donor S-nitrosoglutathione (GSNO) and copper oxide nanoparticles (CuO NPs) against melanoma cells. Individually applied NO donor or metallic oxide nanoparticles have been widely explored against various types of cancer with encouraging results. This is the first report to assess the potential and possible underlying mechanisms of action of PL containing both NO donor and CuO NPs toward cancer cells. We found that PL + GSNO + CuO NPs significantly reduced cell viability and greatly increased the levels of reactive oxygen species. In addition, this novel platform had a huge impact on different organelles, thus triggering cell death by inducing nuclear changes, a loss of mitochondrial membrane potential, and lipid peroxidation. Thus, GSNO and CuO NPs incorporated into PL hydrogels might find important applications in the treatment of skin cancer.
+categories: [article]
+citation: 
+  container-title: "Pharmaceutics"
+  volume: 15
+  issue: 7
+  doi: "10.3390/pharmaceutics15071971"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Pluronic F-127 Hydrogels Containing Copper Oxide Nanoparticles and a Nitric Oxide Donor to Treat Skin Cancer</li>
+  </ol>
+</nav>
+```

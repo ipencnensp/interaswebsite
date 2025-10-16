@@ -1,0 +1,30 @@
+---
+title: "Infrared spectroscopy as a predictive tool for the severity of COVID-19 using patient's saliva: A strategy to avoid hyperinflammation"
+date: 2024-09-01
+author:
+  - name: Borges, Roger
+  - name: Bandeira, Carla C.S.
+  - name: Zerbinati, Rodrigo M.
+  - name: Palmieri, Michelle
+  - name: Schwab, Gabriela
+  - name: Henrique Braz-Silva, Paulo
+  - name: A. L. Lindoso, José
+  - name: Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+  volume: 317
+  doi: "10.1016/j.saa.2024.124320"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Infrared spectroscopy as a predictive tool for the severity of COVID-19 using patient's saliva: A strategy to avoid hyperinflammation</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,28 @@
+---
+title: "S-Bend and Y Waveguide Architectures in Germanate Glasses Irradiated by Femtosecond Laser"
+date: 2025-01-31
+author:
+  - name: Fernandes, Thiago Vecchi
+  - name: Bordon, Camila Dias Da Silva
+  - name: Wetter, Niklaus Ursus
+  - name: De Rossi, Wagner
+  - name: Kassab, Luciana Reyes Pires
+abstract: > 
+  This study is focused on the fabrication and characterization of various dual waveguides through femtosecond (fs) laser irradiation of GeO2-based glass samples. The objective of the present work is to develop diverse waveguide configurations, namely straight, S-bend and Y-shaped waveguides within GeO2–PbO glasses embedded with silver nanoparticles, utilizing a double-guide platform, for photonic applications such as resonant rings and beam splitters. Enhanced guidance was observed with a larger radius of curvature (80 mm) among the two distinct S-bend waveguides produced. The maximum relative propagation loss was recorded for the S-bend waveguide with a 40 mm radius, while the minimum loss was noted for the Y-shaped waveguide. In the latter configuration, with an opening angle of 5° and a separation of 300 µm between the two arms, an output power ratio of 50.5/49.5 between the left and right arms indicated promising potential for beam splitter applications. During the study, the quality factor (M2) of the proposed architectures was measured and the 80 mm S-bend configuration presented the best symmetry between the x and y axes; in the case of the Y configuration the similarity between the M2 values in both axes, for the first and second arms, indicates comparable light guidance.
+categories: [article]
+citation: 
+  container-title: "Micromachines"
+  volume: 16
+  issue: 2
+  doi: "10.3390/mi16020171"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">S-Bend and Y Waveguide Architectures in Germanate Glasses Irradiated by Femtosecond Laser</li>
+  </ol>
+</nav>
+```

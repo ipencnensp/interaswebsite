@@ -1,0 +1,28 @@
+---
+title: "Deep neural networks can differentiate thyroid pathologies on infrared hyperspectral images"
+date: 2024-04-01
+author:
+  - name: Baffa, Matheus De Freitas Oliveira
+  - name: Zezell, Denise Maria
+  - name: Bachmann, Luciano
+  - name: Pereira, Thiago Martini
+  - name: Deserno, Thomas Martin
+  - name: Felipe, Joaquim Cezar
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Computer Methods and Programs in Biomedicine"
+  volume: 247
+  doi: "10.1016/j.cmpb.2024.108100"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Deep neural networks can differentiate thyroid pathologies on infrared hyperspectral images</li>
+  </ol>
+</nav>
+```

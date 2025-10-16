@@ -1,0 +1,27 @@
+---
+title: "Development of CaSO4:RE,Li (RE = Tm, Eu, Tb) composites for thermally or optically stimulated luminescence dosimetry"
+date: 2024-08-01
+author:
+  - name: Junot, Danilo O.
+  - name: Galeano, Diego C.
+  - name: Silva, Anderson M.B.
+  - name: Souza, Divanizia N.
+  - name: Caldas, Linda V.E.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Measurements"
+  volume: 176
+  doi: "10.1016/j.radmeas.2024.107217"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Development of CaSO4:RE,Li (RE = Tm, Eu, Tb) composites for thermally or optically stimulated luminescence dosimetry</li>
+  </ol>
+</nav>
+```

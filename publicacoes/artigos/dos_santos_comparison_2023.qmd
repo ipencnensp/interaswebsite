@@ -1,0 +1,33 @@
+---
+title: "Comparison of three 18F-labeled 2-nitroimidazoles for imaging hypoxia in breast cancer xenografts: [18F]FBNA, [18F]FAZA and [18F]FMISO"
+date: 2023-09-01
+author:
+  - name: Dos Santos, Sofia Nascimento
+  - name: Wuest, Melinda
+  - name: Jans, Hans-Sonke
+  - name: Woodfield, Jenilee
+  - name: Nario, Arian Pérez
+  - name: Krys, Daniel
+  - name: Dufour, Jennifer
+  - name: Glubrecht, Darryl
+  - name: Bergman, Cody
+  - name: Bernardes, Emerson Soares
+  - name: Wuest, Frank
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Nuclear Medicine and Biology"
+  volume: 124-125
+  doi: "10.1016/j.nucmedbio.2023.108383"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comparison of three 18F-labeled 2-nitroimidazoles for imaging hypoxia in breast cancer xenografts: [18F]FBNA, [18F]FAZA and [18F]FMISO</li>
+  </ol>
+</nav>
+```

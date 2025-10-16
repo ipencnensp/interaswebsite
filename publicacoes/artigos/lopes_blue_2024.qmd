@@ -1,0 +1,28 @@
+---
+title: "Blue nests: The use of plastics in the nests of the crested oropendola (Psarocolius decumanus) on the Brazilian Amazon coast"
+date: 2024-08-01
+author:
+  - name: Lopes, Adrielle Caroline
+  - name: Kuznetsova, Maria
+  - name: Ferreira, Anderson Targino S.
+  - name: Wetter, Niklaus Ursus
+  - name: Giarrizzo, Tommaso
+  - name: Martinelli Filho, José Eduardo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Marine Pollution Bulletin"
+  volume: 205
+  doi: "10.1016/j.marpolbul.2024.116695"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Blue nests: The use of plastics in the nests of the crested oropendola (Psarocolius decumanus) on the Brazilian Amazon coast</li>
+  </ol>
+</nav>
+```

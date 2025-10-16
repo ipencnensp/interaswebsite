@@ -1,0 +1,31 @@
+---
+title: "Optical coherence tomography (OCT) for the analysis of zirconia crystalline phase transformation"
+date: 2023-08-01
+author:
+  - name: Arata Found, Anelyse
+  - name: De Pretto, L.R.
+  - name: Ussui, V.
+  - name: Lima, N.B.
+  - name: De Souza, G.M.
+  - name: Machado, J.P.B.
+  - name: Tango, R.N.
+  - name: Freitas, A.Z.
+  - name: Lazar, D.R.R.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Materialia"
+  volume: 30
+  doi: "10.1016/j.mtla.2023.101825"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Optical coherence tomography (OCT) for the analysis of zirconia crystalline phase transformation</li>
+  </ol>
+</nav>
+```

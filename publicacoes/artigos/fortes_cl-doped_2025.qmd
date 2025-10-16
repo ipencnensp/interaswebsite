@@ -1,0 +1,31 @@
+---
+title: "Cl-Doped ZnO Nanoparticles with Enhanced Photocatalytic Activity via Selective Surface Lixiviation: Implications for Acetaminophen Degradation"
+date: 2025-02-07
+author:
+  - name: Fortes, Gustavo M.
+  - name: Da Silva, Andre Luiz
+  - name: Ramos, Bruno
+  - name: Bettini, Jefferson
+  - name: Fonseca, Fabio Coral
+  - name: Gonçalves, Renato V.
+  - name: Rodrigues Junior, Orlando
+  - name: Gouvea, Douglas
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Applied Nano Materials"
+  volume: 8
+  issue: 5
+  doi: "10.1021/acsanm.4c06747"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cl-Doped ZnO Nanoparticles with Enhanced Photocatalytic Activity via Selective Surface Lixiviation: Implications for Acetaminophen Degradation</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,51 @@
+---
+title: "Simultaneous Retrieval Algorithm of Water Cloud Optical and Microphysical Properties by High-Spectral-Resolution Lidar"
+date: 2024-01-01
+author:
+  - name: Zhang, Kai
+  - name: Wu, Lingyun
+  - name: Rosenfeld, Daniel
+  - name: Müller, Detlef
+  - name: Li, Chengcai
+  - name: Zhao, Chuanfeng
+  - name: Landulfo, Eduardo
+  - name: Jimenez, Cristofer
+  - name: Wang, Shuaibo
+  - name: Hu, Xianzhe
+  - name: Li, Weize
+  - name: Li, Xiaotao
+  - name: Sun, Yao
+  - name: Liu, Sihan
+  - name: Wu, Lan
+  - name: Wan, Xueping
+  - name: Chen, Wentai
+  - name: Liu, Chong
+  - name: Bai, Jian
+  - name: Li, Jing
+  - name: Sun, Wenbo
+  - name: Venkataraman, Sivakumar
+  - name: Zhou, Yudi
+  - name: Deng, Zhiji
+  - name: Liu, Ming
+  - name: Cheng, Miao
+  - name: Fu, Zhewei
+  - name: Pan, Weilin
+  - name: Liu, Dong
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "IEEE Transactions on Geoscience and Remote Sensing"
+  volume: 62
+  doi: "10.1109/TGRS.2024.3416493"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Simultaneous Retrieval Algorithm of Water Cloud Optical and Microphysical Properties by High-Spectral-Resolution Lidar</li>
+  </ol>
+</nav>
+```

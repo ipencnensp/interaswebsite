@@ -1,0 +1,31 @@
+---
+title: "Unveiling the Role of Rhenium Precursors in Supercritical CO₂ Hydrogenation: A Comparative Study of ReOx/TiO₂ Catalysts"
+date: 2025-03-01
+author:
+  - name: Machado, Felipe
+  - name: Gothe, Maitê L.
+  - name: Borges, Lais R.
+  - name: Portes, Marcelo C.
+  - name: Rodrigues, Orlando
+  - name: Ando, Rômulo A.
+  - name: Rossi, Liane M.
+  - name: Vidinha, Pedro
+abstract: > 
+  Abstract Heterogeneous rhenium catalysts supported on various oxides, particularly TiO 2 , have demonstrated effectiveness in converting carbon dioxide (CO 2 ) to methanol via hydrogenation, showing high selectivity under diverse reaction conditions. However, the impact of different rhenium precursors on the catalytic performance and physicochemical properties of ReO x /TiO 2 has not yet been elucidated. Herein, we compared catalysts prepared from NH 4 ReO 4 and Re 2 O 7 precursors with varying rhenium content (4–14 wt% Re) synthesized using a wet impregnation approach. These catalysts were evaluated under different reaction temperatures (200–250 °C), pressures (100–200 bar), and H 2 /CO 2 ratios (1–4). This study revealed that both catalytic performance and physicochemical properties varied not only with the type of precursor but also with the rhenium content. Variation in reduction temperature, particle size, oxidation states of Re and surface Re═O terminals were observed. In batch system, catalysts derived from NH 4 ReO 4 demonstrated a higher selectivity for methanol production under high pressure and stoichiometric conditions, regardless of temperature. In contrast, Re₂O₇‐based catalysts demonstrated higher methanol selectivity at 200 °C, with H₂/CO₂ ratios between 1 and 3, regardless of the total pressure. These findings provide a deeper and valuable insight on the choice of precursors for the preparation of ReO x /TiO 2 catalysts for CO 2 hydrogenation.
+categories: [article]
+citation: 
+  container-title: "ChemCatChem"
+  volume: 17
+  issue: 6
+  doi: "10.1002/cctc.202401874"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Unveiling the Role of Rhenium Precursors in Supercritical CO₂ Hydrogenation: A Comparative Study of ReOx/TiO₂ Catalysts</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "Solvent-dependent formation kinetics of L,L-diphenylalanine micro/nanotubes"
+date: 2023-01-01
+author:
+  - name: Bandeira, Carla Carolina Silva
+  - name: Foiani, Letícia Marques Caviola
+  - name: Carlos, Giovana Bonano
+  - name: Ishikawa, Mariana Sayuri
+  - name: Ferreira, Paula Maria Gabriela Leal
+  - name: Da Silva Martinho, Herculano
+abstract: > 
+  Investigating the molecular mechanism underlying the aggregation process of amyloid fibers is of great importance both for their implications in several degenerative diseases and for the design of new materials based on self-assembly. , Investigating the molecular mechanism underlying the aggregation process of amyloid fibers is of great importance both for its implications in several degenerative diseases and for the design of new materials based on self-assembly. In particular, micro/nanotubes of L,L-diphenylalanine have been investigated as a model of amyloid plaques in Alzheimer's disease and also for their broad range of physical properties, e.g. , good thermo- and mechanical stability, semiconductivity, piezoelectricity and optical properties. It has been reported that the assembly/disassembly dynamics of L,L-diphenylalanine crystals is influenced by the solvent composition being triggered by evaporation of solvents. In fact the solvatomorphism of this peptide-based nanomaterial is complex and rich attracting great attention. Here we investigated the growing kinetics of the micro/nanotubes of L,L-diphenylalanine in samples prepared with toluene, ethanol, and acetic acid solvents by time-resolved Raman spectroscopy. Our results indicated that the self-assembly in this case competes with the water evaporation process contrary to what is reported by samples prepared with widely used solvent 1,1,1,3,3,3-hexafluoro-2-propanol. We note that exclusively tubular structures (being hollow for the toluene solvent case) were observed. Interestingly our results support the fact that for acetic acid, ethanol, and toluene the micro/nanotube formation process is autocatalytic instead of being nucleation-dominating as reported for samples prepared using solvent 1,1,1,3,3,3-hexafluoro-2-propanol.
+categories: [article]
+citation: 
+  container-title: "Physical Chemistry Chemical Physics"
+  volume: 25
+  issue: 6
+  doi: "10.1039/D2CP03491C"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Solvent-dependent formation kinetics of L,L-diphenylalanine micro/nanotubes</li>
+  </ol>
+</nav>
+```

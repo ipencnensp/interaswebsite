@@ -1,0 +1,27 @@
+---
+title: "High-power Nd:YLF four-level lasers with 68% slope efficiency"
+date: 2023-03-10
+author:
+  - name: Prado, Felipe Maia
+  - name: Franco, Tomás Junqueira
+  - name: De Almeida Vieira, Tárcio
+  - name: Wetter, Niklaus Ursus
+abstract: > 
+  Three laser resonators are demonstrated emitting at 1053 nm and pumped at 797 nm by volume Bragg grating-equipped diodes, achieving the highest reported efficiencies for Nd:YLF in a four-level system, to the best of our knowledge. A peak output power of 880 W is achieved by pumping the crystal with a diode stack of 1.4 kW of peak pump power.
+categories: [article]
+citation: 
+  container-title: "Applied Optics"
+  volume: 62
+  issue: 8
+  doi: "10.1364/AO.476541"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">High-power Nd:YLF four-level lasers with 68% slope efficiency</li>
+  </ol>
+</nav>
+```

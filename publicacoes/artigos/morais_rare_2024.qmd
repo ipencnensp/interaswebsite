@@ -1,0 +1,29 @@
+---
+title: "A rare case of a vascular benign tumor in oral cavity – Case report"
+date: 2024-07-07
+author:
+  - name: Morais, Thayná Melo De Lima
+  - name: Kitakawa, Dárcio
+  - name: Peralta, Felipe Da Silva
+  - name: Gonçalves, Jussara Maria
+  - name: Perrone Júnior, Lineu
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+abstract: > 
+  Leiomyomas are benign tumors arising from smooth muscle and can be classified as solid, epithelioid, and vascular leiomyoma (angioleiomyoma). Angioleiomyoma frequently occurs on the skin. Due to the lack of smooth muscle in the oral cavity, this tumor is rarely located in the mouth. This study aims to present a rare case of a 36-year-old woman with a painless submucosal nodule in the left cheek mucosa, measuring approximately 2 cm x 1 cm, with 5-years of evolution. Morphological and histochemical examination evidenced the proliferation of smooth muscle around the blood vessels of various calibers. The diagnosis of angioleiomyoma was confirmed, the tumor was surgically removed, and the patient had no further complications after 9-months of follow-up. The diagnosis of oral angioleiomyoma is challenging since this tumor is rare and can mimic or transform into malignancy. For this reason,  histological examination in association with immunohistochemical is invaluable to establishing an accurate diagnosis and delivering suitable treatment.
+categories: [article]
+citation: 
+  container-title: "Research, Society and Development"
+  volume: 13
+  issue: 7
+  doi: "10.33448/rsd-v13i7.46230"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A rare case of a vascular benign tumor in oral cavity – Case report</li>
+  </ol>
+</nav>
+```

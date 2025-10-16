@@ -1,0 +1,28 @@
+---
+title: "Absorption and reduced scattering coefficient estimation in pigmented human skin tissue by experimental colorimetric fitting"
+date: 2023-09-01
+author:
+  - name: Cruz Junior, Luismar B.
+  - name: Girasol, Carlos E.
+  - name: Coltro, Pedro S.
+  - name: Guirro, Rinaldo R. J.
+  - name: Bachmann, Luciano
+abstract: > 
+  This study aims to estimate the optical properties, absorption ( μ a ), and reduced scattering ( μ s ′ ) coefficients of ex vivo human skin through the individual typology angle (ITA) by only using the skin color parameters. Human skin samples were grouped according to their ITA value and measured using a colorimeter for validation. An integrating sphere and the inverse adding-doubling algorithm were applied to compute the samples μ a and μ s ′ . The μ a increases as the ITA decreases. An axis swap was performed to generate the μ a versus the ITA for all wavelengths between 500 nm and 800 nm with a spectral resolution of 10 nm. Linearization was performed and a correlation was found. An equation to fit μ a based solely on the ITA values was estimated. The μ s ′ does not change with ITA, but it could be fit with an inverse power law as a function of the wavelength. Both equations have a coefficient of determination ( R 2 ) higher than 0.93, indicating a good agreement with our model. An experimental model to estimate the absorption and reduced scattering coefficients of ex vivo human skin through ITA was found. The model has high agreement with the experimental data, with an R 2 between 0.932 and 0.997, and these findings may be relevant for photobiomodulation and light treatment applications to estimate the effect of the melanin on the therapy.
+categories: [article]
+citation: 
+  container-title: "Journal of the Optical Society of America A"
+  volume: 40
+  issue: 9
+  doi: "10.1364/JOSAA.489892"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Absorption and reduced scattering coefficient estimation in pigmented human skin tissue by experimental colorimetric fitting</li>
+  </ol>
+</nav>
+```

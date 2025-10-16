@@ -1,0 +1,28 @@
+---
+title: "DFT and DFPT calculations of the structural, electronic, optical, vibrational and thermodynamic properties of silicon tetraborate"
+date: 2023-06-01
+author:
+  - name: Santos, Willian Oliveira
+  - name: Rodrigues, Aldimar Machado
+  - name: De Novais, Erico Raimundo Pereira
+  - name: Frazão, Nilton Ferreira
+  - name: Novais, Andréa De Lima Ferreira
+  - name: Souza, Divanizia Do Nascimento
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Computational Condensed Matter"
+  volume: 35
+  doi: "10.1016/j.cocom.2023.e00796"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">DFT and DFPT calculations of the structural, electronic, optical, vibrational and thermodynamic properties of silicon tetraborate</li>
+  </ol>
+</nav>
+```

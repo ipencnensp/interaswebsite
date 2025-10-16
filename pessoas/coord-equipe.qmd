@@ -13,7 +13,7 @@ listing:
     sort-ui: false
     type: grid
   - id: comitegestor
-    contents: "membro-do-comitê-gestor/*.qmd"
+    contents: "membro-do-comite-gestor/*.qmd"
     fields: [title, subtitle]
     field-display-names:
       institute: "Instituição"
@@ -32,7 +32,7 @@ listing:
     filter-ui: false
     sort-ui: false
   - id: equipeestrangeira
-    contents: "equipeestrangeira/*.qmd"
+    contents: "equipe-estrangeira/*.qmd"
     type: grid
     fields: [title, subtitle]
     field-display-names:
@@ -50,7 +50,7 @@ listing:
     filter-ui: false
     sort-ui: false
   - id: apoiotecnico
-    contents: "apoio-técnico/*.qmd"
+    contents: "apoio-tecnico/*.qmd"
     type: grid
     fields: [title, subtitle]
     field-display-names:
@@ -68,7 +68,7 @@ listing:
     filter-ui: false
     sort-ui: false
   - id: liderlabassociado
-    contents: "líder-de-laboratório-associado/*.qmd"
+    contents: "lider-de-laboratorio-associado/*.qmd"
     type: grid
     fields: [title, subtitle]
     field-display-names:

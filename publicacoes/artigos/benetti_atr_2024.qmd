@@ -1,0 +1,30 @@
+---
+title: "ATR FTIR spectroscopy imaging of bone repair in mandibular laser‐osteotomy"
+date: 2024-09-01
+author:
+  - name: Benetti, Carolina
+  - name: Blay, Alberto
+  - name: Correa, Luciana
+  - name: Verlangieri, Marco Aurelio
+  - name: Dos Santos, Moisés O.
+  - name: Kazarian, Sergei G.
+  - name: Zezell, Denise M.
+abstract: > 
+  Abstract The aim of this study was to verify the effectiveness of attenuated total reflectance‐fourier transform infrared (ATR‐FTIR) spectroscopy in the characterization of bone repair in mandibular osteotomy using erbium, chromium‐doped yttrium, scandium, gallium and garnet (Er,Cr:YSGG) laser and multilaminate drill on each side. Two mandible bone fragments were removed from 30 rabbits, and the process of bone repair was studied immediately, 3, 7, 15, 21, and 28 days after the surgery. The histological analysis allowed detecting differences in the early stages of tissue repair after bone cutting performed with the Er,Cr:YSGG laser or multilaminate drill. The ATR‐FTIR spectroscopy technique was sensitive to changes in the organic content of bone tissue repair process.
+categories: [article]
+citation: 
+  container-title: "Journal of Biophotonics"
+  volume: 17
+  issue: 9
+  doi: "10.1002/jbio.202400066"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">ATR FTIR spectroscopy imaging of bone repair in mandibular laser‐osteotomy</li>
+  </ol>
+</nav>
+```

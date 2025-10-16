@@ -1,0 +1,28 @@
+---
+title: "Progress and Challenges of Understanding Cardiorenal Syndrome Type 3"
+date: 2023-01-04
+author:
+  - name: Neres-Santos, Raquel Silva
+  - name: Armentano, Giovana Marchini
+  - name: Da Silva, Jéssica Verônica
+  - name: Falconi, Carlos Alexandre
+  - name: Carneiro-Ramos, Marcela Sorelli
+abstract: > 
+  The pathologies of the kidney and heart have instigated a large number of researchers around the world to try to better understand what the exact connectors responsible for the emergence and establishment of these diseases are. The classification of these pathologies into different types of cardiorenal syndromes (CRSs) over the last 15 years has greatly contributed to understanding pathophysiological and diagnostic aspects, as well as treatment strategies. However, with the advent of new technologies classified as “Omics”, a new range of knowledge and new possibilities have opened up in order to effectively understand the intermediaries between the kidney-heart axis. The universe of micro-RNAs (miRNAs), epigenetic factors, and components present in extracellular vesicles (EVs) have been protagonists in studying different types of CRSs. Thus, the new challenge that is imposed is to select and link the large amount of information generated from the use of large-scale analysis techniques. The present review seeks to present some of the future perspectives related to understanding CRSs, with an emphasis on CRS type 3.
+categories: [article]
+citation: 
+  container-title: "Reviews in Cardiovascular Medicine"
+  volume: 24
+  issue: 1
+  doi: "10.31083/j.rcm2401008"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Progress and Challenges of Understanding Cardiorenal Syndrome Type 3</li>
+  </ol>
+</nav>
+```

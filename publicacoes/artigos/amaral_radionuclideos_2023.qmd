@@ -1,0 +1,27 @@
+---
+title: "RADIONUCLÍDEOS NATURAIS EM SOLOS DA REGIÃO METROPOLITANA DO RECIFE, PERNAMBUCO, E RISCOS ASSOCIADOS"
+date: 2023-01-01
+author:
+  - name: Amaral, Déric Soares do
+  - name: Ramos, Mariana Luiza Oliveira dos Santos
+  - name: Farias, Emerson Emiliano Gualberto de
+  - name: Neto, João Adauto de Souza
+  - name: França, Elvis Joacir de
+abstract: > 
+  A Região Metropolitana do Recife encontra-se em área de ocorrência de fosforito uranífero - rocha associada sedimentar à ocorrência de radionuclídeos naturais no solo. A exposição prolongada à radiação ionizante representa risco à saúde, podendo levar ao aumento significativo de desenvolvimento de câncer. Neste estudo, foram quantificados os radionuclídeos naturais Ra-226, Ra-228 e K-40 em solos destas áreas utilizando Espectrometria Gama de Alta Resolução. Os resultados serviram para o cálculo valores de índices de risco da radiação: índice gama, índice alfa, dose absorvida, dose efetiva e risco adicional de desenvolvimento de câncer. Foram encontradas concentrações de atividade de Ra-226 e Ra-228 até 3,5 vezes maiores que a média da crosta terrestre, e concentrações de K-40 cerca de 3 vezes menores do que a média. Devido a isso, foram estimados valores de dose absorvida devido à presença destes nuclídeos nos solos até 1,5 vez maiores do que a média mundial, e do risco adicional de desenvolvimento de câncer comparável ao de locais cuja radiação natural de fundo é considerada alta. Os resultados aqui encontrados indicam a necessidade de maior investigação e monitoramento quanto à radioatividade natural nas áreas estudadas devido aos possíveis riscos à saúde da população que representam.
+categories: [article]
+citation: 
+  container-title: "Revista Thêma et Scientia"
+  volume: 13
+  issue: 2
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">RADIONUCLÍDEOS NATURAIS EM SOLOS DA REGIÃO METROPOLITANA DO RECIFE, PERNAMBUCO, E RISCOS ASSOCIADOS</li>
+  </ol>
+</nav>
+```

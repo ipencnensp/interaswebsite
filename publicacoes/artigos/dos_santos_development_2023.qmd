@@ -1,0 +1,34 @@
+---
+title: "Development of glycan-targeted nanoparticles as a novel therapeutic opportunity for gastric cancer treatment"
+date: 2023-12-01
+author:
+  - name: Dos Santos, Sofia Nascimento
+  - name: Junior, Dino Seigo Gushiken
+  - name: Pereira, Jhonatas Pedrosa Marim
+  - name: Iadocicco, Natália Miranda
+  - name: Silva, André Henrique
+  - name: Do Nascimento, Tatielle
+  - name: Dias, Luís Alberto Pereira
+  - name: De Oliveira Silva, Flávia Rodrigues
+  - name: Ricci-Junior, Eduardo
+  - name: Santos-Oliveira, Ralph
+  - name: Bernardes, Emerson Soares
+abstract: > 
+  Abstract Chemotherapy resistance remains a major cause of therapeutic failure in gastric cancer. The combination of genetic material such as interference RNAs (iRNAs) to silence cancer-associated genes with chemotherapeutics has become a novel approach for cancer treatment. However, finding the right target genes and developing non-toxic, highly selective nanocarrier systems remains a challenge. Here we developed a novel sialyl-Tn-targeted polylactic acid—didodecyldimethylammonium bromide nanoparticle (PLA-DDAB) nanoparticles (NPs) loaded with dsRNA targeting ST6GalNac-I and/or galectin-3 genes. Using single photon emission computed tomography (SPECT), we have demonstrated that 99m technetium radiolabeled sialyl-Tn-targeted nanoparticles can reach the tumor site and downregulate ST6GalNAc-I and galectin-3 RNA expression levels when injected intravenously. Furthermore, using an in vivo gastric tumor model, these nanoparticles increased the effectiveness of 5-FU in reducing tumor growth. Our findings indicate that cancer-associated glycan-targeted NPs loaded with dsRNA targeting ST6GalNAc-I and/or galectin-3 in combination with standard chemotherapy, have the potential to become a novel therapeutic tool for gastric cancer.
+categories: [article]
+citation: 
+  container-title: "Cancer Nanotechnology"
+  volume: 14
+  issue: 1
+  doi: "10.1186/s12645-023-00161-2"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Development of glycan-targeted nanoparticles as a novel therapeutic opportunity for gastric cancer treatment</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "Low-level laser therapy as an adjuvant in the treatment of erythema multiforme of the oral mucosa: a case report"
+date: 2024-03-05
+author:
+  - name: Melo De Lima Morais, Thayná
+  - name: Silva, Sara Maria Santos Dias Da
+  - name: Da Silva Peralta, Felipe
+  - name: Kitakawa, Dárcio
+  - name: Saito Nogueira, Marcelo
+  - name: Das Chagas E Silva De Carvalho, Luis Felipe
+abstract: > 
+  Erythema multiforme is an autoimmune condition that can affect the skin and mucosa. Oral lesions initially present with edema and progress to superficial erosions with pseudomembrane formation. The most recommended treatment is the use of corticosteroids; however, low-level laser therapy can be effective in the treatment of erythema multiforme. We report a case of erythema multiforme in the oral mucosa treated with low-level laser therapy. A 73-year-old woman using alendronate for osteoporosis, losartan, and puran T4 with extensive ulcers on the upper and lower lips. The clinical diagnosis was erythema multiforme. The proposed treatment was 0.05% clobetasol propionate in gel, 3 times a day, and seven sessions of low-level laser therapy on alternate days. Low-level laser therapy significantly improved the erythema multiforme of the oral mucosa, offering the patient a non-invasive approach with no side effects.
+categories: [article]
+citation: 
+  container-title: "Laser Therapy"
+  volume: 31
+  issue: 1
+  doi: "10.4081/ltj.2024.386"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Low-level laser therapy as an adjuvant in the treatment of erythema multiforme of the oral mucosa: a case report</li>
+  </ol>
+</nav>
+```

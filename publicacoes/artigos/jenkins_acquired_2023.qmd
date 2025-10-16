@@ -1,0 +1,33 @@
+---
+title: "Acquired Radiation Resistance Induces Thiol-dependent Cisplatin Cross-resistance"
+date: 2023-12-11
+author:
+  - name: Jenkins, Samir V.
+  - name: Shah, Shruti
+  - name: Jamshidi-Parsian, Azemat
+  - name: Mortazavi, Amir
+  - name: Kristian, Hailey
+  - name: Boysen, Gunnar
+  - name: Vang, Kieng B.
+  - name: Griffin, Robert J.
+  - name: Rajaram, Narasimhan
+  - name: Dings, Ruud P.M.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Research"
+  volume: 201
+  issue: 2
+  doi: "10.1667/RADE-23-00005.1"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Acquired Radiation Resistance Induces Thiol-dependent Cisplatin Cross-resistance</li>
+  </ol>
+</nav>
+```

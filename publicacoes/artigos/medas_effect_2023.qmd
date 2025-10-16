@@ -1,0 +1,522 @@
+---
+title: "Effect of the COVID-19 pandemic on surgery for indeterminate thyroid nodules (THYCOVID): a retrospective, international, multicentre, cross-sectional study"
+date: 2023-06-01
+author:
+  - name: Medas, Fabio
+  - name: Dobrinja, Chiara
+  - name: Al-Suhaimi, Ebtesam Abdullah
+  - name: Altmeier, Julia
+  - name: Anajar, Said
+  - name: Arikan, Akif Enes
+  - name: Azaryan, Irina
+  - name: Bains, Lovenish
+  - name: Basili, Giancarlo
+  - name: Bolukbasi, Hakan
+  - name: Bononi, Marco
+  - name: Borumandi, Farzad
+  - name: Bozan, Mehmet Buğra
+  - name: Brenta, Gabriela
+  - name: Brunaud, Laurent
+  - name: Brunner, Maximilian
+  - name: Buemi, Antoine
+  - name: Canu, Gian Luigi
+  - name: Cappellacci, Federico
+  - name: Cartwright, Sara Burchfield
+  - name: Castells Fusté, Ignasi
+  - name: Cavalheiro, Beatriz
+  - name: Cavallaro, Giuseppe
+  - name: Chala, Andres
+  - name: Chan, Shun Yan Bryant
+  - name: Chaplin, John
+  - name: Cheema, Mustafa Sajjad
+  - name: Chiapponi, Costanza
+  - name: Chiofalo, Maria Grazia
+  - name: Chrysos, Emmanuel
+  - name: D'Amore, Annamaria
+  - name: De Cillia, Michael
+  - name: De Crea, Carmela
+  - name: De Manzini, Nicolò
+  - name: De Matos, Leandro Luongo
+  - name: De Pasquale, Loredana
+  - name: Del Rio, Paolo
+  - name: Demarchi, Marco Stefano
+  - name: Dhiwakar, Muthuswamy
+  - name: Donatini, Gianluca
+  - name: Dora, Jose Miguel
+  - name: D'Orazi, Valerio
+  - name: Doulatram Gamgaram, Viyey Kishore
+  - name: Eismontas, Vitalijus
+  - name: Kabiri, El Hassane
+  - name: El Malki, Hadj Omar
+  - name: Elzahaby, Islam
+  - name: Enciu, Octavian
+  - name: Eskander, Antoine
+  - name: Feroci, Francesco
+  - name: Figueroa-Bohorquez, David
+  - name: Filis, Dimitrios
+  - name: Gorostidi, François
+  - name: Frías-Fernández, Pedro
+  - name: Gamboa-Dominguez, Armando
+  - name: Genc, Volkan
+  - name: Giordano, Davide
+  - name: Gómez-Pedraza, Antonio
+  - name: Graceffa, Giuseppa
+  - name: Griffin, James
+  - name: Guerreiro, Sofia Cuco
+  - name: Gupta, Karan
+  - name: Gupta, Keshav Kumar
+  - name: Gurrado, Angela
+  - name: Hajiioannou, Jiannis
+  - name: Hakala, Tommi
+  - name: Harahap, Wirsma Arif
+  - name: Hargitai, Lindsay
+  - name: Hartl, Dana
+  - name: Hellmann, Andrzej
+  - name: Hlozek, Jiri
+  - name: Hoang, Van Trung
+  - name: Iacobone, Maurizio
+  - name: Innaro, Nadia
+  - name: Ioannidis, Orestis
+  - name: Jang, J H Isabelle
+  - name: Xavier-Junior, Jose Candido
+  - name: Jovanovic, Milan
+  - name: Kaderli, Reto Martin
+  - name: Kakamad, Fahmi
+  - name: Kaliszewski, Krzysztof
+  - name: Karamanliev, Martin
+  - name: Katoh, Hiroshi
+  - name: Košec, Andro
+  - name: Kovacevic, Bozidar
+  - name: Kowalski, Luiz Paulo
+  - name: Králik, Robert
+  - name: Yadav, Sanjay Kumar
+  - name: Kumorová, Adriána
+  - name: Lampridis, Savvas
+  - name: Lasithiotakis, Konstantinos
+  - name: Leclere, Jean-Christophe
+  - name: Leong, Eugene Kwong Fei
+  - name: Leow, Melvin Khee-Shing
+  - name: Lim, James Y
+  - name: Lino-Silva, Leonardo S
+  - name: Liu, Shirley Yuk Wah
+  - name: Llorach, Núria Perucho
+  - name: Lombardi, Celestino Pio
+  - name: López-Gómez, Javier
+  - name: Lori, Eleonora
+  - name: Quintanilla-Dieck, Lourdes
+  - name: Lucchini, Roberta
+  - name: Madani, Amin
+  - name: Manatakis, Dimitrios
+  - name: Markovic, Ivan
+  - name: Materazzi, Gabriele
+  - name: Mazeh, Haggi
+  - name: Mercante, Giuseppe
+  - name: Meyer-Rochow, Goswin Yason
+  - name: Mihaljevic, Olgica
+  - name: Miller, Julie A
+  - name: Minuto, Michele
+  - name: Monacelli, Massimo
+  - name: Mulita, Francesk
+  - name: Mullineris, Barbara
+  - name: Muñoz-de-Nova, José Luis
+  - name: Muradás Girardi, Fábio
+  - name: Nader, Saki
+  - name: Napadon, Tangjaturonrasme
+  - name: Nastos, Constantinos
+  - name: Offi, Chiara
+  - name: Ronen, Ohad
+  - name: Oragano, Luigi
+  - name: Orois, Aida
+  - name: Pan, Yongqin
+  - name: Panagiotidis, Emmanouil
+  - name: Panchangam, Ramakanth Bhargav
+  - name: Papavramidis, Theodosios
+  - name: Parida, Pradipta Kumar
+  - name: Paspala, Anna
+  - name: Pérez, Òscar Vidal
+  - name: Petrovic, Sabrina
+  - name: Raffaelli, Marco
+  - name: Ramacciotti, Constanza Fernanda
+  - name: Ratia Gimenez, Tomas
+  - name: Rivo Vázquez, Ángel
+  - name: Roh, Jong-Lyel
+  - name: Rossi, Leonardo
+  - name: Sanabria, Alvaro
+  - name: Santeerapharp, Alena
+  - name: Semenov, Arseny
+  - name: Seneviratne, Sanjeewa
+  - name: Serdar, Altinay
+  - name: Sheahan, Patrick
+  - name: Sheppard, Sean C
+  - name: Slotcavage, Rachel L
+  - name: Smaxwil, Constantin
+  - name: Kim, Soo Young
+  - name: Sorrenti, Salvatore
+  - name: Spartalis, Eleftherios
+  - name: Sriphrapradang, Chutintorn
+  - name: Testini, Mario
+  - name: Turk, Yigit
+  - name: Tzikos, George
+  - name: Vabalayte, Kristina
+  - name: Vargas-Osorio, Kelly
+  - name: Vázquez Rentería, Rafael Sebastián
+  - name: Velázquez-Fernández, David
+  - name: Vithana, Sanura Malinda Pallegoda
+  - name: Yücel, Levent
+  - name: Yulian, Erwin Danil
+  - name: Zahradnikova, Petra
+  - name: Zarogoulidis, Paul
+  - name: Ziablitskaia, Evgeniia
+  - name: Zolotoukho, Anna
+  - name: Calò, Pietro Giorgio
+  - name: Abdallah, A
+  - name: Abentroth, Al
+  - name: Acheimastos, V
+  - name: Agunaoun, M
+  - name: Al Bisher, Hm
+  - name: Al Ghuzlan, A
+  - name: Alakus, H
+  - name: Alkan, M
+  - name: Almaraz Almaraz, Mc
+  - name: Amram, K
+  - name: Anesidis, S
+  - name: Anestiadou, E
+  - name: Angelucci, D
+  - name: Ansaldo, Gl
+  - name: Antonopoulou, Mi
+  - name: Arciniegas, M
+  - name: Armellin, C
+  - name: Arredondo Saldaña, G
+  - name: Astl, J
+  - name: Athanasakis, E
+  - name: Avenia, S
+  - name: Aydın, H
+  - name: Baba, B
+  - name: Babala, J
+  - name: Banús, Mv
+  - name: Barba-Valadez, La
+  - name: Barcons, Sv
+  - name: Battafarano, F
+  - name: Bayat, A
+  - name: Bella, Rmc
+  - name: Benariba, F
+  - name: Bernardi, S
+  - name: Bignami, Eg
+  - name: Bitenc, M
+  - name: Bitsianis, S
+  - name: Bolaños De La Torre, Jdd
+  - name: Bonati, E
+  - name: Bonetti, T
+  - name: Borges, Fa
+  - name: Bouchagier, K
+  - name: Boudina, M
+  - name: Bourial, A
+  - name: Breuskin, I
+  - name: Brock, P
+  - name: Bruns, C
+  - name: Burlacu, Mc
+  - name: Burton, T
+  - name: Buta, M
+  - name: Buzanakov, D
+  - name: Caliseo, C
+  - name: Callanan, D
+  - name: Calu, V
+  - name: Cameselle-Teijeiro, Jm
+  - name: Camilo-Junior, Dj
+  - name: Canberk, S
+  - name: Candalise, V
+  - name: Candanedo-Gonzalez, F
+  - name: Carrillo Lizarazo, Lj
+  - name: Carvalho, Gb
+  - name: Casallas, D
+  - name: Casolino, C
+  - name: Castellani, L
+  - name: Castillo Morales, C
+  - name: Chambon, G
+  - name: Chatzipavlidou, V
+  - name: Chernikov, R
+  - name: Chorti, A
+  - name: Chow, Tcm
+  - name: Chrisoulidou, A
+  - name: Chrysos, E
+  - name: Conrado-Neto, S
+  - name: Cordova García, D
+  - name: Corigliano, A
+  - name: Crocco, A
+  - name: Cuesta, A
+  - name: Čukman, M
+  - name: Curto, Ls
+  - name: Damilano, Ra
+  - name: D'Anna, R
+  - name: De, M
+  - name: De Virgilio, A
+  - name: Dellaportas, D
+  - name: Demarquet, L
+  - name: Devresse, A
+  - name: Di Meo, G
+  - name: Diaz Pedrero, R
+  - name: Dimitrov, D
+  - name: Dmitry, Z
+  - name: Domínguez Garijo, P
+  - name: Dulgeroglu, O
+  - name: Dural, Ac
+  - name: Eksi, A
+  - name: El Hammoumi, M
+  - name: El Kaoui, H
+  - name: Eleni, G
+  - name: Elliyanti, A
+  - name: Ersöz, Ş
+  - name: Escobar-Jiménez, M
+  - name: Fedorova, L
+  - name: Feeley, L
+  - name: Fernández Rodríguez, E
+  - name: Ferreli, F
+  - name: Filoia, A
+  - name: Fingeret, A
+  - name: Francescato, A
+  - name: Gaino, F
+  - name: Galiandro, F
+  - name: Gallegos-Hernández, Jf
+  - name: Garas, G
+  - name: García Lorenzo, F
+  - name: García-Chávez, Jp
+  - name: Gaudiello, M
+  - name: Gay, S
+  - name: Gerasimos, S
+  - name: Gerek, M
+  - name: Gervasi, R
+  - name: Giordano, A
+  - name: Gjeloshi, B
+  - name: Gocký, L
+  - name: Golubinskaya, E
+  - name: González Romero, S
+  - name: González-Mínguez, C
+  - name: Goran, M
+  - name: Gosman, A
+  - name: Granados Garcia, M
+  - name: Greco, E
+  - name: Grünbart, M
+  - name: Grützmann, R
+  - name: Guerlain, J
+  - name: Guirao, Xg
+  - name: Guzey, D
+  - name: Hajjij, A
+  - name: Hamdy, O
+  - name: Hameed, Ms
+  - name: Hauth, La
+  - name: Hernández-Acevedo, Jd
+  - name: Hernandez-Carrillo, Jf
+  - name: Hevilla Sánchez, F
+  - name: Hoi, H
+  - name: Hongkwon, K
+  - name: Hu Zhu, R
+  - name: Huang, E
+  - name: Hyeung Kyoo, K
+  - name: Ignjatovic, V
+  - name: Ioannidis, A
+  - name: Iossa, A
+  - name: Işık, A
+  - name: James, D
+  - name: Jung Hoon, L
+  - name: Kara, H
+  - name: Karajovic, J
+  - name: Kartini, D
+  - name: Khambri, D
+  - name: Kholová, I
+  - name: Kisiel, M
+  - name: Knežević, M
+  - name: Koh, Yq
+  - name: Konca, C
+  - name: Kosmidis, C
+  - name: Kotsovolis, G
+  - name: Kowalski, Lp
+  - name: Kralik, R
+  - name: Kuczma, P
+  - name: Kuravi, Bg
+  - name: Kurnia, A
+  - name: Kyriaki, V
+  - name: Lai, Cm
+  - name: Lallemant, B
+  - name: Lardhi, Aa
+  - name: Leboulleux, S
+  - name: Lee, Jw
+  - name: Lelli, G
+  - name: Leutner, M
+  - name: Lim, My
+  - name: Lim, Cm
+  - name: Llanos, A
+  - name: Lo, X
+  - name: Loderer, T
+  - name: López-Corrales, Ma
+  - name: Ludwig, M
+  - name: Magnabosco, Ff
+  - name: Maheo, C
+  - name: Maia, Al
+  - name: Makay, O
+  - name: Maksimova, P
+  - name: Mallick, S
+  - name: Mallouk, C
+  - name: Mamani, Z
+  - name: Mandal, S
+  - name: Manyalich Blasi, M
+  - name: Marincola, G
+  - name: Marulanda, M
+  - name: Mavromati, M
+  - name: Mayilvaganan, S
+  - name: Metso, S
+  - name: Micalizzi, A
+  - name: Michalopoulos, A
+  - name: Min-Su, K
+  - name: Miron, A
+  - name: Mishra, Ak
+  - name: Misso, C
+  - name: Mittermair, C
+  - name: Morosán Allo, Y
+  - name: Mourad, M
+  - name: Moysidis, M
+  - name: Nabhan, F
+  - name: Nasiri, R
+  - name: Nastos, C
+  - name: Ngiam, Ky
+  - name: Nomine-Criqui, C
+  - name: Ntziovara, Am
+  - name: Nuño Vázquez-Garza, Jm
+  - name: Nutautiene, V
+  - name: Obtulovičová, K
+  - name: O'Keeffe, L
+  - name: Okudur, No
+  - name: Ossola, P
+  - name: Ovejero Merino, E
+  - name: Ozdemir, M
+  - name: Pangonis, A
+  - name: Panigoro, Ss
+  - name: Panuzi, A
+  - name: Papaconstantinou, D
+  - name: Pardo Matamoros, N
+  - name: Paschou, S
+  - name: Pasculli, A
+  - name: Paterakis, K
+  - name: Peiris, K
+  - name: Pennestrì, F
+  - name: Peppa, M
+  - name: Perdikaris, P
+  - name: Perdikaris, I
+  - name: Pérez-Soto, Rh
+  - name: Piana, S
+  - name: Piccoli, M
+  - name: Pietrasanta, D
+  - name: Placentino, G
+  - name: Pliakos, I
+  - name: Polistena, A
+  - name: Pongtippan, A
+  - name: Potard, G
+  - name: Quinn, V
+  - name: Rahul, P
+  - name: Ramos, T
+  - name: Rankin, A
+  - name: Ratnayake, P
+  - name: Reuto-Castillo, J
+  - name: Ridolfo, A
+  - name: Rios-Valencia, J
+  - name: Riss, P
+  - name: Rival, E
+  - name: Rivillas, J
+  - name: Roi, D
+  - name: Rollo, Em
+  - name: Romanchishen, A
+  - name: Romito, M
+  - name: Rotnagl, J
+  - name: Rovcanin, B
+  - name: Russo, G
+  - name: Sabol, M
+  - name: Saki, S
+  - name: Saleh, S
+  - name: Salih, A
+  - name: Saltiki, A
+  - name: Salvador-Camarmo, G
+  - name: Samal, Dk
+  - name: Sánchez-Flores, S
+  - name: Sapalidis, K
+  - name: Sarin, D
+  - name: Sarin, H
+  - name: Savkovic, N
+  - name: Scheffel, Rs
+  - name: Scheinpflug, Al
+  - name: Scheuba, C
+  - name: Scheyer, N
+  - name: Schmidt, M
+  - name: Senashova, O
+  - name: Serafini, E
+  - name: Serrano Arévalo, Ml
+  - name: Shank, J
+  - name: Shindo, Ml
+  - name: Shoshkova, M
+  - name: Shvan, M
+  - name: Sičák, M
+  - name: Silva, Tg
+  - name: Simó Guerrero, O
+  - name: Skuletic, V
+  - name: Slijepcevic, N
+  - name: Slovic, Z
+  - name: Soares, P
+  - name: Somova, A
+  - name: Soto, S
+  - name: Spiezia, S
+  - name: Stankovic, V
+  - name: Stephenson, Kj
+  - name: Straub, E
+  - name: Summa, M
+  - name: Surani, S
+  - name: Syed, Aa
+  - name: Symeonidis, S
+  - name: Taciak, A
+  - name: Tarallo, M
+  - name: Tarle, A
+  - name: Tasis, N
+  - name: Tausanovic, K
+  - name: Tchabashvili, L
+  - name: Thierry, M
+  - name: Tokarczyk, U
+  - name: Toma, Ea
+  - name: Topuz, S
+  - name: Torresan, F
+  - name: Uras, C
+  - name: Vaccaro, C
+  - name: Valdés De Anca, Á
+  - name: Valentini, M
+  - name: Varaldo, E
+  - name: Vartanian, Jg
+  - name: Verras, Gi
+  - name: Vithanage, A
+  - name: Wijayalathge, H
+  - name: Wiriyaamornchai, P
+  - name: Wong, Ylc
+  - name: Wongwattana, P
+  - name: Xenaki, S
+  - name: Xie, S
+  - name: Xu, M
+  - name: Yang, W
+  - name: Yilmaz, S
+  - name: Yılmaz, Yf
+  - name: Yotsov, T
+  - name: Zahid, Mt
+  - name: Zielke, A
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "The Lancet Diabetes & Endocrinology"
+  volume: 11
+  issue: 6
+  doi: "10.1016/S2213-8587(23)00094-3"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of the COVID-19 pandemic on surgery for indeterminate thyroid nodules (THYCOVID): a retrospective, international, multicentre, cross-sectional study</li>
+  </ol>
+</nav>
+```

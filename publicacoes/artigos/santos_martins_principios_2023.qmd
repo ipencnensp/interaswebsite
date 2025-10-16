@@ -1,0 +1,26 @@
+---
+title: "Princípios fisicos básicos do exame de tomografia de coerência óptica"
+date: 2023-01-01
+author:
+  - name: Santos Martins, Thiago Gonçalves Dos
+  - name: De Freitas, Anderson Zanardi
+  - name: Santos Morgado, António Miguel Lino
+  - name: Martins, Ricardo Vieira
+abstract: > 
+  Tomografia por coerência óptica (OCT – sigla referente a optical coherence tomography) é um exame de imagem não invasivo, capaz de gerar análises da seção transversal de tecidos biológicos. O exame de OCT gera imagens a partir da luz refletida e retroespalhada pelos materiais, possuindo diversas aplicações em várias áreas da saúde, como na oftalmologia, cardiologia e gastroenterologia por exemplo. O escopo deste texto é apresentar de forma didática os princípios do funcionamento da tomografia obtida através de fontes de luz coerentes. , Optical coherence tomography (OCT) is a non-invasive imaging modality capable of generating cross-sectional analysis of biological tissues. The OCT generates images from light reflected and backscattered by the materials, having several applications in various areas of health, such as ophthalmology, dermatology and dentistry, for example. The scope of this text is to present in a didactic way the principles of the operation of tomography obtained through coherent light sources.
+categories: [article]
+citation: 
+  container-title: "Revista Brasileira de Ensino de Física"
+  volume: 45
+  doi: "10.1590/1806-9126-rbef-2023-0125"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Princípios fisicos básicos do exame de tomografia de coerência óptica</li>
+  </ol>
+</nav>
+```

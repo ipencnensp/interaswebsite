@@ -1,0 +1,36 @@
+---
+title: "Investigation for Monte Carlo simulation with geometric simplification of the GammaCell 220 irradiator with experimental measurements using Fricke xylenol gel (FXG)"
+date: 2024-11-01
+author:
+  - name: Rodrigues, P.S.
+  - name: Burin, A.L.
+  - name: Talacimon, C.F.
+  - name: Medeiros, I.M.M.A.
+  - name: Pereira, J.J.N.
+  - name: Teodoro, L.E.H.
+  - name: Rigo, M.E.Z.
+  - name: Gesserame, M.M.F.
+  - name: Tavares, P.V.S.
+  - name: Martins, A.C.
+  - name: Souza, C.D.
+  - name: Zeituni, C.A.
+  - name: Rodrigues, O.
+  - name: Rostelato, M.E.C.M.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 224
+  doi: "10.1016/j.radphyschem.2024.112000"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Investigation for Monte Carlo simulation with geometric simplification of the GammaCell 220 irradiator with experimental measurements using Fricke xylenol gel (FXG)</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "Blood collection tube components interference on spectral signatures of chronic kidney disease probed by micro-reflectance Fourier-transform infrared spectroscopy on serum"
+date: 2024-05-01
+author:
+  - name: Da Silva, Jéssica Verônica
+  - name: Nepomuceno, Gabrielle Teodoro
+  - name: Batista, André Mourão
+  - name: Da Veiga, Glaucia Raquel Luciano
+  - name: Fonseca, Fernando Luiz Affonso
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Da Silva Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Vibrational Spectroscopy"
+  volume: 132
+  doi: "10.1016/j.vibspec.2024.103665"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Blood collection tube components interference on spectral signatures of chronic kidney disease probed by micro-reflectance Fourier-transform infrared spectroscopy on serum</li>
+  </ol>
+</nav>
+```

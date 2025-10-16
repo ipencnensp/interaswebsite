@@ -1,0 +1,37 @@
+---
+title: "Brazilian Consensus on the Application of Thermal Ablation for Treatment of Thyroid Nodules: A Task Force Statement by the Brazilian Society of Interventional Radiology and Endovascular Surgery (SOBRICE), Brazilian Society of Head and Neck Surgery (SBCCP), and Brazilian Society of Endocrinology and Metabolism (SBEM)"
+date: 2024-06-24
+author:
+  - name: Santos, Gustavo Philippi De Los
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Capelli, Fabio De Aquino
+  - name: Steck, Jose Higino
+  - name: Fernandes, Klecius Leite
+  - name: Mesa, Cleo Otaviano
+  - name: Motta-Leal-Filho, Joaquim Mauricio Da
+  - name: Scheffel, Rafael Selbach
+  - name: Vaisman, Fernanda
+  - name: Martins, Guilherme Lopes Pinheiro
+  - name: Szejnfeld, Denis
+  - name: Amoedo, Mauricio Kauark
+  - name: Menezes, Marcos Roberto De
+  - name: Rahal, Antonio
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Archives of Endocrinology and Metabolism"
+  volume: 68
+  doi: "10.20945/2359-4292-2023-0263"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Brazilian Consensus on the Application of Thermal Ablation for Treatment of Thyroid Nodules: A Task Force Statement by the Brazilian Society of Interventional Radiology and Endovascular Surgery (SOBRICE), Brazilian Society of Head and Neck Surgery (SBCCP), and Brazilian Society of Endocrinology and Metabolism (SBEM)</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,32 @@
+---
+title: "Potential Role of Fourier Transform Infrared Spectroscopy as a Screening Approach for Breast Cancer"
+date: 2023-04-01
+author:
+  - name: Faria, Rodrigo A.
+  - name: Leal, Leonardo B.
+  - name: Thebit, Marcela M.
+  - name: Pereira, Sergio W. A.
+  - name: Serafim, Neuzimar R.
+  - name: Barauna, Valerio G.
+  - name: Da Chagas E Silva Carvalho, Luis Felipe
+  - name: Sartório, Carmem L.
+  - name: Gouvea, Sonia A.
+abstract: > 
+  Breast cancer is a heterogeneous disease, and its spread involves a succession of clinical and pathological stages. Screening is predominantly based on mammography, which has critical limitations related to the effectiveness and production of false-positive or false-negative results, generating discomfort and low adherence. In this context, infrared with attenuated total reflection Fourier transform infrared (ATR FT-IR) spectroscopy emerges as a non-destructive sample tool, which is non-invasive, label-free, has a low operating-cost, and requires only a small amount of sample, including liquid plasma samples. We sought to evaluate the clinical applicability of ATR FT-IR in breast cancer screening. ATR FT-IR spectroscopy through its highest potential spectral biomarker could distinguish, by liquid plasma biopsy, breast cancer patients and healthy controls, obtaining a sensitivity of 97%, specificity of 93%, a receiver operating characteristic ROC curve of 97%, and a prediction accuracy of 94%. The main variance between the groups was mainly in the band 1511 cm −1 of the control group, 1502 and 1515 cm −1 of the cancer group, which are the peaks of the bands referring to proteins and amide II. ATR FT-IR spectroscopy has demonstrated to be a promising tool for breast cancer screening, given its time efficiency, cost of approach, and its high ability to distinguish between the liquid plasma samples of breast cancer patients and healthy controls.
+categories: [article]
+citation: 
+  container-title: "Applied Spectroscopy"
+  volume: 77
+  issue: 4
+  doi: "10.1177/00037028231156194"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Potential Role of Fourier Transform Infrared Spectroscopy as a Screening Approach for Breast Cancer</li>
+  </ol>
+</nav>
+```

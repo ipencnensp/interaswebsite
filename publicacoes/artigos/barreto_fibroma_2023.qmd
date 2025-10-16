@@ -1,0 +1,28 @@
+---
+title: "Fibroma ossificante periférico maxilar gigante: relato de caso"
+date: 2023-12-30
+author:
+  - name: Barreto, Anna Laura Almeida
+  - name: Monteiro, Gabriela Reganin
+  - name: Peralta, Felipe Da Silva
+  - name: Kitakawa, Dárcio
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+abstract: > 
+  INTRODUÇÃO: O fibroma ossificante periférico é uma doença gengival possivelmente originada nas células do ligamento periodontal. OBJETIVO: O objetivo do presente artigo é relatar o caso clínico de uma paciente do sexo feminino, 30 anos de idade, em tratamento ortodôntico, que apresentou nódulo exofítico, séssil, duro, bem delimitado, medindo 2,5 cm, sem ulceração. CASO CLÍNICO: A lesão, localizada entre o canino e o primeiro pré-molar superiores direitos, evoluiu ao longo de seis meses. Após exames pré-operatórios e confirmação da hipótese diagnóstica por meio do exame radiográfico, foi realizada biópsia excisional. A análise histológica da peça confirmou o diagnóstico de fibroma ossificante periférico. CONCLUSÃO: O presente relato de caso clínico de fibroma ossificante periférico reforça a importância da discussão sobre essa doença no diagnóstico diferencial de lesões gengivais.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Periodontology"
+  volume: 33
+  issue: 4
+  doi: "10.14436/0103-9393.33.4.034-042.oar"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Fibroma ossificante periférico maxilar gigante: relato de caso</li>
+  </ol>
+</nav>
+```

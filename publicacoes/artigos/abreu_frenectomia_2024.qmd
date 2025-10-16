@@ -1,0 +1,26 @@
+---
+title: "FRENECTOMIA LINGUAL COM LASER DE ALTA POTÊNCIA EM PACIENTE COM TRANSTORNO DO ESPECTRO AUTISTA - RELATO DE CASO"
+date: 2024-01-01
+author:
+  - name: Abreu, Darlene Felix De
+  - name: Batista, Roberta M.
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento e precisa ser tratado com equipe multidisciplinar para maior qualidade de vida do paciente. Juntamente com a fonoaudiologia, o cirurgião dentista pode contribuir com a avaliação e tratamento do frênulo lingual quando o mesmo interfere nos movimentos da língua de forma negativa, precisando ser removido cirurgicamente de forma a devolver sua correta função e auxiliar no desenvolvimento da fala e mastigação destes pacientes. Neste sentido, a frenectomia realizada com laser de alta potência é um procedimento menos invasivo que a cirurgia habitual e pode beneficiar de forma significativa o tratamento destes pacientes. Este trabalho tem como objetivo relatar o caso de frenectomia lingual feito com laser de alta potência em paciente com transtorno do espectro autista. Ficando evidente que: esta técnica foi satisfatória para a remoção do frênulo lingual, promoveu excelente cicatrização, não apresentou sangramento no transoperatório, e excluiu a necessidade da realização da sutura, trazendo mais conforto à paciente no pós operário. Sendo assim, podemos concluir que a técnica de frenectomia com laser de alta potência é uma opção eficiente para o tratamento de portadores do espectro autista pois proporciona um maior conforto intraoperatorio. , Autism spectrum disorder (ASD) is a neurodevelopmental disorder and needs to be treated with a multidisciplinary team for a better quality of life for the patient. Along with speech therapy, the dental surgeon can contribute to the evaluation and treatment of the lingual frenulum when it negatively interferes with tongue movements, needing to be surgically removed in order to restore its correct function and assist in the development of speech and chewing in these patients. This, frenectomy performed with high power laser is a less invasive procedure than the usual surgery and can significantly benefit the treatment of these patients. This work aims to report the case of lingual frenectomy performed with a high-power laser in a patient with autism spectrum disorder. It became evident that: this technique was satisfactory for removing the lingual frenulum, promoted excellent healing, did not cause intraoperative bleeding, and excluded the need for suturing, bringing more comfort to the patient postoperatively. Therefore, we can conclude that the high-power laser frenectomy technique is an efficient option for the treatment of people on the autism spectrum as it provides greater intraoperative comfor.
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 1
+  doi: "10.29327/2442440.6.1-12"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">FRENECTOMIA LINGUAL COM LASER DE ALTA POTÊNCIA EM PACIENTE COM TRANSTORNO DO ESPECTRO AUTISTA - RELATO DE CASO</li>
+  </ol>
+</nav>
+```

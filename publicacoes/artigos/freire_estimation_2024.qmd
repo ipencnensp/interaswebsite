@@ -1,0 +1,30 @@
+---
+title: "Estimation of doses absorbed by the thyroid and salivary glands, eyes, and brains of pediatric dental patients"
+date: 2024-09-01
+author:
+  - name: Freire, Weslei Rocha
+  - name: Machado, Ariadny Thayla
+  - name: Guimarães, Guilherme Brilhante
+  - name: De Souza Santos, William
+  - name: Perini, Ana Paula
+  - name: Neves, Lucio Pereira
+  - name: Souza, Divanizia Do Nascimento
+  - name: Belinato, Walmir
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Measurements"
+  volume: 177
+  doi: "10.1016/j.radmeas.2024.107250"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Estimation of doses absorbed by the thyroid and salivary glands, eyes, and brains of pediatric dental patients</li>
+  </ol>
+</nav>
+```

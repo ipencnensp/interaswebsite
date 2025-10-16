@@ -1,0 +1,27 @@
+---
+title: "Green synthesis of silica-coated gold nanoparticles employing femtosecond laser, solid targets, and water"
+date: 2025-01-27
+author:
+  - name: Machado, N. G. P.
+  - name: Raele, M. P.
+  - name: Jimenez-Villar, E.
+  - name: De Rossi, W.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Discover Nano"
+  volume: 20
+  issue: 1
+  doi: "10.1186/s11671-024-04141-2"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Green synthesis of silica-coated gold nanoparticles employing femtosecond laser, solid targets, and water</li>
+  </ol>
+</nav>
+```

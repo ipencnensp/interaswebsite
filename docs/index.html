@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6fb9a64c293fef710f3ea7fd7921bd1c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4354c65f49f88d62a46c961debb18294.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -56,17 +56,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
   }
 }</script>
 <script>
@@ -79,9 +79,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: [],
+      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -146,8 +147,8 @@ window.Quarto = {
     <span class="navbar-title">INTERAS</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Procurar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -170,14 +171,6 @@ window.Quarto = {
  <span class="dropdown-text">ÁREAS DE PESQUISA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./grupos-e-labs.html">
- <span class="dropdown-text">GRUPOS E LABORATÓRIOS</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./interas-em-numeros.html">
- <span class="dropdown-text">O INCT EM NÚMEROS</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="./contato.html">
  <span class="dropdown-text">CONTATO</span></a>
   </li>  
@@ -194,11 +187,6 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <span class="nav-link">
-<span class="menu-text">divulgacao/index.qmd</span>
-    </span>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -258,11 +246,86 @@ Welcome to **Real World Data Science**, a new project from the [Royal Statistica
 <p><a href="./publicacoes/index.html"></a></p><a href="./publicacoes/index.html">
 <h2 id="últimas-publicações-do-interas" class="anchored">Últimas publicações do INTERAS</h2>
 </a><p><a href="./publicacoes/index.html"></a></p>
-<div id="listing-publicacoes" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
+<div id="listing-publicacoes" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
 
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
+<th>
+Título
+</th>
+
+<th>
+Data
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="YXJ0aWNsZQ==" data-listing-date-sort="1740798000000" data-listing-file-modified-sort="1760640638334" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44" data-listing-title-sort="External Root Temperature and Its Relationship With Dentin Thickness During Gutta-Percha Removal Procedures With Ultrasound. An Ex Vivo Study" data-listing-filename-sort="salazar-silva_external_2025.qmd">
+<td>
+<a href="./publicacoes/artigos/salazar-silva_external_2025.html" class="title listing-title">External Root Temperature and Its Relationship With Dentin Thickness During Gutta-Percha Removal Procedures With Ultrasound. An Ex Vivo Study</a>
+</td>
+<td>
+<span class="listing-date">1 de mar. de 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="YXJ0aWNsZQ==" data-listing-date-sort="1740798000000" data-listing-file-modified-sort="1760640638375" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Absorption Coefficient Estimation of Pigmented Skin Phantoms Using Colorimetric Parameters" data-listing-filename-sort="barbosa_da_cruz_junior_absorption_2025.qmd">
+<td>
+<a href="./publicacoes/artigos/barbosa_da_cruz_junior_absorption_2025.html" class="title listing-title">Absorption Coefficient Estimation of Pigmented Skin Phantoms Using Colorimetric Parameters</a>
+</td>
+<td>
+<span class="listing-date">1 de mar. de 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="YXJ0aWNsZQ==" data-listing-date-sort="1740798000000" data-listing-file-modified-sort="1760640638455" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41" data-listing-title-sort="Unveiling the Role of Rhenium Precursors in Supercritical CO₂ Hydrogenation: A Comparative Study of ReOx/TiO₂ Catalysts" data-listing-filename-sort="machado_unveiling_2025.qmd">
+<td>
+<a href="./publicacoes/artigos/machado_unveiling_2025.html" class="title listing-title">Unveiling the Role of Rhenium Precursors in Supercritical CO₂ Hydrogenation: A Comparative Study of ReOx/TiO₂ Catalysts</a>
+</td>
+<td>
+<span class="listing-date">1 de mar. de 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="YXJ0aWNsZQ==" data-listing-date-sort="1739415600000" data-listing-file-modified-sort="1760640638241" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37" data-listing-title-sort="Role of Amine and/or Tin‐Containing Dentifrices on Tooth Discoloration and Surface Properties" data-listing-filename-sort="maia_role_2025.qmd">
+<td>
+<a href="./publicacoes/artigos/maia_role_2025.html" class="title listing-title">Role of Amine and/or Tin‐Containing Dentifrices on Tooth Discoloration and Surface Properties</a>
+</td>
+<td>
+<span class="listing-date">13 de fev. de 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="YXJ0aWNsZQ==" data-listing-date-sort="1738897200000" data-listing-file-modified-sort="1760640638454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="40" data-listing-title-sort="Cl-Doped ZnO Nanoparticles with Enhanced Photocatalytic Activity via Selective Surface Lixiviation: Implications for Acetaminophen Degradation" data-listing-filename-sort="fortes_cl-doped_2025.qmd">
+<td>
+<a href="./publicacoes/artigos/fortes_cl-doped_2025.html" class="title listing-title">Cl-Doped ZnO Nanoparticles with Enhanced Photocatalytic Activity via Selective Surface Lixiviation: Implications for Acetaminophen Degradation</a>
+</td>
+<td>
+<span class="listing-date">7 de fev. de 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="YXJ0aWNsZQ==" data-listing-date-sort="1738810800000" data-listing-file-modified-sort="1760640638284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="42" data-listing-title-sort="IL-1β enhances susceptibility to atrial fibrillation in mice by acting through resident macrophages and promoting caspase-1 expression" data-listing-filename-sort="moreno-loaiza_il-1_2025.qmd">
+<td>
+<a href="./publicacoes/artigos/moreno-loaiza_il-1_2025.html" class="title listing-title">IL-1β enhances susceptibility to atrial fibrillation in mice by acting through resident macrophages and promoting caspase-1 expression</a>
+</td>
+<td>
+<span class="listing-date">6 de fev. de 2025</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
 </div>
 </div>
 </div>
@@ -296,12 +359,12 @@ Welcome to **Real World Data Science**, a new project from the [Royal Statistica
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiada");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiada");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

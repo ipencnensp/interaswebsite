@@ -1,0 +1,25 @@
+---
+title: "Characterization of a 3D prototyping semi-automated filter holder system for RQR radiation qualities"
+date: 2024-10-01
+author:
+  - name: Almeida Junior, José Neres De
+  - name: Albuquerque Potiens, Maria Da Penha
+  - name: Rodrigues Junior, Orlando
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 223
+  doi: "10.1016/j.radphyschem.2024.111897"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Characterization of a 3D prototyping semi-automated filter holder system for RQR radiation qualities</li>
+  </ol>
+</nav>
+```

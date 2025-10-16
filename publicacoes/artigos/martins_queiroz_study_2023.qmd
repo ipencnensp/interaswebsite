@@ -1,0 +1,32 @@
+---
+title: "Study of the Effect of Nanosecond Laser Texturing on the Corrosion Behavior of Ti6Al4V and Ti6Al4V Parts Produced by Powder Bed Fusion"
+date: 2023-09-01
+author:
+  - name: Martins Queiroz, Fernanda
+  - name: Ribeiro, Gleicy De Lima Xavier
+  - name: De Castro, Renato Spacini
+  - name: Dos Santos, Rogério Góes
+  - name: Vieira, Alexandre
+  - name: Terada, Maysa
+  - name: Bugarin, Aline De Fátima Santos
+  - name: De Rossi, Wagner
+  - name: Costa, Isolda
+abstract: > 
+  Abstract Combining metallic additive manufacturing with laser texturing could be an alternative in obtaining parts with functional hydrophilic surfaces, which improves osteointegration. Careful study of the corrosion behavior of the surfaces obtained is necessary, because the evolution of this phenomenon can influence the osteointegration of the implant, causing the release of metal ions in the body and even the rejection of the component. This study compared the corrosion behavior of laser texturing Ti6Al4V components with components manufactured using laser power bed fusion of the same alloy followed by laser texturing. Their microstructure, roughness, wettability, and electrochemical behavior were analyzed, and different morphologies and microtopographies were observed comparing both samples. The electrochemical tests obtained indicate that Ti6Al4V showed higher corrosion resistance than L-PBF Ti6Al4V after laser texturing. The results suggest that laser texturing can encourage cell proliferation and osseointegration on the surface of Ti6Al4V biomedical implants.
+categories: [article]
+citation: 
+  container-title: "Materials Performance and Characterization"
+  volume: 12
+  issue: 3
+  doi: "10.1520/MPC20220109"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Study of the Effect of Nanosecond Laser Texturing on the Corrosion Behavior of Ti6Al4V and Ti6Al4V Parts Produced by Powder Bed Fusion</li>
+  </ol>
+</nav>
+```

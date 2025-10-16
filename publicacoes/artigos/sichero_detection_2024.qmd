@@ -1,0 +1,41 @@
+---
+title: "Detection of serum biomarkers of HPV-16 driven oropharynx and oral cavity cancer in Brazil"
+date: 2024-02-01
+author:
+  - name: Sichero, Laura
+  - name: Gonçalves, Milena Giulia
+  - name: Bettoni, Fabiana
+  - name: Coser, Elisangela Monteiro
+  - name: Mota, Giana
+  - name: Nunes, Rafaella A.L.
+  - name: Mercante, Ana Maria Da Cunha
+  - name: Natalino, Renato
+  - name: Uno, Miyuki
+  - name: Ferreira Alves, Maria José
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: De Alvarenga, Gustavo Fernandes
+  - name: Höfler, Daniela
+  - name: Schroeder, Lea
+  - name: Waterboer, Tim
+  - name: Tommasino, Massimo
+  - name: Villa, Luisa Lina
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Oncology"
+  volume: 149
+  doi: "10.1016/j.oraloncology.2023.106676"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Detection of serum biomarkers of HPV-16 driven oropharynx and oral cavity cancer in Brazil</li>
+  </ol>
+</nav>
+```

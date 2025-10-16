@@ -1,0 +1,24 @@
+---
+title: "Editorial: Technological innovations for improved prevention and diagnosis of oral disease"
+date: 2024-09-16
+author:
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+  - name: Zanatta, Rayssa Ferreira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Frontiers in Oral Health"
+  volume: 5
+  doi: "10.3389/froh.2024.1481890"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Editorial: Technological innovations for improved prevention and diagnosis of oral disease</li>
+  </ol>
+</nav>
+```

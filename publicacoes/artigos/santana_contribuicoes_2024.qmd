@@ -1,0 +1,25 @@
+---
+title: "Contribuições da metacognição na aprendizagem do teorema de Pitágoras por meio de um tema contemporâneo transversal"
+date: 2024-07-25
+author:
+  - name: Santana, Raquel Gonçalves
+  - name: Souza, Divanizia Do Nascimento
+abstract: > 
+  Em sala de aula, abordar situações desafiadoras relacionadas à matemática para que os estudantes desenvolvam estratégias de resolução de situações-problema contribui para que eles ampliem seus conhecimentos acerca dos conceitos e procedimentos matemáticos e desenvolvam a capacidade de gerenciar informações. Neste estudo, analisamos as estratégias metacognitivas mobilizadas por estudantes de uma turma de correção de fluxo do 9º do Ensino Fundamental durante a vivência de um recorte de uma Unidade de Ensino Potencialmente Significativa (UEPS) com abordagem de tema contemporâneo transversal relativo à cidadania. A UEPS teve como finalidade promover a aprendizagem significativa sobre o teorema de Pitágoras. No percurso metodológico e na análise dos dados se considerou as estratégias metacognitivas relacionadas aos componentes do conhecimento, com os elementos metacognitivos pessoa, tarefa e estratégia e para o controle executivo e autorregulador foram apresentados os elementos planificação, monitoração e avaliação, detalhados por Rosa (2011), que favorecem a ativação do pensamento metacognitivo. Para promover a aprendizagem do teorema de Pitágoras, usou-se como tema norteador a acessibilidade arquitetônica para pessoas com dificuldade de locomoção, o que serviu para motivar os estudantes a fazerem correlações do conteúdo com seu cotidiano. Identificamos a existência de indícios dos elementos metacognitivos nas manifestações verbais durante a leitura, decodificação, interpretação e compreensão dos enunciados das atividades propostas.
+categories: [article]
+citation: 
+  container-title: "Cuadernos de Educación y Desarrollo"
+  volume: 16
+  issue: 7
+  doi: "10.55905/cuadv16n7-141"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Contribuições da metacognição na aprendizagem do teorema de Pitágoras por meio de um tema contemporâneo transversal</li>
+  </ol>
+</nav>
+```

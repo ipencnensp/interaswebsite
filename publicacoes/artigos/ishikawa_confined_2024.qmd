@@ -1,0 +1,29 @@
+---
+title: "Confined Water Dynamics in the Scaffolds of Polylactic Acid"
+date: 2024-05-07
+author:
+  - name: Ishikawa, Mariana
+  - name: Borges, Roger
+  - name: Mourão, André
+  - name: Ferreira, Letície Mendonça
+  - name: Lobo, Anderson O.
+  - name: Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Omega"
+  volume: 9
+  issue: 18
+  doi: "10.1021/acsomega.3c08057"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Confined Water Dynamics in the Scaffolds of Polylactic Acid</li>
+  </ol>
+</nav>
+```

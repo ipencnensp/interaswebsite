@@ -1,0 +1,36 @@
+---
+title: "Impact of crack cocaine on salivary nucleic acids, enzymes, esters, and lipids: A fourier-transform infrared spectroscopy study"
+date: 2025-01-01
+author:
+  - name: Zucco, Gabriela Ribeiro
+  - name: Cardoso De Oliveira, Taís Maria
+  - name: Pereira Da Silva, Thaís Xavier
+  - name: Marques, Sandra Silva
+  - name: Sabbag, Fernando
+  - name: Ribeiro De Araújo, Marcelo
+  - name: Zerbinati, Rodrigo Melim
+  - name: Braz-Silva, Paulo Henrique
+  - name: Lindoso, José Ângelo
+  - name: Jimenez Teodoro Nepomuceno, Gabrielle Luana
+  - name: Foiani, Letícia
+  - name: Da Silva Martinho, Herculano
+  - name: Almeida, Janete Dias
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Heliyon"
+  volume: 11
+  issue: 1
+  doi: "10.1016/j.heliyon.2024.e41381"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Impact of crack cocaine on salivary nucleic acids, enzymes, esters, and lipids: A fourier-transform infrared spectroscopy study</li>
+  </ol>
+</nav>
+```

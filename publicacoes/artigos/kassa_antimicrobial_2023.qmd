@@ -1,0 +1,32 @@
+---
+title: "Antimicrobial photodynamic therapy mediated by methylene blue in surfactant vehicle as adjuvant to periodontal treatment. Randomized, controlled, double-blind clinical trial"
+date: 2023-03-01
+author:
+  - name: Kassa, Claudio Teruo
+  - name: Salviatto, Luciana Toledo Costa
+  - name: Tortamano, Ana Carolina A.C.
+  - name: Rost-Lima, Ketlyn Sthefany
+  - name: Damante, Carla Andreotti
+  - name: Pavani, Christiane
+  - name: Deana, Alessandro
+  - name: Kato, Ilka Tiemy
+  - name: Wainwright, Mark
+  - name: Prates, Renato Araujo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photodiagnosis and Photodynamic Therapy"
+  volume: 41
+  doi: "10.1016/j.pdpdt.2022.103194"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Antimicrobial photodynamic therapy mediated by methylene blue in surfactant vehicle as adjuvant to periodontal treatment. Randomized, controlled, double-blind clinical trial</li>
+  </ol>
+</nav>
+```

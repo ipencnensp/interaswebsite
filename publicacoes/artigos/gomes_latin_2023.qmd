@@ -1,0 +1,26 @@
+---
+title: "Latin America Optics and Photonics 2022: introduction to the feature issue"
+date: 2023-03-10
+author:
+  - name: Gomes, Anderson S. L.
+  - name: De Souza, Eunezio Thoroh
+  - name: Zezell, Denise M.
+abstract: > 
+  The 2022 Latin America Optics and Photonics Conference (LAOP 2022), the major international conference sponsored by Optica in Latin America, returned to Recife, Pernambuco, Brazil, after its first edition in 2010. Held every two years since (except for 2020), LAOP has the explicit objective to promote Latin American excellence in optics and photonics research and support the regional community. In the 6th edition in 2022, it featured a comprehensive technical program with recognized experts in fields critical to Latin America, highly multidisciplinary, with themes from biophotonics to 2D materials. The 191 attendees of LAOP 2022 listened to five plenary speakers, 28 keynotes, 24 invited talks, and 128 presentations, including oral and posters.
+categories: [article]
+citation: 
+  container-title: "Applied Optics"
+  volume: 62
+  issue: 8
+  doi: "10.1364/AO.489414"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Latin America Optics and Photonics 2022: introduction to the feature issue</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "Evaluation of low-kV energy X-ray radiation effect on breast cancer cells incubated with gold nanoparticles capped with aminolevulinic acid, methyl aminolevulinate, and gamma-aminobutyric acid"
+date: 2024-05-01
+author:
+  - name: Lopes, Isabela Santos
+  - name: Santos, Noemy Rodrigues
+  - name: Da Silva, Giovana Dias
+  - name: Dos Santos, Leonardo Camargo
+  - name: Potiens, Maria Da Penha Albuquerque
+  - name: Vieira, Daniel Perez
+  - name: Courrol, Lilia Coronato
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 218
+  doi: "10.1016/j.radphyschem.2024.111549"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of low-kV energy X-ray radiation effect on breast cancer cells incubated with gold nanoparticles capped with aminolevulinic acid, methyl aminolevulinate, and gamma-aminobutyric acid</li>
+  </ol>
+</nav>
+```

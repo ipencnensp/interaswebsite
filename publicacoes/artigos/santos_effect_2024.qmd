@@ -1,0 +1,25 @@
+---
+title: "Effect of thulium on promotion of dose-response behaviour of yttria based rods by Electron Paramagnetic Resonance"
+date: 2024-10-01
+author:
+  - name: Santos, S.C.
+  - name: Rodrigues Jr, O.
+  - name: Campos, L.L.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Alloys and Compounds"
+  volume: 1003
+  doi: "10.1016/j.jallcom.2024.175583"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of thulium on promotion of dose-response behaviour of yttria based rods by Electron Paramagnetic Resonance</li>
+  </ol>
+</nav>
+```

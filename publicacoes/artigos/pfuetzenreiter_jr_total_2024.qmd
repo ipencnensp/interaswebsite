@@ -1,0 +1,30 @@
+---
+title: "Total laryngectomy vs. non-surgical organ preservation in advanced laryngeal cancer: a metanalysis"
+date: 2024-05-01
+author:
+  - name: Pfuetzenreiter Jr., Elio Gilberto
+  - name: Ferreron, Gabriela Feltrini
+  - name: Sadka, Julia Zumerkorn
+  - name: Souza, Ana Beatriz Pádua De
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+  - name: Dedivitis, Rogério Aparecido
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 90
+  issue: 3
+  doi: "10.1016/j.bjorl.2024.101404"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Total laryngectomy vs. non-surgical organ preservation in advanced laryngeal cancer: a metanalysis</li>
+  </ol>
+</nav>
+```

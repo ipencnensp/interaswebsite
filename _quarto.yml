@@ -25,10 +25,10 @@ website:
         - pessoas/coord-equipe.qmd
         - text: "ÁREAS DE PESQUISA"
           href: areas-de-pesquisa.qmd
-        - text: "GRUPOS E LABORATÓRIOS"
-          href: grupos-e-labs.qmd
-        - text: O INCT EM NÚMEROS
-          href: interas-em-numeros.qmd
+#        - text: "GRUPOS E LABORATÓRIOS"
+#          href: grupos-e-labs.qmd
+#        - text: O INCT EM NÚMEROS
+#          href: interas-em-numeros.qmd
         - text: CONTATO
           href: contato.qmd
       - text: "PRODUÇÃO"
@@ -37,16 +37,21 @@ website:
           href: publicacoes/index.qmd
 #        - text: "PREPRINTS"
 #          href: preprints.qmd
-      - divulgacao/index.qmd
+#      - divulgacao/index.qmd
 #      - mulheresinteras/index.qmd
 
          
-
+# Adicione esta seção para que o Quarto copie os diretórios de fotos
+resources:
+  - "pessoas/*/fotos/"
+  
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
+
+lang: pt-BR
 
 execute: 
   freeze: auto

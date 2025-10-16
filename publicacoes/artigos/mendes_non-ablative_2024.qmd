@@ -1,0 +1,25 @@
+---
+title: "Non-ablative laser treatment for snoring and obstructive sleep apnea - a controlled randomized double-blind clinical trial"
+date: 2024-02-01
+author:
+  - name: Mendes, V.
+  - name: Azevedo, L.
+  - name: Zezell, D.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Sleep Medicine"
+  volume: 115
+  doi: "10.1016/j.sleep.2023.11.990"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Non-ablative laser treatment for snoring and obstructive sleep apnea - a controlled randomized double-blind clinical trial</li>
+  </ol>
+</nav>
+```

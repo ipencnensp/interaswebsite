@@ -1,0 +1,35 @@
+---
+title: "SIGMAR1 Knockdown Enhances Oral Cancer Cell Chemosensitivity to Cisplatin via Decreased PD-L1 Expression"
+date: 2024-11-05
+author:
+  - name: Chagas, Pablo Shimaoka
+  - name: Garcia, Cristiana Bernadelli
+  - name: Sousa, Lucas Oliveira
+  - name: Da Silva, Gabriel
+  - name: Sousa, Graziella Ribeiro De
+  - name: Marcelino, Rodolfo Cabral
+  - name: De Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+  - name: Salles, Évila
+  - name: Wang, Lei
+  - name: Baban, Babak
+  - name: Leopoldino, Andréia Machado
+abstract: > 
+  Emerging evidence suggests that aberrant expression levels of Sigma1 (SIGMAR1, also known as sigma-1 receptor) have been implicated in the progression of various diseases, including cancer. However, its significance in oral cancer (OC) has not been thoroughly explored. To advance in this field, the present study aimed to investigate the impact of SIGMAR1 knockdown in oral cancer cells. To do so, we included in this study our cohort of human OC samples and OC cell lines, which were utilized for experimental verification through several in vitro assays. Our findings revealed that SIGMAR1 overexpression was associated with poor survival rates and positively correlated with PD-L1 overexpression in human oral cancer samples. Furthermore, SIGMAR1 inhibition led to a decrease in PD-L1 expression and sensitized oral cancer cells to cisplatin treatment by enhancing apoptosis. These results suggest that SIGMAR1 knockdown may present a promising strategy worthy of further exploration in the management of oral cancer.
+categories: [article]
+citation: 
+  container-title: "International Journal of Molecular Sciences"
+  volume: 25
+  issue: 22
+  doi: "10.3390/ijms252211856"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">SIGMAR1 Knockdown Enhances Oral Cancer Cell Chemosensitivity to Cisplatin via Decreased PD-L1 Expression</li>
+  </ol>
+</nav>
+```

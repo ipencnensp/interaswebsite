@@ -1,0 +1,49 @@
+---
+title: "Impact of the immune profiles of hypertensive patients with and without obesity on COVID-19 severity"
+date: 2024-02-01
+author:
+  - name: Moll-Bernardes, Renata
+  - name: Ferreira, Juliana R.
+  - name: Sousa, Andréa Silvestre
+  - name: Tortelly, Mariana B.
+  - name: Pimentel, Adriana L.
+  - name: Figueiredo, Ana Cristina B. S.
+  - name: Schaustz, Eduardo B.
+  - name: Secco, José Carlos Pizzolante
+  - name: Sales, Allan Robson Kluser
+  - name: Terzi, Flavia V. O.
+  - name: Xavier De Brito, Adriana
+  - name: Sarmento, Renée O.
+  - name: Noya-Rabelo, Marcia M.
+  - name: Fortier, Sergio
+  - name: Matos E Silva, Flavia A.
+  - name: Vera, Narendra
+  - name: Conde, Luciana
+  - name: Cabral-Castro, Mauro Jorge
+  - name: Albuquerque, Denilson C.
+  - name: Rosado de-Castro, Paulo
+  - name: Camargo, Gabriel C.
+  - name: Pinheiro, Martha V. T.
+  - name: Souza, Olga F.
+  - name: Bozza, Fernando A.
+  - name: Luiz, Ronir R.
+  - name: Medei, Emiliano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Obesity"
+  volume: 48
+  issue: 2
+  doi: "10.1038/s41366-023-01407-0"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Impact of the immune profiles of hypertensive patients with and without obesity on COVID-19 severity</li>
+  </ol>
+</nav>
+```

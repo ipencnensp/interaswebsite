@@ -1,0 +1,34 @@
+---
+title: "Comprehensive Glycoprofiling of Oral Tumors Associates N-Glycosylation With Lymph Node Metastasis and Patient Survival"
+date: 2023-07-01
+author:
+  - name: Carnielli, Carolina Moretto
+  - name: Melo De Lima Morais, Thayná
+  - name: Malta De Sá Patroni, Fábio
+  - name: Prado Ribeiro, Ana Carolina
+  - name: Brandão, Thaís Bianca
+  - name: Sobroza, Evandro
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+  - name: Paes Leme, Adriana Franco
+  - name: Kawahara, Rebeca
+  - name: Thaysen-Andersen, Morten
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Molecular & Cellular Proteomics"
+  volume: 22
+  issue: 7
+  doi: "10.1016/j.mcpro.2023.100586"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comprehensive Glycoprofiling of Oral Tumors Associates N-Glycosylation With Lymph Node Metastasis and Patient Survival</li>
+  </ol>
+</nav>
+```

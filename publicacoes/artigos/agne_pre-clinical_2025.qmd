@@ -1,0 +1,30 @@
+---
+title: "Pre-clinical training, technical adjustment and human case experience of transoral robotic surgery using Versius System"
+date: 2025-01-01
+author:
+  - name: Agne, Guilherme Reimann
+  - name: Bento, Gustavo Nunes
+  - name: Belli, Marcelo
+  - name: Pereira, Gustavo Becker
+  - name: Lira, Renan Bezerra
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  issue: 1
+  doi: "10.1016/j.bjorl.2024.101515"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Pre-clinical training, technical adjustment and human case experience of transoral robotic surgery using Versius System</li>
+  </ol>
+</nav>
+```

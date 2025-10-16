@@ -1,0 +1,25 @@
+---
+title: "Thyroid hemiagenesis: description of two clinical cases, anatomical review, and critical synthesis of the literature"
+date: 2023-01-01
+author:
+  - name: de Paula, Enzo Greco
+  - name: Soares, Júlia Laudares
+  - name: de Aquino Capelli, Fabio
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Archives of Head and Neck Surgery"
+  volume: 52
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Thyroid hemiagenesis: description of two clinical cases, anatomical review, and critical synthesis of the literature</li>
+  </ol>
+</nav>
+```

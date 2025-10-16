@@ -1,0 +1,30 @@
+---
+title: "Monitoring glucose levels in urine using FTIR spectroscopy combined with univariate and multivariate statistical methods"
+date: 2023-04-01
+author:
+  - name: Caixeta, Douglas Carvalho
+  - name: Lima, Cassio
+  - name: Xu, Yun
+  - name: Guevara-Vega, Marco
+  - name: Espindola, Foued Salmen
+  - name: Goodacre, Royston
+  - name: Zezell, Denise Maria
+  - name: Sabino-Silva, Robinson
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+  volume: 290
+  doi: "10.1016/j.saa.2022.122259"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Monitoring glucose levels in urine using FTIR spectroscopy combined with univariate and multivariate statistical methods</li>
+  </ol>
+</nav>
+```

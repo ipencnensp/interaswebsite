@@ -1,0 +1,35 @@
+---
+title: "Early-life metabolic dysfunction impairs cognition and mitochondrial function in mice"
+date: 2023-07-01
+author:
+  - name: Vilela, Wembley Rodrigues
+  - name: Bellozi, Paula Maria Quaglio
+  - name: Picolo, Victor Luna
+  - name: Cavadas, Bruna Neves
+  - name: Marques, Keila Valentina Silva
+  - name: Pereira, Louise Tavares Garcia
+  - name: Guirao, Ainhoa Rodriguez De Yurre
+  - name: Amato, Angélica Amorim
+  - name: Magalhães, Kelly Grace
+  - name: Mortari, Márcia Renata
+  - name: Medei, Emiliano Horacio
+  - name: Goulart, Jair Trapé
+  - name: De Bem, Andreza Fabro
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "The Journal of Nutritional Biochemistry"
+  volume: 117
+  doi: "10.1016/j.jnutbio.2023.109352"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Early-life metabolic dysfunction impairs cognition and mitochondrial function in mice</li>
+  </ol>
+</nav>
+```

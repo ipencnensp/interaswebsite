@@ -1,0 +1,29 @@
+---
+title: "Tunable Visible Light and Energy Transfer Mechanism in Tm3+ and Silver Nanoclusters within Co-Doped GeO2-PbO Glasses"
+date: 2023-11-09
+author:
+  - name: Nishimura, Marcos Vinicius De Morais
+  - name: Amaro, Augusto Anselmo
+  - name: Bordon, Camila Dias Da Silva
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus Ursus
+  - name: Kassab, Luciana Reyes Pires
+abstract: > 
+  This study introduces a novel method for producing Ag nanoclusters (NCs) within GeO2-PbO glasses doped with Tm3+ ions. Sample preparation involved the melt-quenching method, employing adequate heat treatment to facilitate Ag NC formation. Absorption spectroscopy confirmed trivalent rare-earth ion incorporation. Ag NC identification and the amorphous structure were observed using transmission electron microscopy. A tunable visible emission from blue to the yellow region was observed. The energy transfer mechanism from Ag NCs to Tm3+ ions was demonstrated by enhanced 800 nm emission under 380 and 400 nm excitations, mainly for samples with a higher concentration of Ag NCs; moreover, the long lifetime decrease of Ag NCs at 600 nm (excited at 380 and 400 nm) and the lifetime increase of Tm3+ ions at 800 nm (excitation of 405 nm) corroborated the energy transfer between those species. Therefore, we attribute this energy transfer mechanism to the decay processes from S1→T1 and T1→S0 levels of Ag NCs to the 3H4 level of Tm3+ ions serving as the primary path of energy transfer in this system. GeO2-PbO glasses demonstrated potential as materials to host Ag NCs with applications for photonics as solar cell coatings, wideband light sources, and continuous-wave tunable lasers in the visible spectrum, among others.
+categories: [article]
+citation: 
+  container-title: "Micromachines"
+  volume: 14
+  issue: 11
+  doi: "10.3390/mi14112078"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Tunable Visible Light and Energy Transfer Mechanism in Tm3+ and Silver Nanoclusters within Co-Doped GeO2-PbO Glasses</li>
+  </ol>
+</nav>
+```

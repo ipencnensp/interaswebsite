@@ -19,7 +19,7 @@ about:
       href: "https://scholar.google.com/citations?hl=en&user=aFFVmxkAAAAJ"
     - icon: bank
       text: Instituição
-      href: "www.ipen.br"
+      href: "http://www.ipen.br"
 ---
 
 ```{=html}
@@ -27,7 +27,7 @@ about:
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
     <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
-    <li class="breadcrumb-item active">Comitê Gestor</li>
+    <li class="breadcrumb-item active">Pesquisador</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
 </nav>
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil-](www.ipen.br)
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil](http://www.ipen.br)
 
 ### Áreas de Atuação
 

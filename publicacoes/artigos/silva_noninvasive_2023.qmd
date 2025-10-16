@@ -1,0 +1,31 @@
+---
+title: "Noninvasive Red Laser Intervention before Radiotherapy of Triple-negative Breast Cancer in a Murine Model"
+date: 2023-09-13
+author:
+  - name: Silva, Camila R.
+  - name: Pereira, Saulo T.
+  - name: Silva, Daniela F.T.
+  - name: De Pretto, Lucas R.
+  - name: Freitas, Anderson Z.
+  - name: Zeituni, Carlos A.
+  - name: Rostelato, Maria E.C.M.
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Research"
+  volume: 200
+  issue: 4
+  doi: "10.1667/RADE-23-00050.1"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Noninvasive Red Laser Intervention before Radiotherapy of Triple-negative Breast Cancer in a Murine Model</li>
+  </ol>
+</nav>
+```

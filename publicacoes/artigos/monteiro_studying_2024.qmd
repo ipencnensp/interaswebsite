@@ -1,0 +1,26 @@
+---
+title: "Studying Scientific Collaboration Networks Using Social Network Analysis And Structural Equation Modeling"
+date: 2024-03-01
+author:
+  - name: Monteiro, Carlos Anisio
+  - name: de Menezes, Mario Olimpio
+  - name: Antonio Carlos, O
+abstract: > 
+  The main objective of this study was to define a conceptual model to identify latent issues that involve the scientific collaboration in a R&D environment. We have used two complementary approaches to study scientific collaboration. At first, structural equation modeling with partial least squares was used to evaluate and test a conceptual model based on personal, behavioral, cultural and circumstantial factors to identify which of these factors best explain the propensity of authors of technical and scientific publications to establish collaboration links with each other. The first part produced a second order latent variable named “propensity to collaborate”. In the second part, we evaluate if and how this propensity to collaborate is reflected in the structural position of these authors in the R&D coauthorship network of our case study, . The findings showed that the proposed factors moderately explain the authors' collaboration propensity in a R&D environment. Although the model has not been satisfactory to explain the authors' structural position in the coauthorship network, however, it was a starting point to study scientific collaboration using structural equation modeling and social network analysis.
+categories: [article]
+citation: 
+  container-title: "IOSR Journal Of Humanities And Social Science (IOSR-JHSS)"
+  volume: 29
+  issue: 3
+  doi: "10.9790/0837-2903045870"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Studying Scientific Collaboration Networks Using Social Network Analysis And Structural Equation Modeling</li>
+  </ol>
+</nav>
+```

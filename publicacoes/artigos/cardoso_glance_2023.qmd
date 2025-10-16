@@ -1,0 +1,26 @@
+---
+title: "A Glance at Dysprosium Oxide Free Powders"
+date: 2023-03-01
+author:
+  - name: Cardoso, Santos Silas
+  - name: Rodrigues, Orlando
+  - name: Lucente, Campos Letícia
+abstract: > 
+  Background: Dysprosium oxide (Dy2O3) gathers a set of profitable properties with a wide range of applications, including energy and astronomy. Particular characteristics directly influence the formation and features of materials by colloidal processing. The main purpose of this paper is to carry out a powder characterization of Dy2O3 particles. The findings reported are worthwhile parameters to advance in the formulation of new smart materials for radiation dosimetry. Methods: Dy2O3 powders were characterized by XRD, PCS, SEM, pynometric density (ρ), FTIR, ICP, EPR, and zeta potential (ζ). Results: The powdered samples exhibited as main features a cubic C-type structure following the RE-polymorphic diagram, a mean particle size distribution with d50 of 389nm, and pynometric density of 7.94g.cm-3. The EPR spectra revealed three distinct peaks, p1, p2, and p3, with the following g values: 2.3121, 2.1565, and 2.1146. In addition, the nanoparticles presented high stability at pH 5.5 and a ζ-value of textbar49.7textbarmV. Conclusion: The powder characterization of Dy2O3 powders was reported. The results achieved in this study may be considered worthwhile parameters to advance in the formulation of Dy2O3- based materials for radiation dosimetry.
+categories: [article]
+citation: 
+  container-title: "Current Materials Science"
+  volume: 16
+  issue: 1
+  doi: "10.2174/2666145415666220602152634"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A Glance at Dysprosium Oxide Free Powders</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "CONTRIBUIÇÕES DO PET/CT FDG-18F NA DETECÇÃO DE DOENÇA AVANÇADA NO CÂNCER DE MAMA"
+date: 2024-04-01
+author:
+  - name: Junior, Romel Jefferson Hilgemberg
+  - name: Prado, Leonardo Fonseca Monteiro Do
+  - name: Cavalcante, Jorge Augusto Gomes
+  - name: Viviani, Carla Lima Santos
+  - name: Alves, Alyne Sellani Ferreira
+  - name: Menezes, Mario Olimpio De
+  - name: Da Silva, Marcelo Moreira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Hematology, Transfusion and Cell Therapy"
+  volume: 46
+  doi: "10.1016/j.htct.2024.04.072"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">CONTRIBUIÇÕES DO PET/CT FDG-18F NA DETECÇÃO DE DOENÇA AVANÇADA NO CÂNCER DE MAMA</li>
+  </ol>
+</nav>
+```

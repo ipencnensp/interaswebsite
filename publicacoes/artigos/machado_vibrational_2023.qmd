@@ -1,0 +1,26 @@
+---
+title: "Vibrational spectra of human tissues: Experimental data and density functional theory calculations comparison"
+date: 2023-01-01
+author:
+  - name: Machado, Neila
+  - name: Sato, Erika T.
+  - name: Alape, Julian M. Rayo
+  - name: Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Vibrational Spectroscopy"
+  volume: 124
+  doi: "10.1016/j.vibspec.2022.103492"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Vibrational spectra of human tissues: Experimental data and density functional theory calculations comparison</li>
+  </ol>
+</nav>
+```

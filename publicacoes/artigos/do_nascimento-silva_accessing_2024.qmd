@@ -1,0 +1,34 @@
+---
+title: "Accessing the Health Risk of Ingestion of Surface Water from Lucrécia and Parelhas Dams in Northeast Brazil Using the Sentinel Organism Drosophila melanogaster"
+date: 2024-01-01
+author:
+  - name: Do Nascimento-Silva, Charles
+  - name: Do Carmo-Neto, Edson Francisco
+  - name: De Santana, Samuel Lima
+  - name: De Amorim, Erima Maria
+  - name: De Oliveira, Rafaela Alves
+  - name: De Amaral, Deric Soares
+  - name: Costa, Matheus Andrade Rocha
+  - name: Do Nascimento, Alesxandro Francisco
+  - name: Dos Santos, Robson Alves
+  - name: De França, Elvis Joacir
+  - name: Rohde, Claudia
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Bulletin of Environmental Contamination and Toxicology"
+  volume: 112
+  issue: 1
+  doi: "10.1007/s00128-023-03838-x"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Accessing the Health Risk of Ingestion of Surface Water from Lucrécia and Parelhas Dams in Northeast Brazil Using the Sentinel Organism Drosophila melanogaster</li>
+  </ol>
+</nav>
+```

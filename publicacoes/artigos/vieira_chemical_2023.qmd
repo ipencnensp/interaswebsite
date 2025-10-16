@@ -1,0 +1,30 @@
+---
+title: "Chemical Characterization and Optical Properties of the Aerosol in São Paulo, Brazil"
+date: 2023-09-20
+author:
+  - name: Vieira, Erick Vinicius Ramos
+  - name: Do Rosario, Nilton Evora
+  - name: Yamasoe, Marcia Akemi
+  - name: Morais, Fernando Gonçalves
+  - name: Martinez, Pedro José Perez
+  - name: Landulfo, Eduardo
+  - name: Maura De Miranda, Regina
+abstract: > 
+  Air pollution in the Metropolitan Area of São Paulo (MASP), Brazil, is a serious problem and is strongly affected by local sources. However, atmosphere column composition in MASP is also affected by biomass burning aerosol (BB). Understanding the impacts of aerosol particles, from both vehicles and BB, on the air quality and climate depends on in-depth research with knowledge of some parameters such as the optical properties of particles and their chemical composition. This study characterized fine particulate matter (PM2.5) from July 2019 to August 2020 in the eastern part of the MASP, relating the chemical composition data obtained at the surface and columnar optical parameters, such as aerosol optical depth (AOD), Ångström Exponent (AE), and single-scattering albedo (SSA). According to the analyzed data, the mean PM2.5 concentration was 18.0 ± 12.5 µg/m3; however, daily events exceeded 75 times the air quality standard of the World Health Organization (15 µg/m3). The mean black carbon concentration was 1.8 ± 1.5 µg/m3 in the sampling period. Positive matrix factorization (PMF) identified four main sources of aerosol: heavy vehicles (42%), followed by soil dust plus local sources (38.7%), light vehicles (9.9%), and local sources (8.6%). AOD and AE presented the highest values in the dry period, during which biomass burning events are more frequent, suggesting smaller particles in the atmosphere. SSA values at 440 nm were between 0.86 and 0.94, with lower values in the winter months, indicating the presence of more absorbing aerosol.
+categories: [article]
+citation: 
+  container-title: "Atmosphere"
+  volume: 14
+  issue: 9
+  doi: "10.3390/atmos14091460"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Chemical Characterization and Optical Properties of the Aerosol in São Paulo, Brazil</li>
+  </ol>
+</nav>
+```

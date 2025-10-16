@@ -1,0 +1,30 @@
+---
+title: "VAPING IS THE NEW SMOKING: CHANGES IN THE MUCOSA AND SALIVA RELATED TO VAPE"
+date: 2023-07-01
+author:
+  - name: Do Carmo Carvalho, Bruna Fernandes
+  - name: Faria, Natália De Carvalho
+  - name: Cavalcanti, Desirée Rosa
+  - name: Nepomuceno, Gabrielle Luana Jimenez Teodoro
+  - name: Martinho, Herculano Da Silva
+  - name: Garcia, Mário Pérez-Sayáns
+  - name: Almeida, Janete Dias
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology"
+  volume: 136
+  issue: 1
+  doi: "10.1016/j.oooo.2023.03.012"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">VAPING IS THE NEW SMOKING: CHANGES IN THE MUCOSA AND SALIVA RELATED TO VAPE</li>
+  </ol>
+</nav>
+```

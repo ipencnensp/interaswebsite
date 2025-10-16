@@ -1,0 +1,28 @@
+---
+title: "Nitric Oxide Plays a Dual Role in Cardiorenal Syndrome in Vitro Model"
+date: 2024-01-22
+author:
+  - name: Marchini Armentano, Giovana
+  - name: Pieretti, Joana Claudio
+  - name: Falconi, Carlos Alexandre
+  - name: Barozzi Seabra, Amedea
+  - name: Carneiro-Ramos, Marcela Sorelli
+abstract: > 
+  Background/Aims:Nitric oxide (NO) plays a dual role, acting as both an oxidant and a reducer, with various effects depending on its concentration and environment. Acute kidney injury’s (AKI) pathogenesis observed in cardiorenal syndrome 3 (CRS 3) involves inflammatory responses and the production of reactive oxygen and nitrogen species. However, the role of NO on the development of CRS 3 is still not completely understood. The study aimed to mimic CRS 3 in vitro and investigate NO signaling and inflammatory molecules. Methods:Thus, HEK293 cells were submitted to normoxia (NX) or hypoxia (HX) protocols for 16 h followed by 3 h of reoxygenation, treated or not with L -NAME. Conditionate medium by HEK293 was transferred to H9c2 for 24 h. Cellular viability was evaluated by MTT assay, real time PCR was used to analyze gene expression and NO content were evaluated in the intra and extracellular medium by amperimetry. Results:Carbonic anhydrase 9 (CA9) expression increased 2.9-fold after hypoxia. Hypoxia reduced 18 % cell viability in HEK293 that was restored by L -NAME treatment. The sum of nitrite (NO2-) and S-nitrosothiol (S-NO) fractions in HEK293 cells showed a substantial decrease on NO intracellular content (38 %). Both IL-6 and IL-10 decreased in all groups compared to NX cells. Besides TNF-α and Bax/Bcl2 ratio increased in hypoxia (approximately 120-fold and 600-fold, respectively) and L -NAME restored this effect. Regarding H9c2 cells, the S-NO fractions showed a substantial decrease in extracellular content after HX (17%) that was not restored by L -NAME. IL-1β decreases in cardiac cells treated with conditioned medium from HX/L-NAME. Conclusion:In conclusion this study highlights the complex interplay of NO and inflammatory factors in hypoxia-induced renal and cardiac cell responses, with potential implications for cardiorenal syndrome.
+categories: [article]
+citation: 
+  container-title: "Cellular Physiology and Biochemistry"
+  volume: 58
+  issue: 1
+  doi: "10.33594/000000681"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Nitric Oxide Plays a Dual Role in Cardiorenal Syndrome in Vitro Model</li>
+  </ol>
+</nav>
+```

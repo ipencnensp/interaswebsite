@@ -1,0 +1,27 @@
+---
+title: "Photobiomodulation, Transmucosal Laser Irradiation of Blood, or B complex as alternatives to treat Covid-19 Related Long-Term Taste Impairment: double-blind randomized clinical trial"
+date: 2023-11-10
+author:
+  - name: Cardoso Soares, Pedro
+  - name: De Freitas, Patrícia Moreira
+  - name: Eduardo, Carlos De Paula
+  - name: Azevedo, Luciane Hiramatsu
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Lasers in Medical Science"
+  volume: 38
+  issue: 1
+  doi: "10.1007/s10103-023-03917-9"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Photobiomodulation, Transmucosal Laser Irradiation of Blood, or B complex as alternatives to treat Covid-19 Related Long-Term Taste Impairment: double-blind randomized clinical trial</li>
+  </ol>
+</nav>
+```

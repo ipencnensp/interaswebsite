@@ -1,0 +1,46 @@
+---
+title: "Individualized risk assessment of distant metastases in oral cavity carcinoma: a validated predictive-score model"
+date: 2023-12-06
+author:
+  - name: Id Said, Badr
+  - name: Alfaraj, Fatimah A
+  - name: Marta, Gustavo N
+  - name: Kowalski, Luiz P
+  - name: Kohler, Hugo F
+  - name: Huang, Shao H
+  - name: Su, Jie
+  - name: Xu, Wei
+  - name: Eng, Lawson
+  - name: De Moraes, Fabio Y
+  - name: Hahn, Ezra
+  - name: Kim, John J
+  - name: O’Sullivan, Brian
+  - name: Ringash, Jolie
+  - name: Waldron, John
+  - name: Matos, Leandro L
+  - name: Prisman, Eitan
+  - name: Irish, Jonathan C
+  - name: Yao, Christopher M K L
+  - name: De Almeida, John R
+  - name: Goldstein, David P
+  - name: Hope, Andrew
+  - name: Hosni, Ali
+abstract: > 
+  Abstract Background We aimed to develop and validate a risk-scoring system for distant metastases (DMs) in oral cavity carcinoma (OCC). Methods Patients with OCC who were treated at 4 tertiary cancer institutions with curative surgery with or without postoperative radiation/chemoradiation therapy were randomly assigned to discovery or validation cohorts (3:2 ratio). Cases were staged on the basis of tumor, node, and metastasis staging according to the eighth edition of the American Joint Committee on Cancer/Union for International Cancer Control guidelines. Predictors of DMs on multivariable analysis in the discovery cohort were used to develop a risk-score model and classify patients into risk groups. The utility of the risk classification was evaluated in the validation cohort. Results Overall, 2749 patients were analyzed. Predictors (risk score coefficient) of DMs in the discovery cohort were the following: pathological stage (p)T3-4 (0.4), pN+ (N1: 0.8; N2: 1.0; N3: 1.5), histologic grade (G) 3 (G3, 0.7), and lymphovascular invasion (0.4). The DM risk groups were defined by the sum of the following risk score coefficients: high (&gt;1.7), intermediate (0.7-1.7), and standard risk (&lt;0.7). The 5-year DM rates (high/intermediate/standard risk groups) were 30%/15%/4% in the discovery cohort (C-index = 0.79) and 35%/16%/5% in the validation cohort, respectively (C-index = 0.77; both P &lt; .001). In the whole cohort, this predictive model showed excellent discriminative ability in predicting DMs without locoregional failure (29%/11%/1%), later (&gt;2 year) DMs (11%/4%/2%), and DMs in patients treated with surgery (20%/12%/5%), postoperative radiation therapy (34%/17%/4%), and postoperative chemoradiation therapy (39%/18%/7%) (all P &lt; .001). The 5-year overall survival rates in the overall cohort were 25%/51%/67% (P &lt; .001). Conclusions Patients at higher risk for DMs were identified by use of a predictive-score model for DMs that included pT3-4, pN1/2/3, G3, and lymphovascular invasion. Identified patients may be evaluated for individualized risk-adaptive treatment escalation and/or surveillance strategies.
+categories: [article]
+citation: 
+  container-title: "JNCI: Journal of the National Cancer Institute"
+  volume: 115
+  issue: 12
+  doi: "10.1093/jnci/djad144"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Individualized risk assessment of distant metastases in oral cavity carcinoma: a validated predictive-score model</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,28 @@
+---
+title: "Neck Dissection with Harmonic Instruments and Electrocautery: A Systematic Review"
+date: 2024-10-01
+author:
+  - name: Dedivitis, Rogério Aparecido
+  - name: De Matos, Leandro Luongo
+  - name: Castro, Mario Augusto Ferrari
+  - name: Petrarolha, Sílvia Migueis Picado
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Abstract Introduction The harmonic scalpel (HS) is a technique introduced to reduce blood loss and intraoperative time during neck dissection (ND). Objective To compare the results of HS with traditional hemostasis in ND through a systematic review and metanalysis. Methods A computer-based strategy of systematic literature survey included research in the MEDLINE, EMBASE, and Cochrane Library databases from January 2007 up to August 2022. The survey strategy employed was [harmonic scalpel OR ultrasonic scalpel] AND neck dissection. Results There were 61 articles identified that addressed the use of HS in patients undergoing ND. From those, 10 randomized clinical trials were selected, comprising 264 cases of ND using HS and 262 cases of ND without HS. Conclusion The use of HS for ND significantly reduces the operative time, intraoperative bleeding, volume of draining fluid, and the number of ligatures.
+categories: [article]
+citation: 
+  container-title: "International Archives of Otorhinolaryngology"
+  volume: 28
+  issue: 4
+  doi: "10.1055/s-0044-1779010"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Neck Dissection with Harmonic Instruments and Electrocautery: A Systematic Review</li>
+  </ol>
+</nav>
+```

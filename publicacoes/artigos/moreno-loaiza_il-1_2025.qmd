@@ -1,0 +1,79 @@
+---
+title: "IL-1β enhances susceptibility to atrial fibrillation in mice by acting through resident macrophages and promoting caspase-1 expression"
+date: 2025-02-06
+author:
+  - name: Moreno-Loaiza, Oscar
+  - name: Soares, Vinicius Cardoso
+  - name: De Assumpção Souza, Manuela
+  - name: Vera-Nuñez, Narendra
+  - name: Rodriguez De Yurre Guirao, Ainhoa
+  - name: Da Silva, Tatiana Pereira
+  - name: Pozes, Ana Beatriz
+  - name: Perticarrari, Larissa
+  - name: Monteiro, Evelin
+  - name: Albino, Maria Clara
+  - name: Silva, Sophia Barros
+  - name: Dias, Suelen Silva Gomes
+  - name: Maciel, Leonardo
+  - name: Muzi-Filho, Humberto
+  - name: De Oliveira, Dahienne Ferreira
+  - name: Braga, Bruno Cabral
+  - name: Diniz, Luan Pereira
+  - name: Cruz, Mario Costa
+  - name: Barbosa, Simone Reis
+  - name: Castro-Junior, Archimedes Barbosa
+  - name: Conde, Luciana
+  - name: Cabral-Castro, Mauro Jorge
+  - name: De Souza, Olga Ferreira
+  - name: Tavares Pinheiro, Martha Valéria
+  - name: Araújo De Oliveira Junior, Nilson
+  - name: Rezende De Siqueira, Leonardo
+  - name: Cosenza, Rodrigo Periquito
+  - name: Munhoz Da Fontoura, Claudio
+  - name: Secco, Jose Carlos Pizzolante
+  - name: Da Rocha Ferreira, Juliana
+  - name: Silvestre De Sousa, Andréa
+  - name: Albuquerque, Denilson
+  - name: Luiz, Ronir Raggio
+  - name: Nicolau-Neto, Pedro
+  - name: Pretti, Marco Antonio
+  - name: Boroni, Mariana
+  - name: Bonamino, Martin Hernán
+  - name: Kasai-Brunswick, Tais Hanae
+  - name: Mello, Debora Bastos
+  - name: Gonçalves-Silva, Triciana
+  - name: Ramos, Isalira Peroba
+  - name: Bozza, Fernando A.
+  - name: Madeiro, João Paulo Do Vale
+  - name: Pedrosa, Roberto Coury
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Da Silva Martinho, Herculano
+  - name: Bozza, Patrícia T.
+  - name: Mesquita De Souza, Fernanda
+  - name: Victor Lucena Da Silva, Gabriel
+  - name: Cunha, Thiago M.
+  - name: Uzelac, Ilija
+  - name: Fenton, Flavio
+  - name: Moll-Bernardes, Renata
+  - name: Paiva, Claudia N.
+  - name: Escobar, Ariel L.
+  - name: Medei, Emiliano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Nature Cardiovascular Research"
+  volume: 4
+  issue: 3
+  doi: "10.1038/s44161-025-00610-8"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">IL-1β enhances susceptibility to atrial fibrillation in mice by acting through resident macrophages and promoting caspase-1 expression</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,25 @@
+---
+title: "Machine-learning-based estimate of the wind speed over complex terrain using the long short-term memory (LSTM) recurrent neural network"
+date: 2024-06-27
+author:
+  - name: Leme Beu, Cássia Maria
+  - name: Landulfo, Eduardo
+abstract: > 
+  Abstract. Accurate estimation of the wind speed profile is crucial for a range of activities such as wind energy and aviation. The power law and the logarithmic-based profiles have been widely used as universal formulas to extrapolate the wind speed profile. However, these traditional methods have limitations in capturing the complexity of the wind flow, mainly over complex terrain. In recent years, the machine-learning techniques have emerged as a promising tool for estimating the wind speed profiles. In this study, we used the long short-term memory (LSTM) recurrent neural network and observational lidar datasets from three different sites over complex terrain to estimate the wind profile up to 230 m. Our results showed that the LSTM outperformed the power law as the distance from the surface increased. The coefficient of determination (R2) was greater than 90 % up to 100 m for input variables up to a 40 m height only. However, the performance of the model improved when the 60 m wind speed was added to the input dataset. Furthermore, we found that the LSTM model trained on one site with 40 and 60 m observational data and when applied to other sites also outperformed the power law. Our results show that the machine-learning techniques, particularly LSTM, are a promising tool for accurately estimating the wind speed profiles over complex terrain, even for short observational campaigns.
+categories: [article]
+citation: 
+  container-title: "Wind Energy Science"
+  volume: 9
+  issue: 6
+  doi: "10.5194/wes-9-1431-2024"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Machine-learning-based estimate of the wind speed over complex terrain using the long short-term memory (LSTM) recurrent neural network</li>
+  </ol>
+</nav>
+```

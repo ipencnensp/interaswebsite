@@ -1,0 +1,25 @@
+---
+title: "Photodynamic therapy as a strategic ally in radiotherapy for triple-negative breast cancer: the importance of treatment order"
+date: 2025-01-08
+author:
+  - name: Silva, Camila Ramos
+  - name: Vieira, Daniel Perez
+  - name: De Freitas, Anderson Zanardi
+  - name: Ribeiro, Martha Simões
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Breast Cancer Research and Treatment"
+  doi: "10.1007/s10549-024-07607-0"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Photodynamic therapy as a strategic ally in radiotherapy for triple-negative breast cancer: the importance of treatment order</li>
+  </ol>
+</nav>
+```

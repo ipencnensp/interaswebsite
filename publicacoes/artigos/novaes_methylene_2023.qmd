@@ -1,0 +1,27 @@
+---
+title: "Methylene blue-mediated antimicrobial photodynamic therapy on chicken semen"
+date: 2023-03-01
+author:
+  - name: Novaes, Ga
+  - name: Blank, Mh
+  - name: Yoshimura, Tm
+  - name: Ribeiro, Ms
+  - name: Pereira, Rjg
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photodiagnosis and Photodynamic Therapy"
+  volume: 41
+  doi: "10.1016/j.pdpdt.2023.103290"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Methylene blue-mediated antimicrobial photodynamic therapy on chicken semen</li>
+  </ol>
+</nav>
+```

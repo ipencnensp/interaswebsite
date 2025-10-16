@@ -1,0 +1,26 @@
+---
+title: "USO DO LASER DE ALTA POTÊNCIA NA CORREÇÃO DO AUMENTO GENGIVAL: RELATO DE CASO"
+date: 2024-01-01
+author:
+  - name: Defante, Gabriel Rosa
+  - name: Rodrigues, Walmir Júnio De Pinho Reis
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  A instalação de aparelhos ortodônticos fixos é um fator determinante para o acúmulo de biofilme na cavidade oral. A falta de controle adequado do biofilme nesses casos contribui para a modificação da composição do biofilme, favorecendo ao aparecimento de manifestações inflamatórias do tecido gengival, culminando no aumento gengival. Esta manifestação pode se tornar crônica uma vez que os tecidos gengivais aumentados se tornam um obstáculo aos procedimentos de controle do biofilme, gerando desconforto e insatisfação aos pacientes. Nesse contexto, o objetivo deste artigo é relatar um caso clínico de excisão cirúrgica de aumento gengival em paciente ortodôntico por meio da utilização do laser de alta potência. Paciente do sexo masculino, 18 anos de idade, melanoderma e portador de púrpura foi encaminhado por sua ortodontista para correção do aumento gengival. Diante do quadro apresentado foi planejada a terapia básica periodontal seguida de excisão cirúrgica do tecido gengival aumentado por meio do laser de alta potência de diodo. Após os procedimentos iniciais relacionados ao controle do biofilme foram executados dois tempos cirúrgicos seguidos de reforço das instruções de higiene oral. Considerando o estado sistêmico geral do paciente, concluímos que a excisão dos tecidos gengivais com o laser de alta potência possibilitou um procedimento confortável, proporcionando menor sangramento no trans e pós cirúrgico, resultando num padrão adequado de cicatrização. , The installation of fixed orthodontic appliances is a determining factor for the accumulation of biofilm in the oral cavity. The lack of adequate biofilm control in these cases contributes to the modification of the biofilm composition, favoring the appearance of inflammatory manifestations of the gingival tissue, culminating in gingival enlargement. This manifestation can become chronic as the enlarged gingival tissues become an obstacle to biofilm control procedures, generating discomfort and dissatisfaction for patients. In this context, the objective of this article is to report a clinical case of surgical excision of gingival enlargement in an orthodontic patient using a high-power laser. An 18-year-old male patient, melanoderm with purpura was referred by his orthodontist for correction of gingival enlargement. Given the situation presented, basic periodontal therapy was planned followed by surgical excision of the enlarged gingival tissue using a high-power diode laser. After the initial procedures related to biofilm control, two surgical procedures were performed followed by reinforcement of oral hygiene instructions. Considering the patient's general systemic status, we concluded that the excision of the gingival tissues with the high-power laser enabled a comfortable procedure, providing less bleeding during and after surgery, resulting in an adequate standard of healing.
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 1
+  doi: "10.29327/2442440.6.1-14"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">USO DO LASER DE ALTA POTÊNCIA NA CORREÇÃO DO AUMENTO GENGIVAL: RELATO DE CASO</li>
+  </ol>
+</nav>
+```

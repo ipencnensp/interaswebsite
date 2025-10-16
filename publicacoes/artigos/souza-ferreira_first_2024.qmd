@@ -1,0 +1,21 @@
+---
+title: "First record of microplastic contamination in endemic Amazonian anurans: Can the size and behavior of species influence contamination?"
+date: 2024-01-01
+author:
+  - name: Souza-Ferreira, Maria Luiza Cunha e
+abstract: > 
+  Microplastic (MP) weste, due to their high dispersion and bioaccumulation rates, have been identified in various animal groups, such as anuran amphibians during both larval and adult stages. However, current studies on adult anuran amphibians focus on assessing only one exposure route, the digestive system, while other routes remain underestimated. Therefore, this present study aimed to evaluate the degree of contamination in the digestive, respiratory, and integumentary systems, in situ, of two endemic Amazonian adult anuran species (textitPhysalaemus ephippifer and textitBoana multifasciata). From this, we identified and characterized microplastic particles for each exposure route, assessed the effects of morphometric measures on the total MP contamination level and in the gastrointestinal tract (GIT). Additionally, we determined different contamination indices and how they vary according to species and systems. Based on our data, the digestive and integumentary exposure routes showed the highest contamination levels for both species. Additionally, variations in MP contamination levels indicated that textitP. ephippifer had a higher level of MP contamination. Thus, this study provides the first evidence of microplastic exposure through respiratory and integumentary routes in adult anurans in situ, and it is the first to identify MP contamination in terrestrial biomonitors in the Amazon.
+categories: [misc]
+citation: 
+  doi: "10.6084/M9.FIGSHARE.26064448.V1"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">First record of microplastic contamination in endemic Amazonian anurans: Can the size and behavior of species influence contamination?</li>
+  </ol>
+</nav>
+```

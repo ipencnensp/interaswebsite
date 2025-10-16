@@ -1,0 +1,29 @@
+---
+title: "Strong Raman enhancement in structured colloids: localization of light"
+date: 2024-06-01
+author:
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus U.
+  - name: Marques, Francisco C.
+  - name: Freitas, Anderson Z.
+  - name: Dogariu, Aristide
+  - name: Jiménez-Villar, Ernesto
+abstract: > 
+  Raman spectroscopy is a powerful technique for studying the interaction between light and matter. Here we show a significant enhancement of Raman emission over a broad range of pumping wavelengths from strongly scattering media comprising spatially correlated photonic structures of core–shell TiO 2 @Silica scatterers mixed with silica nanoparticles and suspended in ethanol. Long-range Coulomb interactions between nanoparticles inside these photonic colloidal structures induce a correlation in the scatterers’ positions (TiO 2 @Silica), affecting local and global photonic properties. The anomalous enhancement in Raman signal increases as the scattering strength is increased (through either scatterer concentration or pumping wavelength); however, the signal strength continues to behave linearly with excitation power, ruling out classical nonlinear and interferential phenomena. These observations may indicate strong photon correlation in strongly localized electromagnetic modes, inducing successive photon interactions with the atoms or molecules. Aside from the fundamental relevance to understanding measurable properties in this regime of strongly localized electromagnetic modes, our demonstration of strongly enhanced Raman emission over a broad range of pumping wavelengths provides new opportunities for the development of advanced photonic materials and devices.
+categories: [article]
+citation: 
+  container-title: "Journal of the Optical Society of America B"
+  volume: 41
+  issue: 6
+  doi: "10.1364/JOSAB.523100"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Strong Raman enhancement in structured colloids: localization of light</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,31 @@
+---
+title: "Oral cancer and the importance of the dental surgeon for early diagnosis"
+date: 2023-06-19
+author:
+  - name: Cunha, Gabrieli Caroline Lino Aires
+  - name: Figueiredo, Daianne Gessyca Maciel
+  - name: Barrence, Giulliane Cassara
+  - name: Peralta, Felipe Da Silva
+  - name: Barreto, Anna Laura Almeida
+  - name: Kitakawa, Dárcio
+  - name: Morais, Thayná Melo De Lima
+  - name: De Carvalho, Luis Felipe Das Chagas E Silva
+abstract: > 
+  Between 2016 and 2017, more than 600 thousand new cases of cancer occurred in Brazil, with emphasis on oral cancer occupying the fifth place of incidence among men and seventh among women. Based on these data, the study aims to demonstrate the importance of dental surgeons in the early diagnosis of oral cancer, described, through the literature review, as characteristics of potentially fundamental cancerous oral lesions to be recognized and differentiated by these professionals. It is concluded that with the techniques of clinical examination and anamnesis, the dentist plays a fundamental role in the levels of primary and secondary prevention, in the detection of risky behavior and in the application of resources that enable the diagnosis of a malignant lesion at an early stage.
+categories: [article]
+citation: 
+  container-title: "Journal Archives of Health"
+  volume: 4
+  issue: 2
+  doi: "10.46919/archv4n2-017"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Oral cancer and the importance of the dental surgeon for early diagnosis</li>
+  </ol>
+</nav>
+```

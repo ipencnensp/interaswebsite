@@ -1,0 +1,25 @@
+---
+title: "The need to include older patients with head and neck cancer in clinical trials"
+date: 2024-06-01
+author:
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "The Lancet Healthy Longevity"
+  volume: 5
+  issue: 6
+  doi: "10.1016/S2666-7568(24)00067-9"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The need to include older patients with head and neck cancer in clinical trials</li>
+  </ol>
+</nav>
+```

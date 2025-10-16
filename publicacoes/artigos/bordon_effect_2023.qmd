@@ -1,0 +1,29 @@
+---
+title: "Effect of Silver Nanoparticles on the Optical Properties of Double Line Waveguides Written by fs Laser in Nd3+-Doped GeO2-PbO Glasses"
+date: 2023-02-16
+author:
+  - name: Bordon, Camila Dias Da Silva
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus U.
+  - name: De Rossi, Wagner
+  - name: Freitas, Anderson Z.
+  - name: Kassab, Luciana R. P.
+abstract: > 
+  Nd3+-doped GeO2-PbO glass with silver (Ag) nanoparticles (NPs) are produced with double line waveguides through fs laser processing for photonic applications. A Ti:sapphire fs laser at 800 nm was used to write the waveguides directly into the glass 0.7 mm beneath the surface. This platform is based on pairs of parallel lines with spacing of 10 µm, each pair being formed by two identical written lines but in two different configurations of 4 or 8 separately processed lines, which are coincident. The results of optical microscopy, absorbance measurements, refractive index change, beam quality factor (at 632 and 1064 nm), photoluminescence, propagation losses, and relative gain at 1064 nm are presented. The structural changes in the glass due to the presence of Ag NPs were investigated by Raman spectroscopy. At 632 and 1064 nm, x,y-symmetrical guiding was observed, and for both kinds of overlapping pulses, a refractive index alteration of 10−3 was found in both directions. Photoluminescence growth of textasciitilde47% at 1064 nm was observed due to the plasmonic effect of Ag NPs. In dual waveguides containing Ag NPs, the relative gain obtained increased by 40% and 30% for four and eight overlapping lines, respectively, at 600 mW of 808 nm pump power, when compared to waveguides without those metallic NPs. We highlight the resultant positive internal gains of 5.11 and 7.12 dB/cm that showed a growth of textasciitilde40% and textasciitilde30%, respectively, with respect to the samples without Ag NPs. The increase in photoluminescence and relative gain were related to the local field growth produced by Ag NPs. The present results show that the addition of Ag NPs impacts positively on the optical performance at 1064 nm of double line waveguides processed by fs laser writing in Nd3+-doped GeO2-PbO glass, opening news perspectives for photonics.
+categories: [article]
+citation: 
+  container-title: "Nanomaterials"
+  volume: 13
+  issue: 4
+  doi: "10.3390/nano13040743"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of Silver Nanoparticles on the Optical Properties of Double Line Waveguides Written by fs Laser in Nd3+-Doped GeO2-PbO Glasses</li>
+  </ol>
+</nav>
+```

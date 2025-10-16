@@ -1,0 +1,28 @@
+---
+title: "Absorption Coefficient Estimation of Pigmented Skin Phantoms Using Colorimetric Parameters"
+date: 2025-03-01
+author:
+  - name: Barbosa Da Cruz Junior, Luismar
+  - name: Bernardo De Barros, Kaio
+  - name: Eduardo Girasol, Carlos
+  - name: Mendonça Quaranta Lobão, Raissa
+  - name: Bachmann, Luciano
+abstract: > 
+  The increasing use of light-based treatments requires a better understanding of the light tissue interaction for pigmented skin. To enhance comprehension in this area, this study proposes the use of pigmented-mimicking skin phantoms to assess the optical properties based on their tone, represented by the individual typology angle (ITA) color scale. In this study, an epoxy resin matrix alongside compact facial powder and titanium dioxide was used to mimic the absorption, scattering, and shade properties of human skins. Eight phantoms covering the skin tones, light (ITA = 45.2°), tan (ITA = 23.3°), brown (ITA = 6.9°, −5.7°, and −16.9°), and dark (ITA = –34.6°, −41.6°, and −48.6°), were crafted. The absorption and reduced scattering coefficients were obtained using integrating spheres and calibrated spectrometers in the 500–900 nm range, and tones were measured using a commercial colorimeter. The experimental fitting proposed in this study could estimate the optical properties as a function of the skin tones through ITA values, by using an exponential function with a second-order polynomial exponent. This investigation aligns with prior studies involving human skin samples, and these findings hold promise for future clinical and diagnostic applications, particularly in the realm of light-based treatments to individual dermatological corrections in pigmented skin.
+categories: [article]
+citation: 
+  container-title: "Applied Spectroscopy"
+  volume: 79
+  issue: 3
+  doi: "10.1177/00037028241281388"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Absorption Coefficient Estimation of Pigmented Skin Phantoms Using Colorimetric Parameters</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,30 @@
+---
+title: "Targeting effective treatment to cutaneous Leishmaniasis: A preclinical investigation on photodynamic therapy mediated by the water-soluble Zn(II) porphyrin, ZnTnHex-2-PyP4+"
+date: 2025-01-01
+author:
+  - name: Souza, Tiago H.S.
+  - name: Cabral, Fernanda V.
+  - name: Sarmento-Neto, José F.
+  - name: Rebouças, Júlio S.
+  - name: Santos, Beate S.
+  - name: Ribeiro, Martha S.
+  - name: Figueiredo, Regina C.B.Q.
+  - name: Fontes, Adriana
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Photochemistry and Photobiology B: Biology"
+  volume: 262
+  doi: "10.1016/j.jphotobiol.2024.113077"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Targeting effective treatment to cutaneous Leishmaniasis: A preclinical investigation on photodynamic therapy mediated by the water-soluble Zn(II) porphyrin, ZnTnHex-2-PyP4+</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,48 @@
+---
+title:  "Júlio Gallinaro Maranho"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/julio-gallinaro-maranho.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/2423728110551755"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "http://www.ufabc.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Universidade Federal do ABC / Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas-UFABC-SP- Brasil](http://www.ufabc.br)
+
+### Áreas de Atuação
+
+Data Science, Probabilidade e Estatística Aplicadas, Modelos Analíticos e de Simulação, Infraestrutura aeroportuária
+
+### Atuação no Projeto
+
+PROPOSTA DE DISPOSITIVO PORTÁTIL PARA DIAGNÓSTICO PRECOCE DE CÂNCER DE MAMA POR ESPECTROSCOPIA DE FLUORESCÊNCIA EM SALIVA

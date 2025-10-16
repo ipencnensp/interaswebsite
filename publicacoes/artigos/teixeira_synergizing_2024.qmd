@@ -1,0 +1,27 @@
+---
+title: "Synergizing Immune Balance: Curcumin Gold Nanoparticles and Ultrasound Irradiation for Macrophage Down-Regulation"
+date: 2024-03-06
+author:
+  - name: Teixeira, Bruna Henrique
+  - name: Gonçalves, Karina De Oliveira
+  - name: Vieira, Daniel Perez
+  - name: Coronato Courrol, Lilia
+abstract: > 
+  The multifaceted health benefits of curcumin (Curcuma longa), attributed to its antioxidant, antitumor, and anti-inflammatory activities, have drawn significant scientific attention. Curcumin shows promise as a potential modulator of macrophage polarization, offering a natural strategy for managing inflammation and promoting tissue repair. However, a limiting factor for this beneficial molecule is its limited bioavailability due to its low solubility in water. This study aimed to quantify the effect of curcumin gold nanoparticle (CurAuNP)-mediated ultrasound irradiation on THP-1-derived macrophages as potential therapeutic targets. The photoreduction method was applied to synthesize the gold nanoparticles with curcumin as a ligand (CurAu). The effect of adding polyethylene glycol in the synthesis process was studied (CurAuPEG). CurAuNP characterization included UV/Vis, Zeta potential, transmission electron microscopy, and FTIR. The amount of singlet oxygen released by curcumin and CurAuNPs was quantified by observing 1.3-diphenylisobenzofuran quenching upon ultrasound irradiation (1 MHz and 1 W/cm2). The results indicated that ultrasound therapy for 4 min with CurAuNPs significantly enhanced singlet oxygen generation and reduced macrophage viability compared to curcumin alone. The increased sonoluminescence and curcumin delivery facilitated by CurAuNPs led to greater curcumin activation. Consequently, CurAuNPs could offer promising therapeutic options for modulating macrophage polarization in pro-inflammatory and anti-inflammatory stages.
+categories: [article]
+citation: 
+  container-title: "AppliedChem"
+  volume: 4
+  issue: 1
+  doi: "10.3390/appliedchem4010006"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Synergizing Immune Balance: Curcumin Gold Nanoparticles and Ultrasound Irradiation for Macrophage Down-Regulation</li>
+  </ol>
+</nav>
+```

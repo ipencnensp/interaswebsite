@@ -1,0 +1,58 @@
+---
+title: "New Insights on the Mechanisms of Myocardial Injury in Hypertensive Patients With COVID-19"
+date: 2023-10-01
+author:
+  - name: Moll-Bernardes, Renata
+  - name: Ferreira, Juliana R.
+  - name: Schaustz, Eduardo B.
+  - name: Sousa, Andréa S.
+  - name: Mattos, João D.
+  - name: Tortelly, Mariana B.
+  - name: Pimentel, Adriana L.
+  - name: Figueiredo, Ana Cristina B. S.
+  - name: Noya-Rabelo, Marcia M.
+  - name: Fortier, Sergio
+  - name: Matos E Silva, Flavia A.
+  - name: Vera, Narendra
+  - name: Conde, Luciana
+  - name: Cabral-Castro, Mauro Jorge
+  - name: Albuquerque, Denilson C.
+  - name: Rosado-de-Castro, Paulo Henrique
+  - name: Camargo, Gabriel C.
+  - name: Pinheiro, Martha V. T.
+  - name: Freitas, Daniele O. L.
+  - name: Pittella, Ana M.
+  - name: Araújo, José Afonso M.
+  - name: Marques, André C.
+  - name: Gouvêa, Elias P.
+  - name: Terzi, Flavia V. O.
+  - name: Zukowski, Cleverson N.
+  - name: Gismondi, Ronaldo A. O. C.
+  - name: Bandeira, Bruno S.
+  - name: Oliveira, Renée S.
+  - name: Abufaiad, Barbara E. J.
+  - name: Miranda, Jacqueline S. S.
+  - name: Miranda, Luiz Guilherme
+  - name: Souza, Olga F.
+  - name: Bozza, Fernando A.
+  - name: Luiz, Ronir R.
+  - name: Medei, Emiliano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Clinical Immunology"
+  volume: 43
+  issue: 7
+  doi: "10.1007/s10875-023-01523-6"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">New Insights on the Mechanisms of Myocardial Injury in Hypertensive Patients With COVID-19</li>
+  </ol>
+</nav>
+```

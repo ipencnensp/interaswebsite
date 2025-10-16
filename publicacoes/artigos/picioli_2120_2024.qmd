@@ -1,0 +1,30 @@
+---
+title: "2120: Dosimetric impact on fiducial array distortion for tracking in robotic radiosurgery: a phantom study"
+date: 2024-05-01
+author:
+  - name: Picioli, Marcelo Ribeiro
+  - name: Zeituni, Carlos Alberto
+  - name: Plata, Alvaro Ruiz
+  - name: Mongua, Jose Luis Rodriguez
+  - name: Villamizar, Rixy Plata
+  - name: Arcila, Jhonalbert Aponte
+  - name: Marangonni, Filippo
+  - name: Pino, Matias
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiotherapy and Oncology"
+  volume: 194
+  doi: "10.1016/S0167-8140(24)02384-3"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">2120: Dosimetric impact on fiducial array distortion for tracking in robotic radiosurgery: a phantom study</li>
+  </ol>
+</nav>
+```

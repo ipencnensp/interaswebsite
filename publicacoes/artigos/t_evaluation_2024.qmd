@@ -1,0 +1,30 @@
+---
+title: "EVALUATION OF ADHESIVE STRENGTH IN DENTIN IRADIATED WITH ULTRA SHORT PULSE LASER (FS) AT VARIOUS ENERGY DENSITIES USING TWO ADHESIVE STRATEGIES"
+date: 2024-03-11
+author:
+  - name: T, Penha-Junior
+  - name: Map, Rodrigues
+  - name: V, Pecorari
+  - name: Nd, Vieira Jr
+  - name: Dm, Zezell
+  - name: Re, Samad
+  - name: M, Dutra-Correa
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Health Science"
+  volume: 4
+  issue: 25
+  doi: "10.22533/at.ed.1594252411034"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">EVALUATION OF ADHESIVE STRENGTH IN DENTIN IRADIATED WITH ULTRA SHORT PULSE LASER (FS) AT VARIOUS ENERGY DENSITIES USING TWO ADHESIVE STRATEGIES</li>
+  </ol>
+</nav>
+```

@@ -19,7 +19,7 @@ about:
       href: "https://scholar.google.com/citations?hl=en&user=rDgLTawAAAAJ"
     - icon: bank
       text: Instituição
-      href: "www.cnen.gov.br"
+      href: "http://www.cnen.gov.br"
 ---
 
 ```{=html}
@@ -37,7 +37,7 @@ about:
 
 ### Instituição
 
-[Comissão Nacional de Energia Nuclear / Instituto de Pesquisas Energéticas e Nucleares-CNEN-RJ-Brasil-](www.cnen.gov.br)
+[Comissão Nacional de Energia Nuclear / Instituto de Pesquisas Energéticas e Nucleares-CNEN-RJ-Brasil](http://www.cnen.gov.br)
 
 ### Áreas de Atuação
 

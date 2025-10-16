@@ -1,0 +1,29 @@
+---
+title: "Silver Nanoclusters Tunable Visible Emission and Energy Transfer to Yb3+ Ions in Co-Doped GeO2-PbO Glasses for Photonic Applications"
+date: 2023-03-25
+author:
+  - name: Amaro, Augusto Anselmo
+  - name: Mattos, Guilherme Rodrigues Da Silva
+  - name: Nishimura, Marcos Vinicius De Morais
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus Ursus
+  - name: Kassab, Luciana Reyes Pires
+abstract: > 
+  This work investigates the optical properties of Yb3+ ions doped GeO2-PbO glasses containing Ag nanoclusters (NCs), produced by the melt-quenching technique. The lack in the literature regarding the energy transfer (ET) between these species in these glasses motivated the present work. Tunable visible emission occurs from blue to orange depending on the Yb3+ concentration which affects the size of the Ag NCs, as observed by transmission electron microscopy. The ET mechanism from Ag NCs to Yb3+ ions (2F7/2 → 2F5/2) was attributed to the S1→T1 decay (spin-forbidden electronic transition between singlet–triplet states) and was corroborated by fast and slow lifetime decrease (at 550 nm) of Ag NCs and photoluminescence (PL) growth at 980 nm, for excitations at 355 and 405 nm. The sample with the highest Yb3+ concentration exhibits the highest PL growth under 355 nm excitation, whereas at 410 nm it is the sample with the lowest concentration. The restriction of Yb3+ ions to the growth of NCs is responsible for these effects. Thus, higher Yb3+ concentration forms smaller Ag NCs, whose excitation at 355 nm leads to more efficient ET to Yb3+ ions compared to 410 nm. These findings have potential applications in the visible to near-infrared regions, such as tunable CW laser sources and photovoltaic devices.
+categories: [article]
+citation: 
+  container-title: "Nanomaterials"
+  volume: 13
+  issue: 7
+  doi: "10.3390/nano13071177"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Silver Nanoclusters Tunable Visible Emission and Energy Transfer to Yb3+ Ions in Co-Doped GeO2-PbO Glasses for Photonic Applications</li>
+  </ol>
+</nav>
+```

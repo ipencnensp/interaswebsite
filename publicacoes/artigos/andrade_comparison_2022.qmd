@@ -1,0 +1,29 @@
+---
+title: "Comparison of Two Light Wavelengths (λ = 660 nm and λ = 780 nm) in the Repair Process of Oral Mucositis Induced by Ionizing Radiation: Clinical and Microscopic Evaluations in Rats"
+date: 2022-12-24
+author:
+  - name: Andrade, Maíra Franco
+  - name: Sardo, Ariane Venzon Naia
+  - name: Benetti, Carolina
+  - name: Sicchieri, Leticia Bonfante
+  - name: Corrêa, Luciana
+  - name: Zezell, Denise Maria
+abstract: > 
+  Photobiomodulation (PBM) has been clinically used for the prevention and treatment of oral mucositis (OM). The effect of red and near-infrared wavelengths on OM repair is still misunderstood. The aim of this study was to compare the clinical effect and tissue changes caused by 660 nm and 780 nm exposure in an experimental model of OM. Rats were submitted to gamma irradiation for induction of OM lesions and treated with 660 nm or 780 nm lasers with the same dosimetry parameters (30 mW, 7.5 J/cm2, 10 s, spot size = 0.04 mm, irradiation every two days). Clinical assessment of OM severity and histopathological analyses was performed after 8, 14, and 20 days of the ionizing radiation. OM severity was reduced in the PBM groups, especially when the red laser was used. The histopathological pattern was similar between the PBM groups, showing advanced re-epithelization and more pronounced angiogenesis and collagen deposition compared to the control. The 660 nm group showed a greater collagen matrix area than the 780 nm group at 14 days. In conclusion, PBM at 660 nm and 780 nm improved the repair of ionizing radiation-induced OM. Both wavelengths activated the angiogenesis and collagen deposition, but these tissue effects were more pronounced when 660 nm was used.
+categories: [article]
+citation: 
+  container-title: "Photonics"
+  volume: 10
+  issue: 1
+  doi: "10.3390/photonics10010016"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comparison of Two Light Wavelengths (λ = 660 nm and λ = 780 nm) in the Repair Process of Oral Mucositis Induced by Ionizing Radiation: Clinical and Microscopic Evaluations in Rats</li>
+  </ol>
+</nav>
+```

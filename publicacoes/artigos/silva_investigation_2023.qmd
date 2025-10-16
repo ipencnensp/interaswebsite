@@ -1,0 +1,28 @@
+---
+title: "Investigation of dosimetric properties of CaSO4:Mn phosphor prepared using slow evaporation route"
+date: 2023-09-01
+author:
+  - name: Silva, Anderson M.B.
+  - name: Rodrigues, Daniel S.
+  - name: Antonio, Patrícia L.
+  - name: Junot, Danilo O.
+  - name: Caldas, Linda V.E.
+  - name: Souza, Divanizia N.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Applied Radiation and Isotopes"
+  volume: 199
+  doi: "10.1016/j.apradiso.2023.110874"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Investigation of dosimetric properties of CaSO4:Mn phosphor prepared using slow evaporation route</li>
+  </ol>
+</nav>
+```

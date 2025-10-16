@@ -1,0 +1,1764 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Medas, Fabio">
+<meta name="author" content="Dobrinja, Chiara">
+<meta name="author" content="Al-Suhaimi, Ebtesam Abdullah">
+<meta name="author" content="Altmeier, Julia">
+<meta name="author" content="Anajar, Said">
+<meta name="author" content="Arikan, Akif Enes">
+<meta name="author" content="Azaryan, Irina">
+<meta name="author" content="Bains, Lovenish">
+<meta name="author" content="Basili, Giancarlo">
+<meta name="author" content="Bolukbasi, Hakan">
+<meta name="author" content="Bononi, Marco">
+<meta name="author" content="Borumandi, Farzad">
+<meta name="author" content="Bozan, Mehmet Buğra">
+<meta name="author" content="Brenta, Gabriela">
+<meta name="author" content="Brunaud, Laurent">
+<meta name="author" content="Brunner, Maximilian">
+<meta name="author" content="Buemi, Antoine">
+<meta name="author" content="Canu, Gian Luigi">
+<meta name="author" content="Cappellacci, Federico">
+<meta name="author" content="Cartwright, Sara Burchfield">
+<meta name="author" content="Castells Fusté, Ignasi">
+<meta name="author" content="Cavalheiro, Beatriz">
+<meta name="author" content="Cavallaro, Giuseppe">
+<meta name="author" content="Chala, Andres">
+<meta name="author" content="Chan, Shun Yan Bryant">
+<meta name="author" content="Chaplin, John">
+<meta name="author" content="Cheema, Mustafa Sajjad">
+<meta name="author" content="Chiapponi, Costanza">
+<meta name="author" content="Chiofalo, Maria Grazia">
+<meta name="author" content="Chrysos, Emmanuel">
+<meta name="author" content="D’Amore, Annamaria">
+<meta name="author" content="De Cillia, Michael">
+<meta name="author" content="De Crea, Carmela">
+<meta name="author" content="De Manzini, Nicolò">
+<meta name="author" content="De Matos, Leandro Luongo">
+<meta name="author" content="De Pasquale, Loredana">
+<meta name="author" content="Del Rio, Paolo">
+<meta name="author" content="Demarchi, Marco Stefano">
+<meta name="author" content="Dhiwakar, Muthuswamy">
+<meta name="author" content="Donatini, Gianluca">
+<meta name="author" content="Dora, Jose Miguel">
+<meta name="author" content="D’Orazi, Valerio">
+<meta name="author" content="Doulatram Gamgaram, Viyey Kishore">
+<meta name="author" content="Eismontas, Vitalijus">
+<meta name="author" content="Kabiri, El Hassane">
+<meta name="author" content="El Malki, Hadj Omar">
+<meta name="author" content="Elzahaby, Islam">
+<meta name="author" content="Enciu, Octavian">
+<meta name="author" content="Eskander, Antoine">
+<meta name="author" content="Feroci, Francesco">
+<meta name="author" content="Figueroa-Bohorquez, David">
+<meta name="author" content="Filis, Dimitrios">
+<meta name="author" content="Gorostidi, François">
+<meta name="author" content="Frías-Fernández, Pedro">
+<meta name="author" content="Gamboa-Dominguez, Armando">
+<meta name="author" content="Genc, Volkan">
+<meta name="author" content="Giordano, Davide">
+<meta name="author" content="Gómez-Pedraza, Antonio">
+<meta name="author" content="Graceffa, Giuseppa">
+<meta name="author" content="Griffin, James">
+<meta name="author" content="Guerreiro, Sofia Cuco">
+<meta name="author" content="Gupta, Karan">
+<meta name="author" content="Gupta, Keshav Kumar">
+<meta name="author" content="Gurrado, Angela">
+<meta name="author" content="Hajiioannou, Jiannis">
+<meta name="author" content="Hakala, Tommi">
+<meta name="author" content="Harahap, Wirsma Arif">
+<meta name="author" content="Hargitai, Lindsay">
+<meta name="author" content="Hartl, Dana">
+<meta name="author" content="Hellmann, Andrzej">
+<meta name="author" content="Hlozek, Jiri">
+<meta name="author" content="Hoang, Van Trung">
+<meta name="author" content="Iacobone, Maurizio">
+<meta name="author" content="Innaro, Nadia">
+<meta name="author" content="Ioannidis, Orestis">
+<meta name="author" content="Jang, J H Isabelle">
+<meta name="author" content="Xavier-Junior, Jose Candido">
+<meta name="author" content="Jovanovic, Milan">
+<meta name="author" content="Kaderli, Reto Martin">
+<meta name="author" content="Kakamad, Fahmi">
+<meta name="author" content="Kaliszewski, Krzysztof">
+<meta name="author" content="Karamanliev, Martin">
+<meta name="author" content="Katoh, Hiroshi">
+<meta name="author" content="Košec, Andro">
+<meta name="author" content="Kovacevic, Bozidar">
+<meta name="author" content="Kowalski, Luiz Paulo">
+<meta name="author" content="Králik, Robert">
+<meta name="author" content="Yadav, Sanjay Kumar">
+<meta name="author" content="Kumorová, Adriána">
+<meta name="author" content="Lampridis, Savvas">
+<meta name="author" content="Lasithiotakis, Konstantinos">
+<meta name="author" content="Leclere, Jean-Christophe">
+<meta name="author" content="Leong, Eugene Kwong Fei">
+<meta name="author" content="Leow, Melvin Khee-Shing">
+<meta name="author" content="Lim, James Y">
+<meta name="author" content="Lino-Silva, Leonardo S">
+<meta name="author" content="Liu, Shirley Yuk Wah">
+<meta name="author" content="Llorach, Núria Perucho">
+<meta name="author" content="Lombardi, Celestino Pio">
+<meta name="author" content="López-Gómez, Javier">
+<meta name="author" content="Lori, Eleonora">
+<meta name="author" content="Quintanilla-Dieck, Lourdes">
+<meta name="author" content="Lucchini, Roberta">
+<meta name="author" content="Madani, Amin">
+<meta name="author" content="Manatakis, Dimitrios">
+<meta name="author" content="Markovic, Ivan">
+<meta name="author" content="Materazzi, Gabriele">
+<meta name="author" content="Mazeh, Haggi">
+<meta name="author" content="Mercante, Giuseppe">
+<meta name="author" content="Meyer-Rochow, Goswin Yason">
+<meta name="author" content="Mihaljevic, Olgica">
+<meta name="author" content="Miller, Julie A">
+<meta name="author" content="Minuto, Michele">
+<meta name="author" content="Monacelli, Massimo">
+<meta name="author" content="Mulita, Francesk">
+<meta name="author" content="Mullineris, Barbara">
+<meta name="author" content="Muñoz-de-Nova, José Luis">
+<meta name="author" content="Muradás Girardi, Fábio">
+<meta name="author" content="Nader, Saki">
+<meta name="author" content="Napadon, Tangjaturonrasme">
+<meta name="author" content="Nastos, Constantinos">
+<meta name="author" content="Offi, Chiara">
+<meta name="author" content="Ronen, Ohad">
+<meta name="author" content="Oragano, Luigi">
+<meta name="author" content="Orois, Aida">
+<meta name="author" content="Pan, Yongqin">
+<meta name="author" content="Panagiotidis, Emmanouil">
+<meta name="author" content="Panchangam, Ramakanth Bhargav">
+<meta name="author" content="Papavramidis, Theodosios">
+<meta name="author" content="Parida, Pradipta Kumar">
+<meta name="author" content="Paspala, Anna">
+<meta name="author" content="Pérez, Òscar Vidal">
+<meta name="author" content="Petrovic, Sabrina">
+<meta name="author" content="Raffaelli, Marco">
+<meta name="author" content="Ramacciotti, Constanza Fernanda">
+<meta name="author" content="Ratia Gimenez, Tomas">
+<meta name="author" content="Rivo Vázquez, Ángel">
+<meta name="author" content="Roh, Jong-Lyel">
+<meta name="author" content="Rossi, Leonardo">
+<meta name="author" content="Sanabria, Alvaro">
+<meta name="author" content="Santeerapharp, Alena">
+<meta name="author" content="Semenov, Arseny">
+<meta name="author" content="Seneviratne, Sanjeewa">
+<meta name="author" content="Serdar, Altinay">
+<meta name="author" content="Sheahan, Patrick">
+<meta name="author" content="Sheppard, Sean C">
+<meta name="author" content="Slotcavage, Rachel L">
+<meta name="author" content="Smaxwil, Constantin">
+<meta name="author" content="Kim, Soo Young">
+<meta name="author" content="Sorrenti, Salvatore">
+<meta name="author" content="Spartalis, Eleftherios">
+<meta name="author" content="Sriphrapradang, Chutintorn">
+<meta name="author" content="Testini, Mario">
+<meta name="author" content="Turk, Yigit">
+<meta name="author" content="Tzikos, George">
+<meta name="author" content="Vabalayte, Kristina">
+<meta name="author" content="Vargas-Osorio, Kelly">
+<meta name="author" content="Vázquez Rentería, Rafael Sebastián">
+<meta name="author" content="Velázquez-Fernández, David">
+<meta name="author" content="Vithana, Sanura Malinda Pallegoda">
+<meta name="author" content="Yücel, Levent">
+<meta name="author" content="Yulian, Erwin Danil">
+<meta name="author" content="Zahradnikova, Petra">
+<meta name="author" content="Zarogoulidis, Paul">
+<meta name="author" content="Ziablitskaia, Evgeniia">
+<meta name="author" content="Zolotoukho, Anna">
+<meta name="author" content="Calò, Pietro Giorgio">
+<meta name="author" content="Abdallah, A">
+<meta name="author" content="Abentroth, Al">
+<meta name="author" content="Acheimastos, V">
+<meta name="author" content="Agunaoun, M">
+<meta name="author" content="Al Bisher, Hm">
+<meta name="author" content="Al Ghuzlan, A">
+<meta name="author" content="Alakus, H">
+<meta name="author" content="Alkan, M">
+<meta name="author" content="Almaraz Almaraz, Mc">
+<meta name="author" content="Amram, K">
+<meta name="author" content="Anesidis, S">
+<meta name="author" content="Anestiadou, E">
+<meta name="author" content="Angelucci, D">
+<meta name="author" content="Ansaldo, Gl">
+<meta name="author" content="Antonopoulou, Mi">
+<meta name="author" content="Arciniegas, M">
+<meta name="author" content="Armellin, C">
+<meta name="author" content="Arredondo Saldaña, G">
+<meta name="author" content="Astl, J">
+<meta name="author" content="Athanasakis, E">
+<meta name="author" content="Avenia, S">
+<meta name="author" content="Aydın, H">
+<meta name="author" content="Baba, B">
+<meta name="author" content="Babala, J">
+<meta name="author" content="Banús, Mv">
+<meta name="author" content="Barba-Valadez, La">
+<meta name="author" content="Barcons, Sv">
+<meta name="author" content="Battafarano, F">
+<meta name="author" content="Bayat, A">
+<meta name="author" content="Bella, Rmc">
+<meta name="author" content="Benariba, F">
+<meta name="author" content="Bernardi, S">
+<meta name="author" content="Bignami, Eg">
+<meta name="author" content="Bitenc, M">
+<meta name="author" content="Bitsianis, S">
+<meta name="author" content="Bolaños De La Torre, Jdd">
+<meta name="author" content="Bonati, E">
+<meta name="author" content="Bonetti, T">
+<meta name="author" content="Borges, Fa">
+<meta name="author" content="Bouchagier, K">
+<meta name="author" content="Boudina, M">
+<meta name="author" content="Bourial, A">
+<meta name="author" content="Breuskin, I">
+<meta name="author" content="Brock, P">
+<meta name="author" content="Bruns, C">
+<meta name="author" content="Burlacu, Mc">
+<meta name="author" content="Burton, T">
+<meta name="author" content="Buta, M">
+<meta name="author" content="Buzanakov, D">
+<meta name="author" content="Caliseo, C">
+<meta name="author" content="Callanan, D">
+<meta name="author" content="Calu, V">
+<meta name="author" content="Cameselle-Teijeiro, Jm">
+<meta name="author" content="Camilo-Junior, Dj">
+<meta name="author" content="Canberk, S">
+<meta name="author" content="Candalise, V">
+<meta name="author" content="Candanedo-Gonzalez, F">
+<meta name="author" content="Carrillo Lizarazo, Lj">
+<meta name="author" content="Carvalho, Gb">
+<meta name="author" content="Casallas, D">
+<meta name="author" content="Casolino, C">
+<meta name="author" content="Castellani, L">
+<meta name="author" content="Castillo Morales, C">
+<meta name="author" content="Chambon, G">
+<meta name="author" content="Chatzipavlidou, V">
+<meta name="author" content="Chernikov, R">
+<meta name="author" content="Chorti, A">
+<meta name="author" content="Chow, Tcm">
+<meta name="author" content="Chrisoulidou, A">
+<meta name="author" content="Chrysos, E">
+<meta name="author" content="Conrado-Neto, S">
+<meta name="author" content="Cordova García, D">
+<meta name="author" content="Corigliano, A">
+<meta name="author" content="Crocco, A">
+<meta name="author" content="Cuesta, A">
+<meta name="author" content="Čukman, M">
+<meta name="author" content="Curto, Ls">
+<meta name="author" content="Damilano, Ra">
+<meta name="author" content="D’Anna, R">
+<meta name="author" content="De, M">
+<meta name="author" content="De Virgilio, A">
+<meta name="author" content="Dellaportas, D">
+<meta name="author" content="Demarquet, L">
+<meta name="author" content="Devresse, A">
+<meta name="author" content="Di Meo, G">
+<meta name="author" content="Diaz Pedrero, R">
+<meta name="author" content="Dimitrov, D">
+<meta name="author" content="Dmitry, Z">
+<meta name="author" content="Domínguez Garijo, P">
+<meta name="author" content="Dulgeroglu, O">
+<meta name="author" content="Dural, Ac">
+<meta name="author" content="Eksi, A">
+<meta name="author" content="El Hammoumi, M">
+<meta name="author" content="El Kaoui, H">
+<meta name="author" content="Eleni, G">
+<meta name="author" content="Elliyanti, A">
+<meta name="author" content="Ersöz, Ş">
+<meta name="author" content="Escobar-Jiménez, M">
+<meta name="author" content="Fedorova, L">
+<meta name="author" content="Feeley, L">
+<meta name="author" content="Fernández Rodríguez, E">
+<meta name="author" content="Ferreli, F">
+<meta name="author" content="Filoia, A">
+<meta name="author" content="Fingeret, A">
+<meta name="author" content="Francescato, A">
+<meta name="author" content="Gaino, F">
+<meta name="author" content="Galiandro, F">
+<meta name="author" content="Gallegos-Hernández, Jf">
+<meta name="author" content="Garas, G">
+<meta name="author" content="García Lorenzo, F">
+<meta name="author" content="García-Chávez, Jp">
+<meta name="author" content="Gaudiello, M">
+<meta name="author" content="Gay, S">
+<meta name="author" content="Gerasimos, S">
+<meta name="author" content="Gerek, M">
+<meta name="author" content="Gervasi, R">
+<meta name="author" content="Giordano, A">
+<meta name="author" content="Gjeloshi, B">
+<meta name="author" content="Gocký, L">
+<meta name="author" content="Golubinskaya, E">
+<meta name="author" content="González Romero, S">
+<meta name="author" content="González-Mínguez, C">
+<meta name="author" content="Goran, M">
+<meta name="author" content="Gosman, A">
+<meta name="author" content="Granados Garcia, M">
+<meta name="author" content="Greco, E">
+<meta name="author" content="Grünbart, M">
+<meta name="author" content="Grützmann, R">
+<meta name="author" content="Guerlain, J">
+<meta name="author" content="Guirao, Xg">
+<meta name="author" content="Guzey, D">
+<meta name="author" content="Hajjij, A">
+<meta name="author" content="Hamdy, O">
+<meta name="author" content="Hameed, Ms">
+<meta name="author" content="Hauth, La">
+<meta name="author" content="Hernández-Acevedo, Jd">
+<meta name="author" content="Hernandez-Carrillo, Jf">
+<meta name="author" content="Hevilla Sánchez, F">
+<meta name="author" content="Hoi, H">
+<meta name="author" content="Hongkwon, K">
+<meta name="author" content="Hu Zhu, R">
+<meta name="author" content="Huang, E">
+<meta name="author" content="Hyeung Kyoo, K">
+<meta name="author" content="Ignjatovic, V">
+<meta name="author" content="Ioannidis, A">
+<meta name="author" content="Iossa, A">
+<meta name="author" content="Işık, A">
+<meta name="author" content="James, D">
+<meta name="author" content="Jung Hoon, L">
+<meta name="author" content="Kara, H">
+<meta name="author" content="Karajovic, J">
+<meta name="author" content="Kartini, D">
+<meta name="author" content="Khambri, D">
+<meta name="author" content="Kholová, I">
+<meta name="author" content="Kisiel, M">
+<meta name="author" content="Knežević, M">
+<meta name="author" content="Koh, Yq">
+<meta name="author" content="Konca, C">
+<meta name="author" content="Kosmidis, C">
+<meta name="author" content="Kotsovolis, G">
+<meta name="author" content="Kowalski, Lp">
+<meta name="author" content="Kralik, R">
+<meta name="author" content="Kuczma, P">
+<meta name="author" content="Kuravi, Bg">
+<meta name="author" content="Kurnia, A">
+<meta name="author" content="Kyriaki, V">
+<meta name="author" content="Lai, Cm">
+<meta name="author" content="Lallemant, B">
+<meta name="author" content="Lardhi, Aa">
+<meta name="author" content="Leboulleux, S">
+<meta name="author" content="Lee, Jw">
+<meta name="author" content="Lelli, G">
+<meta name="author" content="Leutner, M">
+<meta name="author" content="Lim, My">
+<meta name="author" content="Lim, Cm">
+<meta name="author" content="Llanos, A">
+<meta name="author" content="Lo, X">
+<meta name="author" content="Loderer, T">
+<meta name="author" content="López-Corrales, Ma">
+<meta name="author" content="Ludwig, M">
+<meta name="author" content="Magnabosco, Ff">
+<meta name="author" content="Maheo, C">
+<meta name="author" content="Maia, Al">
+<meta name="author" content="Makay, O">
+<meta name="author" content="Maksimova, P">
+<meta name="author" content="Mallick, S">
+<meta name="author" content="Mallouk, C">
+<meta name="author" content="Mamani, Z">
+<meta name="author" content="Mandal, S">
+<meta name="author" content="Manyalich Blasi, M">
+<meta name="author" content="Marincola, G">
+<meta name="author" content="Marulanda, M">
+<meta name="author" content="Mavromati, M">
+<meta name="author" content="Mayilvaganan, S">
+<meta name="author" content="Metso, S">
+<meta name="author" content="Micalizzi, A">
+<meta name="author" content="Michalopoulos, A">
+<meta name="author" content="Min-Su, K">
+<meta name="author" content="Miron, A">
+<meta name="author" content="Mishra, Ak">
+<meta name="author" content="Misso, C">
+<meta name="author" content="Mittermair, C">
+<meta name="author" content="Morosán Allo, Y">
+<meta name="author" content="Mourad, M">
+<meta name="author" content="Moysidis, M">
+<meta name="author" content="Nabhan, F">
+<meta name="author" content="Nasiri, R">
+<meta name="author" content="Nastos, C">
+<meta name="author" content="Ngiam, Ky">
+<meta name="author" content="Nomine-Criqui, C">
+<meta name="author" content="Ntziovara, Am">
+<meta name="author" content="Nuño Vázquez-Garza, Jm">
+<meta name="author" content="Nutautiene, V">
+<meta name="author" content="Obtulovičová, K">
+<meta name="author" content="O’Keeffe, L">
+<meta name="author" content="Okudur, No">
+<meta name="author" content="Ossola, P">
+<meta name="author" content="Ovejero Merino, E">
+<meta name="author" content="Ozdemir, M">
+<meta name="author" content="Pangonis, A">
+<meta name="author" content="Panigoro, Ss">
+<meta name="author" content="Panuzi, A">
+<meta name="author" content="Papaconstantinou, D">
+<meta name="author" content="Pardo Matamoros, N">
+<meta name="author" content="Paschou, S">
+<meta name="author" content="Pasculli, A">
+<meta name="author" content="Paterakis, K">
+<meta name="author" content="Peiris, K">
+<meta name="author" content="Pennestrì, F">
+<meta name="author" content="Peppa, M">
+<meta name="author" content="Perdikaris, P">
+<meta name="author" content="Perdikaris, I">
+<meta name="author" content="Pérez-Soto, Rh">
+<meta name="author" content="Piana, S">
+<meta name="author" content="Piccoli, M">
+<meta name="author" content="Pietrasanta, D">
+<meta name="author" content="Placentino, G">
+<meta name="author" content="Pliakos, I">
+<meta name="author" content="Polistena, A">
+<meta name="author" content="Pongtippan, A">
+<meta name="author" content="Potard, G">
+<meta name="author" content="Quinn, V">
+<meta name="author" content="Rahul, P">
+<meta name="author" content="Ramos, T">
+<meta name="author" content="Rankin, A">
+<meta name="author" content="Ratnayake, P">
+<meta name="author" content="Reuto-Castillo, J">
+<meta name="author" content="Ridolfo, A">
+<meta name="author" content="Rios-Valencia, J">
+<meta name="author" content="Riss, P">
+<meta name="author" content="Rival, E">
+<meta name="author" content="Rivillas, J">
+<meta name="author" content="Roi, D">
+<meta name="author" content="Rollo, Em">
+<meta name="author" content="Romanchishen, A">
+<meta name="author" content="Romito, M">
+<meta name="author" content="Rotnagl, J">
+<meta name="author" content="Rovcanin, B">
+<meta name="author" content="Russo, G">
+<meta name="author" content="Sabol, M">
+<meta name="author" content="Saki, S">
+<meta name="author" content="Saleh, S">
+<meta name="author" content="Salih, A">
+<meta name="author" content="Saltiki, A">
+<meta name="author" content="Salvador-Camarmo, G">
+<meta name="author" content="Samal, Dk">
+<meta name="author" content="Sánchez-Flores, S">
+<meta name="author" content="Sapalidis, K">
+<meta name="author" content="Sarin, D">
+<meta name="author" content="Sarin, H">
+<meta name="author" content="Savkovic, N">
+<meta name="author" content="Scheffel, Rs">
+<meta name="author" content="Scheinpflug, Al">
+<meta name="author" content="Scheuba, C">
+<meta name="author" content="Scheyer, N">
+<meta name="author" content="Schmidt, M">
+<meta name="author" content="Senashova, O">
+<meta name="author" content="Serafini, E">
+<meta name="author" content="Serrano Arévalo, Ml">
+<meta name="author" content="Shank, J">
+<meta name="author" content="Shindo, Ml">
+<meta name="author" content="Shoshkova, M">
+<meta name="author" content="Shvan, M">
+<meta name="author" content="Sičák, M">
+<meta name="author" content="Silva, Tg">
+<meta name="author" content="Simó Guerrero, O">
+<meta name="author" content="Skuletic, V">
+<meta name="author" content="Slijepcevic, N">
+<meta name="author" content="Slovic, Z">
+<meta name="author" content="Soares, P">
+<meta name="author" content="Somova, A">
+<meta name="author" content="Soto, S">
+<meta name="author" content="Spiezia, S">
+<meta name="author" content="Stankovic, V">
+<meta name="author" content="Stephenson, Kj">
+<meta name="author" content="Straub, E">
+<meta name="author" content="Summa, M">
+<meta name="author" content="Surani, S">
+<meta name="author" content="Syed, Aa">
+<meta name="author" content="Symeonidis, S">
+<meta name="author" content="Taciak, A">
+<meta name="author" content="Tarallo, M">
+<meta name="author" content="Tarle, A">
+<meta name="author" content="Tasis, N">
+<meta name="author" content="Tausanovic, K">
+<meta name="author" content="Tchabashvili, L">
+<meta name="author" content="Thierry, M">
+<meta name="author" content="Tokarczyk, U">
+<meta name="author" content="Toma, Ea">
+<meta name="author" content="Topuz, S">
+<meta name="author" content="Torresan, F">
+<meta name="author" content="Uras, C">
+<meta name="author" content="Vaccaro, C">
+<meta name="author" content="Valdés De Anca, Á">
+<meta name="author" content="Valentini, M">
+<meta name="author" content="Varaldo, E">
+<meta name="author" content="Vartanian, Jg">
+<meta name="author" content="Verras, Gi">
+<meta name="author" content="Vithanage, A">
+<meta name="author" content="Wijayalathge, H">
+<meta name="author" content="Wiriyaamornchai, P">
+<meta name="author" content="Wong, Ylc">
+<meta name="author" content="Wongwattana, P">
+<meta name="author" content="Xenaki, S">
+<meta name="author" content="Xie, S">
+<meta name="author" content="Xu, M">
+<meta name="author" content="Yang, W">
+<meta name="author" content="Yilmaz, S">
+<meta name="author" content="Yılmaz, Yf">
+<meta name="author" content="Yotsov, T">
+<meta name="author" content="Zahid, Mt">
+<meta name="author" content="Zielke, A">
+
+<title>Effect of the COVID-19 pandemic on surgery for indeterminate thyroid nodules (THYCOVID): a retrospective, international, multicentre, cross-sectional study – INTERAS</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-4354c65f49f88d62a46c961debb18294.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logointeras.png" alt="INCT INTERAS" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">INTERAS</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Procurar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-inct-interas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">INCT INTERAS</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-inct-interas">    
+        <li>
+    <a class="dropdown-item" href="../../sobre-o-interas.html">
+ <span class="dropdown-text">O INCT INTERAS</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../pessoas/coord-equipe.html">
+ <span class="dropdown-text">COORDENAÇÃO E EQUIPE</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../areas-de-pesquisa.html">
+ <span class="dropdown-text">ÁREAS DE PESQUISA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../contato.html">
+ <span class="dropdown-text">CONTATO</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-produção" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">PRODUÇÃO</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-produção">    
+        <li>
+    <a class="dropdown-item" href="../../publicacoes/index.html">
+ <span class="dropdown-text">ARTIGOS</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Effect of the COVID-19 pandemic on surgery for indeterminate thyroid nodules (THYCOVID): a retrospective, international, multicentre, cross-sectional study</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">article</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autores</div>
+    <div class="quarto-title-meta-contents">
+             <p>Medas, Fabio </p>
+             <p>Dobrinja, Chiara </p>
+             <p>Al-Suhaimi, Ebtesam Abdullah </p>
+             <p>Altmeier, Julia </p>
+             <p>Anajar, Said </p>
+             <p>Arikan, Akif Enes </p>
+             <p>Azaryan, Irina </p>
+             <p>Bains, Lovenish </p>
+             <p>Basili, Giancarlo </p>
+             <p>Bolukbasi, Hakan </p>
+             <p>Bononi, Marco </p>
+             <p>Borumandi, Farzad </p>
+             <p>Bozan, Mehmet Buğra </p>
+             <p>Brenta, Gabriela </p>
+             <p>Brunaud, Laurent </p>
+             <p>Brunner, Maximilian </p>
+             <p>Buemi, Antoine </p>
+             <p>Canu, Gian Luigi </p>
+             <p>Cappellacci, Federico </p>
+             <p>Cartwright, Sara Burchfield </p>
+             <p>Castells Fusté, Ignasi </p>
+             <p>Cavalheiro, Beatriz </p>
+             <p>Cavallaro, Giuseppe </p>
+             <p>Chala, Andres </p>
+             <p>Chan, Shun Yan Bryant </p>
+             <p>Chaplin, John </p>
+             <p>Cheema, Mustafa Sajjad </p>
+             <p>Chiapponi, Costanza </p>
+             <p>Chiofalo, Maria Grazia </p>
+             <p>Chrysos, Emmanuel </p>
+             <p>D’Amore, Annamaria </p>
+             <p>De Cillia, Michael </p>
+             <p>De Crea, Carmela </p>
+             <p>De Manzini, Nicolò </p>
+             <p>De Matos, Leandro Luongo </p>
+             <p>De Pasquale, Loredana </p>
+             <p>Del Rio, Paolo </p>
+             <p>Demarchi, Marco Stefano </p>
+             <p>Dhiwakar, Muthuswamy </p>
+             <p>Donatini, Gianluca </p>
+             <p>Dora, Jose Miguel </p>
+             <p>D’Orazi, Valerio </p>
+             <p>Doulatram Gamgaram, Viyey Kishore </p>
+             <p>Eismontas, Vitalijus </p>
+             <p>Kabiri, El Hassane </p>
+             <p>El Malki, Hadj Omar </p>
+             <p>Elzahaby, Islam </p>
+             <p>Enciu, Octavian </p>
+             <p>Eskander, Antoine </p>
+             <p>Feroci, Francesco </p>
+             <p>Figueroa-Bohorquez, David </p>
+             <p>Filis, Dimitrios </p>
+             <p>Gorostidi, François </p>
+             <p>Frías-Fernández, Pedro </p>
+             <p>Gamboa-Dominguez, Armando </p>
+             <p>Genc, Volkan </p>
+             <p>Giordano, Davide </p>
+             <p>Gómez-Pedraza, Antonio </p>
+             <p>Graceffa, Giuseppa </p>
+             <p>Griffin, James </p>
+             <p>Guerreiro, Sofia Cuco </p>
+             <p>Gupta, Karan </p>
+             <p>Gupta, Keshav Kumar </p>
+             <p>Gurrado, Angela </p>
+             <p>Hajiioannou, Jiannis </p>
+             <p>Hakala, Tommi </p>
+             <p>Harahap, Wirsma Arif </p>
+             <p>Hargitai, Lindsay </p>
+             <p>Hartl, Dana </p>
+             <p>Hellmann, Andrzej </p>
+             <p>Hlozek, Jiri </p>
+             <p>Hoang, Van Trung </p>
+             <p>Iacobone, Maurizio </p>
+             <p>Innaro, Nadia </p>
+             <p>Ioannidis, Orestis </p>
+             <p>Jang, J H Isabelle </p>
+             <p>Xavier-Junior, Jose Candido </p>
+             <p>Jovanovic, Milan </p>
+             <p>Kaderli, Reto Martin </p>
+             <p>Kakamad, Fahmi </p>
+             <p>Kaliszewski, Krzysztof </p>
+             <p>Karamanliev, Martin </p>
+             <p>Katoh, Hiroshi </p>
+             <p>Košec, Andro </p>
+             <p>Kovacevic, Bozidar </p>
+             <p>Kowalski, Luiz Paulo </p>
+             <p>Králik, Robert </p>
+             <p>Yadav, Sanjay Kumar </p>
+             <p>Kumorová, Adriána </p>
+             <p>Lampridis, Savvas </p>
+             <p>Lasithiotakis, Konstantinos </p>
+             <p>Leclere, Jean-Christophe </p>
+             <p>Leong, Eugene Kwong Fei </p>
+             <p>Leow, Melvin Khee-Shing </p>
+             <p>Lim, James Y </p>
+             <p>Lino-Silva, Leonardo S </p>
+             <p>Liu, Shirley Yuk Wah </p>
+             <p>Llorach, Núria Perucho </p>
+             <p>Lombardi, Celestino Pio </p>
+             <p>López-Gómez, Javier </p>
+             <p>Lori, Eleonora </p>
+             <p>Quintanilla-Dieck, Lourdes </p>
+             <p>Lucchini, Roberta </p>
+             <p>Madani, Amin </p>
+             <p>Manatakis, Dimitrios </p>
+             <p>Markovic, Ivan </p>
+             <p>Materazzi, Gabriele </p>
+             <p>Mazeh, Haggi </p>
+             <p>Mercante, Giuseppe </p>
+             <p>Meyer-Rochow, Goswin Yason </p>
+             <p>Mihaljevic, Olgica </p>
+             <p>Miller, Julie A </p>
+             <p>Minuto, Michele </p>
+             <p>Monacelli, Massimo </p>
+             <p>Mulita, Francesk </p>
+             <p>Mullineris, Barbara </p>
+             <p>Muñoz-de-Nova, José Luis </p>
+             <p>Muradás Girardi, Fábio </p>
+             <p>Nader, Saki </p>
+             <p>Napadon, Tangjaturonrasme </p>
+             <p>Nastos, Constantinos </p>
+             <p>Offi, Chiara </p>
+             <p>Ronen, Ohad </p>
+             <p>Oragano, Luigi </p>
+             <p>Orois, Aida </p>
+             <p>Pan, Yongqin </p>
+             <p>Panagiotidis, Emmanouil </p>
+             <p>Panchangam, Ramakanth Bhargav </p>
+             <p>Papavramidis, Theodosios </p>
+             <p>Parida, Pradipta Kumar </p>
+             <p>Paspala, Anna </p>
+             <p>Pérez, Òscar Vidal </p>
+             <p>Petrovic, Sabrina </p>
+             <p>Raffaelli, Marco </p>
+             <p>Ramacciotti, Constanza Fernanda </p>
+             <p>Ratia Gimenez, Tomas </p>
+             <p>Rivo Vázquez, Ángel </p>
+             <p>Roh, Jong-Lyel </p>
+             <p>Rossi, Leonardo </p>
+             <p>Sanabria, Alvaro </p>
+             <p>Santeerapharp, Alena </p>
+             <p>Semenov, Arseny </p>
+             <p>Seneviratne, Sanjeewa </p>
+             <p>Serdar, Altinay </p>
+             <p>Sheahan, Patrick </p>
+             <p>Sheppard, Sean C </p>
+             <p>Slotcavage, Rachel L </p>
+             <p>Smaxwil, Constantin </p>
+             <p>Kim, Soo Young </p>
+             <p>Sorrenti, Salvatore </p>
+             <p>Spartalis, Eleftherios </p>
+             <p>Sriphrapradang, Chutintorn </p>
+             <p>Testini, Mario </p>
+             <p>Turk, Yigit </p>
+             <p>Tzikos, George </p>
+             <p>Vabalayte, Kristina </p>
+             <p>Vargas-Osorio, Kelly </p>
+             <p>Vázquez Rentería, Rafael Sebastián </p>
+             <p>Velázquez-Fernández, David </p>
+             <p>Vithana, Sanura Malinda Pallegoda </p>
+             <p>Yücel, Levent </p>
+             <p>Yulian, Erwin Danil </p>
+             <p>Zahradnikova, Petra </p>
+             <p>Zarogoulidis, Paul </p>
+             <p>Ziablitskaia, Evgeniia </p>
+             <p>Zolotoukho, Anna </p>
+             <p>Calò, Pietro Giorgio </p>
+             <p>Abdallah, A </p>
+             <p>Abentroth, Al </p>
+             <p>Acheimastos, V </p>
+             <p>Agunaoun, M </p>
+             <p>Al Bisher, Hm </p>
+             <p>Al Ghuzlan, A </p>
+             <p>Alakus, H </p>
+             <p>Alkan, M </p>
+             <p>Almaraz Almaraz, Mc </p>
+             <p>Amram, K </p>
+             <p>Anesidis, S </p>
+             <p>Anestiadou, E </p>
+             <p>Angelucci, D </p>
+             <p>Ansaldo, Gl </p>
+             <p>Antonopoulou, Mi </p>
+             <p>Arciniegas, M </p>
+             <p>Armellin, C </p>
+             <p>Arredondo Saldaña, G </p>
+             <p>Astl, J </p>
+             <p>Athanasakis, E </p>
+             <p>Avenia, S </p>
+             <p>Aydın, H </p>
+             <p>Baba, B </p>
+             <p>Babala, J </p>
+             <p>Banús, Mv </p>
+             <p>Barba-Valadez, La </p>
+             <p>Barcons, Sv </p>
+             <p>Battafarano, F </p>
+             <p>Bayat, A </p>
+             <p>Bella, Rmc </p>
+             <p>Benariba, F </p>
+             <p>Bernardi, S </p>
+             <p>Bignami, Eg </p>
+             <p>Bitenc, M </p>
+             <p>Bitsianis, S </p>
+             <p>Bolaños De La Torre, Jdd </p>
+             <p>Bonati, E </p>
+             <p>Bonetti, T </p>
+             <p>Borges, Fa </p>
+             <p>Bouchagier, K </p>
+             <p>Boudina, M </p>
+             <p>Bourial, A </p>
+             <p>Breuskin, I </p>
+             <p>Brock, P </p>
+             <p>Bruns, C </p>
+             <p>Burlacu, Mc </p>
+             <p>Burton, T </p>
+             <p>Buta, M </p>
+             <p>Buzanakov, D </p>
+             <p>Caliseo, C </p>
+             <p>Callanan, D </p>
+             <p>Calu, V </p>
+             <p>Cameselle-Teijeiro, Jm </p>
+             <p>Camilo-Junior, Dj </p>
+             <p>Canberk, S </p>
+             <p>Candalise, V </p>
+             <p>Candanedo-Gonzalez, F </p>
+             <p>Carrillo Lizarazo, Lj </p>
+             <p>Carvalho, Gb </p>
+             <p>Casallas, D </p>
+             <p>Casolino, C </p>
+             <p>Castellani, L </p>
+             <p>Castillo Morales, C </p>
+             <p>Chambon, G </p>
+             <p>Chatzipavlidou, V </p>
+             <p>Chernikov, R </p>
+             <p>Chorti, A </p>
+             <p>Chow, Tcm </p>
+             <p>Chrisoulidou, A </p>
+             <p>Chrysos, E </p>
+             <p>Conrado-Neto, S </p>
+             <p>Cordova García, D </p>
+             <p>Corigliano, A </p>
+             <p>Crocco, A </p>
+             <p>Cuesta, A </p>
+             <p>Čukman, M </p>
+             <p>Curto, Ls </p>
+             <p>Damilano, Ra </p>
+             <p>D’Anna, R </p>
+             <p>De, M </p>
+             <p>De Virgilio, A </p>
+             <p>Dellaportas, D </p>
+             <p>Demarquet, L </p>
+             <p>Devresse, A </p>
+             <p>Di Meo, G </p>
+             <p>Diaz Pedrero, R </p>
+             <p>Dimitrov, D </p>
+             <p>Dmitry, Z </p>
+             <p>Domínguez Garijo, P </p>
+             <p>Dulgeroglu, O </p>
+             <p>Dural, Ac </p>
+             <p>Eksi, A </p>
+             <p>El Hammoumi, M </p>
+             <p>El Kaoui, H </p>
+             <p>Eleni, G </p>
+             <p>Elliyanti, A </p>
+             <p>Ersöz, Ş </p>
+             <p>Escobar-Jiménez, M </p>
+             <p>Fedorova, L </p>
+             <p>Feeley, L </p>
+             <p>Fernández Rodríguez, E </p>
+             <p>Ferreli, F </p>
+             <p>Filoia, A </p>
+             <p>Fingeret, A </p>
+             <p>Francescato, A </p>
+             <p>Gaino, F </p>
+             <p>Galiandro, F </p>
+             <p>Gallegos-Hernández, Jf </p>
+             <p>Garas, G </p>
+             <p>García Lorenzo, F </p>
+             <p>García-Chávez, Jp </p>
+             <p>Gaudiello, M </p>
+             <p>Gay, S </p>
+             <p>Gerasimos, S </p>
+             <p>Gerek, M </p>
+             <p>Gervasi, R </p>
+             <p>Giordano, A </p>
+             <p>Gjeloshi, B </p>
+             <p>Gocký, L </p>
+             <p>Golubinskaya, E </p>
+             <p>González Romero, S </p>
+             <p>González-Mínguez, C </p>
+             <p>Goran, M </p>
+             <p>Gosman, A </p>
+             <p>Granados Garcia, M </p>
+             <p>Greco, E </p>
+             <p>Grünbart, M </p>
+             <p>Grützmann, R </p>
+             <p>Guerlain, J </p>
+             <p>Guirao, Xg </p>
+             <p>Guzey, D </p>
+             <p>Hajjij, A </p>
+             <p>Hamdy, O </p>
+             <p>Hameed, Ms </p>
+             <p>Hauth, La </p>
+             <p>Hernández-Acevedo, Jd </p>
+             <p>Hernandez-Carrillo, Jf </p>
+             <p>Hevilla Sánchez, F </p>
+             <p>Hoi, H </p>
+             <p>Hongkwon, K </p>
+             <p>Hu Zhu, R </p>
+             <p>Huang, E </p>
+             <p>Hyeung Kyoo, K </p>
+             <p>Ignjatovic, V </p>
+             <p>Ioannidis, A </p>
+             <p>Iossa, A </p>
+             <p>Işık, A </p>
+             <p>James, D </p>
+             <p>Jung Hoon, L </p>
+             <p>Kara, H </p>
+             <p>Karajovic, J </p>
+             <p>Kartini, D </p>
+             <p>Khambri, D </p>
+             <p>Kholová, I </p>
+             <p>Kisiel, M </p>
+             <p>Knežević, M </p>
+             <p>Koh, Yq </p>
+             <p>Konca, C </p>
+             <p>Kosmidis, C </p>
+             <p>Kotsovolis, G </p>
+             <p>Kowalski, Lp </p>
+             <p>Kralik, R </p>
+             <p>Kuczma, P </p>
+             <p>Kuravi, Bg </p>
+             <p>Kurnia, A </p>
+             <p>Kyriaki, V </p>
+             <p>Lai, Cm </p>
+             <p>Lallemant, B </p>
+             <p>Lardhi, Aa </p>
+             <p>Leboulleux, S </p>
+             <p>Lee, Jw </p>
+             <p>Lelli, G </p>
+             <p>Leutner, M </p>
+             <p>Lim, My </p>
+             <p>Lim, Cm </p>
+             <p>Llanos, A </p>
+             <p>Lo, X </p>
+             <p>Loderer, T </p>
+             <p>López-Corrales, Ma </p>
+             <p>Ludwig, M </p>
+             <p>Magnabosco, Ff </p>
+             <p>Maheo, C </p>
+             <p>Maia, Al </p>
+             <p>Makay, O </p>
+             <p>Maksimova, P </p>
+             <p>Mallick, S </p>
+             <p>Mallouk, C </p>
+             <p>Mamani, Z </p>
+             <p>Mandal, S </p>
+             <p>Manyalich Blasi, M </p>
+             <p>Marincola, G </p>
+             <p>Marulanda, M </p>
+             <p>Mavromati, M </p>
+             <p>Mayilvaganan, S </p>
+             <p>Metso, S </p>
+             <p>Micalizzi, A </p>
+             <p>Michalopoulos, A </p>
+             <p>Min-Su, K </p>
+             <p>Miron, A </p>
+             <p>Mishra, Ak </p>
+             <p>Misso, C </p>
+             <p>Mittermair, C </p>
+             <p>Morosán Allo, Y </p>
+             <p>Mourad, M </p>
+             <p>Moysidis, M </p>
+             <p>Nabhan, F </p>
+             <p>Nasiri, R </p>
+             <p>Nastos, C </p>
+             <p>Ngiam, Ky </p>
+             <p>Nomine-Criqui, C </p>
+             <p>Ntziovara, Am </p>
+             <p>Nuño Vázquez-Garza, Jm </p>
+             <p>Nutautiene, V </p>
+             <p>Obtulovičová, K </p>
+             <p>O’Keeffe, L </p>
+             <p>Okudur, No </p>
+             <p>Ossola, P </p>
+             <p>Ovejero Merino, E </p>
+             <p>Ozdemir, M </p>
+             <p>Pangonis, A </p>
+             <p>Panigoro, Ss </p>
+             <p>Panuzi, A </p>
+             <p>Papaconstantinou, D </p>
+             <p>Pardo Matamoros, N </p>
+             <p>Paschou, S </p>
+             <p>Pasculli, A </p>
+             <p>Paterakis, K </p>
+             <p>Peiris, K </p>
+             <p>Pennestrì, F </p>
+             <p>Peppa, M </p>
+             <p>Perdikaris, P </p>
+             <p>Perdikaris, I </p>
+             <p>Pérez-Soto, Rh </p>
+             <p>Piana, S </p>
+             <p>Piccoli, M </p>
+             <p>Pietrasanta, D </p>
+             <p>Placentino, G </p>
+             <p>Pliakos, I </p>
+             <p>Polistena, A </p>
+             <p>Pongtippan, A </p>
+             <p>Potard, G </p>
+             <p>Quinn, V </p>
+             <p>Rahul, P </p>
+             <p>Ramos, T </p>
+             <p>Rankin, A </p>
+             <p>Ratnayake, P </p>
+             <p>Reuto-Castillo, J </p>
+             <p>Ridolfo, A </p>
+             <p>Rios-Valencia, J </p>
+             <p>Riss, P </p>
+             <p>Rival, E </p>
+             <p>Rivillas, J </p>
+             <p>Roi, D </p>
+             <p>Rollo, Em </p>
+             <p>Romanchishen, A </p>
+             <p>Romito, M </p>
+             <p>Rotnagl, J </p>
+             <p>Rovcanin, B </p>
+             <p>Russo, G </p>
+             <p>Sabol, M </p>
+             <p>Saki, S </p>
+             <p>Saleh, S </p>
+             <p>Salih, A </p>
+             <p>Saltiki, A </p>
+             <p>Salvador-Camarmo, G </p>
+             <p>Samal, Dk </p>
+             <p>Sánchez-Flores, S </p>
+             <p>Sapalidis, K </p>
+             <p>Sarin, D </p>
+             <p>Sarin, H </p>
+             <p>Savkovic, N </p>
+             <p>Scheffel, Rs </p>
+             <p>Scheinpflug, Al </p>
+             <p>Scheuba, C </p>
+             <p>Scheyer, N </p>
+             <p>Schmidt, M </p>
+             <p>Senashova, O </p>
+             <p>Serafini, E </p>
+             <p>Serrano Arévalo, Ml </p>
+             <p>Shank, J </p>
+             <p>Shindo, Ml </p>
+             <p>Shoshkova, M </p>
+             <p>Shvan, M </p>
+             <p>Sičák, M </p>
+             <p>Silva, Tg </p>
+             <p>Simó Guerrero, O </p>
+             <p>Skuletic, V </p>
+             <p>Slijepcevic, N </p>
+             <p>Slovic, Z </p>
+             <p>Soares, P </p>
+             <p>Somova, A </p>
+             <p>Soto, S </p>
+             <p>Spiezia, S </p>
+             <p>Stankovic, V </p>
+             <p>Stephenson, Kj </p>
+             <p>Straub, E </p>
+             <p>Summa, M </p>
+             <p>Surani, S </p>
+             <p>Syed, Aa </p>
+             <p>Symeonidis, S </p>
+             <p>Taciak, A </p>
+             <p>Tarallo, M </p>
+             <p>Tarle, A </p>
+             <p>Tasis, N </p>
+             <p>Tausanovic, K </p>
+             <p>Tchabashvili, L </p>
+             <p>Thierry, M </p>
+             <p>Tokarczyk, U </p>
+             <p>Toma, Ea </p>
+             <p>Topuz, S </p>
+             <p>Torresan, F </p>
+             <p>Uras, C </p>
+             <p>Vaccaro, C </p>
+             <p>Valdés De Anca, Á </p>
+             <p>Valentini, M </p>
+             <p>Varaldo, E </p>
+             <p>Vartanian, Jg </p>
+             <p>Verras, Gi </p>
+             <p>Vithanage, A </p>
+             <p>Wijayalathge, H </p>
+             <p>Wiriyaamornchai, P </p>
+             <p>Wong, Ylc </p>
+             <p>Wongwattana, P </p>
+             <p>Xenaki, S </p>
+             <p>Xie, S </p>
+             <p>Xu, M </p>
+             <p>Yang, W </p>
+             <p>Yilmaz, S </p>
+             <p>Yılmaz, Yf </p>
+             <p>Yotsov, T </p>
+             <p>Zahid, Mt </p>
+             <p>Zielke, A </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Data de Publicação</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">1 de junho de 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+<div>
+  <div class="abstract">
+    <div class="block-title">Resumo</div>
+    <p>Resumo não disponível.</p>
+  </div>
+</div>
+
+
+</header>
+
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of the COVID-19 pandemic on surgery for indeterminate thyroid nodules (THYCOVID): a retrospective, international, multicentre, cross-sectional study</li>
+  </ol>
+</nav>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citação</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{fabio2023,
+  author = {Fabio , Medas and Chiara , Dobrinja and Ebtesam Abdullah ,
+    Al-Suhaimi and Julia , Altmeier and Said , Anajar and Akif Enes ,
+    Arikan and Irina , Azaryan and Lovenish , Bains and Giancarlo ,
+    Basili and Hakan , Bolukbasi and Marco , Bononi and Farzad ,
+    Borumandi and Mehmet Buğra , Bozan and Gabriela , Brenta and Laurent
+    , Brunaud and Maximilian , Brunner and Antoine , Buemi and Gian
+    Luigi , Canu and Federico , Cappellacci and Sara Burchfield ,
+    Cartwright and Fusté, Ignasi, Castells and Beatriz , Cavalheiro and
+    Giuseppe , Cavallaro and Andres , Chala and Shun Yan Bryant , Chan
+    and John , Chaplin and Mustafa Sajjad , Cheema and Costanza ,
+    Chiapponi and Maria Grazia , Chiofalo and Emmanuel , Chrysos and
+    Annamaria , D’Amore and Cillia, Michael, De and Crea, Carmela, De
+    and Manzini, Nicolò, De and Matos, Leandro Luongo, De and Pasquale,
+    Loredana, De and Rio, Paolo, Del and Marco Stefano , Demarchi and
+    Muthuswamy , Dhiwakar and Gianluca , Donatini and Jose Miguel , Dora
+    and Valerio , D’Orazi and Gamgaram, Viyey Kishore, Doulatram and
+    Vitalijus , Eismontas and El Hassane , Kabiri and Malki, Hadj Omar,
+    El and Islam , Elzahaby and Octavian , Enciu and Antoine , Eskander
+    and Francesco , Feroci and David , Figueroa-Bohorquez and Dimitrios
+    , Filis and François , Gorostidi and Pedro , Frías-Fernández and
+    Armando , Gamboa-Dominguez and Volkan , Genc and Davide , Giordano
+    and Antonio , Gómez-Pedraza and Giuseppa , Graceffa and James ,
+    Griffin and Sofia Cuco , Guerreiro and Karan , Gupta and Keshav
+    Kumar , Gupta and Angela , Gurrado and Jiannis , Hajiioannou and
+    Tommi , Hakala and Wirsma Arif , Harahap and Lindsay , Hargitai and
+    Dana , Hartl and Andrzej , Hellmann and Jiri , Hlozek and Van Trung
+    , Hoang and Maurizio , Iacobone and Nadia , Innaro and Orestis ,
+    Ioannidis and J H Isabelle , Jang and Jose Candido , Xavier-Junior
+    and Milan , Jovanovic and Reto Martin , Kaderli and Fahmi , Kakamad
+    and Krzysztof , Kaliszewski and Martin , Karamanliev and Hiroshi ,
+    Katoh and Andro , Košec and Bozidar , Kovacevic and Luiz Paulo ,
+    Kowalski and Robert , Králik and Sanjay Kumar , Yadav and Adriána ,
+    Kumorová and Savvas , Lampridis and Konstantinos , Lasithiotakis and
+    Jean-Christophe , Leclere and Eugene Kwong Fei , Leong and Melvin
+    Khee-Shing , Leow and James Y , Lim and Leonardo S , Lino-Silva and
+    Shirley Yuk Wah , Liu and Núria Perucho , Llorach and Celestino Pio
+    , Lombardi and Javier , López-Gómez and Eleonora , Lori and Lourdes
+    , Quintanilla-Dieck and Roberta , Lucchini and Amin , Madani and
+    Dimitrios , Manatakis and Ivan , Markovic and Gabriele , Materazzi
+    and Haggi , Mazeh and Giuseppe , Mercante and Goswin Yason ,
+    Meyer-Rochow and Olgica , Mihaljevic and Julie A , Miller and
+    Michele , Minuto and Massimo , Monacelli and Francesk , Mulita and
+    Barbara , Mullineris and José Luis , Muñoz-de-Nova and Girardi,
+    Fábio, Muradás and Saki , Nader and Tangjaturonrasme , Napadon and
+    Constantinos , Nastos and Chiara , Offi and Ohad , Ronen and Luigi ,
+    Oragano and Aida , Orois and Yongqin , Pan and Emmanouil ,
+    Panagiotidis and Ramakanth Bhargav , Panchangam and Theodosios ,
+    Papavramidis and Pradipta Kumar , Parida and Anna , Paspala and
+    Òscar Vidal , Pérez and Sabrina , Petrovic and Marco , Raffaelli and
+    Constanza Fernanda , Ramacciotti and Gimenez, Tomas, Ratia and
+    Vázquez, Ángel, Rivo and Jong-Lyel , Roh and Leonardo , Rossi and
+    Alvaro , Sanabria and Alena , Santeerapharp and Arseny , Semenov and
+    Sanjeewa , Seneviratne and Altinay , Serdar and Patrick , Sheahan
+    and Sean C , Sheppard and Rachel L , Slotcavage and Constantin ,
+    Smaxwil and Soo Young , Kim and Salvatore , Sorrenti and Eleftherios
+    , Spartalis and Chutintorn , Sriphrapradang and Mario , Testini and
+    Yigit , Turk and George , Tzikos and Kristina , Vabalayte and Kelly
+    , Vargas-Osorio and Rentería, Rafael Sebastián, Vázquez and David ,
+    Velázquez-Fernández and Sanura Malinda Pallegoda , Vithana and
+    Levent , Yücel and Erwin Danil , Yulian and Petra , Zahradnikova and
+    Paul , Zarogoulidis and Evgeniia , Ziablitskaia and Anna ,
+    Zolotoukho and Pietro Giorgio , Calò and A , Abdallah and Al ,
+    Abentroth and V , Acheimastos and M , Agunaoun and Bisher, Hm, Al
+    and Ghuzlan, A, Al and H , Alakus and M , Alkan and Almaraz, Mc,
+    Almaraz and K , Amram and S , Anesidis and E , Anestiadou and D ,
+    Angelucci and Gl , Ansaldo and Mi , Antonopoulou and M , Arciniegas
+    and C , Armellin and Saldaña, G, Arredondo and J , Astl and E ,
+    Athanasakis and S , Avenia and H , Aydın and B , Baba and J , Babala
+    and Mv , Banús and La , Barba-Valadez and Sv , Barcons and F ,
+    Battafarano and A , Bayat and Rmc , Bella and F , Benariba and S ,
+    Bernardi and Eg , Bignami and M , Bitenc and S , Bitsianis and De La
+    Torre, Jdd, Bolaños and E , Bonati and T , Bonetti and Fa , Borges
+    and K , Bouchagier and M , Boudina and A , Bourial and I , Breuskin
+    and P , Brock and C , Bruns and Mc , Burlacu and T , Burton and M ,
+    Buta and D , Buzanakov and C , Caliseo and D , Callanan and V , Calu
+    and Jm , Cameselle-Teijeiro and Dj , Camilo-Junior and S , Canberk
+    and V , Candalise and F , Candanedo-Gonzalez and Lizarazo, Lj,
+    Carrillo and Gb , Carvalho and D , Casallas and C , Casolino and L ,
+    Castellani and Morales, C, Castillo and G , Chambon and V ,
+    Chatzipavlidou and R , Chernikov and A , Chorti and Tcm , Chow and A
+    , Chrisoulidou and E , Chrysos and S , Conrado-Neto and García, D,
+    Cordova and A , Corigliano and A , Crocco and A , Cuesta and M ,
+    Čukman and Ls , Curto and Ra , Damilano and R , D’Anna and M , De
+    and Virgilio, A, De and D , Dellaportas and L , Demarquet and A ,
+    Devresse and Meo, G, Di and Pedrero, R, Diaz and D , Dimitrov and Z
+    , Dmitry and Garijo, P, Domínguez and O , Dulgeroglu and Ac , Dural
+    and A , Eksi and Hammoumi, M, El and Kaoui, H, El and G , Eleni and
+    A , Elliyanti and Ş , Ersöz and M , Escobar-Jiménez and L , Fedorova
+    and L , Feeley and Rodríguez, E, Fernández and F , Ferreli and A ,
+    Filoia and A , Fingeret and A , Francescato and F , Gaino and F ,
+    Galiandro and Jf , Gallegos-Hernández and G , Garas and Lorenzo, F,
+    García and Jp , García-Chávez and M , Gaudiello and S , Gay and S ,
+    Gerasimos and M , Gerek and R , Gervasi and A , Giordano and B ,
+    Gjeloshi and L , Gocký and E , Golubinskaya and Romero, S, González
+    and C , González-Mínguez and M , Goran and A , Gosman and Garcia, M,
+    Granados and E , Greco and M , Grünbart and R , Grützmann and J ,
+    Guerlain and Xg , Guirao and D , Guzey and A , Hajjij and O , Hamdy
+    and Ms , Hameed and La , Hauth and Jd , Hernández-Acevedo and Jf ,
+    Hernandez-Carrillo and Sánchez, F, Hevilla and H , Hoi and K ,
+    Hongkwon and Zhu, R, Hu and E , Huang and Kyoo, K, Hyeung and V ,
+    Ignjatovic and A , Ioannidis and A , Iossa and A , Işık and D ,
+    James and Hoon, L, Jung and H , Kara and J , Karajovic and D ,
+    Kartini and D , Khambri and I , Kholová and M , Kisiel and M ,
+    Knežević and Yq , Koh and C , Konca and C , Kosmidis and G ,
+    Kotsovolis and Lp , Kowalski and R , Kralik and P , Kuczma and Bg ,
+    Kuravi and A , Kurnia and V , Kyriaki and Cm , Lai and B , Lallemant
+    and Aa , Lardhi and S , Leboulleux and Jw , Lee and G , Lelli and M
+    , Leutner and My , Lim and Cm , Lim and A , Llanos and X , Lo and T
+    , Loderer and Ma , López-Corrales and M , Ludwig and Ff , Magnabosco
+    and C , Maheo and Al , Maia and O , Makay and P , Maksimova and S ,
+    Mallick and C , Mallouk and Z , Mamani and S , Mandal and Blasi, M,
+    Manyalich and G , Marincola and M , Marulanda and M , Mavromati and
+    S , Mayilvaganan and S , Metso and A , Micalizzi and A ,
+    Michalopoulos and K , Min-Su and A , Miron and Ak , Mishra and C ,
+    Misso and C , Mittermair and Allo, Y, Morosán and M , Mourad and M ,
+    Moysidis and F , Nabhan and R , Nasiri and C , Nastos and Ky , Ngiam
+    and C , Nomine-Criqui and Am , Ntziovara and Vázquez-Garza, Jm, Nuño
+    and V , Nutautiene and K , Obtulovičová and L , O’Keeffe and No ,
+    Okudur and P , Ossola and Merino, E, Ovejero and M , Ozdemir and A ,
+    Pangonis and Ss , Panigoro and A , Panuzi and D , Papaconstantinou
+    and Matamoros, N, Pardo and S , Paschou and A , Pasculli and K ,
+    Paterakis and K , Peiris and F , Pennestrì and M , Peppa and P ,
+    Perdikaris and I , Perdikaris and Rh , Pérez-Soto and S , Piana and
+    M , Piccoli and D , Pietrasanta and G , Placentino and I , Pliakos
+    and A , Polistena and A , Pongtippan and G , Potard and V , Quinn
+    and P , Rahul and T , Ramos and A , Rankin and P , Ratnayake and J ,
+    Reuto-Castillo and A , Ridolfo and J , Rios-Valencia and P , Riss
+    and E , Rival and J , Rivillas and D , Roi and Em , Rollo and A ,
+    Romanchishen and M , Romito and J , Rotnagl and B , Rovcanin and G ,
+    Russo and M , Sabol and S , Saki and S , Saleh and A , Salih and A ,
+    Saltiki and G , Salvador-Camarmo and Dk , Samal and S ,
+    Sánchez-Flores and K , Sapalidis and D , Sarin and H , Sarin and N ,
+    Savkovic and Rs , Scheffel and Al , Scheinpflug and C , Scheuba and
+    N , Scheyer and M , Schmidt and O , Senashova and E , Serafini and
+    Arévalo, Ml, Serrano and J , Shank and Ml , Shindo and M , Shoshkova
+    and M , Shvan and M , Sičák and Tg , Silva and Guerrero, O, Simó and
+    V , Skuletic and N , Slijepcevic and Z , Slovic and P , Soares and A
+    , Somova and S , Soto and S , Spiezia and V , Stankovic and Kj ,
+    Stephenson and E , Straub and M , Summa and S , Surani and Aa , Syed
+    and S , Symeonidis and A , Taciak and M , Tarallo and A , Tarle and
+    N , Tasis and K , Tausanovic and L , Tchabashvili and M , Thierry
+    and U , Tokarczyk and Ea , Toma and S , Topuz and F , Torresan and C
+    , Uras and C , Vaccaro and De Anca, Á, Valdés and M , Valentini and
+    E , Varaldo and Jg , Vartanian and Gi , Verras and A , Vithanage and
+    H , Wijayalathge and P , Wiriyaamornchai and Ylc , Wong and P ,
+    Wongwattana and S , Xenaki and S , Xie and M , Xu and W , Yang and S
+    , Yilmaz and Yf , Yılmaz and T , Yotsov and Mt , Zahid and A ,
+    Zielke},
+  title = {Effect of the COVID-19 pandemic on surgery for indeterminate
+    thyroid nodules (THYCOVID): a retrospective, international,
+    multicentre, cross-sectional study},
+  volume = {11},
+  number = {6},
+  date = {2023-06-01},
+  doi = {10.1016/S2213-8587(23)00094-3},
+  langid = {pt-BR},
+  abstract = {Resumo não disponível.}
+}
+</code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Por favor, cite este trabalho como:</div><div id="ref-fabio2023" class="csl-entry quarto-appendix-citeas" role="listitem">
+Fabio, Medas, Dobrinja Chiara, Al-Suhaimi Ebtesam Abdullah, Altmeier
+Julia, Anajar Said, Arikan Akif Enes, Azaryan Irina, et al. 2023.
+<span>“Effect of the COVID-19 pandemic on surgery for indeterminate
+thyroid nodules (THYCOVID): a retrospective, international, multicentre,
+cross-sectional study.”</span> The Lancet Diabetes &amp; Endocrinology.
+June 1, 2023. <a href="https://doi.org/10.1016/S2213-8587(23)00094-3">https://doi.org/10.1016/S2213-8587(23)00094-3</a>.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiada");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiada");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

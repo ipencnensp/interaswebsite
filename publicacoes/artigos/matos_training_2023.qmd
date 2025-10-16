@@ -1,0 +1,23 @@
+---
+title: "Training of head and neck surgeons in Brazil: biannual evaluation by the Brazilian Society of Head and Neck Surgery"
+date: 2023-01-01
+author:
+  - name: Matos, Leandro Luongo
+  - name: Kulcsar, Marco Aurélio Vamondes
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Archives of Head and Neck Surgery"
+  volume: 52
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Training of head and neck surgeons in Brazil: biannual evaluation by the Brazilian Society of Head and Neck Surgery</li>
+  </ol>
+</nav>
+```

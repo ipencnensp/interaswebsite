@@ -1,0 +1,48 @@
+---
+title:  "Arian Pérez Nario"
+sortby: "1"
+subtitle: "Bolsista"
+toc: false
+field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+about:
+  id: person-profile
+  template: jolla
+  image: fotos/arian-perez-nario.png
+  links:
+    - icon: link
+      text: Lattes
+      href: "http://lattes.cnpq.br/7209158426268929"
+    - icon: mortarboard
+      text: scholar
+      href: ""
+    - icon: bank
+      text: Instituição
+      href: "http://www.ipen.br"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../coord-equipe.html">Coord. e Equipe</a></li>
+    <li class="breadcrumb-item active">Bolsista</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+:::{#person-profile}
+:::
+
+### Instituição
+
+[Instituto de Pesquisas Energéticas e Nucleares- IPEN/CNEN-SP-Brasil](http://www.ipen.br)
+
+### Áreas de Atuação
+
+Química Orgânica, Radioquímica, Síntese Orgânica
+
+### Atuação no Projeto
+
+Desenvolver sistemas microfluídicos para síntese de radiofármacos que usam flúor radioativo.

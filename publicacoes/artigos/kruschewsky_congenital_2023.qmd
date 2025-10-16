@@ -1,0 +1,29 @@
+---
+title: "Congenital Midline Cervical Cleft and Thyroglossal Duct Fibrous Cord-Like, is There a Mixed Presentation?"
+date: 2023-07-27
+author:
+  - name: Kruschewsky, Leonardo De Souza
+  - name: Matos, Leandro Luongo De
+  - name: Alonso, Nivaldo
+  - name: Seidler, Cariline Da Silva
+  - name: Lisboa, Sonyara Rauedys Oliveira
+  - name: Silva, Roberto Cintra Lomanto Santos
+  - name: Goldenberg, Dov Charles
+  - name: Silva, Tatiana Valeria Novais
+abstract: > 
+  Introduction: Congenital midline cervical cleft is a rare condition and is frequently misdiagnosed as thyroglossal duct cyst. Otherwise, the combination of congenital midline cervical cleft and thyroglossal duct fibrosis in the same patient is as rare as important to be registered with the intention to inform and offer specific managements details for the literature. Case Presentation: Eight-year-old boy with simultaneous congenital midline cervical cleft and a thyroglossal duct fibrosis. The anatomic, clinical, radiologic, and pathologic characteristics of the congenital midline cervical cleft are described as well as surgical technique for removal and repair with Z-plasty. Conclusion: Congenital midline cervical cleft is a rare condition and when diagnosed must be surgically treated as early as possible. Its differential diagnosis is a clinical challenge.
+categories: [article]
+citation: 
+  container-title: "Journal of Craniofacial Surgery"
+  doi: "10.1097/SCS.0000000000009559"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Congenital Midline Cervical Cleft and Thyroglossal Duct Fibrous Cord-Like, is There a Mixed Presentation?</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,29 @@
+---
+title: "PANORAMA DOS EXAMES DE PET-CT – FDG- 18F NO CÂNCER DO COLO DO ÚTERO EM UMA INSTITUIÇÃO PRIVADA DO BRASIL"
+date: 2024-04-01
+author:
+  - name: Pedreira, Yuri Aguillera
+  - name: Do Prado, Leonardo Fonseca Monteiro
+  - name: Da Silva, Marcelo Moreira
+  - name: Menezes, Mario Olimpio De
+  - name: Viviani, Dionisio Nepomuceno
+  - name: Boeno, Bruno Russiano De Oliveira
+  - name: Viviani, Carla Lima Santos
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Hematology, Transfusion and Cell Therapy"
+  volume: 46
+  doi: "10.1016/j.htct.2024.04.073"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">PANORAMA DOS EXAMES DE PET-CT – FDG- 18F NO CÂNCER DO COLO DO ÚTERO EM UMA INSTITUIÇÃO PRIVADA DO BRASIL</li>
+  </ol>
+</nav>
+```

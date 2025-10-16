@@ -1,0 +1,31 @@
+---
+title: "Evaluation of epithelial-to-mesenchymal transition and Ki-67 index in aggressive papillary thyroid cancer"
+date: 2025-01-01
+author:
+  - name: Camilo, Luana Perrone
+  - name: Vianna, Paula
+  - name: Alves, Venancio Avancini Ferreira
+  - name: Cavalheiro, Beatriz Godoi
+  - name: Rossetti, Carlos Augusto
+  - name: Kowalski, Luiz Paulo
+  - name: Matos, Leandro Luongo
+  - name: Leite, Ana Kober Nogueira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  issue: 1
+  doi: "10.1016/j.bjorl.2024.101510"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of epithelial-to-mesenchymal transition and Ki-67 index in aggressive papillary thyroid cancer</li>
+  </ol>
+</nav>
+```

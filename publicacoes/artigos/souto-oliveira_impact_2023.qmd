@@ -1,0 +1,32 @@
+---
+title: "Impact of extreme wildfires from the Brazilian Forests and sugarcane burning on the air quality of the biggest megacity on South America"
+date: 2023-08-01
+author:
+  - name: Souto-Oliveira, Carlos E.
+  - name: Marques, Márcia T.A.
+  - name: Nogueira, Thiago
+  - name: Lopes, Fabio J.S.
+  - name: Medeiros, José A.G.
+  - name: Medeiros, Ilca M.M.A.
+  - name: Moreira, Gregori A.
+  - name: Da Silva Dias, Pedro Leite
+  - name: Landulfo, Eduardo
+  - name: Andrade, Maria De F.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Science of The Total Environment"
+  volume: 888
+  doi: "10.1016/j.scitotenv.2023.163439"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Impact of extreme wildfires from the Brazilian Forests and sugarcane burning on the air quality of the biggest megacity on South America</li>
+  </ol>
+</nav>
+```

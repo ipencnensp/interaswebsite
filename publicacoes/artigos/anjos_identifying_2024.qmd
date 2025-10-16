@@ -1,0 +1,34 @@
+---
+title: "Identifying the Molecular Fingerprint of Beta-Lactams via Raman/SERS Spectroscopy Using Unconventional Nanoparticles for Antimicrobial Stewardship"
+date: 2024-12-02
+author:
+  - name: Anjos, Vinicius Pereira
+  - name: Marangoni, Caroline Guimarães Pançardes Da Silva
+  - name: Nadas, Rafael
+  - name: Machado, Thiago Neves
+  - name: Krul, Damaris
+  - name: Rodrigues, Luiza Souza
+  - name: Dalla-Costa, Libera Maria
+  - name: Schreiner, Wido Herwig
+  - name: Zezell, Denise Maria
+  - name: Bezerra, Arandi Ginane
+  - name: De Góes, Rafael Eleodoro
+abstract: > 
+  Background/Objectives: Beta-lactam antibiotics, derived from penicillin, are the most used class of antimicrobials used for treating bacterial infections. Over the years, microorganisms have developed resistance mechanisms capable of preventing the effect of these drugs. This condition has been a significant public health concern for the 21st century, especially after predictions that antimicrobial resistance could lead to 10 million deaths annually by 2050. The challenge of developing new antimicrobials brings with it the need to ensure the efficacy of existing ones, hence the importance of developing fast and low-cost monitoring techniques. Methods: In this study, we present an alternative based on nanophotonics using Surface-Enhanced Raman Spectroscopy (SERS) mediated by nanoparticles for the detection of antimicrobials, with emphasis on some beta-lactam antibiotics commonly prescribed in cases of critically ill patients. It is a sensitive and accurate technique for drug monitoring, allowing for rapid and specific detection of its molecular signatures. This approach is crucial to address the challenge of antimicrobial resistance and ensure the therapeutic efficacy of existing treatments. Results: Our experiments demonstrate the possibility of identifying spectra with characteristic vibrations (fingerprints) of these antimicrobials via SERS. Conclusions: Our results point to new strategies for molecular monitoring of drugs by optical techniques using unconventional nanoparticles.
+categories: [article]
+citation: 
+  container-title: "Antibiotics"
+  volume: 13
+  issue: 12
+  doi: "10.3390/antibiotics13121157"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Identifying the Molecular Fingerprint of Beta-Lactams via Raman/SERS Spectroscopy Using Unconventional Nanoparticles for Antimicrobial Stewardship</li>
+  </ol>
+</nav>
+```

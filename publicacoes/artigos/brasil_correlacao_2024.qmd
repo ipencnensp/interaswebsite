@@ -1,0 +1,25 @@
+---
+title: "CORRELAÇÃO ENTRE BRUXISMO E ANSIEDADE NA PANDEMIA DO COVID-19"
+date: 2024-01-01
+author:
+  - name: Brasil, Thayris Vieira
+  - name: Moraes, Marcia Cristina Dias De
+abstract: > 
+  O isolamento social adotado durante a pandemia do COVID-19 teve efeitos psicológicos negativos, como medo, ansiedade, estresse e solidão. Esse ambiente de ansiedade e estresse foi ampliado pela incerteza e pelo distanciamento social. Em decorrência dessas motivações psicossociais, muitas pessoas desenvolveram o bruxismo, seja na forma de bruxismo em vigília (ranger dos dentes durante o dia) ou bruxismo do sono (ranger dos dentes durante o sono) ou houve uma exacerbação dos sintomas. O objetivo desse estudo foi investigar os fatores etiológicos relacionados ao surgimento e tratamento do bruxismo durante a pandemia de COVID-19. Foi possível concluir que, até o momento, não há uma cura para o bruxismo. O manejo inclui tratamento, TCC, medicamentos, placas oclusais e uso da toxina botulínica como abordagens que podem ser adotadas pelo Cirurgião Dentista. Entretanto, é importante observar que a abordagem deve ser mulitprofissional, além do cirurgião dentista, com acompanhamento psicológico para o tratamento do fator etiológico (estresse e ansiedade). , The social isolation adopted during the COVID-19 pandemic has had negative psychological effects, such as fear, anxiety, stress and loneliness. This environment of anxiety and stress has been amplified by uncertainty and social distancing. As a result of these psychosocial motivations, many people developed bruxism, whether in the form of awake bruxism (teeth grinding during the day) or sleep bruxism (teeth grinding during sleep) or there was an exacerbation of symptoms. The objective of this study was to investigate the etiological factors related to the emergence and treatment of bruxism during the COVID-19 pandemic. It was possible to conclude that, to date, there is no cure for bruxism. Management includes treatment, CBT, medications, occlusal splints and use of botulinum toxin as approaches that can be adopted by the Dental Surgeon. However, it is important to note that the approach must be multiprofessional, in addition to the dental surgeon, with psychological support to treat the etiological factor (stress and anxiety).
+categories: [article]
+citation: 
+  container-title: "Cadernos de Odontologia"
+  volume: 6
+  issue: 2
+  doi: "10.29327/2442440.6.2-18"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">CORRELAÇÃO ENTRE BRUXISMO E ANSIEDADE NA PANDEMIA DO COVID-19</li>
+  </ol>
+</nav>
+```

@@ -1,0 +1,27 @@
+---
+title: "Computed tomography imaging analysis of a fused filament fabrication (FFF) 3D printed neck-thyroid phantom for multidisciplinary purposes"
+date: 2024-11-01
+author:
+  - name: Villani, D.
+  - name: Savi, M.
+  - name: Rodrigues, O.
+  - name: Potiens, M.P.A.
+  - name: Campos, L.L.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 224
+  doi: "10.1016/j.radphyschem.2024.112103"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Computed tomography imaging analysis of a fused filament fabrication (FFF) 3D printed neck-thyroid phantom for multidisciplinary purposes</li>
+  </ol>
+</nav>
+```

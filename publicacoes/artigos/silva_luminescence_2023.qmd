@@ -1,0 +1,30 @@
+---
+title: "Luminescence characterization of BioGlass undoped and doped with europium and silver ions"
+date: 2023-11-01
+author:
+  - name: Silva, Anderson M.B.
+  - name: Jesus, Laís S.
+  - name: Correa, Wender
+  - name: Junot, Danilo O.
+  - name: Caldas, Linda V.E.
+  - name: Dantas, Noelio O.
+  - name: Souza, Divanizia N.
+  - name: Silva, Anielle C.A.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Applied Radiation and Isotopes"
+  volume: 201
+  doi: "10.1016/j.apradiso.2023.110997"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Luminescence characterization of BioGlass undoped and doped with europium and silver ions</li>
+  </ol>
+</nav>
+```
