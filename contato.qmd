@@ -1,5 +1,9 @@
 ---
 title: "Contato"
+sidebar: false
+search: false
+repo-actions: false
+bread-crumbs: false
 ---
 
 
@@ -12,13 +16,18 @@ O INTERAS tem sede no IPEN - Instituto de Pesquisas Energéticas e Nucleares. No
 
 >Instituto de Pesquisas Energéticas e Nucleares - IPEN/CNEN, SP  
 INTERAS - Centro de Lasers e Aplicações (CELAP)  
-Av. Lineu Prestes, 2242 - Cidade Universitária 
+Av. Lineu Prestes, 2242 - Cidade Universitária  
 CEP 05508-000 -- São Paulo/SP
 
 
-## Telefones
+### Entre em Contato
 
-#### Secretaria
+#### Telefone da Secretaria
 
 +55 11 2810-1646
+
+#### E-mail
+
+`inctinteras@gmail.com`
+
 

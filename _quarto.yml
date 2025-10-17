@@ -4,15 +4,16 @@ project:
   preview:
     port: 4200
     browser: false
-  
+
 
 website:
   title: "INTERAS"
   page-navigation: true
+  favicon: images/favicon.ico
   navbar:
     toggle-position: right
-#    background: "#f0eeeb"
-    logo: images/logointeras.png
+#    background: light
+    logo: images/logo_pt_transparente.png
     logo-alt: "INCT INTERAS"
     collapse-below: lg
     right:
@@ -39,15 +40,25 @@ website:
 #          href: preprints.qmd
 #      - divulgacao/index.qmd
 #      - mulheresinteras/index.qmd
-
+  page-footer: 
+    left: 
+     - text: |
+          <img src="/images/3125_bordas_minimas_redim.png" alt="INTERAS" height="40">
+    center: "Copyright 2025 INTERAS"
+    right: 
+      - icon: github
+        href: https://github.com/ipencnensp/interaswebsite
+      - icon: twitter 
+        href: https://twitter.com/ 
          
 # Adicione esta seção para que o Quarto copie os diretórios de fotos
 resources:
   - "pessoas/*/fotos/"
+  - "images/*"
   
 format:
   html:
-    theme: lux
+    theme: materia
     css: styles.css
     toc: true
 
