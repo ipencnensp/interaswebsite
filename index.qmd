@@ -27,7 +27,7 @@ toc: false
       <div class="col-lg-10 mx-auto">
         <h1 class="display-4">Iluminando o Futuro da Saúde</h1>
         <p class="lead mt-4">
-        No INTERAS, unimos os maiores especialistas do país para transformar as radiações — da luz visível às ondas nucleares — em poderosas ferramentas para diagnósticos precoces e terapias inovadoras. Nossa missão é clara: usar a ciência da radiação para salvar vidas e melhorar a saúde de todos.
+        No INTERAS, unimos os maiores especialistas do país para transformar as radiações — da luz visível às radiações atômicas  — em poderosas ferramentas para diagnósticos precoces e terapias inovadoras. Nossa missão é clara: usar a ciência da radiação para salvar vidas e melhorar a saúde de todos.
         </p>
       </div>
     </div>
@@ -41,7 +41,7 @@ toc: false
   <div class="row">
     <div class="col-lg-8 mx-auto">
       <p class="lead ">
-      A pandemia de COVID-19 nos mostrou a urgência por diagnósticos rápidos e tratamentos eficazes. Inspirados por este e outros grandes desafios da saúde, como o câncer  e as doenças cardiovasculares, nasceu o INTERAS. Somos um Instituto Nacional de Ciência e Tecnologia dedicado a desenvolver soluções inovadoras baseadas em todo o espectro da radiação. Unindo fotônica, nanotecnologia e medicina nuclear, nossa rede de pesquisadores cria métodos diagnósticos não-invasivos, terapias de alta precisão e forma os futuros líderes da ciência no Brasil.
+      A pandemia de COVID-19 nos mostrou a urgência por diagnósticos rápidos e tratamentos eficazes. Inspirados por este e outros grandes desafios da saúde, como o câncer  e as doenças cardiovasculares, nasceu o INTERAS. Somos um Instituto Nacional de Ciência e Tecnologia dedicado a desenvolver soluções inovadoras baseadas em todo o espectro da radiação. Unindo fotônica, nanotecnologia, radiações atômicas e medicina nuclear, nossa rede de pesquisadores cria métodos diagnósticos não-invasivos, terapias de alta precisão e forma os futuros líderes da ciência no Brasil.
       </p>
     </div>
   </div>
@@ -105,7 +105,7 @@ toc: false
     <div class="feature-grid grid-image-right">
       <div class="feature-text-content text-end" style="margin-right: -5%;"> <h2 class="display-6">Inteligência que Acelera</h2>
         <p class="lead">
-          O futuro da saúde passa pela análise inteligente de dados. No INTERAS, usamos aprendizado de máquina e <i>deep learning</i> para decifrar a complexa informação contida em imagens médicas e dados espectrais. Nossos algoritmos ajudam a identificar padrões invisíveis ao olho humano, tornando o diagnóstico mais rápido e assertivo. Além disso, criamos simulações computacionais para entender a origem das doenças e desenhar novas terapias.
+          O futuro da saúde passa pela análise inteligente de dados. No INTERAS, usamos aprendizado de máquina e <i>deep learning</i> para decifrar a complexa informação contida em imagens médicas e dados espectrais. Nossos algoritmos ajudam a identificar padrões invisíveis ao olho humano, tornando o diagnóstico mais rápido e assertivo. Além disso, criamos simulações computacionais para melhorar a entrega de doses,  para entender a origem das doenças e desenhar novas terapias.
         </p>
       </div>
       <div class="feature-image-wrapper fade-to-left"
@@ -124,7 +124,7 @@ toc: false
       </div>
     <div class="feature-text-content" style="margin-left: -5%;"> <h2 class="display-6"> Conhecimento que Transforma</h2>
       <p class="lead">
-         Acreditamos que o conhecimento deve ser compartilhado. Formamos a próxima geração de cientistas, desde a iniciação científica até o pós-doutorado, e oferecemos cursos para profissionais da saúde. Promovemos a colaboração internacional e trabalhamos para que nossas descobertas se tornem produtos e protocolos acessíveis no mercado e no SUS. Nosso compromisso é levar a ciência para além dos laboratórios, impactando diretamente a vida das pessoas. 
+         Acreditamos que o conhecimento deve ser compartilhado. Formamos a próxima geração de cientistas, desde a iniciação científica até o pós-doutorado; através da atuação dos nossos pesquisadores nos diversos cursos de graduação e nos programas de pós-graduação, atuamos para melhorar a formação da nova geração, aperfeiçoar os profissionais em programas de Mestrado Profissional, Pós-Graduação Acadêmica e outros cursos para profissionais da saúde. Promovemos a colaboração internacional e trabalhamos para que nossas descobertas se tornem produtos e protocolos acessíveis no mercado e no SUS. Nosso compromisso é levar a ciência para além dos laboratórios, impactando diretamente a vida das pessoas. 
       </p>
     </div>
   </div>
@@ -145,7 +145,7 @@ toc: false
 
 
 >>
-**Coordenação**: [Denise M. Zezell - IPEN - CNEN](/pessoas/coordenacao/denise-maria-zezell.html)
+**Coordenação**: [Denise M. Zezell - IPEN - CNEN](/pessoas/coordenacao/denise-maria-zezell.html)  
 **Vice-Coordenação**: [Emiliano H. Medei  - UFRJ](/pessoas/coordenacao/emiliano-horacio-medei.html)
 >>
 
