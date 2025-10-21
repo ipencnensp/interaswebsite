@@ -50,6 +50,7 @@ website:
         href: https://github.com/ipencnensp/interaswebsite
       - icon: twitter 
         href: https://twitter.com/ 
+  google-analytics: 'G-GSTPFS7CEE'
          
 # Adicione esta seção para que o Quarto copie os diretórios de fotos
 resources:
@@ -58,9 +59,11 @@ resources:
   
 format:
   html:
-    theme: materia
-    css: styles.css
-    toc: true
+    theme: 
+      - materia
+      - custom.scss
+    css-vars:
+      hero-bg: "url('images/topo_desvanecendo.jpeg')"
 
 lang: pt-BR
 

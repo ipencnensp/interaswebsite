@@ -20,16 +20,132 @@ listing:
 toc: false
 ---
 
+```{=html}
+<div class="hero-section">
+  <div class="container hero-content">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h1 class="display-4">Iluminando o Futuro da Saúde</h1>
+        <p class="lead mt-4">
+        No INTERAS, unimos os maiores especialistas do país para transformar as radiações — da luz visível às ondas nucleares — em poderosas ferramentas para diagnósticos precoces e terapias inovadoras. Nossa missão é clara: usar a ciência da radiação para salvar vidas e melhorar a saúde de todos.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+```
 
-Novas tecnologias para caracterização rápida, não-invasiva e de baixo custo para doenças, são decisivas na diminuição da mortalidade, o que ficou evidenciado durante a pandemia. Aos desafios na detecção precoce e no tratamento do câncer, somaram-se questões relacionadas ao surgimento de novos vírus com alta taxa de letalidade, como o SARS-CoV-2. Tratamentos clínicos avançaram exponencialmente nas últimas décadas, mas podem ser caros e ineficazes. 
 
-O **INTERAS** se propõe desenvolver e aplicar métodos diagnósticos e terapêuticos numa ampla diversidade de doenças (cânceres, doenças cardíacas e cardiorenais, infecções virais, doenças negligenciadas) assistidos por radiações em ampla faixa do espectro eletromagnético. O [IPEN](https://www.ipen.br) é o caso mais bem sucedido de inovação translacional, levando a hospitais e clínicas os produtos e processos desenvolvidos desde a pesquisa básica, na área de radiofármacos, desde sua criaçao em 1956. Os objetivos específicos compreendem o desenvolvimento de novos radiofármacos baseados em anticorpos para diagnóstico por imagem PET/SPECT, radioterapia alvo-dirigida de tumores, nanobraquiterapia, processos terapêuticos com lasers, diagnóstico de diferentes doenças por imagem hiperespectral no infravermelho e raman, avaliados por inteligência artificial. Pretende-se executar a translação não apenas para clínica, mas principalmente para o setor produtivo. 
+```{=html}
+<div class="container text-center">
+  <div class="row">
+    <div class="col-lg-8 mx-auto">
+      <p class="lead ">
+      A pandemia de COVID-19 nos mostrou a urgência por diagnósticos rápidos e tratamentos eficazes. Inspirados por este e outros grandes desafios da saúde, como o câncer  e as doenças cardiovasculares, nasceu o INTERAS. Somos um Instituto Nacional de Ciência e Tecnologia dedicado a desenvolver soluções inovadoras baseadas em todo o espectro da radiação. Unindo fotônica, nanotecnologia e medicina nuclear, nossa rede de pesquisadores cria métodos diagnósticos não-invasivos, terapias de alta precisão e forma os futuros líderes da ciência no Brasil.
+      </p>
+    </div>
+  </div>
+</div>
+```
 
-Estamos fortemente convencidos que o estabelecimento de um diagnóstico e terapia médica de precisão e personalizada é um dos grandes desafios da medicina moderna que o **INTERAS** também poderá resolver criando um mosaico científico-industrial. Para isto, apresentamos proposta transdisciplinar com mais de 30 pesquisadores de 8 Instituições (AM, PE, SP, RJ e SE) e colaboradores internacionais e nacionais. Vale ressaltar, que os pesquisadores do **INTERAS** possuem uma alta inserção acadêmica e industrial. Propomos ainda implementar um diálogo contínuo com a sociedade por meio de ações de divulgação científica.
+
+
+
+
+```{=html}
+<div class="container-fluid">
+  <div class="container">
+    <div class="feature-grid grid-image-left">
+      <div class="feature-image-wrapper fade-to-right" 
+           style="background-image: url('images/luz_que_revela.jpeg');">
+      </div>
+      <div class="feature-text-content" style="margin-left: -5%;"> <h2 class="display-6">A Luz que Revela</h2>
+        <p class="lead">
+        Utilizamos a luz como uma poderosa ferramenta de diagnóstico. Desenvolvemos métodos que usam espectroscopia, inteligência artificial e biofluídos para detectar doenças em estágios iniciais. Nosso objetivo é criar exames mais rápidos, precisos e menos invasivos, capazes de transformar o prognóstico e salvar vidas.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid" style="background-color: #f8f9fa;">
+  <div class="container">
+    <div class="feature-grid grid-image-right">
+      <div class="feature-text-content text-end" style="margin-right: -5%;"> <h2 class="display-6">Radiação que Cura</h2>
+        <p class="lead">
+        Vamos além do diagnóstico. Pesquisamos e desenvolvemos terapias de ponta que usam a radiação de forma controlada e precisa para tratar doenças. Nossas frentes incluem desde o aprimoramento da radioterapia, o uso de nanopartículas para tratamentos localizados (nanobraquiterapia), até a aplicação de lasers em cirurgias e terapias fotodinâmicas para combater infecções. Buscamos tratamentos mais eficazes, seguros e personalizados.
+        </p>
+      </div>
+      <div class="feature-image-wrapper fade-to-left"
+           style="background-image: url('images/feixe_incidindo_celulas_cancerosas_v2.jpeg');">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="container-fluid">
+  <div class="container">
+    <div class="feature-grid  grid-image-left">
+      <div class="feature-image-wrapper fade-to-right" 
+           style="background-image: url('images/imagem_pet_estilizada_v2.jpeg');">
+      </div>
+    <div class="feature-text-content" style="margin-left: -5%;"> <h2 class="display-6">Moléculas Inteligentes</h2>
+      <p class="lead">
+          Para que as imagens médicas revelem o que é invisível e as terapias atinjam apenas o alvo certo, criamos "moléculas inteligentes" chamadas radiofármacos. Desenvolvemos e testamos novos compostos que guiam os equipamentos de imagem (PET/SPECT) ou entregam doses terapêuticas diretamente nas células doentes. Toda essa inovação é validada em rigorosos ensaios pré-clínicos, garantindo a segurança e a eficácia das tecnologias que chegarão aos hospitais.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="container">
+    <div class="feature-grid grid-image-right">
+      <div class="feature-text-content text-end" style="margin-right: -5%;"> <h2 class="display-6">Inteligência que Acelera</h2>
+        <p class="lead">
+          O futuro da saúde passa pela análise inteligente de dados. No INTERAS, usamos aprendizado de máquina e <i>deep learning</i> para decifrar a complexa informação contida em imagens médicas e dados espectrais. Nossos algoritmos ajudam a identificar padrões invisíveis ao olho humano, tornando o diagnóstico mais rápido e assertivo. Além disso, criamos simulações computacionais para entender a origem das doenças e desenhar novas terapias.
+        </p>
+      </div>
+      <div class="feature-image-wrapper fade-to-left"
+           style="background-image: url('images/imagem_microscopia_rede_neural_v2.jpeg');">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container-fluid">
+  <div class="container">
+    <div class="feature-grid  grid-image-left">
+      <div class="feature-image-wrapper fade-to-right" 
+           style="background-image: url('images/image_conhecimento_transforma.jpeg');">
+      </div>
+    <div class="feature-text-content" style="margin-left: -5%;"> <h2 class="display-6"> Conhecimento que Transforma</h2>
+      <p class="lead">
+         Acreditamos que o conhecimento deve ser compartilhado. Formamos a próxima geração de cientistas, desde a iniciação científica até o pós-doutorado, e oferecemos cursos para profissionais da saúde. Promovemos a colaboração internacional e trabalhamos para que nossas descobertas se tornem produtos e protocolos acessíveis no mercado e no SUS. Nosso compromisso é levar a ciência para além dos laboratórios, impactando diretamente a vida das pessoas. 
+      </p>
+    </div>
+  </div>
+</div>
+
+```
+
+
+
+
+
+
+<!-- Novas tecnologias para caracterização rápida, não-invasiva e de baixo custo para doenças, são decisivas na diminuição da mortalidade, o que ficou evidenciado durante a pandemia. Aos desafios na detecção precoce e no tratamento do câncer, somaram-se questões relacionadas ao surgimento de novos vírus com alta taxa de letalidade, como o SARS-CoV-2. Tratamentos clínicos avançaram exponencialmente nas últimas décadas, mas podem ser caros e ineficazes.  -->
+
+<!-- O **INTERAS** se propõe desenvolver e aplicar métodos diagnósticos e terapêuticos numa ampla diversidade de doenças (cânceres, doenças cardíacas e cardiorenais, infecções virais, doenças negligenciadas) assistidos por radiações em ampla faixa do espectro eletromagnético. O [IPEN](https://www.ipen.br) é o caso mais bem sucedido de inovação translacional, levando a hospitais e clínicas os produtos e processos desenvolvidos desde a pesquisa básica, na área de radiofármacos, desde sua criaçao em 1956. Os objetivos específicos compreendem o desenvolvimento de novos radiofármacos baseados em anticorpos para diagnóstico por imagem PET/SPECT, radioterapia alvo-dirigida de tumores, nanobraquiterapia, processos terapêuticos com lasers, diagnóstico de diferentes doenças por imagem hiperespectral no infravermelho e raman, avaliados por inteligência artificial. Pretende-se executar a translação não apenas para clínica, mas principalmente para o setor produtivo.  -->
+
+<!-- Estamos fortemente convencidos que o estabelecimento de um diagnóstico e terapia médica de precisão e personalizada é um dos grandes desafios da medicina moderna que o **INTERAS** também poderá resolver criando um mosaico científico-industrial. Para isto, apresentamos proposta transdisciplinar com mais de 30 pesquisadores de 8 Instituições (AM, PE, SP, RJ e SE) e colaboradores internacionais e nacionais. Vale ressaltar, que os pesquisadores do **INTERAS** possuem uma alta inserção acadêmica e industrial. Propomos ainda implementar um diálogo contínuo com a sociedade por meio de ações de divulgação científica. -->
 
 
 >>
-**Coordenação**: [Denise M. Zezell - IPEN - CNEN](/pessoas/coordenacao/denise-maria-zezell.html)  
+**Coordenação**: [Denise M. Zezell - IPEN - CNEN](/pessoas/coordenacao/denise-maria-zezell.html)
 **Vice-Coordenação**: [Emiliano H. Medei  - UFRJ](/pessoas/coordenacao/emiliano-horacio-medei.html)
 >>
 
