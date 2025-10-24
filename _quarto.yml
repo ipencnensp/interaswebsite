@@ -4,7 +4,13 @@ project:
   preview:
     port: 4200
     browser: false
-
+  render: 
+    - "publicacoes"
+    - "pessoas"
+    - "index.qmd"
+    - "grupos-e-labs.qmd"
+    - "areas-de-pesquisa.qmd"
+    - "noticias"
 
 website:
   title: "INTERAS"
@@ -21,8 +27,6 @@ website:
         menu: 
         - text: "O INCT INTERAS"
           href: sobre-o-interas.qmd
-#        - pessoas/index.qmd
-#        - text: "COORDENAÇÃO E EQUIPE"
         - pessoas/coord-equipe.qmd
         - text: "ÁREAS DE PESQUISA"
           href: areas-de-pesquisa.qmd
@@ -38,7 +42,7 @@ website:
           href: publicacoes/index.qmd
 #        - text: "PREPRINTS"
 #          href: preprints.qmd
-#      - divulgacao/index.qmd
+      - noticias/index.qmd
 #      - mulheresinteras/index.qmd
   page-footer: 
     left: 
@@ -69,3 +73,4 @@ lang: pt-BR
 
 execute: 
   freeze: auto
+  

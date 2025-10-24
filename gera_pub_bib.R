@@ -3,7 +3,7 @@ library(biblio)
 library(glue)
 
 # --- Configurações ---
-bib_file_path <- "INTERAS_biblatex.bib"
+bib_file_path <- "../INTERAS_20251023.bib"
 output_dir <- "publicacoes/artigos"
 
 # --- Lógica do Script ---
