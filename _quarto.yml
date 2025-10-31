@@ -67,7 +67,7 @@ format:
       - materia
       - custom.scss
     css-vars:
-      hero-bg: "url('images/topo_desvanecendo.jpeg')"
+      hero-bg: "url('images/topo_desvanecendo_sem_texto.jpeg')"
 
 lang: pt-BR
 

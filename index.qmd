@@ -2,14 +2,15 @@
 pagetitle: Instituto Nacional de Ciência e Tecnologia das Radiações na Saúde --- INTERAS
 section-divs: false
 editor: source
-sidebar: false
 search: false
 repo-actions: false
 bread-crumbs: false
+page-layout: full
 listing:
   - id: publicacoes
     contents: "publicacoes/artigos/"
-    type: table
+    type: default
+    image-placeholder: images/publicacoes-placeholder.jpg
     fields: 
       - title
       - date
@@ -17,7 +18,19 @@ listing:
     sort-ui: false
     filter-ui: false
     max-items: 6
+  - id: noticias
+    contents: "noticias/posts/"
+    type: grid
+    fields: 
+      - image
+      - title
+      - date
+    sort: date desc
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
 toc: false
+
 ---
 
 ```{=html}
@@ -137,11 +150,7 @@ toc: false
 
 
 
-<!-- Novas tecnologias para caracterização rápida, não-invasiva e de baixo custo para doenças, são decisivas na diminuição da mortalidade, o que ficou evidenciado durante a pandemia. Aos desafios na detecção precoce e no tratamento do câncer, somaram-se questões relacionadas ao surgimento de novos vírus com alta taxa de letalidade, como o SARS-CoV-2. Tratamentos clínicos avançaram exponencialmente nas últimas décadas, mas podem ser caros e ineficazes.  -->
 
-<!-- O **INTERAS** se propõe desenvolver e aplicar métodos diagnósticos e terapêuticos numa ampla diversidade de doenças (cânceres, doenças cardíacas e cardiorenais, infecções virais, doenças negligenciadas) assistidos por radiações em ampla faixa do espectro eletromagnético. O [IPEN](https://www.ipen.br) é o caso mais bem sucedido de inovação translacional, levando a hospitais e clínicas os produtos e processos desenvolvidos desde a pesquisa básica, na área de radiofármacos, desde sua criaçao em 1956. Os objetivos específicos compreendem o desenvolvimento de novos radiofármacos baseados em anticorpos para diagnóstico por imagem PET/SPECT, radioterapia alvo-dirigida de tumores, nanobraquiterapia, processos terapêuticos com lasers, diagnóstico de diferentes doenças por imagem hiperespectral no infravermelho e raman, avaliados por inteligência artificial. Pretende-se executar a translação não apenas para clínica, mas principalmente para o setor produtivo.  -->
-
-<!-- Estamos fortemente convencidos que o estabelecimento de um diagnóstico e terapia médica de precisão e personalizada é um dos grandes desafios da medicina moderna que o **INTERAS** também poderá resolver criando um mosaico científico-industrial. Para isto, apresentamos proposta transdisciplinar com mais de 30 pesquisadores de 8 Instituições (AM, PE, SP, RJ e SE) e colaboradores internacionais e nacionais. Vale ressaltar, que os pesquisadores do **INTERAS** possuem uma alta inserção acadêmica e industrial. Propomos ainda implementar um diálogo contínuo com a sociedade por meio de ações de divulgação científica. -->
 
 
 >>
@@ -154,32 +163,20 @@ toc: false
 
 ---
 
-<!--
-
-::: {.header-text} 
 ::: {.content-container}
-::: {.header-block}
-Welcome to **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). We bring together data science students, practitioners, leaders, and educators to share knowledge, learn from, and be inspired by real-world applications of data science.
+::: {.listing-block}
+<a href="noticias/index.qmd">
+
+## Últimas notícias do INTERAS 
+</a>
+
+::: {#noticias}
 :::
-:::
-:::
 
-
-::: {.pullout-text}
-::: {.pullout-container}
-::: {.pullout-block .black-background}
-![](images/quote-purple.png){width="100px"}
-
-### Novas tecnologias para caracterização rápida, não-invasiva e de baixo custo para doenças, são decisivas na diminuição da mortalidade, o que ficou evidenciado durante a pandemia. Aos desafios na detecção precoce e no tratamento do câncer, somaram-se questões relacionadas ao surgimento de novos vírus com alta taxa de letalidade, como o SARS-CoV-2. Tratamentos clínicos avançaram exponencialmente nas últimas décadas, mas podem ser caros e ineficazes.
-
-
-
-:::
 :::
 :::
 
 
--->
 
 ::: {.content-container}
 ::: {.listing-block}
