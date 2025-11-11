@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/anderson-zanardi-de-freitas.png
+  
   links:
     - icon: link
       text: Lattes

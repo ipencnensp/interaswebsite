@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/bruna-martins-dos-santos.png
+  
   links:
     - icon: link
       text: Lattes

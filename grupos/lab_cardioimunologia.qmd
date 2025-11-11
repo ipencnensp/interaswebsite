@@ -1,0 +1,61 @@
+---
+title: "Laboratório de Cardioimunologia"
+description: "Nosso principal eixo de pesquisa diz respeito ao estudo de como o coração e o sistema imune conversam entre si."
+image: "/images/grupos/lab_cardioimunologia_g.jpeg"
+categories:
+  - diagnostico
+  - formacao
+---
+
+## Sobre o Laboratório
+
+Com sede no Instituto de Biofísica Carlos Chagas Filho (IBCCF) da Universidade Federal do Rio de Janeiro (UFRJ), o Laboratório de Cardioimunologia é coordenado pelo [Dr. Emiliano Medei](/pessoas/coordenacao/emiliano-horacio-medei.qmd).
+
+
+
+Visite a [página do Laboratório para conhecer mais!](https://pesquisa.biof.ufrj.br/medicina-regenerativa/lci/){target="_blank"}
+
+
+
+::: {.panel-tabset}
+
+### Membros do Laboratório
+
+::: {.card}
+::: {.card-body}
+::: {.card-text}
+#### Coordenação
+
+[Dr. Emiliano Medei](/pessoas/coordenacao/emiliano-horacio-medei.qmd)
+
+#### Pós Docs
+Ricardo Correia
+
+
+#### Doutorandos, Mestrandos, ICs e ITs
+Guilherme Muradas Pires  
+Simone Reis Barbosa
+
+
+:::
+:::
+:::
+
+
+
+### Endereço de Correspondência
+
+::: {.card .border-primary .mb-3}
+
+::: {.card-body}
+#### Laboratório de Cardioimunologia
+
+Av. Carlos Chagas Filho 373  
+CCS - Bloco G - Segundo andar Sala 45  
+CEP 21941-902 - Rio de Janeiro - Brasil
+
+
+:::
+:::
+
+:::

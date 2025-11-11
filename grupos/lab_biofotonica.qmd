@@ -1,0 +1,80 @@
+---
+title: "Laboratório de Biofotônica Aplicada"
+description: "Nosso laboratório busca gerar conhecimento científico, formar profissionais e desenvolver novas terapias e diagnósticos a laser. Nossa principal pesquisa é entender as mudanças que o laser provoca nos tecidos, o que nos permite criar novos tratamentos para a medicina e odontologia."
+image: "/images/grupos/lab_biofotonica_g.jpeg"
+categories:
+  - diagnostico
+  - terapias
+  - dados
+  - formacao
+---
+
+## Sobre o Laboratório
+
+Com sede no Instituto de Pesquisas Energéticas e Nucleares - IPEN-CNEN, o Laboratório de Biofotônica do IPEN é coordenado pela [Dra. Denise Maria Zezell](/pessoas/coordenacao/denise-maria-zezell.qmd).
+
+
+Visite a [página do Laboratório para conhecer mais!](https://biophotonics.my.canva.site/){target="_blank"}
+
+
+
+::: {.panel-tabset}
+
+### Membros do Laboratório
+
+::: {.card}
+::: {.card-body}
+::: {.card-text}
+#### Coordenação
+
+[Dra. Denise Maria Zezell](/pessoas/coordenacao/denise-maria-zezell.qmd)
+
+#### Pós Docs
+Daniela de Fatima Teixiera da Silva  
+Maria Renata Valente Brandão Freire  
+Luciane Hiramatsu Azevedo
+
+#### Doutorandos
+Valeria Mendes  
+Daniela Cerqueira Leite  
+Daniella Lúmara Pereira Mendes de Oliveira Peres  
+Vinicius Pereira dos Anjos  
+Rafaelle Stasi
+
+#### Mestrandos
+Julia Guerra Cavalero
+:::
+:::
+:::
+
+
+
+### Algumas fotos dos membros
+
+
+::: {layout-ncol=2}
+
+![Dezembro 2024](/images/grupos/lab_biofotonica_Dez_2024.jpeg){.lightbox}
+
+![Alunos](/images/grupos/lab_biofotonica_alunos-Denise Maria Zezell.jpg){.lightbox}
+:::
+
+
+### Endereço de Correspondência
+
+::: {.card .border-primary .mb-3}
+
+::: {.card-body}
+#### Laboratory of Biophotonics
+
+Center for Lasers and Applications  
+Nuclear and Energy Research Institute, IPEN-CNEN  
+Av. Prof. Lineu Prestes 2242  
+Cidade Universitária USP  
+CEP 05508-000  
+São Paulo-SP- BRAZIL
+
+:::
+:::
+
+:::

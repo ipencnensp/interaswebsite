@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/matheus-de-freitas-oliveira-baffa.png
+  
   links:
     - icon: link
       text: Lattes

@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/gleice-conceicao-mendonca-germano.png
+  
   links:
     - icon: link
       text: Lattes

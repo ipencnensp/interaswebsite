@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/diego-roberto-da-cunha-pascoal.png
+  
   links:
     - icon: link
       text: Lattes

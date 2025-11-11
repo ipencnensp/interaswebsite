@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/fernanda-keli-do-carmo-santos-miranda.png
+  
   links:
     - icon: link
       text: Lattes

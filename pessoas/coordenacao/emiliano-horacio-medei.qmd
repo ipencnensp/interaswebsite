@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/emiliano-horacio-medei.png
+  image: fotos/emiliano-horacio-medei.jpeg
   links:
     - icon: link
       text: Lattes

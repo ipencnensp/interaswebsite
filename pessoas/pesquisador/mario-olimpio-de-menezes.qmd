@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/mario-olimpio-de-menezes.png
+  
   links:
     - icon: link
       text: Lattes

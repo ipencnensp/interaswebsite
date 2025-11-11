@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/denise-maria-zezell.png
+  image: fotos/denise-maria-zezell.jpeg
   links:
     - icon: link
       text: Lattes

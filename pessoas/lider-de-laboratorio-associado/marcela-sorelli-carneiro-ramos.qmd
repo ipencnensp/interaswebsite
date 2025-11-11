@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/marcela-sorelli-carneiro-ramos.png
+  
   links:
     - icon: link
       text: Lattes

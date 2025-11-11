@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/marcelo-da-rocha-leao-de-magalhaes.png
+  
   links:
     - icon: link
       text: Lattes

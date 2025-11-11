@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/andrea-emilia-marques-stinghen.png
+  
   links:
     - icon: link
       text: Lattes

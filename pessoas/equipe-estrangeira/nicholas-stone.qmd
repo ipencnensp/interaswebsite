@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/nicholas-stone.png
+  
   links:
     - icon: link
       text: Lattes

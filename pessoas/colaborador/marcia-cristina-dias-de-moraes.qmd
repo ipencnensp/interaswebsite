@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/marcia-cristina-dias-de-moraes.png
+  
   links:
     - icon: link
       text: Lattes

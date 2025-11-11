@@ -6,6 +6,7 @@ listing:
   - id: coordenacao
     contents: "coordenacao/*.qmd"
     fields: [image, title, subtitle]
+    image-height: 250px
     field-display-names:
       institute: "Instituição"
       affiliation: "Instituição"

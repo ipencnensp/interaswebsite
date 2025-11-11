@@ -1,0 +1,63 @@
+---
+title: "Laboratório de Investigação Médica 28 (Cirurgia de Cabeça e Pescoço)"
+description: "Nosso laboratório investiga MicroRNAs associados ao processo de invasão tumoral do câncer de cavidade oral com o uso de modelos experimentais"
+image: "/images/grupos/lab_investigacaomedica_g.jpeg"
+categories:
+  - diagnostico
+  - formacao
+---
+
+## Sobre o Laboratório
+
+Com sede no Faculdade de Medicina da Universidade de São Paulo, o Laboratório de Investigação Médica 28/08 (Cirurgia de Cabeça e Pescoço) é coordenado pelo [Dr. Leandro Luongo de Matos](/pessoas/lider-de-laboratorio-associado/leandro-luongo-de-matos.qmd).
+
+
+
+Visite a [página do Laboratório para conhecer mais!](https://limhc.fm.usp.br/portal/lim28-laboratorio-de-cirurgia-vascular-e-da-cabeca-e-pescoco/){target="_blank"}
+
+
+
+::: {.panel-tabset}
+
+### Membros do Laboratório
+
+::: {.card}
+::: {.card-body}
+::: {.card-text}
+#### Coordenação
+
+[Dr. Leandro Luongo de Matos](/pessoas/lider-de-laboratorio-associado/leandro-luongo-de-matos.qmd)
+
+#### Pós Docs
+Ricardo Correia
+
+
+#### Doutorandos, Mestrandos, ICs e ITs
+Guilherme Muradas Pires  
+Simone Reis Barbosa
+
+
+:::
+:::
+:::
+
+
+
+### Endereço de Correspondência
+
+::: {.card .border-primary .mb-3}
+
+::: {.card-body}
+#### Laboratório de Investigação Médica 28 (Cirurgia de Cabeça e Pescoço)
+
+Av. Dr. Arnaldo, 455  
+2º andar – sala 2206 / ICHC 8º andar – sala 8174  
+Tel. (011) 3061-7373 / 3081-7453 / 2661-6425  
+Cerqueira César, Pacaembu  
+CEP 01246-903 - São Paulo, SP, Brasil
+
+
+:::
+:::
+
+:::

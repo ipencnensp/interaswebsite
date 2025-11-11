@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/fabrizio-manoel-rodrigues.png
+  
   links:
     - icon: link
       text: Lattes

@@ -78,6 +78,9 @@ toc: false
 
 Em paralelo, transformamos esse conhecimento em diagnóstico precoce. Desenvolvemos métodos de alta precisão que usam espectroscopia (Raman e Infravermelho), inteligência artificial e biofluídos — como sangue e saliva — para detectar câncer, infecções e outras doenças em seus estágios iniciais. Nosso objetivo é criar exames mais rápidos, precisos e menos invasivos, transformando o prognóstico e salvando vidas.
         </p>
+        <a href="grupos.html#category=diagnostico" class="btn btn-primary">
+            Veja os grupos que atuam nesse tema
+        </a>
       </div>
     </div>
   </div>
@@ -141,6 +144,9 @@ Em paralelo, transformamos esse conhecimento em diagnóstico precoce. Desenvolve
       <p class="lead">
          Acreditamos que o conhecimento deve ser compartilhado. Formamos a próxima geração de cientistas, desde a iniciação científica até o pós-doutorado; através da atuação dos nossos pesquisadores nos diversos cursos de graduação e nos programas de pós-graduação, atuamos para melhorar a formação da nova geração, aperfeiçoar os profissionais em programas de Mestrado Profissional, Pós-Graduação Acadêmica e outros cursos para profissionais da saúde. Promovemos a colaboração internacional e trabalhamos para que nossas descobertas se tornem produtos e protocolos acessíveis no mercado e no SUS. Nosso compromisso é levar a ciência para além dos laboratórios, impactando diretamente a vida das pessoas. 
       </p>
+      <a href="grupos.html#category=formacao" class="btn btn-primary">
+            Veja os grupos que atuam nesse tema
+        </a>
     </div>
   </div>
 </div>

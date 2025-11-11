@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/wagner-de-rossi.png
+  
   links:
     - icon: link
       text: Lattes

@@ -9,7 +9,7 @@ field-display-names:
 about:
   id: person-profile
   template: jolla
-  image: fotos/adamo-ferreira-gomes-do-monte.png
+  
   links:
     - icon: link
       text: Lattes
