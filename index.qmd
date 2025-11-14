@@ -33,6 +33,7 @@ toc: false
 
 ---
 
+
 ```{=html}
 <div class="hero-section">
   <div class="container hero-content">
@@ -54,7 +55,7 @@ toc: false
   <div class="row">
     <div class="col-lg-8 mx-auto">
       <p class="lead ">
-      A pandemia de COVID-19 nos mostrou a urgência por diagnósticos rápidos e tratamentos eficazes. Inspirados por este e outros grandes desafios da saúde, como o câncer  e as doenças cardiovasculares, nasceu o INTERAS. Somos um Instituto Nacional de Ciência e Tecnologia dedicado a desenvolver soluções inovadoras baseadas em todo o espectro da radiação. Unindo fotônica, nanotecnologia, radiações atômicas e medicina nuclear, nossa rede de pesquisadores cria métodos diagnósticos não-invasivos, terapias de alta precisão e forma os futuros líderes da ciência no Brasil.
+      A pandemia de COVID-19 nos mostrou a urgência por diagnósticos rápidos e tratamentos eficazes. Inspirados por este e outros grandes desafios da saúde, como o câncer  e as doenças cardiovasculares, nasceu o INTERAS. Somos um Instituto Nacional de Ciência e Tecnologia dedicado a desenvolver soluções inovadoras baseadas em todo o espectro da radiação. Unindo fotônica, nanotecnologia, radiações atômicas e medicina nuclear com o poder de ferramentas avançadas de Ciência de Dados e Inteligência Artificial (especialmente Machine Learning), nossa rede de pesquisadores cria métodos diagnósticos não-invasivos, terapias de alta precisão e forma os futuros líderes da ciência no Brasil.
       </p>
     </div>
   </div>

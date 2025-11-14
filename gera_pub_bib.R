@@ -3,7 +3,7 @@ library(biblio)
 library(glue)
 
 # --- Configurações ---
-bib_file_path <- "../INTERAS_20251023.bib"
+bib_file_path <- "INTERAS_biblatex_20251112.bib"
 output_dir <- "publicacoes/artigos"
 
 # --- Lógica do Script ---
@@ -12,6 +12,9 @@ output_dir <- "publicacoes/artigos"
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
   cat("Diretório '", output_dir, "' criado com sucesso.\n")
+} else {
+  unlink(glue(output_dir,"/*.qmd"))
+  cat("Arquivos .qmd antigos removidos\n")
 }
 
 # 2. Ler arquivo .bib

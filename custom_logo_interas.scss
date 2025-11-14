@@ -1,0 +1,158 @@
+/*-- scss:defaults --*/
+
+/* Arquivo: custom.scss */
+
+.hero-section {
+  height: 60vh;
+
+  // --- A Mágica Acontece Aqui ---
+  // Usamos a variável definida no YAML.
+  // O Quarto garantirá que o caminho dentro da variável esteja correto.
+  // background-image: url('images/topo_desvanecendo_sem_texto.jpeg');
+  background-image: url('images/logoINTERASSemfundo_redim2.png');
+  background-size: contain;
+  background-position: center top;
+  /* 1. Garante que a imagem não vai se repetir */
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 1vh;
+  padding-top: 70vh;
+  /* Se ele tiver 'position: absolute', tente mudar para 'relative' */
+  position: relative; 
+  
+  /* Dê a ele um z-index menor que o banner */
+  z-index: 1;
+}
+
+.hero-content {
+  //color: black;
+  text-align: center;
+  
+//  h1, p {
+//    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+//  }
+}
+
+
+/* ======================================================= */
+/* Delimitação para Telas Pequenas (Mobile)                */
+/* ======================================================= */
+
+/* Aplica estas regras em qualquer tela com 768px de largura ou menos */
+@media (max-width: 768px) {
+  
+  .hero-section {
+    /* 1. Desliga o alinhamento flexível que joga o texto para baixo */
+    display: block;
+    
+    /* 2. Deixa a altura ser definida pelo conteúdo (logo + texto) */
+    height: auto;
+    
+    /* 3. (A MÁGICA) Cria uma "área segura" no topo SÓ PARA O LOGO.
+       Seu logo (com 'contain' e 'center top') vai viver aqui.
+       Ajuste este valor (30vh, 40vh, ou 250px) para dar o espaço ideal. */
+    padding-top: 50vh; 
+    
+    /* 4. Garante um respiro na parte de baixo */
+    padding-bottom: 4rem; 
+  }
+
+  .hero-content {
+    /* 5. Como o flex está desligado, o texto agora flui 
+       naturalmente abaixo da área de padding-top que criamos. */
+       
+    /* Garante que o texto não fique colado nas bordas */
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+/* ======================================================= */
+/* Estilos para os Cards (Implementação com Variantes)     */
+/* ======================================================= */
+
+// A classe base que define o comportamento da grade.
+.feature-grid {
+  display: grid;
+  align-items: center;
+  gap: 2rem;
+  padding: 4rem 0;
+}
+
+// MODIFICADOR: Para o layout com a imagem à esquerda.
+// Proporção: Imagem (menor) | Texto (maior)
+.grid-image-left {
+  grid-template-columns: 5fr 7fr; 
+}
+
+// MODIFICADOR: Para o layout com a imagem à direita.
+// Proporção: Texto (maior) | Imagem (menor)
+.grid-image-right {
+  grid-template-columns: 7fr 5fr;
+}
+
+// Regra de responsividade que se aplica a AMBAS as variantes.
+@media (max-width: 992px) {
+  .feature-grid {
+    // Em telas pequenas, tudo vira uma única coluna.
+    grid-template-columns: 1fr;
+  }
+}
+
+// O resto dos estilos permanece igual.
+.feature-image-wrapper {
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  position: relative;
+}
+
+.feature-image-wrapper::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 0.5rem;
+}
+
+.fade-to-right::after {
+  background: linear-gradient(to right, rgba(255,255,255,0) 65%, rgba(255,255,255,1) 100%);
+}
+
+.fade-to-left::after {
+  background: linear-gradient(to left, rgba(255,255,255,0) 65%, rgba(255,255,255,1) 100%);
+}
+
+.feature-text-content {
+  position: relative;
+  z-index: 2;
+}
+
+.page-banner-interas {
+  height: 60vh;
+  /* A cor de fundo bege/cinza claro da sua Imagem 2 */
+  background-image: url('images/logoINTERASSemfundo_redim.png');
+  
+  background-size: cover;
+  background-position: center center;
+  background-color: #fcfcf9; 
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+  /* --- AS LINHAS IMPORTANTES --- */
+  /* Garante que este elemento esteja no fluxo normal */
+  position: relative; 
+  /* Define uma ordem de empilhamento alta, para ficar "na frente" */
+  z-index: 5;
+}
+
+.page-banner-interas img {
+  /* Define uma largura máxima para o banner não ficar gigante em telas 4K */
+  max-width: 1000px;
+  margin: 0 auto; /* Centraliza a imagem */
+}

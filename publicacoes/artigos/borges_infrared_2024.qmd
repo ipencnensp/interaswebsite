@@ -11,7 +11,7 @@ author:
   - name: A. L. Lindoso, José
   - name: Martinho, Herculano
 abstract: > 
-  Resumo não disponível.
+  Discriminate the severity level of COVID-19 disease is still a challenge. Here we investigate the capability of micro-infrared absorption spectroscopy (micro-FTIR) to probe COVID-19 severity level and predict hyperinflammation, correlating the assigned vibrational data to relevant biomolecules related to the immune system. Saliva of 184 patients was analysed by ELISA assay (Hepcidin) and micro-FTIR. Vibrational bands related to IgM and IgA can discriminate healthy from Severe individuals (sensitivity ≥ 0.749, specificity ≥ 0.945) and are less effective in discriminating Mild or Moderate individuals from the Severe group (sensitivity ≥ 0.628, specificity ≥ 0.867). Analysis of the second derivative of spectra probed increased levels of IL-6 in the saliva a key additional information for the degree of severity prediction. Because the model discriminates all the groups regarding the Severe group, it predicts an intense state of inflammation based on FTIR analysis. It is a powerful tool for predicting hyperinflammation conditions related to SARS-CoV-2 infection and may be an ally in implementing drugs or therapeutic approaches to manage COVID-19 in the Severe stage in healthcare facilities.
 categories: [article]
 citation: 
   container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"

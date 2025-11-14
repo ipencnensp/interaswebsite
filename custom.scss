@@ -8,15 +8,23 @@
   // --- A Mágica Acontece Aqui ---
   // Usamos a variável definida no YAML.
   // O Quarto garantirá que o caminho dentro da variável esteja correto.
-  background-image: url('images/topo_desvanecendo_sem_texto.jpeg');
-  
+  // background-image: url('images/topo_desvanecendo_sem_texto.jpeg');
+  background-image: url('images/topo_desvanecendo_sem_texto_logo_interas2.png');
   background-size: cover;
   background-position: center center;
+  /* 1. Garante que a imagem não vai se repetir */
+  background-repeat: no-repeat;
 
   display: flex;
   align-items: flex-end;
   justify-content: center;
   padding-bottom: 1vh;
+  // padding-top: 70vh;
+  /* Se ele tiver 'position: absolute', tente mudar para 'relative' */
+  // position: relative; 
+  
+  /* Dê a ele um z-index menor que o banner */
+  // z-index: 1;
 }
 
 .hero-content {
@@ -28,6 +36,39 @@
 //  }
 }
 
+
+/* ======================================================= */
+/* Delimitação para Telas Pequenas (Mobile)                */
+/* ======================================================= */
+
+/* Aplica estas regras em qualquer tela com 768px de largura ou menos */
+@media (max-width: 768px) {
+  
+  .hero-section {
+    /* 1. Desliga o alinhamento flexível que joga o texto para baixo */
+    display: block;
+    
+    /* 2. Deixa a altura ser definida pelo conteúdo (logo + texto) */
+    height: auto;
+    
+    /* 3. (A MÁGICA) Cria uma "área segura" no topo SÓ PARA O LOGO.
+       Seu logo (com 'contain' e 'center top') vai viver aqui.
+       Ajuste este valor (30vh, 40vh, ou 250px) para dar o espaço ideal. */
+    padding-top: 50vh; 
+    
+    /* 4. Garante um respiro na parte de baixo */
+    padding-bottom: 4rem; 
+  }
+
+  .hero-content {
+    /* 5. Como o flex está desligado, o texto agora flui 
+       naturalmente abaixo da área de padding-top que criamos. */
+       
+    /* Garante que o texto não fique colado nas bordas */
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
 /* ======================================================= */
 /* Estilos para os Cards (Implementação com Variantes)     */
 /* ======================================================= */
@@ -90,4 +131,28 @@
 .feature-text-content {
   position: relative;
   z-index: 2;
+}
+
+.page-banner-interas {
+  height: 60vh;
+  /* A cor de fundo bege/cinza claro da sua Imagem 2 */
+  background-image: url('images/logoINTERASSemfundo_redim.png');
+  
+  background-size: cover;
+  background-position: center center;
+  background-color: #fcfcf9; 
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+  /* --- AS LINHAS IMPORTANTES --- */
+  /* Garante que este elemento esteja no fluxo normal */
+  position: relative; 
+  /* Define uma ordem de empilhamento alta, para ficar "na frente" */
+  z-index: 5;
+}
+
+.page-banner-interas img {
+  /* Define uma largura máxima para o banner não ficar gigante em telas 4K */
+  max-width: 1000px;
+  margin: 0 auto; /* Centraliza a imagem */
 }
