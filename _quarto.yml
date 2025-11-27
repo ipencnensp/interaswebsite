@@ -12,6 +12,8 @@ project:
     - "areas-de-pesquisa.qmd"
     - "noticias"
     - "grupos"
+    - "contato.qmd"
+    - "sobre-o-interas.qmd"
 
 website:
   title: "INTERAS"
@@ -62,7 +64,7 @@ resources:
   - "pessoas/*/fotos/"
   - "images/*"
   - "images/grupos/*"
-  - "CNAME"
+
   
 format:
   html:
