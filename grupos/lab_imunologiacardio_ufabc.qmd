@@ -1,0 +1,57 @@
+---
+title: "Laboratório de Imunologia Cardiovascular"
+description: "Nosso principal eixo de pesquisa diz respeito ao estudo do impacto da resposta inflamatória e o sistema imune nas mudanças cardiovasculares observadas na Síndrome Cardiorenal e o papel das toxinas urêmicas sulfato de indoxyl e sulfato p-cresyl no desenvolvimento da síndrome cardiorenal."
+image: "/images/grupos/logo_lab_imunologia_cardiovascular_ufabc.jpg"
+categories:
+  - diagnostico
+  - formacao
+bread-crumbs: true
+---
+
+
+## Sobre o Laboratório
+
+Com sede na Universidade Federal do ABC (UFABC), o Laboratório de Imunologia Cardiovascular é coordenado pela [Dra. Marcela Sorelli Carneiro Ramos](/pessoas/lider-de-laboratorio-associado/marcela-sorelli-carneiro-ramos.qmd).
+
+
+
+
+::: {.panel-tabset}
+
+### Membros do Laboratório
+
+::: {.card}
+::: {.card-body}
+::: {.card-text}
+#### Coordenação
+
+[Dra. Marcela Sorelli Carneiro Ramos](/pessoas/lider-de-laboratorio-associado/marcela-sorelli-carneiro-ramos.qmd)
+
+#### Pós Docs
+Aline Parletta
+
+
+#### Doutorandos, Mestrandos, ICs e ITs
+[Raquel Silva Neres dos Santos](/pessoas/bolsista/raquel-silva-neres-dos-santos.qmd)
+
+:::
+:::
+:::
+
+
+
+### Endereço de Correspondência
+
+::: {.card .border-primary .mb-3}
+
+::: {.card-body}
+#### Laboratório de Imunologia Cardiovascular
+
+Avenida dos Estados, 5001 - Bloco L - L-308  
+Santo André - SP  
+CEP 09210-580
+
+:::
+:::
+
+:::

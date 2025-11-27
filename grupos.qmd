@@ -2,6 +2,7 @@
 title: "Grupos de Pesquisa do INTERAS"
 page-layout: full
 title-block-banner: true
+bread-crumbs: true
 listing:
   - id: lista-grupos
     contents: "grupos/*.qmd"  # O nome do diretório que criamos
