@@ -11,23 +11,85 @@ bread-crumbs: false
 
 #### IPEN 
 
-O INTERAS tem sede no IPEN - Instituto de Pesquisas Energéticas e Nucleares. Nosso endereço é:
+O INTERAS tem sede no IPEN - Instituto de Pesquisas Energéticas e Nucleares.
 
 
->Instituto de Pesquisas Energéticas e Nucleares - IPEN/CNEN, SP  
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 .border-primary}
+::: {.card-header .bg-primary .text-white}
+<i class="bi bi-people-fill"></i> Secretaria e Contatos
+:::
+::: {.card-body}
+
+```{=html}
+<div class="mb-3">
+  <h5 class="card-title mb-0">Patrícia Neves</h5>
+  <p class="card-text text-muted small mb-1">Secretaria INTERAS</p>
+  
+  <div class="d-flex align-items-center gap-3">
+    <span>
+      <i class="bi bi-telephone-fill text-secondary"></i> +5511 2810-1646
+    </span>
+    </a>
+  </div>
+</div>
+
+<hr>
+
+<div class="alert alert-light mt-3 mb-0 border" role="alert">
+  <small><strong><i class="bi bi-clock"></i> Horário de Atendimento:</strong><br>
+  Segunda a Sexta-feira: 08h00 às 16h45</small>
+</div>
+
+
+<hr>
+
+<!-- <i class="bi bi-share-fill text-primary"></i> Redes Sociais<br> -->
+
+<!-- Acompanhe nossas novidades, defesas e eventos: -->
+
+<div class="d-flex gap-3 mt-3">
+  <!-- <a href="https://www.instagram.com/mptrcs.ipen/" class="btn btn-outline-danger" target="_blank"> -->
+  <!--   <i class="bi bi-instagram"></i> Instagram -->
+  <!-- </a> -->
+  <!-- <a href="LINK_LINKEDIN" class="btn btn-outline-primary" target="_blank"> -->
+  <!--   <i class="bi bi-linkedin"></i> LinkedIn -->
+  <!-- </a> -->
+</div>
+```
+
+:::
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 .bg-light}
+::: {.card-header}
+<i class="bi bi-geo-alt-fill"></i> Localização e Email
+:::
+::: {.card-body}
+Para entrar em contato, use nosso email:
+
+<br>
+
+### <i class="bi bi-envelope-at text-primary"></i> inctinteras@gmail.com
+
+<br>
+
+**Endereço Físico:**
+
+Instituto de Pesquisas Energéticas e Nucleares - IPEN/CNEN, SP  
 INTERAS - Centro de Lasers e Aplicações (CELAP)  
 Av. Lineu Prestes, 2242 - Cidade Universitária  
 CEP 05508-000 -- São Paulo/SP
 
+:::
+:::
+:::
 
-### Entre em Contato
-
-#### Telefone da Secretaria
-
-+55 11 2810-1646
-
-#### E-mail
-
-`inctinteras@gmail.com`
+:::
 
 
